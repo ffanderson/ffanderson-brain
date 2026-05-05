@@ -1,5 +1,5 @@
 <!--
-Edit this file each evening with tomorrow's meetings. Connor reads it to
+Edit this file each evening with tomorrow's meetings. Hotspur reads it to
 generate briefs/<tomorrow-date>.md.
 
 Format: one bullet per meeting. Wiki-link entities. Free-text topic after `re:`.
@@ -7,7 +7,7 @@ Format: one bullet per meeting. Wiki-link entities. Free-text topic after `re:`.
 - 9:00 — [[Person Name]] re: [[Company Or Topic]] context one-liner
 - 11:00 — [[Person]] re: [[Topic]]
 
-Connor tolerates stubs (entities without files yet) and flags them in the
+Hotspur tolerates stubs (entities without files yet) and flags them in the
 brief.
 -->
 

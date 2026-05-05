@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 """
-Sally — meeting scribe.
+Falstaff — meeting scribe.
 
 Reads a raw transcript, writes a meeting file in inbox/, creates stubs for any
 unresolved entities, and appends mentions to every entity the meeting touched.
 
 Usage:
-    python scripts/sally.py path/to/transcript.txt
-    python scripts/sally.py path/to/transcript.txt --source granola --dry-run
-    LLM_MOCK=1 python scripts/sally.py fixtures/test.txt --dry-run
+    python scripts/falstaff.py path/to/transcript.txt
+    python scripts/falstaff.py path/to/transcript.txt --source granola --dry-run
+    LLM_MOCK=1 python scripts/falstaff.py fixtures/test.txt --dry-run
 
-Idempotency: Sally records a SHA-256 of the transcript bytes as `source_hash`
+Idempotency: Falstaff records a SHA-256 of the transcript bytes as `source_hash`
 on the meeting file and on each mention. Re-running on the same transcript
 detects this and refuses to write duplicates.
 """
@@ -112,7 +112,7 @@ def load_prompt(name: str) -> str:
 
 def extract_metadata(client: LLMClient, transcript: str) -> dict:
     """Ask Claude for structured metadata. Falls back to safe defaults on mock."""
-    system = load_prompt("sally_metadata")
+    system = load_prompt("falstaff_metadata")
     response = client.complete(
         prompt=transcript,
         system=system,
@@ -161,7 +161,7 @@ def resolve_entities(
         if " " not in name.strip() and len(name.strip()) < 12 and kind == "person":
             ambiguities.append(
                 f"Ambiguous person reference: '{name}' — only a first name. "
-                "Sally created a stub but the owner should disambiguate."
+                "Falstaff created a stub but the owner should disambiguate."
             )
         path = find_entity_file(name, entity_type=entity_kind_to_folder(kind))
         resolved.append(
@@ -260,7 +260,7 @@ def extract_mentions(
 ) -> list[Mention]:
     if not resolved:
         return []
-    system = load_prompt("sally_mentions")
+    system = load_prompt("falstaff_mentions")
     entity_lines = "\n".join(f"- {e.name} ({e.kind})" for e in resolved)
     user = (
         "## Resolved entities\n\n"
@@ -503,7 +503,7 @@ def print_summary(summary: RunSummary) -> None:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Sally — turn a raw transcript into a meeting note plus mentions on every entity touched.",
+        description="Falstaff — turn a raw transcript into a meeting note plus mentions on every entity touched.",
     )
     parser.add_argument("file", type=Path, help="Path to the transcript file")
     parser.add_argument(

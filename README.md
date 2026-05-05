@@ -24,23 +24,23 @@ iOS) and by a small roster of named LLM agents.
 cd scripts
 pip install -r requirements.txt
 
-# Set your API key (Sally, Connor, Cassandra all use Claude)
+# Set your API key (Falstaff, Hotspur, Warwick all use Claude)
 export ANTHROPIC_API_KEY=sk-ant-...
 
 # Or run offline with deterministic stubs
 export LLM_MOCK=1
 
 # Bring a meeting transcript into the system
-python scripts/sally.py ~/Downloads/meeting-transcript.txt
+python scripts/falstaff.py ~/Downloads/meeting-transcript.txt
 
 # Triage the inbox
 python scripts/triage_inbox.py
 
 # Tomorrow's brief (after editing briefs/_tomorrow.md)
-python scripts/connor.py
+python scripts/hotspur.py
 
 # This week's reflection
-python scripts/cassandra.py
+python scripts/warwick.py
 
 # Validate the whole repo
 python scripts/validate.py
@@ -60,12 +60,12 @@ ffanderson-brain/
 ├── meetings/                 # Processed meeting notes
 ├── journal/                  # Daily notes
 ├── areas/                    # Areas of responsibility
-├── briefs/                   # Morning briefs (Connor)
+├── briefs/                   # Morning briefs (Hotspur)
 ├── thesis/
 │   ├── pillars/              # Owner-written thesis pillars
-│   └── reflections/          # Weekly reviews (Cassandra)
+│   └── reflections/          # Weekly reviews (Warwick)
 ├── reference/                # External content cached for reference
-├── agents/                   # Agent specs (Sally, Connor, Cassandra, etc.)
+├── agents/                   # Agent specs (Falstaff, Hotspur, Warwick, etc.)
 ├── templates/
 ├── scripts/
 └── scripts/prompts/          # Externalised LLM prompts
@@ -79,30 +79,30 @@ for the philosophy and the full list.
 
 | Agent       | Role                                                         | Status        |
 | ----------- | ------------------------------------------------------------ | ------------- |
-| Sally       | Meeting scribe — transcripts → meeting + mentions            | implemented   |
-| Ellie       | Email watcher — forwarded mail → mentions                    | spec only     |
-| Connor      | Calendar scout — produces morning briefs                     | implemented   |
-| Nancy       | News monitor — weekly digests on tracked companies           | spec only     |
-| Arthur      | Deal analyst — answers ad-hoc analytical questions           | spec only     |
-| Cassandra   | Reflection agent — weekly review of thesis vs behaviour      | implemented   |
+| Falstaff       | Meeting scribe — transcripts → meeting + mentions            | implemented   |
+| Bardolph       | Email watcher — forwarded mail → mentions                    | spec only     |
+| Hotspur      | Calendar scout — produces morning briefs                     | implemented   |
+| Rumour       | News monitor — weekly digests on tracked companies           | spec only     |
+| Poins      | Deal analyst — answers ad-hoc analytical questions           | spec only     |
+| Warwick   | Reflection agent — weekly review of thesis vs behaviour      | implemented   |
 
 ## The daily and weekly loop
 
-**Morning.** Read `briefs/<today>.md` (written by Connor the night before).
+**Morning.** Read `briefs/<today>.md` (written by Hotspur the night before).
 Edit the suggested questions if you want. Walk into your meetings.
 
 **Throughout the day.** Meetings recorded by PLAUD or Granola; transcripts
 land in `inbox/raw/`. Quick notes go into the day's `journal/<date>.md`.
 
 **Evening (≤ 10 minutes).**
-1. `python scripts/sally.py <transcript>` for each new transcript.
+1. `python scripts/falstaff.py <transcript>` for each new transcript.
 2. `python scripts/triage_inbox.py` to list raw items.
-3. For each, `python scripts/triage_inbox.py promote <file>` — Sally's
+3. For each, `python scripts/triage_inbox.py promote <file>` — Falstaff's
    mentions get a quick review.
 4. Edit `briefs/_tomorrow.md` with tomorrow's meetings.
-5. `python scripts/connor.py` writes tomorrow's brief.
+5. `python scripts/hotspur.py` writes tomorrow's brief.
 
-**Friday afternoon.** `python scripts/cassandra.py` writes
+**Friday afternoon.** `python scripts/warwick.py` writes
 `thesis/reflections/<week>.md`. Read it. Edit it. Decide what to do about
 drift and stale relationships next week. Flip its frontmatter `status` to
 `reviewed`.
@@ -139,10 +139,10 @@ Link the systems via the `crm_system` and `crm_id` frontmatter fields.
 
 | Script | Purpose |
 | ------ | ------- |
-| `sally.py` | Ingest a transcript → meeting + mentions on every entity touched |
-| `connor.py` | Generate tomorrow's morning brief from `briefs/_tomorrow.md` |
-| `cassandra.py` | Weekly reflection on thesis vs revealed behaviour |
-| `triage_inbox.py` | List/promote inbox items; review Sally's mentions |
+| `falstaff.py` | Ingest a transcript → meeting + mentions on every entity touched |
+| `hotspur.py` | Generate tomorrow's morning brief from `briefs/_tomorrow.md` |
+| `warwick.py` | Weekly reflection on thesis vs revealed behaviour |
+| `triage_inbox.py` | List/promote inbox items; review Falstaff's mentions |
 | `validate.py` | Schema/consistency checks across the repo |
 | `stale.py` | List stale relationships and open follow-ups |
 | `create_entity.py` | Create a person/company/fund/concept file from template |

@@ -1,17 +1,20 @@
 ---
 type: agent
-name: Sally
+name: Falstaff
 role: meeting-scribe
 created: 2026-05-05
-implementation: scripts/sally.py
+implementation: scripts/falstaff.py
 status: implemented
 ---
 
-# Sally — Meeting Scribe
+# Falstaff — Meeting Scribe
+
+> "I am not only witty in myself, but the cause that wit is in other men."
+> — *Henry IV, Part 2*, I.ii
 
 ## Role
 
-Sally turns raw meeting transcripts into structured meeting notes and writes
+Falstaff turns raw meeting transcripts into structured meeting notes and writes
 **mentions** to every entity the meeting touched. She is the primary entry
 point for new information into the repository.
 
@@ -35,7 +38,7 @@ point for new information into the repository.
 
 ## Trigger
 
-Manual: `python scripts/sally.py path/to/transcript.txt`
+Manual: `python scripts/falstaff.py path/to/transcript.txt`
 
 A future filesystem watcher can run her automatically when new files appear
 in `inbox/raw/`.
@@ -59,7 +62,7 @@ in `inbox/raw/`.
 
 ## Skills
 
-(This list accretes as the owner gives feedback. Sally reads it before each
+(This list accretes as the owner gives feedback. Falstaff reads it before each
 run and uses it as guidance.)
 
 - Detects the source platform from filename (PLAUD, Granola, Otter, Zoom)

@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-Connor — calendar scout. Produces a morning brief.
+Hotspur — calendar scout. Produces a morning brief.
 
 Reads `briefs/_tomorrow.md`, gathers context for each meeting from the entity
 files and meeting history, and writes `briefs/<date>.md`.
 
 Usage:
-    python scripts/connor.py                # brief for tomorrow
-    python scripts/connor.py 2026-05-10     # brief for a specific date
-    LLM_MOCK=1 python scripts/connor.py --dry-run
+    python scripts/hotspur.py                # brief for tomorrow
+    python scripts/hotspur.py 2026-05-10     # brief for a specific date
+    LLM_MOCK=1 python scripts/hotspur.py --dry-run
 
 Idempotent: re-running on the same date overwrites the brief.
 """
@@ -94,7 +94,7 @@ def latest_mentions(body: str, n: int = 5) -> list[str]:
             current.append(line)
     if current:
         blocks.append("\n".join(current).rstrip())
-    # Mentions are appended newest-first by Sally, so the first N entries are the latest.
+    # Mentions are appended newest-first by Falstaff, so the first N entries are the latest.
     return blocks[:n]
 
 
@@ -136,7 +136,7 @@ def context_for_entity(entity_name: str) -> dict:
 # Suggested question
 # ---------------------------------------------------------------------------
 
-QUESTION_SYSTEM = """You are Connor, a calendar scout for a venture capital
+QUESTION_SYSTEM = """You are Hotspur, a calendar scout for a venture capital
 investor. Given the context for a meeting that's about to happen, propose ONE
 substantive question the owner might want to ask or sit with during the
 meeting. The question must be specific to the entities and recent context, not
@@ -164,7 +164,7 @@ def suggest_question(client: LLMClient, meeting: dict, contexts: list[dict]) -> 
         resp = client.complete(prompt=prompt, system=QUESTION_SYSTEM)
         return resp.text.strip().strip('"')
     except Exception as e:
-        return f"[connor could not generate a question: {e}]"
+        return f"[hotspur could not generate a question: {e}]"
 
 
 # ---------------------------------------------------------------------------
@@ -211,7 +211,7 @@ def render_section(meeting: dict, contexts: list[dict], question: str) -> str:
                 rel = path.relative_to(get_repo_root())
                 lines.append(f"- {line}  _(from {rel})_")
             lines.append("")
-    lines.append(f"> [!suggested by connor] {question}")
+    lines.append(f"> [!suggested by hotspur] {question}")
     lines.append("")
     return "\n".join(lines)
 
@@ -235,7 +235,7 @@ def build_brief(date: str, dry_run: bool) -> Path:
         "type": "brief",
         "date": date,
         "generated": today(),
-        "agent": "connor",
+        "agent": "hotspur",
         "status": "draft",
     }
     post = frontmatter.Post(content=body, **fm)
@@ -251,7 +251,7 @@ def build_brief(date: str, dry_run: bool) -> Path:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Connor — write tomorrow's morning brief from briefs/_tomorrow.md.",
+        description="Hotspur — write tomorrow's morning brief from briefs/_tomorrow.md.",
     )
     parser.add_argument(
         "date", nargs="?",

@@ -1,17 +1,21 @@
 ---
 type: agent
-name: Nancy
+name: Rumour
 role: news-monitor
 created: 2026-05-05
-implementation: scripts/nancy.py
+implementation: scripts/rumour.py
 status: spec-only
 ---
 
-# Nancy — News Monitor
+# Rumour — News Monitor
+
+> "Open your ears; for which of you will stop  
+> The vent of hearing when loud Rumour speaks?"
+> — *Henry IV, Part 2*, Induction
 
 ## Role
 
-Nancy watches the public web for news about portfolio companies, watchlist
+Rumour watches the public web for news about portfolio companies, watchlist
 companies, and the people the owner cares about. She produces a weekly
 digest, not a real-time feed; the owner does not want to be paged.
 
@@ -20,7 +24,7 @@ digest, not a real-time feed; the owner does not want to be paged.
 - A list of portfolio + watchlist companies derived from
   `entities/companies/*.md` where `status` ∈ {`evaluating`, `invested`} or
   any company tagged `t/<active-thesis>`.
-- An RSS feed list in `agents/_config/nancy_feeds.yml` (TechCrunch, The
+- An RSS feed list in `agents/_config/rumour_feeds.yml` (TechCrunch, The
   Information, sector-specific newsletters).
 - Optional: a Google News query per company, run via the owner's preferred
   scraping path.
@@ -38,7 +42,7 @@ digest, not a real-time feed; the owner does not want to be paged.
 
 ## Trigger
 
-- Weekly cron, Friday 06:00 local. (Before Cassandra runs.)
+- Weekly cron, Friday 06:00 local. (Before Warwick runs.)
 
 ## Skills
 

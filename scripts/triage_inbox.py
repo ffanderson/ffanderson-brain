@@ -3,7 +3,7 @@
 triage_inbox.py — list and promote inbox items.
 
 A meeting in `inbox/` (status `raw`) is promoted to `meetings/` (status
-`processed`). When promoting, the user is shown the mentions Sally wrote and
+`processed`). When promoting, the user is shown the mentions Falstaff wrote and
 asked to confirm them per entity.
 
 Usage:
@@ -101,7 +101,7 @@ def find_mentions_for_meeting(source_hash: str) -> list[tuple[Path, str]]:
 
 def review_mentions(mentions: list[tuple[Path, str]]) -> None:
     if not mentions:
-        print("No mentions found for this meeting (Sally may not have written any).")
+        print("No mentions found for this meeting (Falstaff may not have written any).")
         return
     distinct = {p for p, _ in mentions}
     print(f"\nSally wrote {len(mentions)} mention(s) across {len(distinct)} entit(ies).")
