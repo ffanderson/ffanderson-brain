@@ -64,7 +64,6 @@ def create_entity(
     # Parse the rendered template to modify frontmatter
     post = frontmatter.loads(content)
     post["name"] = name
-    post["slug"] = slug
     
     # Add extra fields
     if extra_fields:

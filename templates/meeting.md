@@ -1,10 +1,10 @@
 ---
 type: meeting
 title: 
-slug: 
 date: {{date}}
 created: {{date}}
 source: 
+source_hash: 
 attendees: []
 companies: []
 funds: []
@@ -14,15 +14,12 @@ status: raw
 
 # {{title}}
 
-## Summary
+## Context
 
-## Key Points
+## Notes
 
-## Action Items
-
-- [ ] 
+## Synthesis
 
 ## Follow-ups
 
-## Raw Transcript
-
+- [ ] 

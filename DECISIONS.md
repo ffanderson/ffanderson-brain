@@ -223,10 +223,176 @@ Each decision follows the format: Context, Decision, Rationale, Consequences.
 
 ---
 
+## ADR-011: Mentions are inline Markdown sections, not a separate store
+
+**Date**: 2026-05-05
+
+**Context**: The mentions architecture (atomic, dated, sourced fragments
+attached to entities) could live in (a) a `mentions/` folder with one file
+per mention, (b) a SQLite/JSON sidecar database, or (c) inline Markdown
+sub-sections inside the entity's own file under a `## Mentions` heading.
+
+**Decision**: Option (c). Mentions live inline.
+
+**Rationale**:
+- Reading the entity file already gives you everything; no second tool needed.
+- The wiki-link graph remains the only graph; no parallel "mention graph."
+- Append-only is trivially correct in Markdown; database invariants would
+  require migration tooling on every schema change.
+- Plain-text resilience: a mentions store separate from entities risks drift
+  if one survives the other.
+- Solo-GP scale doesn't need indexing.
+
+**Consequences**:
+- Entity files grow over time; old mentions push down. Mitigation: newest-at-top
+  ordering plus an eventual archive convention (deferred).
+- Cross-entity queries ("show me everything from this meeting") require
+  scanning entity files. Sally writes a `<!-- source_hash: ... -->` comment in
+  each mention so deduplication and reverse-lookup are O(grep).
+
+---
+
+## ADR-012: Agent specs are Markdown, not YAML/JSON config
+
+**Date**: 2026-05-05
+
+**Context**: Each agent (Sally, Connor, Cassandra, etc.) has identity, scope,
+inputs, outputs, and accumulating skills. Could live in a config file
+(`agents.yml`), a directory of JSON specs, or one Markdown file per agent.
+
+**Decision**: One Markdown file per agent in `agents/`.
+
+**Rationale**:
+- The spec is read by humans (the owner, future analysts) and by the agents
+  themselves (the file is fed back into the agent's prompt).
+- Markdown lets prose, examples, and skill lists coexist without config-DSL
+  ceremony.
+- Skill accretion (`## Skills` section) is naturally narrative; it would
+  awkwardly fit YAML.
+- Adding a new agent is "create one file"; no schema migration.
+
+**Consequences**:
+- Some structured fields (name, role, status) live in frontmatter; the rest
+  is prose. Agents must parse Markdown to find their own spec — but they were
+  going to read prose anyway.
+
+---
+
+## ADR-013: Pipeline state lives in the company `status` field, not in tags
+
+**Date**: 2026-05-05
+
+**Context**: The original CONVENTIONS proposed a `p/` tag prefix
+(`p/first-call`, `p/dd`, `p/term-sheet`) parallel to the company `status`
+field (`tracking | evaluating | passed | invested | exited`).
+
+**Decision**: Drop the `p/` prefix. The company `status` field is the only
+authority for pipeline state.
+
+**Rationale**: Two axes for the same concept invite drift. The audit pass
+(see AUDIT.md, recommendation #5) flagged this and the upgrade pass enforces
+it.
+
+**Consequences**: Existing files using `p/` tags need a one-pass cleanup
+when the owner notices them. None exist in the seed corpus today.
+
+---
+
+## ADR-014: No `slug` field; filename stem is canonical
+
+**Date**: 2026-05-05
+
+**Context**: The bootstrap convention duplicated the slug into both filename
+and a `slug:` frontmatter field.
+
+**Decision**: Drop the `slug:` field. Filename stem is canonical.
+
+**Rationale**: Two sources of truth invite drift. Per audit recommendation #6.
+
+**Consequences**: The `slug` field is removed from templates and seed files.
+A stale `slug:` field in any user-created file before this change is harmless
+but ignored.
+
+---
+
+## ADR-015: No `updated` field; Git is the source of truth for modification time
+
+**Date**: 2026-05-05
+
+**Context**: Templates carried a hand-maintained `updated:` field that
+invariably rotted.
+
+**Decision**: Drop `updated:` from templates and seed files. `git log` is the
+authority for "when was this changed."
+
+**Rationale**: Per audit recommendation #7. Lying metadata is worse than
+absent metadata.
+
+**Consequences**: Existing files with stale `updated:` values are harmless
+but ignored by validation.
+
+---
+
+## ADR-016: Cassandra is the only fully implemented "reflection-class" agent in this pass
+
+**Date**: 2026-05-05
+
+**Context**: The roster includes six agents. Implementing all of them in one
+pass would be a lot of code that the owner cannot evaluate before they have
+a real corpus to test against.
+
+**Decision**: Implement Sally, Connor, and Cassandra. Spec Ellie, Nancy, and
+Arthur, but defer their implementations until the corpus is large enough
+that the read-side and side-channel agents add value.
+
+**Rationale**:
+- **Sally** is mandatory: she is the entry point for new information. Without
+  Sally, no mentions accumulate, and the rest of the system is empty.
+- **Connor** is high-leverage and low-risk: a brief generator on a
+  hand-edited input list is a one-evening implementation that compounds
+  every day it runs.
+- **Cassandra** is the most important agent because reflection is the only
+  output the owner cannot easily replicate by hand. The point of the system
+  is to surface what the owner cannot see; Cassandra is the realisation of
+  that.
+- **Ellie / Nancy / Arthur** are useful but optional. Each has external
+  dependencies (email connector, RSS scraping, retrieval strategy) that
+  benefit from being designed against a real corpus.
+
+**Consequences**: The agent roster is partly aspirational. The roster table
+in `agents/README.md` makes status explicit so the owner is never surprised.
+
+---
+
+## ADR-017: Single LLM provider, swappable
+
+**Date**: 2026-05-05
+
+**Context**: Sally, Connor, and Cassandra all call an LLM. Coupling to one
+provider is fine; coupling to one provider in a way that is hard to undo is
+not.
+
+**Decision**: All LLM calls go through `scripts/llm_client.py` (`LLMClient`
+class). The default provider is Anthropic via the official Python SDK. A
+mock mode (`LLM_MOCK=1`) returns deterministic stub responses for offline
+runs and CI.
+
+**Rationale**: A future swap to OpenAI or local inference is a single-file
+change. The mock mode lets validation and dry-runs proceed without an API
+key.
+
+**Consequences**: A small abstraction tax (one method, `complete()`).
+Acceptable.
+
+---
+
 ## Future Decisions to Make
 
-- [ ] Which CRM (Affinity vs Attio) - deferred until user decides
+- [ ] Which CRM (Affinity vs Attio) — deferred until owner decides
 - [ ] Sync mechanism between CRM and repo
-- [ ] Archive strategy for old meetings/journal entries
+- [ ] Archive strategy for old meetings, journal entries, and mentions
 - [ ] Backup strategy beyond Git
 - [ ] Mobile capture workflow details
+- [ ] Email connector for Ellie (Gmail API vs IMAP vs forwarder)
+- [ ] News feed list for Nancy
+- [ ] Whether to add a `literature` entity type for books/papers (open from AUDIT.md)

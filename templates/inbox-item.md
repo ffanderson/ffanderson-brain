@@ -2,9 +2,10 @@
 type: inbox
 title: 
 source: 
+source_hash: 
 received: {{date}}
 created: {{date}}
-status: unprocessed
+status: raw
 ---
 
 # {{title}}
@@ -14,4 +15,3 @@ status: unprocessed
 ## Extracted Entities
 
 ## Next Actions
-

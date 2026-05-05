@@ -1,9 +1,7 @@
 ---
 type: area
 name: 
-slug: 
 created: {{date}}
-updated: {{date}}
 category: 
 tags: []
 status: active
@@ -22,4 +20,3 @@ status: active
 ## Related Entities
 
 ## Notes
-
