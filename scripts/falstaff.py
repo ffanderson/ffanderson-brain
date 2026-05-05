@@ -19,6 +19,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -145,6 +146,17 @@ class ResolvedEntity:
     is_stub: bool
 
 
+PLACEHOLDER_NAME_RE = re.compile(
+    r"^(speaker|participant|person|interviewer|interviewee|host|guest)[\s_-]*\d*$",
+    re.IGNORECASE,
+)
+
+
+def _looks_like_placeholder(name: str) -> bool:
+    """True if this is a transcription-platform label, not a real human name."""
+    return bool(PLACEHOLDER_NAME_RE.match(name.strip()))
+
+
 def resolve_entities(
     attendees: list[str],
     companies: list[str],
@@ -153,9 +165,18 @@ def resolve_entities(
     """Return (resolved entities, ambiguity messages)."""
     resolved: list[ResolvedEntity] = []
     ambiguities: list[str] = []
+    fund_names_lower = {n.strip().lower() for n in funds if n and n.strip()}
 
     def _resolve(name: str, kind: str) -> None:
         if not name or not name.strip():
+            return
+        if kind == "person" and _looks_like_placeholder(name):
+            ambiguities.append(
+                f"Skipped placeholder attendee '{name}' (transcription label, not a real name)."
+            )
+            return
+        # If a name appears in both companies and funds, treat it as a fund.
+        if kind == "company" and name.strip().lower() in fund_names_lower:
             return
         # Disambiguation: short single-word names (likely first names) get flagged.
         if " " not in name.strip() and len(name.strip()) < 12 and kind == "person":
