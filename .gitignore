@@ -1,0 +1,109 @@
+# ====================
+# Privacy & Security
+# ====================
+
+# Environment and secrets
+.env
+.env.*
+*.env
+secrets/
+*.key
+*.pem
+
+# Sensitive exports
+exports/
+backup/
+*.backup
+
+# ====================
+# Editor & OS
+# ====================
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/*/data.json
+.obsidian/cache
+.obsidian/.git*
+.obsidian/hotkeys.json
+.obsidian/appearance.json
+
+# Keep Obsidian config that should be versioned
+!.obsidian/app.json
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/graph.json
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# ====================
+# Python
+# ====================
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# ====================
+# Logs & Temp
+# ====================
+
+*.log
+*.tmp
+*.temp
+.cache/
+tmp/
+temp/
+
+# ====================
+# Large files
+# ====================
+
+# Audio/video files (transcripts should be text)
+*.mp3
+*.mp4
+*.wav
+*.m4a
+*.mov
+*.avi
+
+# ====================
+# Inbox Raw Files
+# ====================
+
+# Keep inbox/ but ignore raw source files that have been processed
+inbox/raw/
+inbox/*.txt.processed
+inbox/*.original
