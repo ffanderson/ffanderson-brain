@@ -1,9 +1,7 @@
 ---
 type: concept
 name: 
-slug: 
 created: {{date}}
-updated: {{date}}
 category: 
 tags: []
 status: developing
@@ -22,4 +20,3 @@ status: developing
 ## Open Questions
 
 ## References
-

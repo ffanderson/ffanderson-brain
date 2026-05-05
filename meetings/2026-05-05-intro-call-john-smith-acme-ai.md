@@ -1,15 +1,16 @@
 ---
 type: meeting
 title: Intro Call - John Smith, Acme AI
-slug: 2026-05-05-intro-call-john-smith-acme-ai
 date: 2026-05-05
 created: 2026-05-05
 source: granola
+source_hash: legacy-pre-sally
 attendees:
   - "[[John Smith]]"
 companies:
   - "[[Acme AI]]"
-funds: []
+funds:
+  - "[[Sequoia Capital]]"
 tags: [first-call, seed, ai-agents]
 status: processed
 ---

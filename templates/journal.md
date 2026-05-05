@@ -3,8 +3,6 @@ type: journal
 date: {{date}}
 created: {{date}}
 tags: []
-mood: 
-energy: 
 ---
 
 # {{date}}
@@ -18,4 +16,3 @@ energy:
 ## Reflections
 
 ## Tomorrow
-

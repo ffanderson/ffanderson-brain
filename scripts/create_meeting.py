@@ -56,7 +56,6 @@ def create_meeting(
     # Parse the rendered template to modify frontmatter
     post = frontmatter.loads(content)
     post["title"] = title
-    post["slug"] = slug
     post["date"] = meeting_date
     
     if source:

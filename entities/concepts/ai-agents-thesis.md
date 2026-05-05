@@ -1,9 +1,7 @@
 ---
 type: concept
 name: AI Agents Thesis
-slug: ai-agents-thesis
 created: 2026-05-05
-updated: 2026-05-05
 category: thesis
 tags: [ai, thesis, agents, enterprise]
 status: developing

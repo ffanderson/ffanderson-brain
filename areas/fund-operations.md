@@ -1,9 +1,7 @@
 ---
 type: area
 name: Fund Operations
-slug: fund-operations
 created: 2026-05-05
-updated: 2026-05-05
 category: work
 tags: [fund, operations, lp-relations]
 status: active

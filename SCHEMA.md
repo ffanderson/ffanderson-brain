@@ -1,0 +1,199 @@
+---
+type: meta
+name: Schema
+created: 2026-05-05
+updated: 2026-05-05
+---
+
+# Schema
+
+Authoritative reference for the structure of this repository. Style and process
+guidance live in [CONVENTIONS.md](CONVENTIONS.md). Architectural rationale lives
+in [DECISIONS.md](DECISIONS.md).
+
+## Entity types
+
+| `type`        | folder                   | filename                          | identity field |
+| ------------- | ------------------------ | --------------------------------- | -------------- |
+| `person`      | `entities/people/`       | `<slug>.md`                       | `name`         |
+| `company`     | `entities/companies/`    | `<slug>.md`                       | `name`         |
+| `fund`        | `entities/funds/`        | `<slug>.md`                       | `name`         |
+| `concept`     | `entities/concepts/`     | `<slug>.md`                       | `name`         |
+| `area`        | `areas/`                 | `<slug>.md`                       | `name`         |
+| `meeting`     | `meetings/` or `inbox/`  | `YYYY-MM-DD-<slug>.md`            | `title`        |
+| `journal`     | `journal/`               | `YYYY-MM-DD.md`                   | `date`         |
+| `inbox`       | `inbox/`                 | `YYYY-MM-DD-<slug>.md`            | `title`        |
+| `reflection`  | `thesis/reflections/`    | `YYYY-Www.md`                     | `week`         |
+| `brief`       | `briefs/`                | `YYYY-MM-DD.md`                   | `date`         |
+
+The `type` field is authoritative. Folder is a hint; `type` overrides folder.
+
+## Required frontmatter
+
+Every file:
+- `type`
+- `created` (ISO date)
+
+Identity field per type as listed above.
+
+### `person`
+
+```yaml
+type: person
+name: "Full Name"
+aliases: []                 # optional, free-form, used for entity resolution
+crm_system:                 # affinity | attio | none — empty until chosen
+crm_id:
+created: 2026-05-05
+role:
+company:                    # wiki-link string, e.g. "[[Acme AI]]"
+relationship:               # founder | operator | lp | co-investor | service-provider | press | personal | other
+relationship_strength:      # cold | warm | strong | core
+first_seen: 2026-05-05      # date the person first appeared in this repo
+last_touch:                 # ISO date — last live interaction (call, meeting, email)
+last_mention:               # ISO date — newest mention on this file (Sally maintains)
+mention_count: 0            # integer — count of mentions in body (Sally maintains)
+email:
+linkedin:
+location:
+tags: []
+status:                     # active | inactive | archived
+```
+
+### `company`
+
+```yaml
+type: company
+name: "Company Name"
+aliases: []
+crm_system:
+crm_id:
+created: 2026-05-05
+stage:                      # pre-seed | seed | series-a | series-b | growth | public
+sector:                     # ai | fintech | healthcare | climate | etc
+status:                     # tracking | evaluating | passed | invested | exited
+founders: []                # list of wiki-link strings
+website:
+location:
+founded:                    # year
+last_touch:
+last_mention:
+mention_count: 0
+tags: []
+```
+
+### `fund`
+
+```yaml
+type: fund
+name: "Fund Name"
+aliases: []
+crm_system:
+crm_id:
+created: 2026-05-05
+fund_type:                  # vc | pe | family-office | corporate | angel
+relationship:               # lp | co-investor | peer | prospect | portfolio-investor
+location:
+website:
+last_touch:
+last_mention:
+mention_count: 0
+tags: []
+status:                     # active | inactive | archived
+```
+
+### `meeting`
+
+```yaml
+type: meeting
+title: "Meeting Title"
+date: 2026-05-05
+created: 2026-05-05
+source:                     # plaud | granola | otter | zoom | manual | unknown
+source_hash:                # SHA-256 of raw transcript bytes (Sally writes; "" for manual)
+attendees: []               # wiki-link strings
+companies: []
+funds: []
+tags: []
+status:                     # raw | processed | archived
+```
+
+### `inbox`
+
+Inbox items use `type: inbox` until promoted. Same status vocabulary as meetings:
+`raw | processed | archived`.
+
+### `reflection`
+
+```yaml
+type: reflection
+week: 2026-W18
+generated: 2026-05-01
+agent: cassandra
+status:                     # draft | reviewed
+```
+
+### `brief`
+
+```yaml
+type: brief
+date: 2026-05-06
+generated: 2026-05-05
+agent: connor
+status:                     # draft | edited | stale
+```
+
+## Mentions
+
+A **mention** is an atomic, dated, sourced fragment of context about an entity,
+extracted from a conversation, document, or message. Mentions live as Markdown
+sub-sections inside the entity's own file under a `## Mentions` heading.
+
+### Why mentions exist
+
+Without mentions, context about a company or person is buried inside the
+chronological meeting notes that mention them. To know "what do I currently
+think about Acme AI?" you must scroll through every meeting that touched Acme
+AI. With mentions, the entity's own file shows a chronological digest on its
+own page — generated automatically from the meetings, never duplicated by hand.
+
+### Required structure
+
+```markdown
+## Mentions
+
+### YYYY-MM-DD — <short context label>
+<one to four sentences of substantive context, third-person past tense>
+↳ source: [[link-to-source-file]]
+```
+
+Required parts:
+
+- `### YYYY-MM-DD — <label>` — date and human-readable label (the meeting
+  topic, the email subject, etc).
+- Body: 1–4 sentences. Substantive context, not a name-drop.
+- `↳ source:` line — a wiki-link to the source file, or a description if the
+  source is external (e.g. `↳ source: email from john@acme.com 2026-05-04, "Re: deck v3"`).
+
+### Append-only
+
+Mentions are historical record. They are added, never edited or deleted, except
+to fix factual errors. When fixing, leave a note: `> [!note] 2026-05-10: corrected valuation $15M → $18M`.
+
+### Granularity
+
+One mention per (source × entity × distinct topic). A meeting that discussed a
+company's pricing and its hiring writes two mentions on that company's file,
+not one combined mention.
+
+### One source, many mentions
+
+A single meeting can produce mentions on many entity files. The meeting note
+itself remains the source-of-record for the conversation; the mentions are
+*projections* of that meeting onto the entities it touched. Sally writes them
+automatically; humans can write them by hand following the same format.
+
+### Frontmatter sync
+
+`mention_count` and `last_mention` in the entity's frontmatter must match the
+body. Sally maintains both. `scripts/validate.py` warns on drift.

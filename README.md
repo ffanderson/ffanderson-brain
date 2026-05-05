@@ -1,98 +1,157 @@
 # ffanderson-brain
 
-A Git-versioned, Markdown-based personal knowledge system for venture capital investing.
+A Git-versioned, Markdown-based personal knowledge system for venture capital
+investing. Plain text in, plain text out. Read by humans (Obsidian on Mac and
+iOS) and by a small roster of named LLM agents.
 
 ## Philosophy
 
-- **Plain Markdown only**: No proprietary formats. Readable in any text editor for 50+ years.
-- **YAML frontmatter**: Structured metadata on every file.
-- **Wiki-links**: `[[Entity Name]]` creates the knowledge graph.
-- **One file per entity**: People, companies, funds, concepts each get one canonical home.
-- **Privacy by default**: Nothing here should be assumed shareable.
+- **Plain Markdown only.** No proprietary formats; readable in any text editor
+  for 50+ years.
+- **YAML frontmatter** on every file.
+- **Wiki-links** are the knowledge graph: `[[Entity Name]]`.
+- **One file per entity.** People, companies, funds, concepts each get one
+  canonical home.
+- **Mentions are first-class.** Atomic, dated, sourced fragments accumulate
+  on entity files (see [SCHEMA.md](SCHEMA.md)).
+- **CRM owns the contact graph; this repo owns synthesis.**
+- **Privacy by default.**
 
-## Quick Start
+## Quick start
 
 ```bash
-# Install Python dependencies for scripts
+# Install Python deps
 cd scripts
 pip install -r requirements.txt
 
-# Create a new entity
-python create_entity.py person "Jane Doe" --role "Founder" --company "StartupX"
-python create_entity.py company "StartupX" --sector ai --stage seed
+# Set your API key (Sally, Connor, Cassandra all use Claude)
+export ANTHROPIC_API_KEY=sk-ant-...
 
-# Create a meeting
-python create_meeting.py "Call with Jane Doe" --attendees "Jane Doe" --companies "StartupX"
+# Or run offline with deterministic stubs
+export LLM_MOCK=1
 
-# Create today's journal entry
-python create_journal.py
+# Bring a meeting transcript into the system
+python scripts/sally.py ~/Downloads/meeting-transcript.txt
 
-# Ingest a transcript
-python ingest_transcript.py ~/Downloads/transcript.txt --source plaud
+# Triage the inbox
+python scripts/triage_inbox.py
 
-# Triage inbox
-python triage.py
+# Tomorrow's brief (after editing briefs/_tomorrow.md)
+python scripts/connor.py
 
-# Check for broken links
-python check_links.py
+# This week's reflection
+python scripts/cassandra.py
+
+# Validate the whole repo
+python scripts/validate.py
 ```
 
-## Folder Structure
+## Folder structure
 
 ```
 ffanderson-brain/
-├── inbox/              # Raw inputs awaiting triage
+├── inbox/                    # Raw inputs and freshly ingested meetings (status: raw)
+├── inbox/raw/                # Raw transcripts (gitignored)
 ├── entities/
-│   ├── people/         # One file per person
-│   ├── companies/      # One file per company
-│   ├── funds/          # One file per fund
-│   └── concepts/       # Thesis, frameworks, mental models
-├── meetings/           # Meeting notes (date-prefixed)
-├── journal/            # Daily notes (YYYY-MM-DD.md)
-├── areas/              # Areas of responsibility
-├── templates/          # File templates
-├── scripts/            # Python automation
-├── CONVENTIONS.md      # Detailed conventions and standards
-└── DECISIONS.md        # Architecture decision records
+│   ├── people/               # One file per person
+│   ├── companies/            # One file per company
+│   ├── funds/                # One file per fund / LP / family office
+│   └── concepts/             # Theses, frameworks, mental models
+├── meetings/                 # Processed meeting notes
+├── journal/                  # Daily notes
+├── areas/                    # Areas of responsibility
+├── briefs/                   # Morning briefs (Connor)
+├── thesis/
+│   ├── pillars/              # Owner-written thesis pillars
+│   └── reflections/          # Weekly reviews (Cassandra)
+├── reference/                # External content cached for reference
+├── agents/                   # Agent specs (Sally, Connor, Cassandra, etc.)
+├── templates/
+├── scripts/
+└── scripts/prompts/          # Externalised LLM prompts
 ```
 
-## Daily Workflow
+## The agents
 
-1. **Morning**: Create journal entry (`python scripts/create_journal.py`)
-2. **After meetings**: Create/update entity files, add meeting notes
-3. **End of day**: Triage inbox (`python scripts/triage.py`), review and link
+The repository runs alongside a small roster of named agents. Each has one
+job and a Markdown spec in `agents/`. See [agents/README.md](agents/README.md)
+for the philosophy and the full list.
+
+| Agent       | Role                                                         | Status        |
+| ----------- | ------------------------------------------------------------ | ------------- |
+| Sally       | Meeting scribe — transcripts → meeting + mentions            | implemented   |
+| Ellie       | Email watcher — forwarded mail → mentions                    | spec only     |
+| Connor      | Calendar scout — produces morning briefs                     | implemented   |
+| Nancy       | News monitor — weekly digests on tracked companies           | spec only     |
+| Arthur      | Deal analyst — answers ad-hoc analytical questions           | spec only     |
+| Cassandra   | Reflection agent — weekly review of thesis vs behaviour      | implemented   |
+
+## The daily and weekly loop
+
+**Morning.** Read `briefs/<today>.md` (written by Connor the night before).
+Edit the suggested questions if you want. Walk into your meetings.
+
+**Throughout the day.** Meetings recorded by PLAUD or Granola; transcripts
+land in `inbox/raw/`. Quick notes go into the day's `journal/<date>.md`.
+
+**Evening (≤ 10 minutes).**
+1. `python scripts/sally.py <transcript>` for each new transcript.
+2. `python scripts/triage_inbox.py` to list raw items.
+3. For each, `python scripts/triage_inbox.py promote <file>` — Sally's
+   mentions get a quick review.
+4. Edit `briefs/_tomorrow.md` with tomorrow's meetings.
+5. `python scripts/connor.py` writes tomorrow's brief.
+
+**Friday afternoon.** `python scripts/cassandra.py` writes
+`thesis/reflections/<week>.md`. Read it. Edit it. Decide what to do about
+drift and stale relationships next week. Flip its frontmatter `status` to
+`reviewed`.
 
 ## Editors
 
-- **Mac**: Obsidian (primary), any text editor
-- **iOS**: Working Copy + Obsidian
-- **Anywhere**: Git + any Markdown editor
+- **Mac**: Obsidian (primary), any text editor.
+- **iOS**: Working Copy + Obsidian.
+- **Anywhere**: Git + any Markdown editor.
 
-## Key Documents
+The repo never depends on Obsidian; it is Obsidian-friendly, not
+Obsidian-required.
 
-- [CONVENTIONS.md](CONVENTIONS.md) - Naming, formatting, and structural standards
-- [DECISIONS.md](DECISIONS.md) - Architecture decisions and rationale
+## Key documents
 
-## CRM Integration
+- [SCHEMA.md](SCHEMA.md) — frontmatter contract per type, mentions architecture
+- [CONVENTIONS.md](CONVENTIONS.md) — naming, formatting, writing-mention rules
+- [DECISIONS.md](DECISIONS.md) — architecture decisions and rationale
+- [CLAUDE.md](CLAUDE.md) — instructions for AI agents reading the repo
+- [AUDIT.md](AUDIT.md) — audit of the bootstrap pass (historical)
+- [UPGRADE_NOTES.md](UPGRADE_NOTES.md) — what the 2026-05-05 upgrade changed
 
-This repo handles synthesis and judgment. Your CRM (Affinity/Attio) handles:
+## CRM integration
+
+This repo handles synthesis and judgement. The CRM (Affinity or Attio,
+deferred) handles:
 - Contact graph and deduplication
 - Email/calendar metadata
 - Pipeline state
 
-Link between systems using the `crm_id` frontmatter field.
+Link the systems via the `crm_system` and `crm_id` frontmatter fields.
 
 ## Scripts
 
 | Script | Purpose |
-|--------|---------|
-| `create_entity.py` | Create person/company/fund/concept files |
-| `create_meeting.py` | Create meeting notes |
-| `create_journal.py` | Create daily journal entry |
-| `ingest_transcript.py` | Import transcripts to inbox |
-| `triage.py` | List and manage inbox items |
-| `check_links.py` | Find broken wiki-links and orphans |
-| `utils.py` | Shared utilities |
+| ------ | ------- |
+| `sally.py` | Ingest a transcript → meeting + mentions on every entity touched |
+| `connor.py` | Generate tomorrow's morning brief from `briefs/_tomorrow.md` |
+| `cassandra.py` | Weekly reflection on thesis vs revealed behaviour |
+| `triage_inbox.py` | List/promote inbox items; review Sally's mentions |
+| `validate.py` | Schema/consistency checks across the repo |
+| `stale.py` | List stale relationships and open follow-ups |
+| `create_entity.py` | Create a person/company/fund/concept file from template |
+| `create_meeting.py` | Create a meeting file by hand |
+| `create_journal.py` | Create today's journal entry |
+| `check_links.py` | Legacy link checker (superseded by `validate.py`) |
+| `_legacy_ingest_transcript.py` | Old single-pass ingest (kept for one cycle) |
+| `utils.py` | Shared helpers |
+| `llm_client.py` | Provider-neutral LLM wrapper |
 
 ## License
 

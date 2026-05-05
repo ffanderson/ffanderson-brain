@@ -105,5 +105,29 @@ temp/
 
 # Keep inbox/ but ignore raw source files that have been processed
 inbox/raw/
+inbox/audio/
+inbox/recordings/
 inbox/*.txt.processed
 inbox/*.original
+inbox/*.zip
+
+# ====================
+# Sensitive Documents
+# ====================
+
+# Data-room PDFs and exports
+data-rooms/
+*.dataroom.pdf
+
+# CRM exports
+*.affinity-export.csv
+*.attio-export.csv
+
+# ====================
+# Agent runtime artefacts
+# ====================
+
+# Sally cache of source hashes (rebuildable from entity files)
+.sally-cache/
+# LLM client error dumps
+.llm-errors/
