@@ -1,19 +1,23 @@
 ---
-type: fund
-name: Sequoia Capital
-aliases: [Sequoia]
-crm_system:
-crm_id:
+aliases:
+- Sequoia
 created: 2026-05-05
+crm_id: null
+crm_system: null
 fund_type: vc
-relationship: co-investor
-location: Menlo Park, CA
-website: https://sequoia.com
+last_mention: '2026-05-05'
 last_touch: 2026-05-05
-last_mention: 2026-05-05
-mention_count: 1
-tags: [tier-1, co-investor, ai-focus]
+location: Menlo Park, CA
+mention_count: 2
+name: Sequoia Capital
+relationship: co-investor
 status: active
+tags:
+- tier-1
+- co-investor
+- ai-focus
+type: fund
+website: https://sequoia.com
 ---
 
 # Sequoia Capital
@@ -53,6 +57,12 @@ quality. Should reach out to their AI partner for intro and to build
 relationship.
 
 ## Mentions
+
+
+### 2026-03-19 — Target partner for fellowship marketing
+<!-- source_hash: 9785e0dd5d1603bc05c5cf0f1e18cfd51c2dfc2a0068873604d8dc1a996a93e2 -->
+Fraser grouped Sequoia with [[Kleiner Perkins]] and [[Lightspeed]] as ideal VC partners to approach about the fellowship program, arguing that large funds with significant capital under management would value the talent pipeline access and not be deterred by valuation.
+↳ source: [[2026-03-19-program-strategy-debrief-james-currier-feedback-website-review-link-imagination-action-ai-fellowship]]
 
 ### 2026-05-05 — Leading Acme AI seed
 Sequoia is leading [[Acme AI]]'s $3M seed at $15M post, closing in three weeks.
