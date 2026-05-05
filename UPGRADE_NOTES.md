@@ -22,30 +22,30 @@ then either delete the file or keep it as historical record.
 
 ### 2. Agent roster
 - New `agents/` folder with one Markdown spec per agent:
-  Sally, Ellie, Connor, Nancy, Arthur, Cassandra.
+  Falstaff, Bardolph, Hotspur, Rumour, Poins, Warwick.
 - See [agents/README.md](agents/README.md) for the philosophy.
-- Sally, Connor, and Cassandra are implemented; Ellie, Nancy, and Arthur
+- Falstaff, Hotspur, and Warwick are implemented; Bardolph, Rumour, and Poins
   are spec-only (see DECISIONS ADR-016).
 
 ### 3. Reflection loop
 - `briefs/_tomorrow.md` — the owner edits this each evening to list
   tomorrow's meetings.
-- `scripts/connor.py` reads `_tomorrow.md` and writes
+- `scripts/hotspur.py` reads `_tomorrow.md` and writes
   `briefs/<tomorrow-date>.md` with context, recent mentions, and one
   agent-suggested question per meeting.
-- `scripts/cassandra.py` runs weekly and writes
+- `scripts/warwick.py` runs weekly and writes
   `thesis/reflections/<week>.md` covering time-spent, themes, drift from
   stated thesis, stale relationships, follow-ups, and one substantive
   question for the week ahead.
 
-### 4. Sally — the upgraded ingestion script
+### 4. Falstaff — the upgraded ingestion script
 - Replaces `scripts/ingest_transcript.py` (kept as
   `_legacy_ingest_transcript.py` for one cycle).
 - Pipeline: read transcript → hash for idempotency → metadata via Claude →
   resolve entities → meeting file in `inbox/` → stubs for unresolved
   entities → mentions on every entity touched → run summary.
-- Externalised prompts at `scripts/prompts/sally_metadata.md` and
-  `scripts/prompts/sally_mentions.md`. Edit them without touching code.
+- Externalised prompts at `scripts/prompts/falstaff_metadata.md` and
+  `scripts/prompts/falstaff_mentions.md`. Edit them without touching code.
 - Idempotent on reruns (source-hash check).
 - `--dry-run` flag prints what would be written.
 
@@ -60,7 +60,7 @@ then either delete the file or keep it as historical record.
   required frontmatter, status vocabularies, mention-count drift, broken
   wiki-links, duplicate mentions across files.
 - `scripts/triage_inbox.py` (renamed from `triage.py`) — adds a `promote`
-  command that reviews Sally's mentions before moving an inbox item to
+  command that reviews Falstaff's mentions before moving an inbox item to
   `meetings/`.
 - `scripts/stale.py` — lists entities with `relationship_strength` ∈
   {warm, strong, core} whose `last_mention` is > 30 days ago.
@@ -84,7 +84,7 @@ already approved:
 - `slug` field dropped (#6; ADR-014).
 - `updated` field dropped (#7; ADR-015).
 - `crm_system` + `crm_id` fields (#9).
-- Filename-only source detection in Sally; no content sniffing (#10).
+- Filename-only source detection in Falstaff; no content sniffing (#10).
 - Aspirational template fields trimmed: `mood`, `energy`, `aum`, `vintage`,
   `gp`, `twitter` (#11).
 - Tightened `.gitignore` for audio folders, data-rooms, CRM exports (#12).
@@ -100,14 +100,14 @@ person template now has a `relationship` field with values `founder | operator |
 
 ## Deferred
 
-- The Ellie / Nancy / Arthur implementations.
-- A real calendar connector behind Connor (he reads a hand-edited
+- The Bardolph / Rumour / Poins implementations.
+- A real calendar connector behind Hotspur (he reads a hand-edited
   `_tomorrow.md` file in this pass).
-- A real news feed and scraper behind Nancy.
+- A real news feed and scraper behind Rumour.
 - A `literature` entity type.
 - LP-individual schema decision (see AUDIT.md "Open questions").
 - Cap-table snapshot fields on `company` files.
-- Filesystem watcher to auto-run Sally on new files in `inbox/raw/`.
+- Filesystem watcher to auto-run Falstaff on new files in `inbox/raw/`.
 - A pre-commit hook to enforce `validate.py` cleanly.
 
 ## Notes from the validation run
@@ -123,15 +123,15 @@ The repo passes validation (exit 0) with no errors.
 
 ## Three things to do next
 
-1. **Try Sally on a real transcript.** Drop a `.txt` file from PLAUD or
+1. **Try Falstaff on a real transcript.** Drop a `.txt` file from PLAUD or
    Granola into `inbox/raw/` and run
-   `python scripts/sally.py inbox/raw/<file>`. Inspect the meeting file
+   `python scripts/falstaff.py inbox/raw/<file>`. Inspect the meeting file
    she writes and the mentions she adds to entity files.
 
 2. **Edit `briefs/_tomorrow.md`** with one or two real meetings, then run
-   `python scripts/connor.py`. Check whether the brief is something you'd
+   `python scripts/hotspur.py`. Check whether the brief is something you'd
    actually want to read in the morning. Tune the prompt at
-   `scripts/connor.py:QUESTION_SYSTEM` if not.
+   `scripts/hotspur.py:QUESTION_SYSTEM` if not.
 
 3. **Resolve the open questions in [AUDIT.md](AUDIT.md):** Affinity vs
    Attio, personal-life-in-this-repo, LP-individual granularity, cap-table

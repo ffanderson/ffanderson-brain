@@ -1,25 +1,28 @@
 ---
 type: agent
-name: Ellie
+name: Bardolph
 role: email-watcher
 created: 2026-05-05
-implementation: scripts/ellie.py
+implementation: scripts/bardolph.py
 status: spec-only
 ---
 
-# Ellie — Email Watcher
+# Bardolph — Email Watcher
+
+> "On, on, on, on, on! to the breach, to the breach!"
+> — *Henry V*, III.ii
 
 ## Role
 
-Ellie watches a designated email inbox (e.g. forwarding-only address like
+Bardolph watches a designated email inbox (e.g. forwarding-only address like
 `brain@ffanderson.com`) and turns substantive correspondence into mentions on
-the relevant entities. She is the same primitive as Sally, applied to a
+the relevant entities. She is the same primitive as Falstaff, applied to a
 different input medium.
 
 ## Inputs
 
 - An email feed via IMAP, Gmail API, or webhook (deferred — see "Future work").
-- A configuration file `agents/_config/ellie.yml` listing the address she
+- A configuration file `agents/_config/bardolph.yml` listing the address she
   watches and any sender allowlist.
 
 ## Outputs
@@ -39,7 +42,7 @@ different input medium.
 2. Filter: skip newsletters, automated mail, calendar invites; keep
    personal/business correspondence.
 3. For each kept message, run the same entity-resolution and mention-extraction
-   pipeline as Sally, with the email body as input.
+   pipeline as Falstaff, with the email body as input.
 4. Append mentions; update `last_touch` on the sender's person file.
 5. Mark message as processed (label or local `.eml.processed` flag).
 
@@ -51,7 +54,7 @@ different input medium.
 
 ## Future work
 
-The email connector itself is out of scope for the 2026-05-05 upgrade. Ellie's
+The email connector itself is out of scope for the 2026-05-05 upgrade. Bardolph's
 spec exists so the interface (mentions in, mentions out) is clear and so a
 later implementation drops in without redesigning the surrounding system.
 

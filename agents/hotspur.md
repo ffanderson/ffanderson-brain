@@ -1,17 +1,20 @@
 ---
 type: agent
-name: Connor
+name: Hotspur
 role: calendar-scout
 created: 2026-05-05
-implementation: scripts/connor.py
+implementation: scripts/hotspur.py
 status: implemented-manual-input
 ---
 
-# Connor — Calendar Scout
+# Hotspur — Calendar Scout
+
+> "Out of this nettle, danger, we pluck this flower, safety."
+> — *Henry IV, Part 1*, II.iii
 
 ## Role
 
-Connor produces a **morning brief** — one page summarising who the owner is
+Hotspur produces a **morning brief** — one page summarising who the owner is
 meeting tomorrow and what context they should walk in with. The brief is
 designed to be skim-readable on a phone in the back of an Uber.
 
@@ -44,7 +47,7 @@ designed to be skim-readable on a phone in the back of an Uber.
 
 ## Trigger
 
-- Nightly cron at 21:00 local, or `python scripts/connor.py [date]`.
+- Nightly cron at 21:00 local, or `python scripts/hotspur.py [date]`.
 - Idempotent: re-running on the same date overwrites the brief.
 
 ## Pipeline
@@ -62,7 +65,7 @@ designed to be skim-readable on a phone in the back of an Uber.
 
 - Treats stubs as valid targets but flags `> [!todo] stub — not enough context
   to brief well` rather than fabricating context.
-- The suggested question is always tagged `> [!suggested by connor]` so the
+- The suggested question is always tagged `> [!suggested by hotspur]` so the
   owner never confuses it with their own thinking.
 - Sorts brief sections by meeting time, ascending.
 

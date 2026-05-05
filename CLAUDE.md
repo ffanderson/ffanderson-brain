@@ -22,12 +22,12 @@ Read [SCHEMA.md](SCHEMA.md) for the structural contract,
 | `inbox/`                  | raw, unprocessed inputs awaiting triage               |
 | `inbox/raw/`              | raw transcript bytes (gitignored)                     |
 | `areas/`                  | areas of responsibility (PARA-style)                  |
-| `agents/`                 | named agent specs (Sally, Connor, etc.)               |
-| `briefs/`                 | morning briefs by Connor, `YYYY-MM-DD.md`             |
+| `agents/`                 | named agent specs (Falstaff, Hotspur, etc.)               |
+| `briefs/`                 | morning briefs by Hotspur, `YYYY-MM-DD.md`             |
 | `thesis/`                 | the owner's investment thesis pillars                 |
-| `thesis/reflections/`     | weekly reviews by Cassandra, `YYYY-Www.md`            |
+| `thesis/reflections/`     | weekly reviews by Warwick, `YYYY-Www.md`            |
 | `reference/`              | external content cached for reference                 |
-| `reference/news/`         | weekly news digests by Nancy                          |
+| `reference/news/`         | weekly news digests by Rumour                          |
 | `templates/`              | file templates with `{{placeholder}}` syntax          |
 | `scripts/`                | Python automation                                     |
 | `scripts/prompts/`        | externalised LLM prompts (editable without code)      |
@@ -46,7 +46,7 @@ The most important data primitive in this repo is the **mention**: an atomic,
 dated, sourced fragment of context attached to an entity, living under a
 `## Mentions` heading inside the entity's own file. See SCHEMA.md.
 
-Mentions are append-only. They are written by Sally (the ingestion agent) and
+Mentions are append-only. They are written by Falstaff (the ingestion agent) and
 occasionally by hand. Do not invent mentions. Do not edit existing mentions
 except to fix factual errors, and note the correction inline.
 
@@ -66,7 +66,7 @@ except to fix factual errors, and note the correction inline.
 Surface uncertainty in the file as a `> [!todo]` callout rather than guessing:
 
 ```markdown
-> [!todo] Sally couldn't resolve "John from Acme" — two candidates: [[John Smith]] / [[John Park]]. Owner to disambiguate.
+> [!todo] Falstaff couldn't resolve "John from Acme" — two candidates: [[John Smith]] / [[John Park]]. Owner to disambiguate.
 ```
 
 ## The agent roster

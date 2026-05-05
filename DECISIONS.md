@@ -247,7 +247,7 @@ sub-sections inside the entity's own file under a `## Mentions` heading.
 - Entity files grow over time; old mentions push down. Mitigation: newest-at-top
   ordering plus an eventual archive convention (deferred).
 - Cross-entity queries ("show me everything from this meeting") require
-  scanning entity files. Sally writes a `<!-- source_hash: ... -->` comment in
+  scanning entity files. Falstaff writes a `<!-- source_hash: ... -->` comment in
   each mention so deduplication and reverse-lookup are O(grep).
 
 ---
@@ -256,7 +256,7 @@ sub-sections inside the entity's own file under a `## Mentions` heading.
 
 **Date**: 2026-05-05
 
-**Context**: Each agent (Sally, Connor, Cassandra, etc.) has identity, scope,
+**Context**: Each agent (Falstaff, Hotspur, Warwick, etc.) has identity, scope,
 inputs, outputs, and accumulating skills. Could live in a config file
 (`agents.yml`), a directory of JSON specs, or one Markdown file per agent.
 
@@ -333,7 +333,7 @@ but ignored by validation.
 
 ---
 
-## ADR-016: Cassandra is the only fully implemented "reflection-class" agent in this pass
+## ADR-016: Warwick is the only fully implemented "reflection-class" agent in this pass
 
 **Date**: 2026-05-05
 
@@ -341,21 +341,21 @@ but ignored by validation.
 pass would be a lot of code that the owner cannot evaluate before they have
 a real corpus to test against.
 
-**Decision**: Implement Sally, Connor, and Cassandra. Spec Ellie, Nancy, and
-Arthur, but defer their implementations until the corpus is large enough
+**Decision**: Implement Falstaff, Hotspur, and Warwick. Spec Bardolph, Rumour, and
+Poins, but defer their implementations until the corpus is large enough
 that the read-side and side-channel agents add value.
 
 **Rationale**:
-- **Sally** is mandatory: she is the entry point for new information. Without
-  Sally, no mentions accumulate, and the rest of the system is empty.
-- **Connor** is high-leverage and low-risk: a brief generator on a
+- **Falstaff** is mandatory: she is the entry point for new information. Without
+  Falstaff, no mentions accumulate, and the rest of the system is empty.
+- **Hotspur** is high-leverage and low-risk: a brief generator on a
   hand-edited input list is a one-evening implementation that compounds
   every day it runs.
-- **Cassandra** is the most important agent because reflection is the only
+- **Warwick** is the most important agent because reflection is the only
   output the owner cannot easily replicate by hand. The point of the system
-  is to surface what the owner cannot see; Cassandra is the realisation of
+  is to surface what the owner cannot see; Warwick is the realisation of
   that.
-- **Ellie / Nancy / Arthur** are useful but optional. Each has external
+- **Bardolph / Rumour / Poins** are useful but optional. Each has external
   dependencies (email connector, RSS scraping, retrieval strategy) that
   benefit from being designed against a real corpus.
 
@@ -368,7 +368,7 @@ in `agents/README.md` makes status explicit so the owner is never surprised.
 
 **Date**: 2026-05-05
 
-**Context**: Sally, Connor, and Cassandra all call an LLM. Coupling to one
+**Context**: Falstaff, Hotspur, and Warwick all call an LLM. Coupling to one
 provider is fine; coupling to one provider in a way that is hard to undo is
 not.
 
@@ -393,6 +393,6 @@ Acceptable.
 - [ ] Archive strategy for old meetings, journal entries, and mentions
 - [ ] Backup strategy beyond Git
 - [ ] Mobile capture workflow details
-- [ ] Email connector for Ellie (Gmail API vs IMAP vs forwarder)
-- [ ] News feed list for Nancy
+- [ ] Email connector for Bardolph (Gmail API vs IMAP vs forwarder)
+- [ ] News feed list for Rumour
 - [ ] Whether to add a `literature` entity type for books/papers (open from AUDIT.md)

@@ -45,7 +45,7 @@ your reminder that this person/company exists in your world.
 - the name has appeared in 3+ sources (heuristic, not a rule).
 
 External attendees in `meetings/*.md` should always use `[[Full Name]]`,
-never plain strings, so they appear in the stub list. Sally enforces this
+never plain strings, so they appear in the stub list. Falstaff enforces this
 during ingestion.
 
 ## Dates
@@ -119,14 +119,14 @@ One to four sentences. If it runs longer, it belongs in the meeting note's
 
 ### Disambiguation
 
-If a meeting names a person whose file does not exist yet, Sally creates a
+If a meeting names a person whose file does not exist yet, Falstaff creates a
 stub file (`relationship_strength: cold`, `first_seen: <today>`, otherwise
 empty) and writes the mention against the stub. Manual writers should follow
 the same pattern.
 
 If two candidate files match (two `John Smith` entities), the mention is
 written with both candidates wiki-linked: `[[John Smith (Acme)]] / [[John Smith (Beta)]]`.
-Sally flags this in her run summary.
+Falstaff flags this in her run summary.
 
 ## Writing style
 
@@ -145,8 +145,8 @@ Sally flags this in her run summary.
   - `meeting: <slug>` — new meeting note
   - `journal: <date>` — daily journal
   - `triage: <count> items` — batch triage
-  - `mentions: <count>` — batch mention writes (Sally)
-  - `reflection: <week>` — weekly reflection (Cassandra)
+  - `mentions: <count>` — batch mention writes (Falstaff)
+  - `reflection: <week>` — weekly reflection (Warwick)
 
 ## Slug field
 

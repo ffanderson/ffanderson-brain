@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 """
-Cassandra — weekly reflection agent.
+Warwick — weekly reflection agent.
 
 Reads the past 7 days of meetings, mentions, and journal entries, plus the
 current state of `thesis/`, and writes a reflection to
 `thesis/reflections/<YYYY-Www>.md`.
 
 Usage:
-    python scripts/cassandra.py                       # this week
-    python scripts/cassandra.py --week 2026-W18
-    LLM_MOCK=1 python scripts/cassandra.py --dry-run
+    python scripts/warwick.py                       # this week
+    python scripts/warwick.py --week 2026-W18
+    LLM_MOCK=1 python scripts/warwick.py --dry-run
 
-Cassandra writes a single reflection per week. If a prior reflection for the
+Warwick writes a single reflection per week. If a prior reflection for the
 same week is `reviewed`, a re-run produces `<week>-rerun.md` rather than
 overwriting reviewed work.
 """
@@ -223,10 +223,10 @@ def thesis_snapshot() -> str:
 
 
 # ---------------------------------------------------------------------------
-# Cassandra prompts
+# Warwick prompts
 # ---------------------------------------------------------------------------
 
-THEMES_SYSTEM = """You are Cassandra, a weekly reflection agent for a venture
+THEMES_SYSTEM = """You are Warwick, a weekly reflection agent for a venture
 capital investor. You speak with directness — chief-of-staff voice, no
 flattery, no marketing prose. Given the inputs below, return a Markdown
 fragment with two sections:
@@ -244,7 +244,7 @@ drift this week." Do not pad.
 Output only those two sections, no preamble."""
 
 
-QUESTION_SYSTEM = """You are Cassandra. Based on the week's activity and the
+QUESTION_SYSTEM = """You are Warwick. Based on the week's activity and the
 thesis, propose ONE substantive question the owner should sit with next week.
 The question must:
 - be specific to this week's evidence,
@@ -296,7 +296,7 @@ def themes_and_drift(
         resp = client.complete(prompt=user, system=THEMES_SYSTEM)
         return resp.text.strip()
     except Exception as e:
-        return f"## Themes emerging\n_(Cassandra error: {e})_\n\n## Drift\n_(unable to assess)_"
+        return f"## Themes emerging\n_(Warwick error: {e})_\n\n## Drift\n_(unable to assess)_"
 
 
 def propose_question(client: LLMClient, prior: str, thesis: str) -> str:
@@ -307,7 +307,7 @@ def propose_question(client: LLMClient, prior: str, thesis: str) -> str:
         )
         return resp.text.strip().strip('"')
     except Exception as e:
-        return f"[cassandra could not generate a question: {e}]"
+        return f"[warwick could not generate a question: {e}]"
 
 
 # ---------------------------------------------------------------------------
@@ -388,7 +388,7 @@ def build_reflection(week_label: str, dry_run: bool) -> Path:
         "type": "reflection",
         "week": week_label,
         "generated": today(),
-        "agent": "cassandra",
+        "agent": "warwick",
         "status": "draft",
     }
     post = frontmatter.Post(content=body, **fm)
@@ -415,7 +415,7 @@ def build_reflection(week_label: str, dry_run: bool) -> Path:
 
 def main() -> None:
     parser = argparse.ArgumentParser(
-        description="Cassandra — weekly reflection on stated thesis vs revealed behaviour.",
+        description="Warwick — weekly reflection on stated thesis vs revealed behaviour.",
     )
     parser.add_argument(
         "--week", "-w",

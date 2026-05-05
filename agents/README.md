@@ -19,16 +19,16 @@ intentional; the implementation is local and minimal.
 
 | Agent       | Role                | Status            |
 | ----------- | ------------------- | ----------------- |
-| [Sally](sally.md)         | Meeting scribe — turns transcripts into meeting notes and mentions  | implemented       |
-| [Ellie](ellie.md)         | Email watcher — turns forwarded mail into mentions                  | spec only         |
-| [Connor](connor.md)       | Calendar scout — produces morning briefs                            | implemented (manual input) |
-| [Nancy](nancy.md)         | News monitor — weekly digests on tracked companies                  | spec only         |
-| [Arthur](arthur.md)       | Deal analyst — answers ad-hoc analytical questions                  | spec only         |
-| [Cassandra](cassandra.md) | Reflection agent — weekly review of stated thesis vs revealed behaviour | implemented   |
+| [Falstaff](falstaff.md)         | Meeting scribe — turns transcripts into meeting notes and mentions  | implemented       |
+| [Bardolph](bardolph.md)         | Email watcher — turns forwarded mail into mentions                  | spec only         |
+| [Hotspur](hotspur.md)       | Calendar scout — produces morning briefs                            | implemented (manual input) |
+| [Rumour](rumour.md)         | News monitor — weekly digests on tracked companies                  | spec only         |
+| [Poins](poins.md)       | Deal analyst — answers ad-hoc analytical questions                  | spec only         |
+| [Warwick](warwick.md) | Reflection agent — weekly review of stated thesis vs revealed behaviour | implemented   |
 
 ## Philosophy
 
-- **Named, not anonymous.** Saying "Sally wrote 7 mentions" is clearer than
+- **Named, not anonymous.** Saying "Falstaff wrote 7 mentions" is clearer than
   "the ingestion script wrote 7 mentions." The owner is a solo GP; this is the
   team.
 - **Scoped, not omnibus.** Each agent owns one workflow. If asked to do

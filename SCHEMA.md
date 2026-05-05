@@ -51,8 +51,8 @@ relationship:               # founder | operator | lp | co-investor | service-pr
 relationship_strength:      # cold | warm | strong | core
 first_seen: 2026-05-05      # date the person first appeared in this repo
 last_touch:                 # ISO date — last live interaction (call, meeting, email)
-last_mention:               # ISO date — newest mention on this file (Sally maintains)
-mention_count: 0            # integer — count of mentions in body (Sally maintains)
+last_mention:               # ISO date — newest mention on this file (Falstaff maintains)
+mention_count: 0            # integer — count of mentions in body (Falstaff maintains)
 email:
 linkedin:
 location:
@@ -110,7 +110,7 @@ title: "Meeting Title"
 date: 2026-05-05
 created: 2026-05-05
 source:                     # plaud | granola | otter | zoom | manual | unknown
-source_hash:                # SHA-256 of raw transcript bytes (Sally writes; "" for manual)
+source_hash:                # SHA-256 of raw transcript bytes (Falstaff writes; "" for manual)
 attendees: []               # wiki-link strings
 companies: []
 funds: []
@@ -129,7 +129,7 @@ Inbox items use `type: inbox` until promoted. Same status vocabulary as meetings
 type: reflection
 week: 2026-W18
 generated: 2026-05-01
-agent: cassandra
+agent: warwick
 status:                     # draft | reviewed
 ```
 
@@ -139,7 +139,7 @@ status:                     # draft | reviewed
 type: brief
 date: 2026-05-06
 generated: 2026-05-05
-agent: connor
+agent: hotspur
 status:                     # draft | edited | stale
 ```
 
@@ -190,10 +190,10 @@ not one combined mention.
 
 A single meeting can produce mentions on many entity files. The meeting note
 itself remains the source-of-record for the conversation; the mentions are
-*projections* of that meeting onto the entities it touched. Sally writes them
+*projections* of that meeting onto the entities it touched. Falstaff writes them
 automatically; humans can write them by hand following the same format.
 
 ### Frontmatter sync
 
 `mention_count` and `last_mention` in the entity's frontmatter must match the
-body. Sally maintains both. `scripts/validate.py` warns on drift.
+body. Falstaff maintains both. `scripts/validate.py` warns on drift.

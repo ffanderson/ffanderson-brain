@@ -191,7 +191,7 @@ def append_mention(
     """Insert a new mention at the top of the ## Mentions section (newest first).
 
     The mention's source hash is recorded as an HTML comment immediately after
-    the heading; this lets Sally detect duplicates without having to parse the
+    the heading; this lets Falstaff detect duplicates without having to parse the
     visible source line.
     """
     body = ensure_mentions_section(body)

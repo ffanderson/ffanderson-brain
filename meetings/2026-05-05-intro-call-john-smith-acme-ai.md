@@ -4,7 +4,7 @@ title: Intro Call - John Smith, Acme AI
 date: 2026-05-05
 created: 2026-05-05
 source: granola
-source_hash: legacy-pre-sally
+source_hash: legacy-pre-falstaff
 attendees:
   - "[[John Smith]]"
 companies:
