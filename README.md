@@ -91,16 +91,43 @@ for the philosophy and the full list.
 **Morning.** Read `briefs/<today>.md` (written by Hotspur the night before).
 Edit the suggested questions if you want. Walk into your meetings.
 
-**Throughout the day.** Meetings recorded by PLAUD or Granola; transcripts
-land in `inbox/raw/`. Quick notes go into the day's `journal/<date>.md`.
+**Throughout the day.** Meetings recorded by PLAUD; transcripts auto-sync
+to a Google Drive folder on the Mac. Quick notes go into the day's
+`journal/<date>.md`.
 
 **Evening (≤ 10 minutes).**
-1. `python scripts/falstaff.py <transcript>` for each new transcript.
-2. `python scripts/triage_inbox.py` to list raw items.
-3. For each, `python scripts/triage_inbox.py promote <file>` — Falstaff's
-   mentions get a quick review.
-4. Edit `briefs/_tomorrow.md` with tomorrow's meetings.
-5. `python scripts/hotspur.py` writes tomorrow's brief.
+1. `python scripts/plaud_pull.py --ingest` — copies new PLAUD transcripts
+   into `inbox/raw/` and runs Falstaff on each. Idempotent (deduped by
+   SHA-256 of transcript bytes).
+2. `python scripts/triage_inbox.py promote <file>` for each raw item —
+   Falstaff's mentions get a quick review.
+3. Edit `briefs/_tomorrow.md` with tomorrow's meetings.
+4. `python scripts/hotspur.py` writes tomorrow's brief.
+
+### Pulling transcripts from PLAUD
+
+PLAUD writes every recording into a synced Google Drive folder
+(default path: `~/Library/CloudStorage/GoogleDrive-<email>/My Drive/PLAUD Transcripts/`).
+`scripts/plaud_pull.py` watches that folder and ingests new files only;
+historical transcripts already in the folder are skipped on second run by
+content hash.
+
+```bash
+# Preview without copying or calling Claude
+python scripts/plaud_pull.py --dry-run
+
+# Pull only — leaves files in inbox/raw/ for manual ingest
+python scripts/plaud_pull.py
+
+# Pull + run Falstaff on each new file
+python scripts/plaud_pull.py --ingest
+
+# Throttle the first big backfill
+python scripts/plaud_pull.py --ingest --limit 5
+```
+
+If you ever change the PLAUD folder location, pass `--source-dir <path>`
+or edit the `DEFAULT_SOURCE` constant near the top of `plaud_pull.py`.
 
 **Friday afternoon.** `python scripts/warwick.py` writes
 `thesis/reflections/<week>.md`. Read it. Edit it. Decide what to do about
@@ -139,6 +166,7 @@ Link the systems via the `crm_system` and `crm_id` frontmatter fields.
 
 | Script | Purpose |
 | ------ | ------- |
+| `plaud_pull.py` | Pull new transcripts from the PLAUD-synced Google Drive folder into `inbox/raw/`; optionally run Falstaff |
 | `falstaff.py` | Ingest a transcript → meeting + mentions on every entity touched |
 | `hotspur.py` | Generate tomorrow's morning brief from `briefs/_tomorrow.md` |
 | `warwick.py` | Weekly reflection on thesis vs revealed behaviour |
