@@ -22,6 +22,10 @@ from typing import Optional
 
 DEFAULT_MODEL = "claude-sonnet-4-6"
 DEFAULT_MAX_TOKENS = 4096
+# Hard wall on individual API calls. Without this, the SDK's internal retry/
+# backoff loop can sit on a stuck connection indefinitely; observed in the
+# 2026-05-05 backfill on long transcripts.
+DEFAULT_TIMEOUT_S = 180.0
 
 
 @dataclass
@@ -97,7 +101,7 @@ class LLMClient:
                     "anthropic package not installed. Run "
                     "`pip install -r scripts/requirements.txt`."
                 ) from e
-            self._client = anthropic.Anthropic()
+            self._client = anthropic.Anthropic(timeout=DEFAULT_TIMEOUT_S)
 
         kwargs: dict = {
             "model": self.model,

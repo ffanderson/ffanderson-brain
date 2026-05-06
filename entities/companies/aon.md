@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Aon
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # Aon
 
 ## Mentions
+
+
+### 2026-04-02 — Data center capacity search exhausted
+<!-- source_hash: 082a6e0aabf887198b20115a1128a43a5b2e43bc046257ce6f9ed7af04f5cf7e -->
+Fraser's contact Brian Earhart at Aon confirmed that Aon has approached virtually every available source of capacity for data center insurance, and the binding constraint is not price but the industry's inability to aggregate exposure — no one knows exactly what assets sit on which campuses or who finances them. Aon is also assembling institutional capital to absorb upper layers, with returns on those layers running approximately six to nine percent.
+↳ source: [[2026-04-02-strategy-session-data-center-insurance-mga-venture-planning]]
 
 ### 2026-05-05 — Largest broker and venture gatekeeper
 <!-- source_hash: 596dfce9a190463fbf94ef58a55042bbadf171b1473da93945e8418996b95def -->
