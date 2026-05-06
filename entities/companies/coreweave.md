@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: CoreWeave
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-05-01 — Cited as data center owner needing insurance
+<!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->
+Mark cited CoreWeave as an example of a non-hyperscaler entity stepping in to own data center assets, alongside [[Oracle]], illustrating that the universe of entities requiring large-scale data center insurance is broadening beyond the traditional hyperscalers. This was used to support the argument that insurance capacity demand will grow across multiple types of owners and capital structures.
+↳ source: [[2026-05-01-data-center-insurance-capacity-intro-call-with-dan-mesero]]
 
 ### 2026-05-05 — Target customer for GPU optimization play
 <!-- source_hash: d483c00c8901115e48d22940ac624d3385e3e49301dd63235e7cc7495e9e988e -->

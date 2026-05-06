@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Amazon
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-01 — Sale-leaseback reference: TI risk dynamic
+<!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->
+Dan used Amazon's five-story fulfillment facilities as a concrete example of the tenant-improvement risk dynamic relevant to data centers: while a facility may carry a $500 million real estate value, Amazon typically invests a comparable amount in internal TI—conveyor systems, automation—bringing total asset value to around $1 billion per location. He drew a parallel to hyperscale data centers, where internal equipment (chips, servers) likely represents 90% or more of total project cost, meaning the tenant's TI risk dwarfs the landlord's structural risk.
+↳ source: [[2026-05-01-data-center-insurance-capacity-intro-call-with-dan-mesero]]
 
 ### 2026-05-05 — Data center siting discussions
 <!-- source_hash: 842891cc018e07465b2a78ee878a57a26e334206f2d60df6014d5de5ca7a0598 -->

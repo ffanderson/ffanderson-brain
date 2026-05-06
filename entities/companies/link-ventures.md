@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-04-23'
+last_mention: '2026-05-01'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Link Ventures
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-01 — TechCracker/Tech Trek program origin
+<!-- source_hash: a709ded31cf052e324f5cadc23129de187d3e7ceea44a30c0fe8001fcbf25924 -->
+Fraser identified [[Link Ventures]] as the institutional home behind TechCracker/Tech Trek, noting that he, his partner John Warner, Dave, and a few others conceived the summer hacker house program during a conversation at Davos roughly three months prior to the call. Fraser described himself as effectively serving as head of admissions for the program in addition to his managing director role at the firm.
+↳ source: [[2026-05-01-techcracker-tech-trek-applicant-screening-davis-mit-course-6-ai-app-builder]]
 
 ### 2026-04-23 — Day-job base for program organizers
 <!-- source_hash: 12ec1a65d405a18eb8810a9e8da673587198866f28318f068590e4c821b73fff -->

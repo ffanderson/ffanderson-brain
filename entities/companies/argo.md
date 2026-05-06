@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Argo
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-01 — Mark's prior company; historical Mesero relationship
+<!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->
+Mark built [[Argo]] over a 20-year period as the second of two insurance underwriting companies he founded and took public, departing approximately seven years ago. He recalled that Argo had a meaningful relationship with [[Mesero]] during his tenure, though he noted he could not confirm the current status given the time elapsed. Dan confirmed Mesero no longer has an insurance platform, having sold it to [[Alliant]], making the historical Argo-Mesero relationship no longer active.
+↳ source: [[2026-05-01-data-center-insurance-capacity-intro-call-with-dan-mesero]]
 
 ### 2026-04-27 — Reinsurance volume and ceding commission edge
 <!-- source_hash: e3b23879b186b228edf12f031ec8dde8dd02c4ad9a3ea83bf487722e66d4d2ef -->

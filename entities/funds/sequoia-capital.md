@@ -8,7 +8,7 @@ fund_type: vc
 last_mention: '2026-05-05'
 last_touch: 2026-05-05
 location: Menlo Park, CA
-mention_count: 6
+mention_count: 7
 name: Sequoia Capital
 relationship: co-investor
 status: active
@@ -62,6 +62,12 @@ relationship.
 
 
 
+
+
+### 2026-04-03 — Jim Gatz retirement context
+<!-- source_hash: 76c734c2f449569288213890e83822fc20cb11432f7ee7ee3506023fdd438b6d -->
+Joe noted that Jim Gatz had an exceptional Series A track record before retiring around 2016–2017, at which point Joe's associate Ben Pearsall was working at Sequoia after Intuit. Sequoia was referenced as context for the era and peer set rather than as an active counterpart in any current deal.
+↳ source: [[2026-04-03-venture-fund-construction-philosophy-and-haven-capital-partner-separation-review-joe-fraser]]
 
 ### 2026-04-27 — Prior backing of Prod program
 <!-- source_hash: 99c9c87de8e855d69f86609d6bbaab3c36ac19a4aa318a3b2424153fdfa9e23d -->

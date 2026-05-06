@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Corgi
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-04-03 — McLean attribution claim
+<!-- source_hash: 76c734c2f449569288213890e83822fc20cb11432f7ee7ee3506023fdd438b6d -->
+Corgi was cited alongside [[Apollouma]] as one of the only two investments McLean/Southworth could claim to have consummated at Haven. Joe stated that Southworth otherwise brought no attributable body of work.
+↳ source: [[2026-04-03-venture-fund-construction-philosophy-and-haven-capital-partner-separation-review-joe-fraser]]
 
 ### 2026-05-05 — Raising at inflated multiples
 <!-- source_hash: 26d991f0f8fab20a3e4b0f1cdcf32571c107d073ce7a03394d4d0aa0e8981656 -->

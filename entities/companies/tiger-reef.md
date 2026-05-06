@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Tiger Reef
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # Tiger Reef
 
 ## Mentions
+
+
+### 2026-04-03 — Incubation and preference stack entry
+<!-- source_hash: 76c734c2f449569288213890e83822fc20cb11432f7ee7ee3506023fdd438b6d -->
+Tiger Reef, like [[Pico]], was incubated by Joe with founders he introduced to the fund, with an initial priced equity round structured to lock in a preference layer and voting rights from the outset, preventing later investors from gaining structural priority over his position.
+↳ source: [[2026-04-03-venture-fund-construction-philosophy-and-haven-capital-partner-separation-review-joe-fraser]]
 
 ### 2026-05-05 — Incubated company: same preference strategy
 <!-- source_hash: bf186fec98e05ae092887c8aa1265515558a1f23b8a666aa8858f2f1350813b5 -->

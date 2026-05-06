@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Oracle
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-01 — Cited as data center owner needing insurance
+<!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->
+Mark named Oracle alongside [[CoreWeave]] as an example of companies taking ownership positions in data center assets, expanding the pool of potential insurance buyers beyond traditional hyperscalers. The point was that as more varied entities own these assets—particularly through financed or leaseback structures—lender-mandated insurance requirements will apply across a wider set of counterparties.
+↳ source: [[2026-05-01-data-center-insurance-capacity-intro-call-with-dan-mesero]]
 
 ### 2026-04-23 — Cited as missed commercialization opportunity
 <!-- source_hash: 12ec1a65d405a18eb8810a9e8da673587198866f28318f068590e4c821b73fff -->

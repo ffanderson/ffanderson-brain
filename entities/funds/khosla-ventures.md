@@ -8,7 +8,7 @@ fund_type: ''
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Khosla Ventures
 relationship: ''
 status: active
@@ -21,6 +21,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-04-03 — Larry Page as silent LP
+<!-- source_hash: 76c734c2f449569288213890e83822fc20cb11432f7ee7ee3506023fdd438b6d -->
+Joe asserted that Khosla Ventures functions effectively as Larry Page's secret fund, with Page as a silent limited partner providing access to deals across OpenAI and other high-profile investments. Joe said this realization changed his view of Vinod Khosla, noting that Khosla's track record benefits from a structural advantage — Page's network — rather than purely independent investment judgment.
+↳ source: [[2026-04-03-venture-fund-construction-philosophy-and-haven-capital-partner-separation-review-joe-fraser]]
 
 ### 2026-05-05 — Existing investor following on in Tacit
 <!-- source_hash: 53107293f271e555e1fa6437ef7e89348e2738ac203c77133e8fdc5c310678d3 -->

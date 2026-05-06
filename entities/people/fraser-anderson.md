@@ -10,7 +10,7 @@ last_mention: '2026-05-05'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 61
+mention_count: 64
 name: Fraser Anderson
 relationship: ''
 relationship_strength: cold
@@ -83,6 +83,24 @@ type: person
 
 
 
+
+
+
+
+### 2026-05-01 — Venture framing and Advocate board seat
+<!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->
+Fraser framed the exploration as a search for alpha in AI-adjacent infrastructure, leveraging partners with deeper domain experience. He noted he sits on the board of [[Advocate Technologies]], which provides AI-enabled insurance consulting for lenders on high-volume risks, and raised it as a possible entry-point model, though he acknowledged that for risks of this scale manual underwriting judgment is still preferred over LLM-driven automation.
+↳ source: [[2026-05-01-data-center-insurance-capacity-intro-call-with-dan-mesero]]
+
+### 2026-04-29 — TechTrack structure and timeline
+<!-- source_hash: 22c025280193d458349895e453710ee095dd6b62580543a881f180ebdf64f094 -->
+Fraser outlined TechTrack's two-phase structure to the founder: an intensive period from approximately June 8–18, followed by heads-down building through mid-August, with real estate secured at least through July and likely August. He described the intended environment as minimally structured by design — a house parent named Theo would oversee safety and seriousness — with dinners, visits from experienced guests, and network facilitation available but without heavy recycled programming. Fraser indicated the founder had a strong application with enthusiasm from others on the committee, and that decisions would go out on a rolling basis within roughly a week.
+↳ source: [[2026-04-29-techtrack-residency-applicant-interview-harvard-founder-cookie-free-analytics]]
+
+### 2026-04-03 — Separation agreement review with Joe
+<!-- source_hash: 76c734c2f449569288213890e83822fc20cb11432f7ee7ee3506023fdd438b6d -->
+Fraser reviewed a draft separation agreement from partner McLean/Southworth with Joe, identifying critical gaps around distribution mechanics, shared accounts, D&O tail coverage, and LP communications governance. Fraser had already opened a separate GP account at [[Stifel]] and was insistent that no money due to him could ever flow through an account controlled by Southworth. Both agreed the existing timetable was artificial and that more time was needed to tighten the document before signing.
+↳ source: [[2026-04-03-venture-fund-construction-philosophy-and-haven-capital-partner-separation-review-joe-fraser]]
 
 ### 2026-04-29 — Prior advisor to Social Atlas founders
 <!-- source_hash: 95a2aa34ed5dc7a9c66d78dfb7dae80e38aa13f7309b05e0ff302c69f749d07a -->

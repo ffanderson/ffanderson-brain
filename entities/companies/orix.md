@@ -10,7 +10,7 @@ last_mention: '2026-04-03'
 last_touch: ''
 location: ''
 mention_count: 1
-name: LPL
+name: Orix
 sector: ''
 stage: ''
 status: tracking
@@ -19,11 +19,11 @@ type: company
 website: ''
 ---
 
-# LPL
+# Orix
 
 ## Mentions
 
-### 2026-04-03 — Two-hour LP meeting
+### 2026-04-03 — Pending test agreement signature
 <!-- source_hash: 76c734c2f449569288213890e83822fc20cb11432f7ee7ee3506023fdd438b6d -->
-Fraser reported a strong two-hour meeting with LPL during the week of the call, characterizing it positively.
+Joe instructed that a test agreement needed to be signed and sent to Orix, referencing it as a pending action item during the call.
 ↳ source: [[2026-04-03-venture-fund-construction-philosophy-and-haven-capital-partner-separation-review-joe-fraser]]

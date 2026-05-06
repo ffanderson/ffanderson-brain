@@ -10,7 +10,7 @@ last_mention: '2026-05-05'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 7
+mention_count: 8
 name: Mark
 relationship: ''
 relationship_strength: cold
@@ -29,6 +29,12 @@ type: person
 
 
 
+
+
+### 2026-05-01 — Insurance background: built Argo over 20 years
+<!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->
+Mark described having built and taken public two insurance underwriting companies, the second being [[Argo]], which he built over a 20-year period before departing seven years ago. He characterized himself as more investor than insurance operator, noting that running a holding company meant strong strategic decision-making but limited day-to-day transactional exposure to the specialty markets he is now seeking to re-enter.
+↳ source: [[2026-05-01-data-center-insurance-capacity-intro-call-with-dan-mesero]]
 
 ### 2026-04-27 — Morningstar CEO read and TAM framing
 <!-- source_hash: 8a24f86d67d44d13229c43415db697aee0a0a0ad636f923a871afef7709bcf51 -->

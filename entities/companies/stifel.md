@@ -10,7 +10,7 @@ last_mention: '2026-04-03'
 last_touch: ''
 location: ''
 mention_count: 1
-name: LPL
+name: Stifel
 sector: ''
 stage: ''
 status: tracking
@@ -19,11 +19,11 @@ type: company
 website: ''
 ---
 
-# LPL
+# Stifel
 
 ## Mentions
 
-### 2026-04-03 — Two-hour LP meeting
+### 2026-04-03 — New GP account opened
 <!-- source_hash: 76c734c2f449569288213890e83822fc20cb11432f7ee7ee3506023fdd438b6d -->
-Fraser reported a strong two-hour meeting with LPL during the week of the call, characterizing it positively.
+Joe had recently opened a separate GP account at Stifel as part of financially separating himself from McLean/Southworth, using it as the model for how each party should maintain fully independent banking arrangements going forward.
 ↳ source: [[2026-04-03-venture-fund-construction-philosophy-and-haven-capital-partner-separation-review-joe-fraser]]

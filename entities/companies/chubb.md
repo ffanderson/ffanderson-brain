@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Chubb
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-01 — Not active in specialty risk
+<!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->
+When Mark asked whether Chubb wrote condemnation or special risk insurance for structured real estate deals, Dan said he did not believe Chubb offered that product, distinguishing it from [[Lexington]] and [[AIG]], which are active in the space.
+↳ source: [[2026-05-01-data-center-insurance-capacity-intro-call-with-dan-mesero]]
 
 ### 2026-04-02 — Market leader, follow-the-lead target
 <!-- source_hash: 16735a45981ea5f4bf0286ef104b7f0dba7b463ef1725b1cef8cac7aea4d1d52 -->
