@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-04-01'
+last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: LPL Financial
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # LPL Financial
 
 ## Mentions
+
+
+### 2026-05-05 — Mark Cassidy's tenure; aggregation thesis origin
+<!-- source_hash: 902897b92a06bbcb154ca2bcb1924e22a82117abdef0bf371813ae9d12fa2855 -->
+Mark Cassidy, Fraser's former partner at [[Vestigo]], was CEO of LPL Financial and scaled it from roughly $500M to an $8B valuation; it is now a ~$28B public company. Mark's observation running LPL — that professionalizing markets produce a handful of scale players, forcing all others to scale up, specialize, or be absorbed — became a foundational lens for how Fraser thinks about market structure and investment selection.
+↳ source: [[2026-05-05-intro-call-john-pattern-emerging-manager-fund-of-funds]]
 
 ### 2026-04-01 — Direct assets workflow pain points
 <!-- source_hash: d16c2074c6ca0176f765dd9c672391a75da21e0e257f6e4f2041236da75ea34c -->

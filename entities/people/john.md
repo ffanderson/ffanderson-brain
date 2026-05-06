@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-03-19'
+last_mention: '2026-05-05'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 1
+mention_count: 8
 name: John
 relationship: ''
 relationship_strength: cold
@@ -23,6 +23,48 @@ type: person
 # John
 
 ## Mentions
+
+
+
+
+
+
+
+
+### 2026-04-26 — Hackathon judge; prize co-presenter
+<!-- source_hash: a12c9b0b0570a82c4263efeb61f86a0edda9e9cfd6c5c688123331b182c8f529 -->
+John served as a judge at the MIT CSAIL hackathon and co-presented prizes alongside the other organizers. He addressed participants during the award ceremony, describing the talent level as exceptionally high relative to the many hackathons he had attended, and was identified by at least one participant as being affiliated with [[Link Ventures]].
+↳ source: [[2026-04-26-mit-csail-hackathon-prize-deliberation-techtrek-program-update]]
+
+### 2026-04-23 — Tech Trek program overview and vision
+<!-- source_hash: 12ec1a65d405a18eb8810a9e8da673587198866f28318f068590e4c821b73fff -->
+John led the Tech Trek info session, presenting the program as a summer 2026 initiative to bring high-agency undergraduate builders from Harvard, MIT, and Princeton into a shared Bay Area co-living environment. He framed the program as a next-generation accelerator purpose-built for the AI moment, drawing analogies to MIT's founding and early Y Combinator. John described over 200 applications received, with Princeton and Harvard leading in volume, and indicated that acceptances would begin being announced the week of April 27, 2026.
+↳ source: [[2026-04-23-tech-trek-summer-program-prospective-student-info-session]]
+
+### 2026-04-21 — Core team coordination role
+<!-- source_hash: bb56197aa8fba645e68a0da59c5ab0bf93c987aec95c36889bf0377ab27f2440 -->
+John was looped into the core team call and appeared to serve as a connector, helping bring [[Justin]] and [[Theo]] onto the call. He was also mentioned as the point of introduction for the party that discussed [[TauV]] investment positioning toward the end of the meeting.
+↳ source: [[2026-04-21-tech-track-program-planning-funding-logistics-and-student-selection]]
+
+### 2026-04-20 — Operating style and build cadence
+<!-- source_hash: fca130046ae94fcbfcd722acdfa492481c444092344df16a6307cce0e5074183 -->
+John described himself as being fully back in builder mode, using Claude extensively to iterate on investor materials and product concepts until they reach a discussion-ready quality. He is simultaneously running two ventures (IGR and Solomon) with separate teams, investing personally through the [[Gideon Fund]], and managing an expiring allocation in [[Yarnhub]]. He expressed a strong preference for operating and building as his primary value-creation mode, with advisory and fundraising activities as secondary.
+↳ source: [[2026-04-20-strategy-session-john-igr-solomon-gideon-fund-yarnhub]]
+
+### 2026-05-05 — Background and role at Pattern
+<!-- source_hash: 902897b92a06bbcb154ca2bcb1924e22a82117abdef0bf371813ae9d12fa2855 -->
+John is a partner at [[Pattern]], a fund-of-funds focused on emerging managers. He is based on the east coast, primarily in New York, and his parents live on Cape Cod, meaning he spends significant time in the Boston area. He was introduced to Fraser via Will Bay.
+↳ source: [[2026-05-05-intro-call-john-pattern-emerging-manager-fund-of-funds]]
+
+### 2026-04-02 — $5M funding ask strategy
+<!-- source_hash: c342d732b3f14cccc7891a68b35b71ef7a15559ac82e02c766dc0686c08a95c0 -->
+John proposed asking the prospective client for $5 million, framing their solution as the direct answer to every problem the client surfaced in the prior meeting. He suggested the client would pay substantially more for a fully realised version of that solution, describing them as 'groping in the dark,' and wanted the pitch built around the prior meeting's transcript.
+↳ source: [[2026-04-02-post-meeting-debrief-5m-pitch-strategy-and-talent-recruitment-plan]]
+
+### 2026-05-05 — UBS pitch strategy: hurry up offense
+<!-- source_hash: fda28853ac353fd7408956ca657004c485e5243555edc55a5b60cf4428fe41cc -->
+John led an unconventional pitch to [[UBS]] for $5M, deliberately without a formal business plan, instead showcasing existing momentum to pressure funders into acting quickly. He described the approach as a 'hurry up offense' — making inaction embarrassing for the decision-maker. He expressed frustration that a colleague named Dave missed the start of the meeting and that references to Peter Diamandis and moonshots muddied the intended message.
+↳ source: [[2026-05-05-post-pitch-debrief-ubs-5m-funding-strategy-with-john]]
 
 ### 2026-03-19 — Debrief on James Currier call
 <!-- source_hash: 9785e0dd5d1603bc05c5cf0f1e18cfd51c2dfc2a0068873604d8dc1a996a93e2 -->

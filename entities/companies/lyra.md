@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Lyra
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # Lyra
 
 ## Mentions
+
+
+### 2026-05-05 — Round status and investor interest
+<!-- source_hash: 53107293f271e555e1fa6437ef7e89348e2738ac203c77133e8fdc5c310678d3 -->
+The firm holds an approved $5M allocation in Lyra's $15M Series A for its foundational model for bio-commercialization. The founder was in active conversations with tier-one funds, including an initial meeting with [[Founders Fund]] scheduled for the current week and a meeting with OpenAI's life sciences team. Eric Schmidt was already committed as an investor. A follow-up meeting with the founder was scheduled for Friday.
+↳ source: [[2026-05-05-pre-ic-deal-flow-review-pipeline-update-deal-decisions]]
 
 ### 2026-05-05 — Deal size and ownership stake
 <!-- source_hash: 052bc16ede5aab5729d203b724d1efc3c2c76b12badb7b77628baea68a2f2ee8 -->

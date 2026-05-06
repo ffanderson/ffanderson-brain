@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-04-03'
+last_mention: '2026-04-24'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 4
 name: Blitzy
 sector: ''
 stage: ''
@@ -23,6 +23,18 @@ website: ''
 
 ## Mentions
 
+
+
+
+### 2026-04-24 — Boston AI ecosystem context
+<!-- source_hash: fe182c655de62fb007b93a7fea9ea2813ee78c8e07d640b8a9f0185d11dff9b5 -->
+Blitzy was cited during introductory conversation as preparing to announce a roughly $1.2B valuation (approximately $1.4B post-money) imminently, described as one of two flagship AI companies in Boston alongside Liquid. The company originated in the same physical lab space and added 80 seats there after its growth. The mention was contextual, highlighting the Boston AI ecosystem Louis is connected to rather than any direct relationship with [[3DX Thermal]].
+↳ source: [[2026-04-24-intro-pitch-louis-nick-3dx-thermal-ai-chip-cooling-hardware]]
+
+### 2026-04-02 — Valuation benchmark: frothy market
+<!-- source_hash: cf5ded4a4f26dc815c9ea3c5da1e1c3c03af10a3ed57d4d43fdfbaf7a2fdcf7c -->
+Fraser noted that Blitzy had just received a $1.2 billion valuation on $17 million of live revenue, citing it as evidence of frothy market conditions in AI. The founder was unimpressed, emphasizing that exit liquidity mattered more than paper valuations, and noted that JP Morgan had around forty deals in market but was only getting four across the line.
+↳ source: [[2026-04-02-business-reset-update-investment-bank-strategy-fraser-anderson-operator]]
 
 ### 2026-04-01 — Suggested as NYL AI demo company
 <!-- source_hash: 91eb914e1b6f9f37763810f5c40c953b8ae30449825d1977df98e454426972be -->

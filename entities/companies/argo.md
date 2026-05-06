@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 4
 name: Argo
 sector: ''
 stage: ''
@@ -22,6 +22,24 @@ website: ''
 # Argo
 
 ## Mentions
+
+
+
+
+### 2026-05-01 — Mark's prior company; historical Mesero relationship
+<!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->
+Mark built [[Argo]] over a 20-year period as the second of two insurance underwriting companies he founded and took public, departing approximately seven years ago. He recalled that Argo had a meaningful relationship with [[Mesero]] during his tenure, though he noted he could not confirm the current status given the time elapsed. Dan confirmed Mesero no longer has an insurance platform, having sold it to [[Alliant]], making the historical Argo-Mesero relationship no longer active.
+↳ source: [[2026-05-01-data-center-insurance-capacity-intro-call-with-dan-mesero]]
+
+### 2026-04-27 — Reinsurance volume and ceding commission edge
+<!-- source_hash: e3b23879b186b228edf12f031ec8dde8dd02c4ad9a3ea83bf487722e66d4d2ef -->
+At Argo, of roughly $3.5 billion in gross premium, approximately $1.5 billion was ceded to the reinsurance market or capital markets via proportional and excess-of-loss treaties. The ceding commissions Argo received on quota share treaties exceeded 35%, surpassing origination costs of around 30%, a fact Mark said was never publicly disclosed. Reinsurers were willing to pay above-market commissions because Argo's gross loss ratios consistently outperformed net, making Argo a reliably profitable cession partner over multi-year windows.
+↳ source: [[2026-04-27-strategy-session-mark-watson-on-reinsurance-capital-mechanics-dominic-pipeline-and-davos-logistics]]
+
+### 2026-04-02 — Post-Mark decline in share price
+<!-- source_hash: 082a6e0aabf887198b20115a1128a43a5b2e43bc046257ce6f9ed7af04f5cf7e -->
+After Mark's departure, Argo's stock fell from approximately eighty to thirty dollars, a decline Mark attributed to poor leadership by successors rather than any underlying business deterioration. Mark noted that investors who held through his restructuring had made roughly ten times their money, and that the two board members he had himself appointed were among those who manoeuvred to replace him.
+↳ source: [[2026-04-02-strategy-session-data-center-insurance-mga-venture-planning]]
 
 ### 2026-05-05 — Prior ILS market attempt
 <!-- source_hash: 596dfce9a190463fbf94ef58a55042bbadf171b1473da93945e8418996b95def -->

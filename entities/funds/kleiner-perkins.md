@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-03-19'
+last_mention: '2026-04-23'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Kleiner Perkins
 relationship: ''
 status: active
@@ -20,6 +20,12 @@ website: ''
 # Kleiner Perkins
 
 ## Mentions
+
+
+### 2026-04-23 — Partner involved as Tech Trek mentor
+<!-- source_hash: 12ec1a65d405a18eb8810a9e8da673587198866f28318f068590e4c821b73fff -->
+Ben Gordon, a longtime partner at Kleiner Perkins and co-founder of [[Electronic Arts]], was cited as an active mentor for Tech Trek. He was described as creatively engaged with the program and capable of helping participants with product development.
+↳ source: [[2026-04-23-tech-trek-summer-program-prospective-student-info-session]]
 
 ### 2026-03-19 — Target partner for fellowship marketing
 <!-- source_hash: 9785e0dd5d1603bc05c5cf0f1e18cfd51c2dfc2a0068873604d8dc1a996a93e2 -->
