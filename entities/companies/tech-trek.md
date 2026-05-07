@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 3
 name: Tech Trek
 sector: ''
 stage: ''
@@ -22,6 +22,18 @@ website: ''
 # Tech Trek
 
 ## Mentions
+
+
+
+### 2026-05-01 — Program origin and structure
+<!-- source_hash: 821ae8ecad3702afb1d1e8aeebc187344b151c410c8dd9fe98e3b71d575e8bae -->
+Tech Trek originated from a conversation at Davos on January 26, 2026, where [[Fraser Anderson]], his partner John Werner, and Dave Blunden were challenged by Eric Schmidt to demonstrate that Boston produces world-class technical talent. Schmidt agreed to fund a summer program for the best candidates. The program is centered on a shared residence (a mansion being finalized) and is designed to attract ambitious builders, with a deliberate preference for underclassmen who will return to the Boston ecosystem.
+↳ source: [[2026-05-01-tech-trek-admissions-interview-adolfo-bautista-harvard-ee-usc-phd]]
+
+### 2026-05-01 — Program origin and Silicon Valley backing
+<!-- source_hash: f336e6c0c30dd08552f653f13885163196ce5ed800add1e587932181ef630cbc -->
+Tech Trek originated from a conversation at Davos during the World Economic Forum, where Eric Schmidt told [[Fraser Anderson]], John Werner, and Dave Blunden that Boston lacked Silicon Valley-level ambition. Schmidt offered to fund a summer program if they could bring him the best talent. [[Link Ventures]] took on the execution, with Fraser serving as unpaid chief admissions officer. The program is planning to house participants in a mansion for the summer.
+↳ source: [[2026-05-01-tech-trek-admissions-interview-adolfo-bautistas-harvard-ee]]
 
 ### 2026-05-05 — Program structure and summer 2026 design
 <!-- source_hash: 6da76f35d5aa029a926f730d6d55ed1d3a79c33b0204d2227091a685a00ff0d8 -->

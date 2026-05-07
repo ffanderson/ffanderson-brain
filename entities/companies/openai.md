@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 8
 name: OpenAI
 sector: ''
 stage: ''
@@ -26,6 +26,24 @@ website: ''
 
 
 
+
+
+
+
+### 2026-05-07 — Early product velocity cited as model
+<!-- source_hash: 669e7705888fd01bf63af37146bc6af74e0eadf5eadd36564b049af95ade73dc -->
+Chris cited OpenAI's early strategy — staying three to four months ahead on research and rapidly converting that into deployable product — as the template his startup aspires to follow. He noted his company has not yet achieved that tight research-to-product loop and identified closing that gap as a key operational priority.
+↳ source: [[2026-05-07-intro-call-chris-gpu-optimization-startup-scott-fc-centripetal]]
+
+### 2026-05-04 — ChatGPT as cautionary case study
+<!-- source_hash: 0fea94133cfe0c9b5a0115782300d735c46738001bc455f938fe2eb08758cf0c -->
+Peter used [[OpenAI]]'s ChatGPT — which his mother calls 'Chat' — as the central cautionary example in his keynote, arguing that the product had turned his mother into an unpaid data-entry worker performing tasks of no lasting value. He also referenced [[OpenAI]] in the context of the emerging VLA data economy, suggesting its models are among those incentivising paid multimodal human data capture.
+↳ source: [[2026-05-04-imagination-actions-ai-event-peter-google-deepmind-keynote-on-human-ai-inversion-of-control]]
+
+### 2026-05-04 — Mercenary economy and model markets
+<!-- source_hash: 7dadb8515a6fe4fce90c1c00a1b5ef891bba076f32b6ee70858c99cf80f9888b -->
+Peter described an emerging economy in which models from companies like [[OpenAI]] operate markets where humans are paid small amounts — around five dollars for a photo, up to a thousand dollars to wear a camera — to supply data and verification to AI systems. He referred to these human participants as 'meat puppets' and flagged the dynamic as an extension of the mercenary-versus-citizen alignment problem.
+↳ source: [[2026-05-04-imagination-action-ai-networking-event-peter-google-deepmind-keynote-on-human-ai-inversion-of-control]]
 
 ### 2026-04-23 — Platform API integration
 <!-- source_hash: df3eb62b26d2e13a6210f948b5efccf68d61d3637b6aec91568977031890b507 -->

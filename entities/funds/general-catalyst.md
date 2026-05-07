@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-05'
+last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: General Catalyst
 relationship: ''
 status: active
@@ -23,6 +23,12 @@ website: ''
 
 
 
+
+
+### 2026-05-07 — Led first funding round
+<!-- source_hash: 669e7705888fd01bf63af37146bc6af74e0eadf5eadd36564b049af95ade73dc -->
+General Catalyst led the first funding round for Chris's GPU kernel optimization startup. The company has raised approximately $23M in total across two rounds, the second of which was led by [[Jump]].
+↳ source: [[2026-05-07-intro-call-chris-gpu-optimization-startup-scott-fc-centripetal]]
 
 ### 2026-05-05 — Existing investor following on in Tacit
 <!-- source_hash: 53107293f271e555e1fa6437ef7e89348e2738ac203c77133e8fdc5c310678d3 -->

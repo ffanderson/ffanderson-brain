@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: HubSpot
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-05-07 — Kenzer CFO mentorship connection
+<!-- source_hash: 34bd6e1fe35a044442a4d0b3acf5d410a7f121beb204fb74a3e4355f306d94ba -->
+Fraser referenced John Kenzer, who served as CFO at HubSpot and led it through its IPO, as a potential mentor for Courtney. Fraser committed to emailing Kenzer to explore whether he has bandwidth to take on a mentoring relationship with her.
+↳ source: [[2026-05-07-financial-model-review-courtney-lyra-hats-msp-arr-plan]]
 
 ### 2026-04-23 — CTO connected to program
 <!-- source_hash: 12ec1a65d405a18eb8810a9e8da673587198866f28318f068590e4c821b73fff -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 5
 name: Lloyd's
 sector: ''
 stage: ''
@@ -24,6 +24,18 @@ website: ''
 ## Mentions
 
 
+
+
+
+### 2026-05-07 — Supply aggregation source for MGA
+<!-- source_hash: 974b4ac289d5d2ace9d857a653640b4c1355c28416cce724f24efd962c93a7b9 -->
+Fraser described Lloyd's as a key source of insurance capacity for Project AI Insurance, alongside the ILS market, to aggregate supply for standard construction coverages targeting hyperscale data centers.
+↳ source: [[2026-05-07-glider-ai-platform-demo-jim-fraser-anderson]]
+
+### 2026-05-04 — Capacity aggregation source
+<!-- source_hash: cdd2e6c9b4769f8e6f7cdfbed296017bfef71a39b5344fbdf8731bd217b71ae8 -->
+Fraser identified Lloyd's, alongside the ILS market, as the primary source from which Project AI Insurance plans to aggregate capacity for standard construction coverages on hyperscale data centers. Accessing and maintaining delegated authority from Lloyd's syndicates was flagged in the Glider analysis as operationally demanding and a key execution risk.
+↳ source: [[2026-05-04-glider-platform-demo-jim-project-ai-insurance-mga-for-hyperscale-data-centers]]
 
 ### 2026-04-27 — Proposed underwriting structure and timeline
 <!-- source_hash: e7c05c80935887a5eff8cf4a4ff2e1e09ebc1065bdc5aa85614075290511ec12 -->

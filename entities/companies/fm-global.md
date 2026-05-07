@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 5
 name: FM Global
 sector: ''
 stage: ''
@@ -23,6 +23,24 @@ website: ''
 
 ## Mentions
 
+
+
+
+
+### 2026-05-04 — Key data center underwriting carrier
+<!-- source_hash: 514ea3ef2bfe17c6ab2447dae3f04c69a5fffa534e66326f61296a19b46ee759 -->
+FM Global was identified as one of the top-tier carriers in the data center commercial property space, alongside [[Zurich]] and [[AIG]], making it a primary target for talent sourcing in the planned market mapping exercise.
+↳ source: [[2026-05-04-mga-data-center-underwriting-candidate-review-market-mapping-discussion]]
+
+### 2026-05-07 — Cited as underwriting benchmark to replicate
+<!-- source_hash: 974b4ac289d5d2ace9d857a653640b4c1355c28416cce724f24efd962c93a7b9 -->
+Fraser cited FM Global as an example of a leading primary underwriter whose capabilities the software layer of Project AI Insurance aimed to replicate through an agentic system.
+↳ source: [[2026-05-07-glider-ai-platform-demo-jim-fraser-anderson]]
+
+### 2026-05-04 — Benchmark for agentic underwriting
+<!-- source_hash: cdd2e6c9b4769f8e6f7cdfbed296017bfef71a39b5344fbdf8731bd217b71ae8 -->
+Fraser cited FM Global as an example of the leading primary writers whose engineering-based underwriting and loss-control capabilities Project AI Insurance intends to replicate through an agentic software system. FM Global was referenced specifically to illustrate the technical depth and risk-selection rigor the venture is targeting, not as a prospective partner.
+↳ source: [[2026-05-04-glider-platform-demo-jim-project-ai-insurance-mga-for-hyperscale-data-centers]]
 
 ### 2026-04-02 — Primary underwriting expertise incumbent
 <!-- source_hash: 16735a45981ea5f4bf0286ef104b7f0dba7b463ef1725b1cef8cac7aea4d1d52 -->

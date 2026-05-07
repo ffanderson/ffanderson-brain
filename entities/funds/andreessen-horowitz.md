@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-05'
+last_mention: '2026-05-06'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 7
 name: Andreessen Horowitz
 relationship: ''
 status: active
@@ -24,6 +24,18 @@ website: ''
 
 
 
+
+
+
+### 2026-05-06 — Backed an AI insurance competitor
+<!-- source_hash: c3f9b51478c160fe932c654fe64f7c92c8650a315d9b56052fcbb927ce424183 -->
+Fraser noted that at least one of the companies attempting to own the AI insurance category had been backed by [[Andreessen Horowitz]], though he could not recall the company's name at the time of the call. He viewed none of the roughly twenty to thirty competitors in the space as having cracked the problem, citing a consistent failure mode of either tech expertise without insurance knowledge or vice versa.
+↳ source: [[2026-05-06-ai-insurance-strategy-discussion-data-centers-market-map-and-ecosystem-buildout]]
+
+### 2026-05-06 — Invested in Orn; fellowship co-sponsor target
+<!-- source_hash: 9f30ebb0ecc2a11006151286c3848d3fce39c7e25d10228ee09cf71c00128cc8 -->
+Andreessen Horowitz led a round in [[Orn]] within roughly a year of Fraser's initial investment, which Fraser cited as evidence that the student-builder talent pipeline is attracting top-tier capital quickly. Andreessen Horowitz was not mentioned as a prospective fellowship sponsor.
+↳ source: [[2026-05-06-cvc-strategy-portfolio-update-justin-corporate-venture]]
 
 ### 2026-04-27 — Prior backing of Prod program
 <!-- source_hash: 99c9c87de8e855d69f86609d6bbaab3c36ac19a4aa318a3b2424153fdfa9e23d -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-01'
+last_mention: '2026-05-04'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: AIG
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-04 — Key data center underwriting carrier
+<!-- source_hash: 514ea3ef2bfe17c6ab2447dae3f04c69a5fffa534e66326f61296a19b46ee759 -->
+AIG was cited alongside [[Zurich]] and [[FM Global]] as one of the top carriers in commercial property data center underwriting, where the most experienced talent is concentrated.
+↳ source: [[2026-05-04-mga-data-center-underwriting-candidate-review-market-mapping-discussion]]
 
 ### 2026-05-01 — Specialty risk insurance provider
 <!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->

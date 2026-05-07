@@ -8,7 +8,7 @@ fund_type: ''
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Link
 relationship: ''
 status: active
@@ -21,6 +21,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-05 — Blitzy portfolio milestone
+<!-- source_hash: a15a1ee4c78fcb78e142908175d1f52201bffc9f29888575531d8433c7605586 -->
+On the day of the meeting, [[Blitzy]] — a [[Link]] portfolio company in enterprise AI — announced a funding round at a $1.4 billion valuation. Fraser described the fund as having two brands: a fintech-focused brand and Link, which focuses on AI.
+↳ source: [[2026-05-05-intro-call-zoe-sequin-b2c-ai-personalization-potential-advisory-client-intros]]
 
 ### 2026-05-05 — Fund Three performance
 <!-- source_hash: 902897b92a06bbcb154ca2bcb1924e22a82117abdef0bf371813ae9d12fa2855 -->

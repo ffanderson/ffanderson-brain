@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Blackstone
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-04 — Source of prior platform hire
+<!-- source_hash: 514ea3ef2bfe17c6ab2447dae3f04c69a5fffa534e66326f61296a19b46ee759 -->
+Fraser cited the recruitment of Blackstone's CTO as a precedent for the gradual advisory-led hiring approach being proposed for the MGA. That process involved a six-to-nine month relationship-building period before the candidate committed, and Fraser suggested the same approach would likely be required for the senior underwriting leader.
+↳ source: [[2026-05-04-mga-data-center-underwriting-candidate-review-market-mapping-discussion]]
 
 ### 2026-05-05 — Josh's former employer; early-stage arm
 <!-- source_hash: d483c00c8901115e48d22940ac624d3385e3e49301dd63235e7cc7495e9e988e -->

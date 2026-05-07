@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Lyra
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-07 — Auto-provisioning revenue mechanics
+<!-- source_hash: 34bd6e1fe35a044442a4d0b3acf5d410a7f121beb204fb74a3e4355f306d94ba -->
+Lyra's auto-provisioning motion onboards MSP partners into a 14-day acceptance trial, extendable to 30 days upon meeting activation criteria such as adding customers and users. The Starter Pack is priced at $225/month to Lyra, with MSPs marking up 50–100% to end customers; expansion is modeled primarily through pack upgrades (Starter to SMB and above) rather than usage-based overages, with growth modeled through month 12 as cohorts expand and new partners layer in.
+↳ source: [[2026-05-07-financial-model-review-courtney-lyra-hats-msp-arr-plan]]
 
 ### 2026-05-05 — Round status and investor interest
 <!-- source_hash: 53107293f271e555e1fa6437ef7e89348e2738ac203c77133e8fdc5c310678d3 -->

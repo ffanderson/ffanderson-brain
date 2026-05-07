@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-05'
+last_mention: '2026-05-06'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Justin
 relationship: ''
 relationship_strength: cold
@@ -28,6 +28,12 @@ type: person
 
 
 
+
+
+### 2026-05-06 — CVC role and investment focus
+<!-- source_hash: 9f30ebb0ecc2a11006151286c3848d3fce39c7e25d10228ee09cf71c00128cc8 -->
+Justin leads CVC and corporate strategy at a legacy insurer based in Portland. His primary investment hunting grounds are healthcare ecosystem platforms and adjacencies, complex admin offerings (leave/absence, COBRA), workforce management and continuity solutions, and disruption of the Office of the CFO with AI-native tools. He attended JPM Healthcare earlier in the year and had two investments near the finish line at the time of the call.
+↳ source: [[2026-05-06-cvc-strategy-portfolio-update-justin-corporate-venture]]
 
 ### 2026-04-23 — Princeton lead, application outreach
 <!-- source_hash: 12ec1a65d405a18eb8810a9e8da673587198866f28318f068590e4c821b73fff -->

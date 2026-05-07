@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-05'
+last_mention: '2026-05-07'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Robbie
 relationship: ''
 relationship_strength: cold
@@ -27,6 +27,12 @@ type: person
 
 
 
+
+
+### 2026-05-07 — TechTrack program vision
+<!-- source_hash: 9a252e403e85936b46a60ede576b1f7336d0bd66d8def524b7ae61d47b5b3c6f -->
+Robbie, who participated in an earlier cohort of a predecessor program, framed TechTrack as an attempt to recapture the organic, high-standard energy that formalized programs lose over time. He emphasized that the program's advantage is being unbeholden to legacy reputation or practice, allowing organizers to take a new type of founder and set genuinely high standards — countering the 'small potatoes' entrepreneurship thinking common on campus. He introduced the concept of 'proof impact' as the program's north star: demonstrable evidence that participants' lives were changed.
+↳ source: [[2026-05-07-techtrack-program-interview-mauricio-autonomous-painting-robot]]
 
 ### 2026-04-27 — Present at planning session
 <!-- source_hash: 99c9c87de8e855d69f86609d6bbaab3c36ac19a4aa318a3b2424153fdfa9e23d -->

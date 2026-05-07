@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-06'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: AI One
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-06 — Enterprise gen-AI deployment model
+<!-- source_hash: 9f30ebb0ecc2a11006151286c3848d3fce39c7e25d10228ee09cf71c00128cc8 -->
+Fraser described AI One as a gen-AI services company modeled on high-performance computing consultancies that served Fortune 100 clients during the 2015–2020 ML wave, now doing the equivalent natively with generative AI. The company was said to be gaining strong traction within financial services, including life insurers, due to its ability to deploy within client environments and address data security requirements. Fraser also noted an entrepreneur he works closely with is raising an SPV with AI One as one of two portfolio companies and suggested Justin meet that individual first.
+↳ source: [[2026-05-06-cvc-strategy-portfolio-update-justin-corporate-venture]]
 
 ### 2026-05-05 — Core product: data fabric and abstraction layer
 <!-- source_hash: d483c00c8901115e48d22940ac624d3385e3e49301dd63235e7cc7495e9e988e -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 7
 name: CoreWeave
 sector: ''
 stage: ''
@@ -26,6 +26,18 @@ website: ''
 
 
 
+
+
+
+### 2026-05-07 — Cap table presence and planned collaboration
+<!-- source_hash: 669e7705888fd01bf63af37146bc6af74e0eadf5eadd36564b049af95ade73dc -->
+CoreWeave is on Chris's startup's cap table and has been described as responsive and willing to co-brand. Chris indicated a blog post collaboration on inference performance benchmarks was expected to publish within a couple of weeks, with the intent to use that public proof point to invite other neoclouds, including [[Kudo]], to participate in similar arrangements.
+↳ source: [[2026-05-07-intro-call-chris-gpu-optimization-startup-scott-fc-centripetal]]
+
+### 2026-05-05 — Potential acquirer framing
+<!-- source_hash: 881d8e26541adf9fb1972f4bc4d55e0f79e00ec5f16e70a381fbbf993c5520f7 -->
+Fraser half-jokingly suggested CoreWeave should acquire the company, and Chris briefly entertained the idea of a stock-price-contingent deal structure. Chris noted that partnering with or being acquired by a cloud provider that already has infrastructure in market would reduce the burden of building that capacity independently.
+↳ source: [[2026-05-05-post-call-debrief-chris-scott-advisor-strategy-ai-market-positioning]]
 
 ### 2026-05-01 — Cited as data center owner needing insurance
 <!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->

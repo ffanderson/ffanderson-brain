@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-06'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: FinCore
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-06 — CFO stack automation; 50% headcount reduction
+<!-- source_hash: 9f30ebb0ecc2a11006151286c3848d3fce39c7e25d10228ee09cf71c00128cc8 -->
+Fraser cited FinCore, a portfolio company, as an example of AI-native disruption of the Office of the CFO, claiming it could reduce CFO function headcount requirements by approximately fifty percent. FinCore automates revenue cube analysis and works with investment banks to build data rooms and roll-forward models, and Fraser noted composability of such workflows as a broader trend likely to reshape the CFO stack.
+↳ source: [[2026-05-06-cvc-strategy-portfolio-update-justin-corporate-venture]]
 
 ### 2026-04-27 — CFO roundtable attendance, Cambridge
 <!-- source_hash: 8a24f86d67d44d13229c43415db697aee0a0a0ad636f923a871afef7709bcf51 -->

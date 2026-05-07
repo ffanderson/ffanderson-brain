@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Apollo
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-04 — Source of CISO advisory talent
+<!-- source_hash: bc3ad5200dc83aff74f91739c24249503775e93e6cdba1a92562d75729f45d48 -->
+Ryan Cullen, described as a former CISO at Apollo, was identified by [[Greg]] as a strong short-term advisory resource for Hats' incoming Head of Security. Greg cited Cullen's Apollo tenure as evidence of his calibre and noted he had been helpful to Greg on due diligence at other companies through his role at [[ClearSky]].
+↳ source: [[2026-05-04-hats-working-group-security-finance-legal-product-scaling]]
 
 ### 2026-04-02 — Unwilling to back video startup
 <!-- source_hash: 0892afa34128f134a3f8dccb2fd8bf472b94caf01fd8d2dc9a8e60dba09875df -->

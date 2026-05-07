@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Goldman Sachs
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-04 — AI-driven S-1 drafting practice
+<!-- source_hash: bc3ad5200dc83aff74f91739c24249503775e93e6cdba1a92562d75729f45d48 -->
+[[Nancy]] noted that during a conversation with Goldman Sachs, she learned the bank is now using AI to produce the first drafts of S-1 shells. She used this as a prompt to test the same approach herself, producing a draft S-1 for Hats, and raised it as context for how quickly the company should be thinking about IPO readiness.
+↳ source: [[2026-05-04-hats-working-group-security-finance-legal-product-scaling]]
 
 ### 2026-05-05 — George Lee's institute connection
 <!-- source_hash: 842891cc018e07465b2a78ee878a57a26e334206f2d60df6014d5de5ca7a0598 -->
