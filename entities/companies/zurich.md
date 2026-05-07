@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Zurich
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-04 — Top data center carrier
+<!-- source_hash: 514ea3ef2bfe17c6ab2447dae3f04c69a5fffa534e66326f61296a19b46ee759 -->
+Claudio identified Zurich as the leading carrier in commercial property data center insurance, noting that the strongest underwriting talent in the space resided there alongside [[AIG]] and [[FM Global]].
+↳ source: [[2026-05-04-mga-data-center-underwriting-candidate-review-market-mapping-discussion]]
 
 ### 2026-04-02 — Leader in construction insurance
 <!-- source_hash: 16735a45981ea5f4bf0286ef104b7f0dba7b463ef1725b1cef8cac7aea4d1d52 -->

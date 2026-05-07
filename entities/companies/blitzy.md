@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-04-24'
+last_mention: '2026-05-06'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 6
 name: Blitzy
 sector: ''
 stage: ''
@@ -25,6 +25,18 @@ website: ''
 
 
 
+
+
+
+### 2026-05-06 — ARR trajectory; Fraser's bandwidth
+<!-- source_hash: 9f30ebb0ecc2a11006151286c3848d3fce39c7e25d10228ee09cf71c00128cc8 -->
+Fraser shared that Blitzy had made a significant announcement the prior day and projected the company would exit the year at a minimum of $150M ARR. He noted the company's growth was consuming the majority of his time, making it difficult to focus on sourcing, as he was prioritizing ensuring Blitzy had sufficient capital and talent.
+↳ source: [[2026-05-06-cvc-strategy-portfolio-update-justin-corporate-venture]]
+
+### 2026-05-05 — Series A at $1.4B valuation
+<!-- source_hash: a15a1ee4c78fcb78e142908175d1f52201bffc9f29888575531d8433c7605586 -->
+Blitzy, a [[Link]] portfolio company focused on enterprise AI, publicly announced a $1.4 billion valuation on the same day as this meeting. Fraser framed the milestone as validation that enterprise AI companies delivering real value are being appropriately rewarded by the market.
+↳ source: [[2026-05-05-intro-call-zoe-sequin-b2c-ai-personalization-potential-advisory-client-intros]]
 
 ### 2026-04-24 — Boston AI ecosystem context
 <!-- source_hash: fe182c655de62fb007b93a7fea9ea2813ee78c8e07d640b8a9f0185d11dff9b5 -->

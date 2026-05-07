@@ -8,7 +8,7 @@ fund_type: ''
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 8
 name: Link Ventures
 relationship: ''
 status: active
@@ -25,6 +25,18 @@ website: ''
 
 
 
+
+
+
+### 2026-05-01 — Fraser's role; Tech Trek involvement
+<!-- source_hash: 821ae8ecad3702afb1d1e8aeebc187344b151c410c8dd9fe98e3b71d575e8bae -->
+[[Fraser Anderson]] is managing director at Link Ventures, which invests heavily in teams from MIT and Harvard. Fraser took on an unpaid role as chief admissions officer for [[Tech Trek]] after volunteering at Davos, describing the workload as considerably more than anticipated.
+↳ source: [[2026-05-01-tech-trek-admissions-interview-adolfo-bautista-harvard-ee-usc-phd]]
+
+### 2026-05-01 — Role in founding Tech Trek
+<!-- source_hash: f336e6c0c30dd08552f653f13885163196ce5ed800add1e587932181ef630cbc -->
+[[Link Ventures]], led by Fraser Anderson alongside partners John Werner and Dave Blunden, initiated [[Tech Trek]] following the Davos conversation with Eric Schmidt. The fund focuses on teams from MIT and Harvard, and Tech Trek extends that focus into a structured summer build program with Schmidt's financial backing.
+↳ source: [[2026-05-01-tech-trek-admissions-interview-adolfo-bautistas-harvard-ee]]
 
 ### 2026-04-28 — TechTrack program: origin and timeline
 <!-- source_hash: 8eaa43c68560a3d864e9eb74db1c37327f51919a8218447ff7a015ca742dd26c -->

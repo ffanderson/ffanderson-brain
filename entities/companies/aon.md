@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 5
 name: Aon
 sector: ''
 stage: ''
@@ -23,6 +23,24 @@ website: ''
 
 ## Mentions
 
+
+
+
+
+### 2026-05-04 — Leading data center broker
+<!-- source_hash: 514ea3ef2bfe17c6ab2447dae3f04c69a5fffa534e66326f61296a19b46ee759 -->
+Claudio flagged Aon as one of the biggest hitters on the broker side for commercial property data center insurance, alongside [[Marsh]] and [[CRC Group]], and a key talent pool for the MGA's senior underwriting hire.
+↳ source: [[2026-05-04-mga-data-center-underwriting-candidate-review-market-mapping-discussion]]
+
+### 2026-05-07 — Source cited in market analysis
+<!-- source_hash: 974b4ac289d5d2ace9d857a653640b4c1355c28416cce724f24efd962c93a7b9 -->
+Glider cited AON data — alongside construction bid and asset research — as a source underpinning the market analysis generated for Project AI Insurance, contributing to the bottom-up market sizing.
+↳ source: [[2026-05-07-glider-ai-platform-demo-jim-fraser-anderson]]
+
+### 2026-05-04 — Research source for market sizing
+<!-- source_hash: cdd2e6c9b4769f8e6f7cdfbed296017bfef71a39b5344fbdf8731bd217b71ae8 -->
+Glider drew on AON data alongside construction bid and asset data to generate the bottom-up market sizing for Project AI Insurance. AON was also mentioned as a potential connection for Fraser to access additional market research and data.
+↳ source: [[2026-05-04-glider-platform-demo-jim-project-ai-insurance-mga-for-hyperscale-data-centers]]
 
 ### 2026-04-02 — Data center capacity search exhausted
 <!-- source_hash: 082a6e0aabf887198b20115a1128a43a5b2e43bc046257ce6f9ed7af04f5cf7e -->

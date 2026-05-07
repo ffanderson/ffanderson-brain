@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: LPL Financial
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-05 — Mark's board connection to Target
+<!-- source_hash: a15a1ee4c78fcb78e142908175d1f52201bffc9f29888575531d8433c7605586 -->
+Mark noted he was chairman and CEO of [[LPL Financial]] and took it public in 2010. He suggested Fraser or Zoe review the LPL Financial board for members with cross-board connections to target B2C companies like Target, specifically citing Ann Mulcahy — former CEO of [[Xerox]] — as a former LPL board member who also served on the Target board and had previously helped one of their portfolio companies.
+↳ source: [[2026-05-05-intro-call-zoe-sequin-b2c-ai-personalization-potential-advisory-client-intros]]
 
 ### 2026-05-05 — Mark Cassidy's tenure; aggregation thesis origin
 <!-- source_hash: 902897b92a06bbcb154ca2bcb1924e22a82117abdef0bf371813ae9d12fa2855 -->

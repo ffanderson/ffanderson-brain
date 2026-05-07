@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-04-23'
+last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Cursor
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-07 — Mentioned as competitive context
+<!-- source_hash: 669e7705888fd01bf63af37146bc6af74e0eadf5eadd36564b049af95ade73dc -->
+Cursor's founders were mentioned by Chris alongside [[Cognition]] as part of a broader observation that the pace of AI progress means companies his startup could have comfortably outpaced two years ago are now serious competitive reference points, reinforcing the need to move quickly.
+↳ source: [[2026-05-07-intro-call-chris-gpu-optimization-startup-scott-fc-centripetal]]
 
 ### 2026-04-23 — Reference: upside framing
 <!-- source_hash: df3eb62b26d2e13a6210f948b5efccf68d61d3637b6aec91568977031890b507 -->

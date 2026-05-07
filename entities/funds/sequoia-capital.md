@@ -5,10 +5,10 @@ created: 2026-05-05
 crm_id: null
 crm_system: null
 fund_type: vc
-last_mention: '2026-05-05'
+last_mention: '2026-05-06'
 last_touch: 2026-05-05
 location: Menlo Park, CA
-mention_count: 7
+mention_count: 8
 name: Sequoia Capital
 relationship: co-investor
 status: active
@@ -63,6 +63,12 @@ relationship.
 
 
 
+
+
+### 2026-05-06 — Likely fellowship sponsor
+<!-- source_hash: 9f30ebb0ecc2a11006151286c3848d3fce39c7e25d10228ee09cf71c00128cc8 -->
+Fraser indicated Sequoia was likely to contribute sponsorship money to the summer fellowship program for student builders from MIT, Harvard, and Princeton. He framed securing Sequoia's involvement as part of a broader strategy to create a capital flywheel and differentiate from other East Coast firms.
+↳ source: [[2026-05-06-cvc-strategy-portfolio-update-justin-corporate-venture]]
 
 ### 2026-04-03 — Jim Gatz retirement context
 <!-- source_hash: 76c734c2f449569288213890e83822fc20cb11432f7ee7ee3506023fdd438b6d -->

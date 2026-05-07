@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-05'
+last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Vestigo
 relationship: ''
 status: active
@@ -23,6 +23,12 @@ website: ''
 
 
 
+
+
+### 2026-05-07 — Passed on Aidan IC pitch
+<!-- source_hash: 358e670a9d95ea8cd087acfd6c9aeb1bfe8eea59cff7f418e354508ad9421db0 -->
+Aidan told Fraser to use the [[Vestigo]] IC rejection as a narrative proof point when pitching the SPV: Vestigo declined to have Aidan present to their investment committee, and the first of his eight portfolio assets has since grown to close to $6.5B enterprise value and $1.6B of equity. The implication Fraser was asked to convey is that investors who passed earlier now want back in.
+↳ source: [[2026-05-07-catch-up-call-aidan-partnership-dissolution-and-hats-dadi-spv-update]]
 
 ### 2026-04-21 — Earlier fund brand with Dave
 <!-- source_hash: 792c8fee85fbe6c2dc36471e01a7d2540f319d7064e43aad8119f1494f6f0ffb -->

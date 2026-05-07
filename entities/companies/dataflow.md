@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-04-03'
+last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Dataflow
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-07 — Equity offer declined
+<!-- source_hash: 358e670a9d95ea8cd087acfd6c9aeb1bfe8eea59cff7f418e354508ad9421db0 -->
+Jack offered Aidan a 20% stake in Dataflow as part of the separation, but Aidan turned it down. He said he would continue to help regardless of ownership because when he commits to something it is not about the percentage, and he did not want any obligation hanging over the relationship.
+↳ source: [[2026-05-07-catch-up-call-aidan-partnership-dissolution-and-hats-dadi-spv-update]]
 
 ### 2026-04-03 — European platform: deal pipeline
 <!-- source_hash: c6ca64c034e866e09b02ad82500a859075f9602885251ee5ddec0bbd9ca73fc0 -->

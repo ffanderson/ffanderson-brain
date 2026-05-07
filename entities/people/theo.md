@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-05'
+last_mention: '2026-05-07'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Theo
 relationship: ''
 relationship_strength: cold
@@ -27,6 +27,12 @@ type: person
 
 
 
+
+
+### 2026-05-07 — Tech Track operational team
+<!-- source_hash: c1cbf444f00990cabbd78769085e004dcb463b48400c2320903980ec92011096 -->
+Theo was identified alongside [[Carson]] as part of the core operational team for the Tech Track fellowship. Fraser described having both Carson and Theo working on it as a reason for confidence that the program would succeed.
+↳ source: [[2026-05-07-tech-track-fellowship-launch-science-dinner-12-lime-street-boston]]
 
 ### 2026-04-27 — MIT pipeline lead and outreach plan
 <!-- source_hash: 99c9c87de8e855d69f86609d6bbaab3c36ac19a4aa318a3b2424153fdfa9e23d -->

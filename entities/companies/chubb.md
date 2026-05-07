@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Chubb
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-05-04 — Precedent client for market mapping
+<!-- source_hash: 514ea3ef2bfe17c6ab2447dae3f04c69a5fffa534e66326f61296a19b46ee759 -->
+Mort noted that Chubb was a repeat client that regularly commissioned market mapping projects, using the broad talent landscape analysis to then narrow down to specific target profiles — the same methodology proposed for the MGA data center underwriting search.
+↳ source: [[2026-05-04-mga-data-center-underwriting-candidate-review-market-mapping-discussion]]
 
 ### 2026-05-01 — Not active in specialty risk
 <!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->

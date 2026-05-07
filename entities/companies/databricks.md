@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Databricks
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # Databricks
 
 ## Mentions
+
+
+### 2026-05-07 — Post-acquisition brief tenure
+<!-- source_hash: 669e7705888fd01bf63af37146bc6af74e0eadf5eadd36564b049af95ade73dc -->
+After [[MosaicML]] was acquired by Databricks, Chris did a short stint contributing to Databricks' work before leaving to pursue his current startup.
+↳ source: [[2026-05-07-intro-call-chris-gpu-optimization-startup-scott-fc-centripetal]]
 
 ### 2026-05-05 — Fraser evaluating $20M position
 <!-- source_hash: 26d991f0f8fab20a3e4b0f1cdcf32571c107d073ce7a03394d4d0aa0e8981656 -->

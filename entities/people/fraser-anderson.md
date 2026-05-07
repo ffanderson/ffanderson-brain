@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-05'
+last_mention: '2026-05-07'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 64
+mention_count: 81
 name: Fraser Anderson
 relationship: ''
 relationship_strength: cold
@@ -86,6 +86,108 @@ type: person
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 2026-05-07 — Program structure: two-week option dropped
+<!-- source_hash: f437ac48e12422a43e4ed00c00cec6f960d883789b4347cab23109b3710f5363 -->
+Fraser confirmed the two-week participation format that had been floated was abandoned due to excess interest and because it was fundamentally at odds with the program's purpose of getting people to build. He emphasized the program is not an internship and that participants must be self-directed and comfortable with ambiguity.
+↳ source: [[2026-05-07-summer-program-q-a-isabella-prospective-participant]]
+
+### 2026-05-06 — AI insurance scope: beyond data centers
+<!-- source_hash: c3f9b51478c160fe932c654fe64f7c92c8650a315d9b56052fcbb927ce424183 -->
+Fraser argued that while insuring data centers is the right starting point, the ultimate end game should be insuring the broader wave of new businesses created by the AI ecosystem, including companies that grow rapidly into unicorns. He noted that data centers alone may not produce a large enough TAM, and that a broader spread of risk would be necessary to efficiently deploy the capital required for data center underwriting. He explicitly deprioritised the small business insurance segment as oversaturated.
+↳ source: [[2026-05-06-ai-insurance-strategy-discussion-data-centers-market-map-and-ecosystem-buildout]]
+
+### 2026-05-07 — New York plans: Raphael exhibit, Carnegie Hall
+<!-- source_hash: 33447a39537a0c984c9df187f8542766c0c043a8733b8537d447529db2e6cc26 -->
+Fraser committed to visiting New York within the next four weeks to see the once-in-a-generation Raphael exhibit at the Metropolitan Museum of Art, which runs through June 28th. Jeremy offered to send Fraser specific dates for concerts at Carnegie Hall that might align with the trip.
+↳ source: [[2026-05-07-dinner-catch-up-fraser-anderson-ian-jeremy-healthcare-vc-pe-allocation-boston-politics]]
+
+### 2026-05-04 — Action items: Nick, Cooley, ClearSky
+<!-- source_hash: bc3ad5200dc83aff74f91739c24249503775e93e6cdba1a92562d75729f45d48 -->
+Fraser took ownership of three near-term actions from the meeting: meeting Nick this week to assess his situation and propose a reporting structure that does not run through Jimmy; raising the Ryan Cullen advisory idea with Aiden and then with Alex from [[ClearSky]] during a Palm Beach meeting the following day; and reviewing the [[Cooley]] relationship during an upcoming New York visit with a view to renegotiation and better legal-work routing.
+↳ source: [[2026-05-04-hats-working-group-security-finance-legal-product-scaling]]
+
+### 2026-05-04 — Advisory-led recruitment strategy
+<!-- source_hash: 514ea3ef2bfe17c6ab2447dae3f04c69a5fffa534e66326f61296a19b46ee759 -->
+Fraser proposed a gradual, relationship-led approach to recruiting the senior underwriting leader, drawing on prior experience hiring the CTO of [[Blackstone]] and CIO from [[Orix]] for his data center platform. The strategy involves engaging a top candidate as an unpaid advisor first, building their belief in the venture over six to nine months, and targeting a formal in-seat start around January 1. Fraser emphasised the candidate should take some risk alongside the team rather than receive compensation during the advisory phase.
+↳ source: [[2026-05-04-mga-data-center-underwriting-candidate-review-market-mapping-discussion]]
+
+### 2026-05-04 — Venture investment thesis discussed
+<!-- source_hash: 0fea94133cfe0c9b5a0115782300d735c46738001bc455f938fe2eb08758cf0c -->
+During informal post-event networking, Fraser was mentioned positively by another attendee who said he had been hearing about Fraser from mutual contacts — including Jim O'Neill and John — for a long time and was impressed. Fraser's investment focus was characterised in conversation as centring on 'AI X something else,' with particular interest in AI applied to insurance and financial capital, and a preference for startups with a strong go-to-market or intelligent niche rather than generic AI software.
+↳ source: [[2026-05-04-imagination-actions-ai-event-peter-google-deepmind-keynote-on-human-ai-inversion-of-control]]
+
+### 2026-05-05 — First meeting with Claudio's group
+<!-- source_hash: a3f342e5ea15b657b0addc193ba63a19d774a798cc88de3e82f1d7e0526c1256 -->
+Fraser had his first meeting with [[Claudio]], [[Melissa]], and two other contacts (Mort and Mark). The session was rendered non-functional by widespread connectivity failures on the initial platform, and Fraser proposed migrating to Zoom by dropping his personal link into the chat in order to salvage the call.
+↳ source: [[2026-05-05-intro-call-claudio-mort-mark-melissa-platform-migration-session]]
+
+### 2026-05-07 — Role in fellowship program
+<!-- source_hash: 260b3f6e6ab1bbde3cce687acfbc80c1bf27e022286233fd7000b69b24079fb0 -->
+Fraser was co-organising the summer tech fellowship alongside John, with Carson and Theo handling on-the-ground logistics. He planned to visit the San Francisco house for a couple of weeks in mid-June and again later in the summer to monitor the program. He described the fellowship as nearly collapsing four weeks prior before recovering.
+↳ source: [[2026-05-07-science-dinner-tech-fellowship-gathering-georges-doriot-house-boston]]
+
+### 2026-05-04 — Board seat at Fincon; reputation noted
+<!-- source_hash: 7dadb8515a6fe4fce90c1c00a1b5ef891bba076f32b6ee70858c99cf80f9888b -->
+Fraser was cited by another attendee as a board member at [[Fincon]] alongside Jim O'Neill and Michael Song. The same attendee expressed having been impressed by Fraser over an extended period, having heard about him from both Jim O'Neill and others before meeting him at the event.
+↳ source: [[2026-05-04-imagination-action-ai-networking-event-peter-google-deepmind-keynote-on-human-ai-inversion-of-control]]
+
+### 2026-05-07 — TechTrack structure and programming
+<!-- source_hash: 9a252e403e85936b46a60ede576b1f7336d0bd66d8def524b7ae61d47b5b3c6f -->
+Fraser outlined TechTrack as a summer program for talented undergraduate builders whose startups are viable specifically because of the current AI moment. The program will be centered in a thirty-person house in Pacific Heights with workspace in the nearby Presidio. Formal programming — including network sessions with figures such as Eric Schmidt and Demis Hassabis — is front-loaded into the first two weeks (June 7–21) to free up focused building time later, with a closing event planned on Martha's Vineyard on August 14.
+↳ source: [[2026-05-07-techtrack-program-interview-mauricio-autonomous-painting-robot]]
+
+### 2026-05-04 — Project AI Insurance concept
+<!-- source_hash: cdd2e6c9b4769f8e6f7cdfbed296017bfef71a39b5344fbdf8731bd217b71ae8 -->
+Fraser described Project AI Insurance as an MGA targeting the physical AI economy, starting with hyperscale data center clients. The near-term wedge is a consulting service to hyperscalers pursuing sale-leasebacks of data center assets, combined with standard construction coverages aggregated from [[Lloyd's]] and the ILS market. Over time the venture intends to develop data-center-specific product lines and build agentic underwriting software designed to replicate the capabilities of leading primary writers such as [[FM Global]]. An initial budget of three to five million dollars was cited as the expected starting capital requirement.
+↳ source: [[2026-05-04-glider-platform-demo-jim-project-ai-insurance-mga-for-hyperscale-data-centers]]
+
+### 2026-05-07 — Tech Track fellowship role
+<!-- source_hash: c1cbf444f00990cabbd78769085e004dcb463b48400c2320903980ec92011096 -->
+Fraser attended the 12 Lime Street science salon in a co-organizer capacity alongside John, operating through [[Lake Ventures]]. He described the fellowship as nearly collapsing four weeks prior but now on track, with 31 accepted fellows bound for a San Francisco house. He planned to travel to San Francisco for a couple of weeks in mid-June to monitor the cohort and check on [[Carson]].
+↳ source: [[2026-05-07-tech-track-fellowship-launch-science-dinner-12-lime-street-boston]]
+
+### 2026-05-01 — Student cohort review session
+<!-- source_hash: 4b4588e9d566a70eab8288af96a9afb0a7b39344e6009889f4324b05d1bed328 -->
+Fraser co-led a review of 19 applicants to a student startup cohort, assessing candidates individually and discussing team placement strategy. The two organizers decided to move all waitlisted applicants to accepted status except for Alexander, who had not yet been interviewed. Fraser flagged plans to personally place several candidates — including Colin, Neer, and Alad — onto existing teams, and noted he expected additional rolling applications following an event on 2026-05-07. A pre-cohort alignment session for MIT teams was also discussed to help them match the readiness of competing Princeton candidates.
+↳ source: [[2026-05-01-cohort-applicant-review-startup-program-pipeline]]
+
+### 2026-05-07 — MIT co-founder experience
+<!-- source_hash: 735b34501a67269ee00c67c0314cc98e9d8a9604cfe54d78d70c47f2680c5876 -->
+Fraser recounted that two MIT candidates he had initially considered as co-founders came back with AI-researched questions that revealed they did not understand the terminology they were using. After Fraser laid out a high-level ownership structure, both said they could execute independently and ultimately became summer interns rather than entrepreneurs, which Fraser cited as a pattern consistent with entitled or overconfident early-stage talent.
+↳ source: [[2026-05-07-catch-up-call-mark-watson-fraser-anderson-on-hiring-strategy-davos-planning-and-cannabis-insurance-opportunity]]
+
+### 2026-05-07 — Reviewing Hots SPV opportunity
+<!-- source_hash: 781be2a5e97347bc35c36ac55252b378cf6df50771edb1c71cedcfcf30f6da82 -->
+Fraser was introduced to Hots by a board member acquaintance and agreed to receive the investment materials before deciding whether to take a call with co-founder Aiden. Fraser indicated he was open to looking at it given his trust in the source, but explicitly asked for time to assess interest before any founder meeting.
+↳ source: [[2026-05-07-deal-intro-call-hots-tech-spv-opportunity]]
+
+### 2026-05-07 — SPV carry and sourcing mandate
+<!-- source_hash: 358e670a9d95ea8cd087acfd6c9aeb1bfe8eea59cff7f418e354508ad9421db0 -->
+Fraser was given carry in [[Aidan]]'s $35M [[Hats]] SPV rather than a direct equity allocation, keeping his entity off the cap table. His mandate is to source investors from his network using a specific truthful narrative around the Vestigo pass and Hats' current metrics, to avoid pressuring prospects, and to confirm capacity requirements so Aidan can plan allocations for Fraser and at least one other committed investor.
+↳ source: [[2026-05-07-catch-up-call-aidan-partnership-dissolution-and-hats-dadi-spv-update]]
+
+### 2026-04-29 — Summer accelerator program structure
+<!-- source_hash: 5688edd59cdc20a8d03cf624e673db72de5d4814fb4dd78c030bc1165d6ae2fd -->
+Fraser described the structure of a summer accelerator program he is running in Silicon Valley. The first week (June 8–16) is an intensive orientation where the cohort meets AI labs, entrepreneurs, and attends social events including a party at HAI in Palo Alto. The remainder of the summer is focused on building, with a central mansion as a social hub, overflow Airbnbs, a house parent for logistics, and a facilitator connecting founders to mentors from the alumni network. Fraser emphasized minimal rules and structure, borrowing the Einstein framing of 'as simple as possible, but no more.'
+↳ source: [[2026-04-29-founder-interview-professional-introductions-app-summer-program-discussion]]
 
 ### 2026-05-01 — Venture framing and Advocate board seat
 <!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->

@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Nvidia
 sector: ''
 stage: ''
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-05-05 — Scott's CFO-level access
+<!-- source_hash: 881d8e26541adf9fb1972f4bc4d55e0f79e00ec5f16e70a381fbbf993c5520f7 -->
+Fraser highlighted that Scott had regularly gone head-to-head with Nvidia's CFO as part of his prior work in TMT finance, citing this as evidence of the calibre of relationships and commercial credibility he could bring to bear on behalf of the company.
+↳ source: [[2026-05-05-post-call-debrief-chris-scott-advisor-strategy-ai-market-positioning]]
 
 ### 2026-04-23 — Inception program connected to Tech Trek
 <!-- source_hash: 12ec1a65d405a18eb8810a9e8da673587198866f28318f068590e4c821b73fff -->
