@@ -49,8 +49,11 @@ def parse_tomorrow(path: Path) -> list[dict]:
     """Return a list of {time, raw, entities[]} dicts."""
     if not path.exists():
         raise FileNotFoundError(f"Missing {path}; create one with tomorrow's meetings.")
+    # Strip <!-- ... --> comment blocks so illustrative example bullets
+    # inside the file's instruction header don't get treated as real meetings.
+    text = re.sub(r"<!--.*?-->", "", path.read_text(), flags=re.DOTALL)
     items: list[dict] = []
-    for line in path.read_text().splitlines():
+    for line in text.splitlines():
         m = MEETING_LINE_RE.match(line)
         if not m:
             continue
