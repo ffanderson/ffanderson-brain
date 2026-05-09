@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-07'
+last_mention: '2026-05-09'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Hats
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-05-09 — Investment tranches and ownership
+<!-- source_hash: 072d3ba9b18f69c6455d1ab44280c53424f0a2ab472aa3b274ab8ea83536f84a -->
+Fraser invested in Hats across three rounds from his second fund: $1.5M at an $8M pre-money valuation, $1.5M at $30M pre-money, and $1.5M at $55M pre-money. He owns approximately 17–18% of the company. Joe noted that the second tranche's price per share was likely closer to the first than the third on a risk-adjusted basis, suggesting the second check should have been $3M rather than $1.5M.
+↳ source: [[2026-05-09-fund-philosophy-deep-dive-joe-gazzell-haven-ventures-fraser-anderson]]
 
 ### 2026-05-04 — Cross-functional scaling priorities
 <!-- source_hash: bc3ad5200dc83aff74f91739c24249503775e93e6cdba1a92562d75729f45d48 -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-07'
+last_mention: '2026-05-09'
 last_touch: ''
 location: ''
-mention_count: 7
+mention_count: 9
 name: CoreWeave
 sector: ''
 stage: ''
@@ -28,6 +28,18 @@ website: ''
 
 
 
+
+
+
+### 2026-05-07 — Active pilot with Standard Kernel
+<!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->
+[[Standard Kernel]] had an active pilot running with CoreWeave at the time of the meeting. Josh viewed CoreWeave as a natural fit given that neoclouds lease compute as an abstracted service and are directly incentivised to reduce per-GPU costs. Josh recalled that when he was at [[Blackstone]], the firm arranged a large credit facility for CoreWeave to purchase its first significant GPU tranche, which was widely considered aggressive at the time but proved conservative within weeks when CoreWeave returned for more.
+↳ source: [[2026-05-07-intro-call-chris-standard-kernel-and-josh-beacon-nadia]]
+
+### 2026-05-09 — Top pilot priority; IP and pricing
+<!-- source_hash: 43ef329822653aa56778b42f5fffb0185a99c8d2b0f1a23902e340d3ab53fd44 -->
+Fraser identified [[CoreWeave]] as the best single dart to throw, noting that the startup's optimization capability could create enormous value given CoreWeave's leveraged GPU cloud economics. Fraser cautioned Chris to guard IP aggressively during the engagement, and flagged that if CoreWeave is not paying for the pilot, that arrangement should be renegotiated — partners not contributing financially should not receive priority engineering support.
+↳ source: [[2026-05-09-gtm-strategy-pilot-prioritisation-chris-ai-kernel-optimisation-startup]]
 
 ### 2026-05-07 — Cap table presence and planned collaboration
 <!-- source_hash: 669e7705888fd01bf63af37146bc6af74e0eadf5eadd36564b049af95ade73dc -->

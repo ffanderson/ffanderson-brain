@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Cursor
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-05-07 — Connection to Standard Kernel co-founder
+<!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->
+Foley and Arvid from Cursor were part of the same MIT competitive programming cohort as Anne, co-founder of [[Standard Kernel]]. Cursor was among the AI-native companies that had tried to recruit Anne before she chose to co-found Standard Kernel, and Chris cited Cursor as a representative example of an AI-native organisation currently facing urgent inference optimisation pressure.
+↳ source: [[2026-05-07-intro-call-chris-standard-kernel-and-josh-beacon-nadia]]
 
 ### 2026-05-07 — Mentioned as competitive context
 <!-- source_hash: 669e7705888fd01bf63af37146bc6af74e0eadf5eadd36564b049af95ade73dc -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-09'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: AMD
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-05-09 — Hardware partner via senior intro
+<!-- source_hash: 43ef329822653aa56778b42f5fffb0185a99c8d2b0f1a23902e340d3ab53fd44 -->
+Fraser suggested [[AMD]] as a potential final dart, with access potentially available through John Werner's close relationship with AMD's president. Fraser advised Chris to call John Werner to pursue that introduction.
+↳ source: [[2026-05-09-gtm-strategy-pilot-prioritisation-chris-ai-kernel-optimisation-startup]]
 
 ### 2026-04-23 — Former president hosting launch dinner
 <!-- source_hash: 12ec1a65d405a18eb8810a9e8da673587198866f28318f068590e4c821b73fff -->

@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-07'
+last_mention: '2026-05-09'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: General Catalyst
 relationship: ''
 status: active
@@ -24,6 +24,12 @@ website: ''
 
 
 
+
+
+### 2026-05-09 — Dave Bialik founder, re-entry event
+<!-- source_hash: 6ec529ae3e7cbccb65dc24aa206d4d1ee4b9af896864c7299027976f8d6725f4 -->
+Dave Bialik, described as a founder of [[General Catalyst]] who has raised billions of dollars, was confirmed as a planned participant in Tech Trek's re-entry event on August 13th on Martha's Vineyard, where he would host the cohort at his house. He was characterized as a significant figure in the program's investor-mentor network.
+↳ source: [[2026-05-09-tech-trek-sf-cohort-info-session-founder-interviews-harvard-mit-princeton]]
 
 ### 2026-05-07 — Led first funding round
 <!-- source_hash: 669e7705888fd01bf63af37146bc6af74e0eadf5eadd36564b049af95ade73dc -->

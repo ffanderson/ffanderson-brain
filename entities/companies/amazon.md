@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-09'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Amazon
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-09 — Hyperscaler pilot target
+<!-- source_hash: 43ef329822653aa56778b42f5fffb0185a99c8d2b0f1a23902e340d3ab53fd44 -->
+Fraser identified [[Amazon]]'s ecosystem as the preferred hyperscaler dart, noting that Google was unlikely to engage and that Amazon was therefore the practical option among the major cloud providers.
+↳ source: [[2026-05-09-gtm-strategy-pilot-prioritisation-chris-ai-kernel-optimisation-startup]]
 
 ### 2026-05-01 — Sale-leaseback reference: TI risk dynamic
 <!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->

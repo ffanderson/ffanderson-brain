@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: QTS
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-07 — Blackstone acquisition; Josh's involvement
+<!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->
+Josh was one of four people who led the [[Blackstone]] acquisition of the QTS data center portfolio, a landmark deal that established Blackstone as a major investor in AI infrastructure data centers. The QTS deal preceded a subsequent large credit facility for [[CoreWeave]] and marked the start of Josh's pivot from CTO to infrastructure investor.
+↳ source: [[2026-05-07-intro-call-chris-standard-kernel-and-josh-beacon-nadia]]
 
 ### 2026-04-02 — Example counterparty in SPV complexity
 <!-- source_hash: 16735a45981ea5f4bf0286ef104b7f0dba7b463ef1725b1cef8cac7aea4d1d52 -->

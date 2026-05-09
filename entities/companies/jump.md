@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-07'
+last_mention: '2026-05-09'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Jump
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-09 — Identified as strong ICP
+<!-- source_hash: 43ef329822653aa56778b42f5fffb0185a99c8d2b0f1a23902e340d3ab53fd44 -->
+Fraser described [[Jump]] as a very good dart to throw and a strong ideal customer profile, consistent with elite trading firms where verifiable performance gains translate directly into economic value.
+↳ source: [[2026-05-09-gtm-strategy-pilot-prioritisation-chris-ai-kernel-optimisation-startup]]
 
 ### 2026-05-07 — Research and training partnership, Ruben access
 <!-- source_hash: 669e7705888fd01bf63af37146bc6af74e0eadf5eadd36564b049af95ade73dc -->

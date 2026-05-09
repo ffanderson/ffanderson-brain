@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-04-24'
+last_mention: '2026-05-09'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Cerebras
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-09 — Cited as hardware example
+<!-- source_hash: 6ec529ae3e7cbccb65dc24aa206d4d1ee4b9af896864c7299027976f8d6725f4 -->
+Cerebras was cited by the lead organizer as an example of a hardware company within the program's scope, used to illustrate that Tech Trek was not exclusively software-focused. No investment relationship or deeper discussion was noted beyond this reference.
+↳ source: [[2026-05-09-tech-trek-sf-cohort-info-session-founder-interviews-harvard-mit-princeton]]
 
 ### 2026-04-24 — Extreme heat load; potential future customer
 <!-- source_hash: fe182c655de62fb007b93a7fea9ea2813ee78c8e07d640b8a9f0185d11dff9b5 -->

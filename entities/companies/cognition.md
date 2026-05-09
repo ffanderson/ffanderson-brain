@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Cognition
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-07 — Connection to Standard Kernel co-founder
+<!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->
+Anne, co-founder of [[Standard Kernel]], had early visibility into agentic AI through her network of competitive programmers from MIT, which included Walden from Cognition. This early window into where agentic AI was heading motivated her to specialise in automated kernel generation before the opportunity became widely recognised.
+↳ source: [[2026-05-07-intro-call-chris-standard-kernel-and-josh-beacon-nadia]]
 
 ### 2026-05-07 — Mentioned as competitive context
 <!-- source_hash: 669e7705888fd01bf63af37146bc6af74e0eadf5eadd36564b049af95ade73dc -->

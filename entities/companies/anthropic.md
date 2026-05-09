@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-09'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 8
 name: Anthropic
 sector: ''
 stage: ''
@@ -27,6 +27,18 @@ website: ''
 
 
 
+
+
+
+### 2026-05-07 — AI-native inference optimisation pressure
+<!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->
+Chris cited Anthropic as an example of an AI-native organisation already experiencing urgent pressure to optimise inference costs, in contrast to legacy enterprises that were expected to reach that inflection point six to eight months later. He noted that AI-native firms of this type are unlikely to adopt [[Standard Kernel]]'s stack given their own deep kernel expertise, but used them to illustrate the immediacy of the market problem.
+↳ source: [[2026-05-07-intro-call-chris-standard-kernel-and-josh-beacon-nadia]]
+
+### 2026-05-09 — Founder writing on AI kernels
+<!-- source_hash: 43ef329822653aa56778b42f5fffb0185a99c8d2b0f1a23902e340d3ab53fd44 -->
+Fraser noted that an [[Anthropic]] founder had written about AI-written kernels in a newsletter earlier that week, signaling that the category was gaining mainstream visibility and becoming, in Fraser's words, 'sexy enough' to attract broader attention and resources.
+↳ source: [[2026-05-09-gtm-strategy-pilot-prioritisation-chris-ai-kernel-optimisation-startup]]
 
 ### 2026-04-23 — Platform API integration
 <!-- source_hash: df3eb62b26d2e13a6210f948b5efccf68d61d3637b6aec91568977031890b507 -->

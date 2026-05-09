@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-07'
+last_mention: '2026-05-09'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 3
+mention_count: 5
 name: Chris
 relationship: ''
 relationship_strength: cold
@@ -25,6 +25,18 @@ type: person
 ## Mentions
 
 
+
+
+
+### 2026-05-07 — Background: MIT, MosaicML, Standard Kernel founding
+<!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->
+Chris studied at MIT, where he began AI research as a freshman and later focused on performance engineering, publishing papers on compilers, networks, and AI optimisation. At [[MosaicML]] he wrote CUDA kernels to quantise training optimisers, achieving a roughly 1.8–2x reduction in pretraining memory footprint and an additional 10–20% improvement in model FLOPs utilisation through hyperparameter sweeps. He co-founded [[Standard Kernel]] with Anne, a former competitive programmer who worked at NVIDIA writing CUDA kernels and wrote one of the first benchmarks and solutions for automated kernel generation; Anne had early visibility into agentic AI through connections including founders of [[Cursor]] and [[Cognition]].
+↳ source: [[2026-05-07-intro-call-chris-standard-kernel-and-josh-beacon-nadia]]
+
+### 2026-05-09 — GTM strategy: pilot targets
+<!-- source_hash: 43ef329822653aa56778b42f5fffb0185a99c8d2b0f1a23902e340d3ab53fd44 -->
+Chris and [[Fraser Anderson]] aligned on restricting GTM to three to five high-priority targets due to engineering capacity constraints, with [[CoreWeave]], [[Jump]], [[Chain Street]], [[Amazon]], and [[AMD]] identified as the primary darts. Chris raised the concern that the limiting factor on pilot volume is engineering effort, since each new target requires building and adapting distinct technology.
+↳ source: [[2026-05-09-gtm-strategy-pilot-prioritisation-chris-ai-kernel-optimisation-startup]]
 
 ### 2026-05-07 — Background: kernels, MosaicML, MIT
 <!-- source_hash: 669e7705888fd01bf63af37146bc6af74e0eadf5eadd36564b049af95ade73dc -->

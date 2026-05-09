@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: MosaicML
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # MosaicML
 
 ## Mentions
+
+
+### 2026-05-07 — Chris's prior kernel work
+<!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->
+Chris worked at MosaicML where he wrote CUDA kernels to quantise training optimisers during large-scale pretraining runs, reducing the GPU memory footprint by roughly 1.8–2x. Subsequent hyperparameter sweeps informed by that work yielded an additional 10–20% improvement in model FLOPs utilisation, forming a key part of the practical foundation for [[Standard Kernel]]'s approach.
+↳ source: [[2026-05-07-intro-call-chris-standard-kernel-and-josh-beacon-nadia]]
 
 ### 2026-05-07 — Chris's kernel and optimization work
 <!-- source_hash: 669e7705888fd01bf63af37146bc6af74e0eadf5eadd36564b049af95ade73dc -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-09'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Blackstone
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-05-09 — Network access to financial firms
+<!-- source_hash: 43ef329822653aa56778b42f5fffb0185a99c8d2b0f1a23902e340d3ab53fd44 -->
+A contact connected to [[Blackstone]] was described as well-networked across major financial firms and willing to make introductions. Fraser advised Chris to stay close to this contact, keep him updated regularly, and meet him in person when he is in New York to maintain momentum and access.
+↳ source: [[2026-05-09-gtm-strategy-pilot-prioritisation-chris-ai-kernel-optimisation-startup]]
 
 ### 2026-05-04 — Source of prior platform hire
 <!-- source_hash: 514ea3ef2bfe17c6ab2447dae3f04c69a5fffa534e66326f61296a19b46ee759 -->

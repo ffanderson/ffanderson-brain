@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-07'
+last_mention: '2026-05-09'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 81
+mention_count: 87
 name: Fraser Anderson
 relationship: ''
 relationship_strength: cold
@@ -103,6 +103,42 @@ type: person
 
 
 
+
+
+
+
+
+
+
+### 2026-05-09 — Hats investment pattern validated
+<!-- source_hash: 072d3ba9b18f69c6455d1ab44280c53424f0a2ab472aa3b274ab8ea83536f84a -->
+Joe reviewed Fraser's three tranches into [[Hats]] and validated that the investment pattern closely mirrors his own methodology — low entry cost basis, consecutive follow-on checks, and high maintained ownership — while identifying that Fraser left significant capital on the table by not doubling his second check from $1.5M to $3M. Joe estimated this omission cost approximately $90M in projected cash-on-cash return.
+↳ source: [[2026-05-09-fund-philosophy-deep-dive-joe-gazzell-haven-ventures-fraser-anderson]]
+
+### 2026-04-06 — Thesis: meetings as stochastic insight discovery
+<!-- source_hash: 1e3466b96d235d691d4ca15f0ade8d5183daba7c06435af8e215d327f3493545 -->
+Fraser recorded a solo audio essay arguing that even if LLMs encapsulate the majority of widely available human knowledge, meetings retain economic value as a stochastic mechanism for surfacing tacit expert insights. His core claim was that the context and verbal prompts used in conversation act as elicitation triggers, making the regurgitation of valuable insights by any given individual inherently probabilistic — analogous to encountering Pokémon in Pokémon Go.
+↳ source: [[2026-04-06-fraser-s-audio-essay-pokemon-go-as-a-metaphor-for-the-economic-utility-of-meetings]]
+
+### 2026-05-09 — Critique of growth capital industrial complex
+<!-- source_hash: 10a7d7f2c7824d747212ce4930dc1eab79c8144e0554ceb908ed7ac3ffe198c6 -->
+Fraser argued that the growth capital industrial complex harms broader economic vibrancy by overcapitalizing companies, causing excessive founder dilution, and restricting access to growth-stage opportunities to non-institutional participants. He questioned why founders of proven, power-law companies continue to accept traditional institutional growth financing rather than structuring their own capital raises.
+↳ source: [[2026-05-09-fraser-s-solo-reflection-founder-led-spvs-and-the-growth-capital-industrial-complex]]
+
+### 2026-05-08 — Advised Jamie on acquisition structure
+<!-- source_hash: f31c8aa733b47206309c5aeb3755880945a0688f62f70e39a1750f252318d89c -->
+Fraser advised [[Jamie]] to pursue a clean full acquisition of [[ModaMax]] by [[Three Commas]] rather than any lighter-touch structure, reasoning that after seven years building the company Jamie deserved a definitive cash and equity exit with full liability transfer. Fraser also encouraged Jamie to position himself as the party being pursued, framing the deal around his own future optionality and the value of entering the U.S. technology and entrepreneur network at this level, regardless of Three Commas' long-term outcome.
+↳ source: [[2026-05-08-deal-structure-advice-modamax-acquisition-by-three-commas]]
+
+### 2026-05-09 — Disability claim date discrepancy
+<!-- source_hash: b14f12f100a3bc3fe7384e57678ec04f97563e074d61d230c8cb1ddc43729a1f -->
+Fraser received a call from a claims representative regarding an approved disability/leave claim with an approval window of April 13–17, 2026. The representative flagged a date discrepancy, suspecting the correct start date should be April 8 rather than April 13, likely due to misapplication of a seven-day elimination period by the employer. Fraser indicated a preference for email updates and planned to coordinate with his HR contact to help resolve the issue. The claims representative was to contact the employer directly and send Fraser an email once the claim dates were corrected.
+↳ source: [[2026-05-09-insurance-claim-date-discrepancy-disability-leave-claim-representative-call]]
+
+### 2026-05-09 — Tech Trek co-organizer role
+<!-- source_hash: 6ec529ae3e7cbccb65dc24aa206d4d1ee4b9af896864c7299027976f8d6725f4 -->
+Fraser was one of the three named co-organizers of Tech Trek alongside Robbie and Carson. He handled operational matters including housing capacity, office space logistics, and cohort experience design, and conducted on-the-spot admissions interviews with student founders during the event.
+↳ source: [[2026-05-09-tech-trek-sf-cohort-info-session-founder-interviews-harvard-mit-princeton]]
 
 ### 2026-05-07 — Program structure: two-week option dropped
 <!-- source_hash: f437ac48e12422a43e4ed00c00cec6f960d883789b4347cab23109b3710f5363 -->

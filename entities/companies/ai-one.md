@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-06'
+last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: AI One
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-07 — Sales cycle challenge; Unum introduction strategy
+<!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->
+Josh used AI One as a reference point to illustrate the challenges of selling technically complex AI products into large enterprises: finding the right internal champions, navigating bureaucracy, and managing the gap between technical buyers and business decision-makers were cited as the company's biggest blockers to revenue. Separately, Fraser outlined a plan to introduce AI One to [[Unum]]'s corporate investing lead, with Josh attending the meeting to add credibility alongside founders Connor and Fergus; the intent is to lead with AI One as a deployment opportunity and subsequently surface the [[Nadia]] fund as an investment vehicle.
+↳ source: [[2026-05-07-intro-call-chris-standard-kernel-and-josh-beacon-nadia]]
 
 ### 2026-05-06 — Enterprise gen-AI deployment model
 <!-- source_hash: 9f30ebb0ecc2a11006151286c3848d3fce39c7e25d10228ee09cf71c00128cc8 -->

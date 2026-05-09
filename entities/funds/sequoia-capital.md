@@ -5,10 +5,10 @@ created: 2026-05-05
 crm_id: null
 crm_system: null
 fund_type: vc
-last_mention: '2026-05-06'
+last_mention: '2026-05-09'
 last_touch: 2026-05-05
 location: Menlo Park, CA
-mention_count: 8
+mention_count: 9
 name: Sequoia Capital
 relationship: co-investor
 status: active
@@ -64,6 +64,12 @@ relationship.
 
 
 
+
+
+### 2026-05-09 — Fund XII benchmarking analysis
+<!-- source_hash: 072d3ba9b18f69c6455d1ab44280c53424f0a2ab472aa3b274ab8ea83536f84a -->
+Joe analysed Sequoia Capital Fund XII (2006 vintage, $439.5M, US venture only) as a benchmark for [[Haven Ventures]] Fund One. Sequoia XII made 32 investments over approximately five years, deployed 65% of capital as lead, had a 15–18% write-off rate, and generated an estimated 8–13x gross MOIC. Joe noted the venture-led MOIC is the meaningful metric, not gross IRR, and that Sequoia's power-law return curve is identical in shape to his own fund despite the 10x size difference.
+↳ source: [[2026-05-09-fund-philosophy-deep-dive-joe-gazzell-haven-ventures-fraser-anderson]]
 
 ### 2026-05-06 — Likely fellowship sponsor
 <!-- source_hash: 9f30ebb0ecc2a11006151286c3848d3fce39c7e25d10228ee09cf71c00128cc8 -->
