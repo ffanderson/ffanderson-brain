@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-09'
 founded: ''
 founders: []
-last_mention: '2026-05-09'
+last_mention: '2026-05-11'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Apple
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # Apple
 
 ## Mentions
+
+
+### 2026-05-11 — Founder background: adaptive iPhone UI
+<!-- source_hash: 2fc5582f5f47bf0eead34169433e7cf5741c3defeb2847122ca1a1abfd647524 -->
+One of Vigil's co-founders described leading the transformation of the iPhone's static UI at Apple starting in 2016, making every recommendation and suggestion adaptive to the user in real time. An Apple alumnus currently working on Google Ads was also named as a candidate for one of Vigil's first engineering hires.
+↳ source: [[2026-05-11-pitch-call-vigil-ai-commerce-ad-platform-founders-v-badri]]
 
 ### 2026-05-09 — Apple Maps as fintech infrastructure
 <!-- source_hash: 072d3ba9b18f69c6455d1ab44280c53424f0a2ab472aa3b274ab8ea83536f84a -->

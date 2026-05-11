@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-04-21'
+last_mention: '2026-05-11'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Mayfield
 relationship: ''
 status: active
@@ -21,6 +21,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-11 — Targeted for domain diligence on Vigil
+<!-- source_hash: 2fc5582f5f47bf0eead34169433e7cf5741c3defeb2847122ca1a1abfd647524 -->
+[[Fraser Anderson]] plans to route [[Vigil]] to Mayfield for rapid domain validation, specifically through GP [[Patrick Salier]], who has operating and investing experience in the ad-tech and conversational commerce space. This is positioned as a co-diligence step rather than a competitive referral, given Link Ventures' compressed timeline to meet [[Vigil]]'s May 15, 2026 close deadline.
+↳ source: [[2026-05-11-pitch-call-vigil-ai-commerce-ad-platform-founders-v-badri]]
 
 ### 2026-04-21 — Potential Tech Track sponsor
 <!-- source_hash: bb56197aa8fba645e68a0da59c5ab0bf93c987aec95c36889bf0377ab27f2440 -->

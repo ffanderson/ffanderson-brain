@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-04'
+last_mention: '2026-05-11'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Deloitte
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-11 — Audit coordination delays
+<!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->
+Deloitte was conducting the audit for [[HATS]] with a target completion date of June 30. Scheduling coordination between Deloitte and Jimmy had slipped, contributing to risk around meeting the deadline. The group committed to applying pressure and adding temporary resources to get back on track.
+↳ source: [[2026-05-11-hats-portfolio-update-hiring-plan-fundraising-allocation-and-career-strategy]]
 
 ### 2026-05-04 — 2026 audit engagement status
 <!-- source_hash: bc3ad5200dc83aff74f91739c24249503775e93e6cdba1a92562d75729f45d48 -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-11'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Oracle
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-11 — Jim Fanning's current employer
+<!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->
+At the time of the meeting, Jim Fanning was employed at Oracle. Aiden and Jimmy were in active discussions to recruit him away to serve as President of [[HATS]].
+↳ source: [[2026-05-11-hats-portfolio-update-hiring-plan-fundraising-allocation-and-career-strategy]]
 
 ### 2026-05-01 — Cited as data center owner needing insurance
 <!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->

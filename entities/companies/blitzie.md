@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-09'
 founded: ''
 founders: []
-last_mention: '2026-05-09'
+last_mention: '2026-05-11'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Blitzie
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # Blitzie
 
 ## Mentions
+
+
+### 2026-05-11 — Link Ventures portfolio unicorn
+<!-- source_hash: 2fc5582f5f47bf0eead34169433e7cf5741c3defeb2847122ca1a1abfd647524 -->
+Blitzie was cited by Fraser as one of four AI unicorns in [[Link Ventures]]' current fund, focused on code generation. It was referenced as part of a broader portfolio of applied AI bets made around and after the generative AI inflection in late 2022.
+↳ source: [[2026-05-11-pitch-call-vigil-ai-commerce-ad-platform-founders-v-badri]]
 
 ### 2026-05-09 — Fraser and organizer are investors
 <!-- source_hash: 6ec529ae3e7cbccb65dc24aa206d4d1ee4b9af896864c7299027976f8d6725f4 -->

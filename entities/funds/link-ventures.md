@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-05'
+last_mention: '2026-05-11'
 last_touch: ''
 location: ''
-mention_count: 8
+mention_count: 9
 name: Link Ventures
 relationship: ''
 status: active
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-05-11 — Seed lead interest in Vigil
+<!-- source_hash: 2fc5582f5f47bf0eead34169433e7cf5741c3defeb2847122ca1a1abfd647524 -->
+Link Ventures expressed genuine interest in [[Vigil]] and confirmed the fund can close a deal in a single day when conviction and domain fit are present. Fraser noted the fund prefers to lead, has four AI unicorns in its current portfolio including [[Liquid AI]] and [[Blitzie]], and is actively focused on vertical AI selling outcomes rather than tools. The main constraint cited was domain depth in ad-tech, which Fraser intended to address by looping in [[Patrick Salier]] at [[Mayfield]].
+↳ source: [[2026-05-11-pitch-call-vigil-ai-commerce-ad-platform-founders-v-badri]]
 
 ### 2026-05-01 — Fraser's role; Tech Trek involvement
 <!-- source_hash: 821ae8ecad3702afb1d1e8aeebc187344b151c410c8dd9fe98e3b71d575e8bae -->

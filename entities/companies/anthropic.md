@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-09'
+last_mention: '2026-05-11'
 last_touch: ''
 location: ''
-mention_count: 8
+mention_count: 9
 name: Anthropic
 sector: ''
 stage: ''
@@ -29,6 +29,12 @@ website: ''
 
 
 
+
+
+### 2026-05-11 — Referenced as talent source and TEK TRECK visit
+<!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->
+Anthropic was mentioned in two contexts: as an organization where members of Jim Fanning's former Amazon network had landed, and as one of the Silicon Valley companies that TEK TRECK cohort students would visit during the program's first two weeks.
+↳ source: [[2026-05-11-hats-portfolio-update-hiring-plan-fundraising-allocation-and-career-strategy]]
 
 ### 2026-05-07 — AI-native inference optimisation pressure
 <!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->

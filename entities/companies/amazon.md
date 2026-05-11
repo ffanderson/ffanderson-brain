@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-09'
+last_mention: '2026-05-11'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 6
 name: Amazon
 sector: ''
 stage: ''
@@ -25,6 +25,18 @@ website: ''
 
 
 
+
+
+
+### 2026-05-11 — Jim Fanning's GTM playbook reference
+<!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->
+Jim Fanning ran substantial go-to-market operations at Amazon, particularly in financial services, under Brad Porter's organization. He shared with Aiden how Amazon handled a surge of qualified inbound leads by deliberately focusing on startups to build scalable-down product functionality rather than being absorbed by enterprise demand — a playbook Aiden found directly applicable to [[HATS]].
+↳ source: [[2026-05-11-hats-portfolio-update-hiring-plan-fundraising-allocation-and-career-strategy]]
+
+### 2026-05-11 — Target enterprise customer
+<!-- source_hash: 2fc5582f5f47bf0eead34169433e7cf5741c3defeb2847122ca1a1abfd647524 -->
+Amazon was named by [[Fraser Anderson]] as one of six to seven enterprise targets that [[Vigil]] should orient its entire GTM around, rather than pursuing mid-market. A former Amazon director working in the advertising space was also mentioned as a likely early engineering hire for Vigil.
+↳ source: [[2026-05-11-pitch-call-vigil-ai-commerce-ad-platform-founders-v-badri]]
 
 ### 2026-05-09 — Hyperscaler pilot target
 <!-- source_hash: 43ef329822653aa56778b42f5fffb0185a99c8d2b0f1a23902e340d3ab53fd44 -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-04'
+last_mention: '2026-05-11'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: DeepMind
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-11 — TEK TRECK Silicon Valley visit
+<!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->
+DeepMind was mentioned as one of the companies the TEK TRECK cohort would visit during the program's initial Silicon Valley orientation phase, described as accessible through John Werner's network.
+↳ source: [[2026-05-11-hats-portfolio-update-hiring-plan-fundraising-allocation-and-career-strategy]]
 
 ### 2026-05-04 — Peter's project work for Demis
 <!-- source_hash: 0fea94133cfe0c9b5a0115782300d735c46738001bc455f938fe2eb08758cf0c -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-09'
+last_mention: '2026-05-11'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Hats
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-05-11 — President hire: Jim Fanning
+<!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->
+Aiden and Jimmy had spent three to four months evaluating Jim Fanning as President candidate. Fanning has an engineering background, ran go-to-market at Amazon focused on financial services, and was strongly endorsed by Brad Porter of [[Cobalt]]. A dinner was scheduled that evening to drive commitment, with a fallback plan to move Fanning to CRO if the President fit proved wrong.
+↳ source: [[2026-05-11-hats-portfolio-update-hiring-plan-fundraising-allocation-and-career-strategy]]
 
 ### 2026-05-09 — Investment tranches and ownership
 <!-- source_hash: 072d3ba9b18f69c6455d1ab44280c53424f0a2ab472aa3b274ab8ea83536f84a -->

@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-09'
+last_mention: '2026-05-11'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 87
+mention_count: 88
 name: Fraser Anderson
 relationship: ''
 relationship_strength: cold
@@ -109,6 +109,12 @@ type: person
 
 
 
+
+
+### 2026-05-11 — Path to independent GP role
+<!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->
+Fraser expressed a clear intention to become an independent GP, describing it as a matter of timing rather than direction. He was considering a transitional step of co-sponsoring SPVs with [[Aiden]] to build a portable track record before launching independently, and was targeting either Fall 2026 or Q1 2027 as a possible inflection point. He framed origination economics as more compelling than mid-stage investing at current valuations.
+↳ source: [[2026-05-11-hats-portfolio-update-hiring-plan-fundraising-allocation-and-career-strategy]]
 
 ### 2026-05-09 — Hats investment pattern validated
 <!-- source_hash: 072d3ba9b18f69c6455d1ab44280c53424f0a2ab472aa3b274ab8ea83536f84a -->

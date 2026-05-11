@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-04-26'
+last_mention: '2026-05-11'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Liquid AI
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-11 — Link Ventures portfolio unicorn
+<!-- source_hash: 2fc5582f5f47bf0eead34169433e7cf5741c3defeb2847122ca1a1abfd647524 -->
+Fraser described Liquid AI as one of four AI unicorns in Link Ventures' current fund, characterizing it as a foundation model company. It was cited alongside [[Blitzie]] and two others as evidence of the fund's track record in applied AI.
+↳ source: [[2026-05-11-pitch-call-vigil-ai-commerce-ad-platform-founders-v-badri]]
 
 ### 2026-04-26 — On-device model viability
 <!-- source_hash: a12c9b0b0570a82c4263efeb61f86a0edda9e9cfd6c5c688123331b182c8f529 -->

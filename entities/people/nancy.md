@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-04'
+last_mention: '2026-05-11'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Nancy
 relationship: ''
 relationship_strength: cold
@@ -23,6 +23,12 @@ type: person
 # Nancy
 
 ## Mentions
+
+
+### 2026-05-11 — CFO candidate referral and audit flag
+<!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->
+Nancy had referred a CFO candidate named Kelly to Aiden, whom Aiden flagged positively but intended to revisit after securing the President hire. Nancy also flagged to the group that the June 30 audit was at risk, having caught up with Courtney and noting that Deloitte coordination had slipped.
+↳ source: [[2026-05-11-hats-portfolio-update-hiring-plan-fundraising-allocation-and-career-strategy]]
 
 ### 2026-05-04 — Interim CFO support role
 <!-- source_hash: bc3ad5200dc83aff74f91739c24249503775e93e6cdba1a92562d75729f45d48 -->

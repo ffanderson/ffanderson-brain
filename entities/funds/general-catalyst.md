@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-09'
+last_mention: '2026-05-11'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: General Catalyst
 relationship: ''
 status: active
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-05-11 — Lisa's fundraising and cultural dynamics
+<!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->
+Fraser discussed Lisa's attempt to raise her own fund independently from General Catalyst, drawing a parallel to Nico Banasa, a former long-tenured GC partner who targeted $300 million and had closed approximately $50 million. Fraser was skeptical of Lisa's prospects given LP saturation of GC exposure, questions about her independent track record, and her difficult working style. He also noted that Lisa appeared to be sourcing MIT and Harvard deals outside GC's mandate via a separate vehicle, and potentially raising outside capital for non-GC-aligned investments, creating what he described as a significant cultural tax on the firm.
+↳ source: [[2026-05-11-hats-portfolio-update-hiring-plan-fundraising-allocation-and-career-strategy]]
 
 ### 2026-05-09 — Dave Bialik founder, re-entry event
 <!-- source_hash: 6ec529ae3e7cbccb65dc24aa206d4d1ee4b9af896864c7299027976f8d6725f4 -->
