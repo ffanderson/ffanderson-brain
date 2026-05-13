@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-05'
+last_mention: '2026-05-13'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Dave
 relationship: ''
 relationship_strength: cold
@@ -27,6 +27,12 @@ type: person
 
 
 
+
+
+### 2026-05-13 — OpenAI introductions planned
+<!-- source_hash: 08ce5a1648c9ea5a98f96c4f7253a8ce6719c6faade5335e84fa3e6ca1b85586 -->
+Dave committed to raising the insurance monetization opportunity during his San Francisco trip the following week and planned to contact Mark Chen, OpenAI's CTO and an MIT alum, to identify the current internal owner of consumer-traffic monetization. He noted that Kevin Weil's departure and Fei-Fei Li's medical leave had left the initiative effectively unowned, and floated the idea of Eli's venture filling that gap on OpenAI's behalf.
+↳ source: [[2026-05-13-intro-strategy-call-eli-new-venture-ledger-consent-infrastructure-ai-insurance-monetization]]
 
 ### 2026-04-27 — MIT/Harvard acceptance batch and Princeton list
 <!-- source_hash: 9e2f8449ea01e968a4335e2ecc3a3ea8e3427df08cb7be4790abce3ea469e3c5 -->

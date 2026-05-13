@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-11'
+last_mention: '2026-05-13'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 88
+mention_count: 92
 name: Fraser Anderson
 relationship: ''
 relationship_strength: cold
@@ -110,6 +110,30 @@ type: person
 
 
 
+
+
+
+
+
+### 2026-05-13 — Seed stage interest in Ledger
+<!-- source_hash: 08ce5a1648c9ea5a98f96c4f7253a8ce6719c6faade5335e84fa3e6ca1b85586 -->
+Near the end of the meeting, Dave noted aloud that Fraser appeared to be signalling seed-stage investment interest in Eli's Ledger concept. Fraser confirmed the next steps — connecting Eli with the [[Bocara]] team and scheduling a separate call with [[EverQuote]]'s CEO Jamie — and asked Eli to confirm whether there were any sensitivities about disclosing the venture to those parties.
+↳ source: [[2026-05-13-intro-strategy-call-eli-new-venture-ledger-consent-infrastructure-ai-insurance-monetization]]
+
+### 2026-05-12 — SPV endorsement and fund exposure to HATS
+<!-- source_hash: 386ffc390818c4e442a90f35580b6f89bb0eb078d4d719c8f15277ec5b823e9d -->
+Fraser briefed an unnamed investor contact on Aiden's founder-led SPV, positioning the structure as an innovative alternative to traditional venture that optimises for founder control over dilution and headline valuation. He disclosed that his $112M fund owns 18% of [[HATS]], has invested three times, and plans to participate again in the current round, characterising HATS as capable of returning the fund multiple times. He recommended the contact spend time understanding MSP market mechanics and backchannel on Aiden before committing, and strongly suggested an in-person meeting given Aiden's compelling presence.
+↳ source: [[2026-05-12-reference-call-aiden-s-spv-hats-investment-opportunity]]
+
+### 2026-05-12 — Advisory on equity structuring
+<!-- source_hash: 076c227fc7024fe89b5c045a2d8973e2a392760387ae29e9d184cae6a08f2c83 -->
+Fraser advised Brian to reverse-engineer the 2% equity ask by first defining what outcome would justify that price, then gating vesting on delivery of that outcome rather than time. He also noted he could provide alternative help assembling an advisory board if the deal with the prospective advisor fell through, though he cautioned it would take longer.
+↳ source: [[2026-05-12-advisory-equity-structuring-discussion-brian-daley-re-alex-engagement]]
+
+### 2026-05-13 — Leaning to pass on husband-wife AI co.
+<!-- source_hash: 94afc1dbccebfb79d1a5a599925fdf7a94967d2f17a13db772d56cb87dfd8686 -->
+Fraser debriefed with an investor peer on an unnamed AI company targeting mid-market e-commerce ($50M–$200M revenue), founded by a husband-wife pair. His primary concern was whether the founders had the natural commercial orientation to sell, which he viewed as a potential deal-breaker given the crowded market and need for a strong GTM machine. He acknowledged the husband-wife dynamic as a yellow flag but noted they were the best such team he had encountered. Fraser said he would sleep on it before deciding, adding that he liked nearly everything else about the company.
+↳ source: [[2026-05-13-deal-debrief-husband-wife-founding-team-mid-market-e-commerce-ai]]
 
 ### 2026-05-11 — Path to independent GP role
 <!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->

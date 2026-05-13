@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-05'
+last_mention: '2026-05-12'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Alex
 relationship: ''
 relationship_strength: cold
@@ -24,6 +24,12 @@ type: person
 
 ## Mentions
 
+
+
+### 2026-05-12 — Advisory role and frontier lab introductions
+<!-- source_hash: ce6831273c4f1c7d2de50b8236ab3622afa9b009f524a28bfa21da9ecc806def -->
+Alex agreed to advise the company and offered to introduce Brian to current and former data purchasers at frontier labs to seed an advisory board. He framed the advisory board as the critical first step before any broad outreach, arguing that having insiders point to the right contacts and dataset priorities at [[Google DeepMind]], [[OpenAI]], and [[Anthropic]] would save significant time and effort. Fraser noted that Alex has personally advised Mark Zuckerberg on AI, underscoring the value of his network.
+↳ source: [[2026-05-12-rlbf-neuro-annotation-strategy-advisory-discussion-brian-alex]]
 
 ### 2026-05-04 — Marginal cost of intelligence thesis
 <!-- source_hash: 7dadb8515a6fe4fce90c1c00a1b5ef891bba076f32b6ee70858c99cf80f9888b -->

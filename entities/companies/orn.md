@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-06'
+last_mention: '2026-05-13'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Orn
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-13 — Founder-driven traction, modest tech
+<!-- source_hash: 94afc1dbccebfb79d1a5a599925fdf7a94967d2f17a13db772d56cb87dfd8686 -->
+Fraser's peer cited Orn as an example of a founder-driven business performing well despite modest technology. The founder's ability to get into rooms and close made the difference, illustrating the view that sales execution is the key scarce resource in the current AI funding environment.
+↳ source: [[2026-05-13-deal-debrief-husband-wife-founding-team-mid-market-e-commerce-ai]]
 
 ### 2026-05-06 — Recent Andreessen round; fellowship origin
 <!-- source_hash: 9f30ebb0ecc2a11006151286c3848d3fce39c7e25d10228ee09cf71c00128cc8 -->

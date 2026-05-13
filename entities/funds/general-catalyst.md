@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-11'
+last_mention: '2026-05-12'
 last_touch: ''
 location: ''
-mention_count: 7
+mention_count: 8
 name: General Catalyst
 relationship: ''
 status: active
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-05-12 — MSP roll-up bet, Fraser's critique
+<!-- source_hash: 386ffc390818c4e442a90f35580b6f89bb0eb078d4d719c8f15277ec5b823e9d -->
+Fraser noted that General Catalyst is among the multi-stage firms that have committed hundreds of millions to MSP roll-up strategies. He argued these firms are going about it incorrectly because they do not deeply understand the MSP reseller market, contrasting them with Aiden and the [[HATS]] team.
+↳ source: [[2026-05-12-reference-call-aiden-s-spv-hats-investment-opportunity]]
 
 ### 2026-05-11 — Lisa's fundraising and cultural dynamics
 <!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-07'
+last_mention: '2026-05-12'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: AI One
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-05-12 — SPV inclusion and Fraser's view
+<!-- source_hash: 386ffc390818c4e442a90f35580b6f89bb0eb078d4d719c8f15277ec5b823e9d -->
+Fraser indicated that AI One is one of the three non-HATS companies bundled into Aiden's SPV and described it as a business an investor would want exposure to independently. Fraser's fund is already an investor in AI One and plans to deploy additional capital into it alongside the SPV round.
+↳ source: [[2026-05-12-reference-call-aiden-s-spv-hats-investment-opportunity]]
 
 ### 2026-05-07 — Sales cycle challenge; Unum introduction strategy
 <!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->

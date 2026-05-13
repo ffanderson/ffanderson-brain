@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-11'
+last_mention: '2026-05-12'
 last_touch: ''
 location: ''
-mention_count: 9
+mention_count: 10
 name: Anthropic
 sector: ''
 stage: ''
@@ -30,6 +30,12 @@ website: ''
 
 
 
+
+
+### 2026-05-12 — Potential customer; outreach on hold
+<!-- source_hash: ce6831273c4f1c7d2de50b8236ab3622afa9b009f524a28bfa21da9ecc806def -->
+Brian had a call scheduled with an Anthropic contact described as a startup gatekeeper rather than a direct research or data procurement buyer. Alex advised pausing this engagement until the advisory board is in place so that introductions can route directly to the right decision-makers. Brian noted that Anthropic's research into sycophancy made him uncertain whether time-locked biosignal reward signals would be valued given the lab's access to millions of users providing preference feedback at scale.
+↳ source: [[2026-05-12-rlbf-neuro-annotation-strategy-advisory-discussion-brian-alex]]
 
 ### 2026-05-11 — Referenced as talent source and TEK TRECK visit
 <!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->

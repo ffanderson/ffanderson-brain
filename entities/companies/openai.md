@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-11'
+last_mention: '2026-05-12'
 last_touch: ''
 location: ''
-mention_count: 9
+mention_count: 10
 name: OpenAI
 sector: ''
 stage: ''
@@ -30,6 +30,12 @@ website: ''
 
 
 
+
+
+### 2026-05-12 — Target customer for RLBF datasets
+<!-- source_hash: ce6831273c4f1c7d2de50b8236ab3622afa9b009f524a28bfa21da9ecc806def -->
+OpenAI was identified as one of the primary target customers for biosignal-annotated training data under the RLBF framework. Alex recommended stocking the advisory board with current and former OpenAI data purchasers who could direct the team to the right contacts and specify what datasets the lab would find most valuable.
+↳ source: [[2026-05-12-rlbf-neuro-annotation-strategy-advisory-discussion-brian-alex]]
 
 ### 2026-05-11 — TEK TRECK Silicon Valley visit
 <!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->

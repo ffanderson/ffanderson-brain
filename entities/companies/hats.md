@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-11'
+last_mention: '2026-05-12'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Hats
 sector: ''
 stage: ''
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-05-12 — SPV allocation and growth thesis
+<!-- source_hash: 386ffc390818c4e442a90f35580b6f89bb0eb078d4d719c8f15277ec5b823e9d -->
+Fraser described HATS as the primary asset in Aiden's founder-led SPV, receiving roughly two-thirds of total capital. He framed the investment as essentially buying into HATS with a call option on the three other Aiden-founded companies. Fraser drew comparisons to other fast-scaling AI companies (Ambience, Windsurf, Cursor, Cognition) that reached $100–200M ARR within eighteen months, arguing that HATS is replicating that pattern in the MSP segment.
+↳ source: [[2026-05-12-reference-call-aiden-s-spv-hats-investment-opportunity]]
 
 ### 2026-05-11 — President hire: Jim Fanning
 <!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->
