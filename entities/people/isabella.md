@@ -10,7 +10,7 @@ last_mention: '2026-05-07'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Isabella
 relationship: ''
 relationship_strength: cold
@@ -23,6 +23,12 @@ type: person
 # Isabella
 
 ## Mentions
+
+
+### 2025-05-14 — Reaction to cohort fun facts
+<!-- source_hash: c6f43efef8a1a63c492ba9aa07c43e027cfa664a624d3976c8ad691bbf4135c9 -->
+Isabella shared that she was in awe of the fun facts distributed ahead of the program, describing them as an effective way to get a feel for fellow cohort members before meeting in person. She noted excitement about being in San Francisco for the first time and about building skills at what she described as an important moment in history.
+↳ source: [[2025-05-14-tech-trek-pi-summer-2025-cohort-kickoff-zoom]]
 
 ### 2026-05-07 — Decision status: joining program
 <!-- source_hash: f437ac48e12422a43e4ed00c00cec6f960d883789b4347cab23109b3710f5363 -->

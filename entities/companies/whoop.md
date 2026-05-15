@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-09'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Whoop
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2025-05-14 — Potential device access for cohort
+<!-- source_hash: c6f43efef8a1a63c492ba9aa07c43e027cfa664a624d3976c8ad691bbf4135c9 -->
+The program organizer was in discussions with [[Emily]] at Whoop about providing devices to Tech Trek Pi cohort members for use in building projects over the summer. No formal commitment was announced during the call.
+↳ source: [[2025-05-14-tech-trek-pi-summer-2025-cohort-kickoff-zoom]]
 
 ### 2026-05-09 — Ed Baker head of growth, mentor
 <!-- source_hash: 6ec529ae3e7cbccb65dc24aa206d4d1ee4b9af896864c7299027976f8d6725f4 -->

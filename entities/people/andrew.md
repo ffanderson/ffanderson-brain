@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-04-02'
+last_mention: '2026-05-15'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Andrew
 relationship: ''
 relationship_strength: cold
@@ -24,6 +24,12 @@ type: person
 
 ## Mentions
 
+
+
+### 2026-05-15 — Security architecture lead
+<!-- source_hash: 21cd9c8663badad81b7ba2cd10dee211978e3921f06a2edba0deb88b3452fb83 -->
+Andrew explained the encryption design to Aiden, clarifying that data is encrypted to Hooper but must be decrypted transiently for LLM inference. He flagged the decryption boundary as the principal residual risk and anticipated that the most security-conscious customers would ultimately prefer to run models in their own environments.
+↳ source: [[2026-05-15-hooper-product-go-to-market-strategy-update-michael-andrew-fraser-aiden]]
 
 ### 2026-04-02 — Apollo pivot conversation
 <!-- source_hash: 0892afa34128f134a3f8dccb2fd8bf472b94caf01fd8d2dc9a8e60dba09875df -->

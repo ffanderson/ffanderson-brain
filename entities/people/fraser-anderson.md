@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-13'
+last_mention: '2026-05-15'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 92
+mention_count: 96
 name: Fraser Anderson
 relationship: ''
 relationship_strength: cold
@@ -114,6 +114,30 @@ type: person
 
 
 
+
+
+
+
+
+### 2026-05-15 — Board role and asks
+<!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->
+Fraser was being positioned as actively on the field at [[HATS]], not on the sideline — with concrete offers to lean in on recruiting closing calls for Jim Fanning, the GRC working group standup, and audit pressure. The briefing noted his paternity leave window of mid-July through mid-August, with the expectation that he would remain active in IC meetings and on the board during that period.
+↳ source: [[2026-05-15-board-prep-hats-hots-spv-round-exec-hiring-audit-risk]]
+
+### 2025-05-14 — Tech Trek Pi cohort kickoff
+<!-- source_hash: c6f43efef8a1a63c492ba9aa07c43e027cfa664a624d3976c8ad691bbf4135c9 -->
+Fraser participated in the kickoff Zoom for the Tech Trek Pi summer 2025 cohort, a ten-to-eleven-week Bay Area builder program. He expressed enthusiasm about the long-term network value of the cohort, noting the compounding force of the group's accomplishments over ten, twenty, and thirty years.
+↳ source: [[2025-05-14-tech-trek-pi-summer-2025-cohort-kickoff-zoom]]
+
+### 2026-05-14 — Offer to support Ben's scoping process
+<!-- source_hash: b52b502d461a13378e9970ca687b51ca4aa6f70235cfc58348625f478068060f -->
+Fraser offered to review Ben's white paper and the four scoped IRA projects and provide honest feedback on the best attack vector for building a proof of concept. He suggested the most useful near-term deliverable would be a RAG system built on Ben's content, paired with a formal eval benchmarked against frontier models, which could serve as both a sales tool back into clients like [[Schwab]] and a signal to potential acquirers. He also indicated he could introduce a trusted developer contact for the build if the scope was sufficiently defined.
+↳ source: [[2026-05-14-intro-call-ben-ira-compliance-content-company-ai-strategy-poc-scoping]]
+
+### 2026-05-13 — Portfolio HR referral stance
+<!-- source_hash: c14652fd4f73c98a947c17459201ad78129184a43eea440cd5f440394a4f1318 -->
+Fraser indicated he does not maintain a formal vendor shortlist but gravitates toward a small, trusted group of operators whose networks he draws on heavily. He acknowledged that younger or inexperienced founders in the [[Link Ventures]] portfolio sometimes explicitly ask for people-operations help, making them a plausible fit for a referral to Makayla, whereas more seasoned founders typically manage these needs through their own networks.
+↳ source: [[2026-05-13-intro-call-makayla-fractional-head-of-people-referral-from-chris-jacobs]]
 
 ### 2026-05-13 — Seed stage interest in Ledger
 <!-- source_hash: 08ce5a1648c9ea5a98f96c4f7253a8ce6719c6faade5335e84fa3e6ca1b85586 -->

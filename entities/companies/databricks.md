@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-11'
+last_mention: '2026-05-15'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Databricks
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-15 — Jim Fanning prior role
+<!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->
+Jim Fanning's background included a prior role at Databricks before his current position at [[Oracle]], contributing to his profile as a technically grounded GTM operator being considered for the [[HATS]] President role.
+↳ source: [[2026-05-15-board-prep-hats-hots-spv-round-exec-hiring-audit-risk]]
 
 ### 2026-05-11 — Jim Fanning's prior employer
 <!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->

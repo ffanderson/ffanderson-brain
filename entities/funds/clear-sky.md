@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-11'
 fund_type: ''
-last_mention: '2026-05-11'
+last_mention: '2026-05-15'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Clear Sky
 relationship: ''
 status: active
@@ -20,6 +20,12 @@ website: ''
 # Clear Sky
 
 ## Mentions
+
+
+### 2026-05-15 — Allocation pressure on HATS SPV
+<!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->
+Clear Sky's Alex Weiss was pushing hard for allocation in the [[HATS]] SPV, historically writing approximately $10M personally and pulling an additional approximately $80M in co-investors, much of it secondary. This was identified as a risk that could distort or crowd out more aligned capital, including [[Link Ventures]]' position, if not managed through timing and structure.
+↳ source: [[2026-05-15-board-prep-hats-hots-spv-round-exec-hiring-audit-risk]]
 
 ### 2026-05-11 — Allocation pressure on HATS round
 <!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->

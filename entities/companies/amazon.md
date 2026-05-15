@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-11'
+last_mention: '2026-05-15'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Amazon
 sector: ''
 stage: ''
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-05-15 — Jim Fanning and Brad Porter backgrounds
+<!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->
+Jim Fanning had prior GTM experience at Amazon focused on the financial services vertical, and Brad Porter — who endorsed Fanning for the [[HATS]] President role — had headed Amazon Robotics before founding [[Cobalt]] and joining [[Scale AI]].
+↳ source: [[2026-05-15-board-prep-hats-hots-spv-round-exec-hiring-audit-risk]]
 
 ### 2026-05-11 — Jim Fanning's GTM playbook reference
 <!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-01'
+last_mention: '2026-05-13'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Link Ventures
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-13 — Portfolio focus and scale
+<!-- source_hash: c14652fd4f73c98a947c17459201ad78129184a43eea440cd5f440394a4f1318 -->
+Link Ventures focuses on early-stage B2B software companies, increasingly with AI and machine learning components, and has invested in approximately eighty companies over eight years. Fraser described a strong power-law dynamic in the portfolio, with a small subset driving the majority of hiring and growth. Strategic people-operations involvement typically becomes relevant when portfolio companies reach the ten-to-fifty million dollar revenue range.
+↳ source: [[2026-05-13-intro-call-makayla-fractional-head-of-people-referral-from-chris-jacobs]]
 
 ### 2026-05-01 — TechCracker/Tech Trek program origin
 <!-- source_hash: a709ded31cf052e324f5cadc23129de187d3e7ceea44a30c0fe8001fcbf25924 -->

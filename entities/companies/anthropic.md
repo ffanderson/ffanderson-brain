@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-12'
 last_touch: ''
 location: ''
-mention_count: 10
+mention_count: 11
 name: Anthropic
 sector: ''
 stage: ''
@@ -31,6 +31,12 @@ website: ''
 
 
 
+
+
+### 2025-05-14 — API access and founder outreach
+<!-- source_hash: c6f43efef8a1a63c492ba9aa07c43e027cfa664a624d3976c8ad691bbf4135c9 -->
+Theo noted that the program was in active conversations with Anthropic to secure API token access for cohort members. Separately, the program organizer mentioned having emailed Dario at Anthropic, who expressed awareness of and excitement about the program; scheduling time with him was described as a goal for the summer.
+↳ source: [[2025-05-14-tech-trek-pi-summer-2025-cohort-kickoff-zoom]]
 
 ### 2026-05-12 — Potential customer; outreach on hold
 <!-- source_hash: ce6831273c4f1c7d2de50b8236ab3622afa9b009f524a28bfa21da9ecc806def -->

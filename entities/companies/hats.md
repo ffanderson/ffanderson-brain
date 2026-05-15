@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-12'
+last_mention: '2026-05-15'
 last_touch: ''
 location: ''
-mention_count: 7
+mention_count: 8
 name: Hats
 sector: ''
 stage: ''
@@ -28,6 +28,12 @@ website: ''
 
 
 
+
+
+### 2026-05-15 — ARR trajectory and growth
+<!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->
+HATS was tracking toward $40M ARR by end of Q2 2026 and targeting $100M by year-end. Engineering hiring was described as ahead of plan, with inbound lead velocity identified as the primary operational pressure point — fully qualified leads arriving faster than the org could route them.
+↳ source: [[2026-05-15-board-prep-hats-hots-spv-round-exec-hiring-audit-risk]]
 
 ### 2026-05-12 — SPV allocation and growth thesis
 <!-- source_hash: 386ffc390818c4e442a90f35580b6f89bb0eb078d4d719c8f15277ec5b823e9d -->

@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-11'
+last_mention: '2026-05-15'
 last_touch: ''
 location: ''
-mention_count: 9
+mention_count: 10
 name: Link Ventures
 relationship: ''
 status: active
@@ -28,6 +28,12 @@ website: ''
 
 
 
+
+
+### 2026-05-15 — HATS SPV allocation
+<!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->
+Link Ventures had secured approximately $3.5M in allocation in the [[HATS]] SPV round as of the last check-in, with the round closing at a $300M valuation. The team was considering an early SAFE drop to protect that allocation against secondary pressure from [[Clear Sky]].
+↳ source: [[2026-05-15-board-prep-hats-hots-spv-round-exec-hiring-audit-risk]]
 
 ### 2026-05-11 — Seed lead interest in Vigil
 <!-- source_hash: 2fc5582f5f47bf0eead34169433e7cf5741c3defeb2847122ca1a1abfd647524 -->

@@ -10,7 +10,7 @@ last_mention: '2026-04-29'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Adam
 relationship: ''
 relationship_strength: cold
@@ -24,6 +24,12 @@ type: person
 
 ## Mentions
 
+
+
+### 2025-05-14 — Arrival date and flight logistics
+<!-- source_hash: c6f43efef8a1a63c492ba9aa07c43e027cfa664a624d3976c8ad691bbf4135c9 -->
+Adam asked about the best arrival date given shifting logistics and was advised to hold on booking flights for roughly twenty-four hours while the organizer finalized a first-week schedule email. The program house was expected to be available around June 10, with a kickoff dinner on June 11, and early arrivals could be housed at the University of San Francisco dorms from June 8.
+↳ source: [[2025-05-14-tech-trek-pi-summer-2025-cohort-kickoff-zoom]]
 
 ### 2026-04-29 — Referred founder to TechTrack
 <!-- source_hash: 22c025280193d458349895e453710ee095dd6b62580543a881f180ebdf64f094 -->
