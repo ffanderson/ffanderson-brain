@@ -12,8 +12,8 @@ linkedin: ''
 location: ''
 mention_count: 2
 name: Mark Watson
-relationship: ''
-relationship_strength: cold
+relationship: operator
+relationship_strength: warm
 role: ''
 status: active
 tags: []
