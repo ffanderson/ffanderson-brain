@@ -25,6 +25,7 @@ intentional; the implementation is local and minimal.
 | [Rumour](rumour.md)         | News monitor — weekly digests on tracked companies                  | spec only         |
 | [Poins](poins.md)       | Deal analyst — answers ad-hoc analytical questions                  | spec only         |
 | [Warwick](warwick.md) | Reflection agent — weekly review of stated thesis vs revealed behaviour | implemented   |
+| [Glendower](glendower.md) | Theme scout — produces theme dossiers from corpus + web              | implemented (Tier 1) |
 
 ## Philosophy
 

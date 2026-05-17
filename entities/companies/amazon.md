@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-15'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 7
 name: Amazon
 sector: ''
 stage: ''
@@ -24,6 +24,30 @@ website: ''
 ## Mentions
 
 
+
+
+
+
+
+### 2026-05-15 — Jim Fanning and Brad Porter backgrounds
+<!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->
+Jim Fanning had prior GTM experience at Amazon focused on the financial services vertical, and Brad Porter — who endorsed Fanning for the [[HATS]] President role — had headed Amazon Robotics before founding [[Cobalt]] and joining [[Scale AI]].
+↳ source: [[2026-05-15-board-prep-hats-hots-spv-round-exec-hiring-audit-risk]]
+
+### 2026-05-11 — Jim Fanning's GTM playbook reference
+<!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->
+Jim Fanning ran substantial go-to-market operations at Amazon, particularly in financial services, under Brad Porter's organization. He shared with Aiden how Amazon handled a surge of qualified inbound leads by deliberately focusing on startups to build scalable-down product functionality rather than being absorbed by enterprise demand — a playbook Aiden found directly applicable to [[HATS]].
+↳ source: [[2026-05-11-hats-portfolio-update-hiring-plan-fundraising-allocation-and-career-strategy]]
+
+### 2026-05-11 — Target enterprise customer
+<!-- source_hash: 2fc5582f5f47bf0eead34169433e7cf5741c3defeb2847122ca1a1abfd647524 -->
+Amazon was named by [[Fraser Anderson]] as one of six to seven enterprise targets that [[Vigil]] should orient its entire GTM around, rather than pursuing mid-market. A former Amazon director working in the advertising space was also mentioned as a likely early engineering hire for Vigil.
+↳ source: [[2026-05-11-pitch-call-vigil-ai-commerce-ad-platform-founders-v-badri]]
+
+### 2026-05-09 — Hyperscaler pilot target
+<!-- source_hash: 43ef329822653aa56778b42f5fffb0185a99c8d2b0f1a23902e340d3ab53fd44 -->
+Fraser identified [[Amazon]]'s ecosystem as the preferred hyperscaler dart, noting that Google was unlikely to engage and that Amazon was therefore the practical option among the major cloud providers.
+↳ source: [[2026-05-09-gtm-strategy-pilot-prioritisation-chris-ai-kernel-optimisation-startup]]
 
 ### 2026-05-01 — Sale-leaseback reference: TI risk dynamic
 <!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->

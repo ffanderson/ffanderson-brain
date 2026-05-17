@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-07'
+last_mention: '2026-05-14'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Vestigo
 relationship: ''
 status: active
@@ -24,6 +24,12 @@ website: ''
 
 
 
+
+
+### 2026-05-14 — Fund history and AI investment lens
+<!-- source_hash: b52b502d461a13378e9970ca687b51ca4aa6f70235cfc58348625f478068060f -->
+Fraser described Vestigo's evolution across two funds: Fund I used data science to identify and select portfolio companies, while Fund II shifted toward enterprise software combined with language models as large pre-trained models became accessible to startups. [[Fraser Anderson]] noted he had been experimenting with models like BERT and ELMo prior to the transformer era to build XPLR, an ensemble model used for company discovery.
+↳ source: [[2026-05-14-intro-call-ben-ira-compliance-content-company-ai-strategy-poc-scoping]]
 
 ### 2026-05-07 — Passed on Aidan IC pitch
 <!-- source_hash: 358e670a9d95ea8cd087acfd6c9aeb1bfe8eea59cff7f418e354508ad9421db0 -->

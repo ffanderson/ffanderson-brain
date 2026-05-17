@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-07'
+last_mention: '2026-05-17'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 81
+mention_count: 98
 name: Fraser Anderson
 relationship: ''
 relationship_strength: cold
@@ -103,6 +103,108 @@ type: person
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 2026-05-17 — Decision to stay focused on HATS
+<!-- source_hash: d07e0830ae31c09680dd678bf9cdd92c2d4a03e8ca7299124072e612dc24a4d1 -->
+Fraser decided against launching his own fund in the near term, concluding that leaving before [[HATS]] is fully recognised by the market would be premature and unnecessarily painful. He noted he stands to make more from his ownership position in HATS than he had intended to raise for a fund, and committed to keeping his head down on that opportunity instead.
+↳ source: [[2026-05-17-catch-up-call-fraser-anderson-parenting-business-mentor-hats-ai-update-and-bridge-opportunity]]
+
+### 2026-05-15 — Frustration over Justin's speaker outreach
+<!-- source_hash: 969901e4cccee231a4b3d35a7eb97586a8a9fa094ae6cdcc9df62e115ee68fff -->
+Fraser expressed strong frustration that Justin was presenting himself to Sandy Pentland and Rameen Asani as though he had originated the TechTrak opportunity, when Fraser had pre-existing relationships with both — including having previously worked with Rameen. Fraser viewed the behavior as Justin implicitly claiming co-ownership of the program.
+↳ source: [[2026-05-15-techtrak-program-governance-team-eligibility-and-speaker-pipeline-review]]
+
+### 2026-05-15 — Board role and asks
+<!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->
+Fraser was being positioned as actively on the field at [[HATS]], not on the sideline — with concrete offers to lean in on recruiting closing calls for Jim Fanning, the GRC working group standup, and audit pressure. The briefing noted his paternity leave window of mid-July through mid-August, with the expectation that he would remain active in IC meetings and on the board during that period.
+↳ source: [[2026-05-15-board-prep-hats-hots-spv-round-exec-hiring-audit-risk]]
+
+### 2025-05-14 — Tech Trek Pi cohort kickoff
+<!-- source_hash: c6f43efef8a1a63c492ba9aa07c43e027cfa664a624d3976c8ad691bbf4135c9 -->
+Fraser participated in the kickoff Zoom for the Tech Trek Pi summer 2025 cohort, a ten-to-eleven-week Bay Area builder program. He expressed enthusiasm about the long-term network value of the cohort, noting the compounding force of the group's accomplishments over ten, twenty, and thirty years.
+↳ source: [[2025-05-14-tech-trek-pi-summer-2025-cohort-kickoff-zoom]]
+
+### 2026-05-14 — Offer to support Ben's scoping process
+<!-- source_hash: b52b502d461a13378e9970ca687b51ca4aa6f70235cfc58348625f478068060f -->
+Fraser offered to review Ben's white paper and the four scoped IRA projects and provide honest feedback on the best attack vector for building a proof of concept. He suggested the most useful near-term deliverable would be a RAG system built on Ben's content, paired with a formal eval benchmarked against frontier models, which could serve as both a sales tool back into clients like [[Schwab]] and a signal to potential acquirers. He also indicated he could introduce a trusted developer contact for the build if the scope was sufficiently defined.
+↳ source: [[2026-05-14-intro-call-ben-ira-compliance-content-company-ai-strategy-poc-scoping]]
+
+### 2026-05-13 — Portfolio HR referral stance
+<!-- source_hash: c14652fd4f73c98a947c17459201ad78129184a43eea440cd5f440394a4f1318 -->
+Fraser indicated he does not maintain a formal vendor shortlist but gravitates toward a small, trusted group of operators whose networks he draws on heavily. He acknowledged that younger or inexperienced founders in the [[Link Ventures]] portfolio sometimes explicitly ask for people-operations help, making them a plausible fit for a referral to Makayla, whereas more seasoned founders typically manage these needs through their own networks.
+↳ source: [[2026-05-13-intro-call-makayla-fractional-head-of-people-referral-from-chris-jacobs]]
+
+### 2026-05-13 — Seed stage interest in Ledger
+<!-- source_hash: 08ce5a1648c9ea5a98f96c4f7253a8ce6719c6faade5335e84fa3e6ca1b85586 -->
+Near the end of the meeting, Dave noted aloud that Fraser appeared to be signalling seed-stage investment interest in Eli's Ledger concept. Fraser confirmed the next steps — connecting Eli with the [[Bocara]] team and scheduling a separate call with [[EverQuote]]'s CEO Jamie — and asked Eli to confirm whether there were any sensitivities about disclosing the venture to those parties.
+↳ source: [[2026-05-13-intro-strategy-call-eli-new-venture-ledger-consent-infrastructure-ai-insurance-monetization]]
+
+### 2026-05-12 — SPV endorsement and fund exposure to HATS
+<!-- source_hash: 386ffc390818c4e442a90f35580b6f89bb0eb078d4d719c8f15277ec5b823e9d -->
+Fraser briefed an unnamed investor contact on Aiden's founder-led SPV, positioning the structure as an innovative alternative to traditional venture that optimises for founder control over dilution and headline valuation. He disclosed that his $112M fund owns 18% of [[HATS]], has invested three times, and plans to participate again in the current round, characterising HATS as capable of returning the fund multiple times. He recommended the contact spend time understanding MSP market mechanics and backchannel on Aiden before committing, and strongly suggested an in-person meeting given Aiden's compelling presence.
+↳ source: [[2026-05-12-reference-call-aiden-s-spv-hats-investment-opportunity]]
+
+### 2026-05-12 — Advisory on equity structuring
+<!-- source_hash: 076c227fc7024fe89b5c045a2d8973e2a392760387ae29e9d184cae6a08f2c83 -->
+Fraser advised Brian to reverse-engineer the 2% equity ask by first defining what outcome would justify that price, then gating vesting on delivery of that outcome rather than time. He also noted he could provide alternative help assembling an advisory board if the deal with the prospective advisor fell through, though he cautioned it would take longer.
+↳ source: [[2026-05-12-advisory-equity-structuring-discussion-brian-daley-re-alex-engagement]]
+
+### 2026-05-13 — Leaning to pass on husband-wife AI co.
+<!-- source_hash: 94afc1dbccebfb79d1a5a599925fdf7a94967d2f17a13db772d56cb87dfd8686 -->
+Fraser debriefed with an investor peer on an unnamed AI company targeting mid-market e-commerce ($50M–$200M revenue), founded by a husband-wife pair. His primary concern was whether the founders had the natural commercial orientation to sell, which he viewed as a potential deal-breaker given the crowded market and need for a strong GTM machine. He acknowledged the husband-wife dynamic as a yellow flag but noted they were the best such team he had encountered. Fraser said he would sleep on it before deciding, adding that he liked nearly everything else about the company.
+↳ source: [[2026-05-13-deal-debrief-husband-wife-founding-team-mid-market-e-commerce-ai]]
+
+### 2026-05-11 — Path to independent GP role
+<!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->
+Fraser expressed a clear intention to become an independent GP, describing it as a matter of timing rather than direction. He was considering a transitional step of co-sponsoring SPVs with [[Aiden]] to build a portable track record before launching independently, and was targeting either Fall 2026 or Q1 2027 as a possible inflection point. He framed origination economics as more compelling than mid-stage investing at current valuations.
+↳ source: [[2026-05-11-hats-portfolio-update-hiring-plan-fundraising-allocation-and-career-strategy]]
+
+### 2026-05-09 — Hats investment pattern validated
+<!-- source_hash: 072d3ba9b18f69c6455d1ab44280c53424f0a2ab472aa3b274ab8ea83536f84a -->
+Joe reviewed Fraser's three tranches into [[Hats]] and validated that the investment pattern closely mirrors his own methodology — low entry cost basis, consecutive follow-on checks, and high maintained ownership — while identifying that Fraser left significant capital on the table by not doubling his second check from $1.5M to $3M. Joe estimated this omission cost approximately $90M in projected cash-on-cash return.
+↳ source: [[2026-05-09-fund-philosophy-deep-dive-joe-gazzell-haven-ventures-fraser-anderson]]
+
+### 2026-04-06 — Thesis: meetings as stochastic insight discovery
+<!-- source_hash: 1e3466b96d235d691d4ca15f0ade8d5183daba7c06435af8e215d327f3493545 -->
+Fraser recorded a solo audio essay arguing that even if LLMs encapsulate the majority of widely available human knowledge, meetings retain economic value as a stochastic mechanism for surfacing tacit expert insights. His core claim was that the context and verbal prompts used in conversation act as elicitation triggers, making the regurgitation of valuable insights by any given individual inherently probabilistic — analogous to encountering Pokémon in Pokémon Go.
+↳ source: [[2026-04-06-fraser-s-audio-essay-pokemon-go-as-a-metaphor-for-the-economic-utility-of-meetings]]
+
+### 2026-05-09 — Critique of growth capital industrial complex
+<!-- source_hash: 10a7d7f2c7824d747212ce4930dc1eab79c8144e0554ceb908ed7ac3ffe198c6 -->
+Fraser argued that the growth capital industrial complex harms broader economic vibrancy by overcapitalizing companies, causing excessive founder dilution, and restricting access to growth-stage opportunities to non-institutional participants. He questioned why founders of proven, power-law companies continue to accept traditional institutional growth financing rather than structuring their own capital raises.
+↳ source: [[2026-05-09-fraser-s-solo-reflection-founder-led-spvs-and-the-growth-capital-industrial-complex]]
+
+### 2026-05-08 — Advised Jamie on acquisition structure
+<!-- source_hash: f31c8aa733b47206309c5aeb3755880945a0688f62f70e39a1750f252318d89c -->
+Fraser advised [[Jamie]] to pursue a clean full acquisition of [[ModaMax]] by [[Three Commas]] rather than any lighter-touch structure, reasoning that after seven years building the company Jamie deserved a definitive cash and equity exit with full liability transfer. Fraser also encouraged Jamie to position himself as the party being pursued, framing the deal around his own future optionality and the value of entering the U.S. technology and entrepreneur network at this level, regardless of Three Commas' long-term outcome.
+↳ source: [[2026-05-08-deal-structure-advice-modamax-acquisition-by-three-commas]]
+
+### 2026-05-09 — Disability claim date discrepancy
+<!-- source_hash: b14f12f100a3bc3fe7384e57678ec04f97563e074d61d230c8cb1ddc43729a1f -->
+Fraser received a call from a claims representative regarding an approved disability/leave claim with an approval window of April 13–17, 2026. The representative flagged a date discrepancy, suspecting the correct start date should be April 8 rather than April 13, likely due to misapplication of a seven-day elimination period by the employer. Fraser indicated a preference for email updates and planned to coordinate with his HR contact to help resolve the issue. The claims representative was to contact the employer directly and send Fraser an email once the claim dates were corrected.
+↳ source: [[2026-05-09-insurance-claim-date-discrepancy-disability-leave-claim-representative-call]]
+
+### 2026-05-09 — Tech Trek co-organizer role
+<!-- source_hash: 6ec529ae3e7cbccb65dc24aa206d4d1ee4b9af896864c7299027976f8d6725f4 -->
+Fraser was one of the three named co-organizers of Tech Trek alongside Robbie and Carson. He handled operational matters including housing capacity, office space logistics, and cohort experience design, and conducted on-the-spot admissions interviews with student founders during the event.
+↳ source: [[2026-05-09-tech-trek-sf-cohort-info-session-founder-interviews-harvard-mit-princeton]]
 
 ### 2026-05-07 — Program structure: two-week option dropped
 <!-- source_hash: f437ac48e12422a43e4ed00c00cec6f960d883789b4347cab23109b3710f5363 -->

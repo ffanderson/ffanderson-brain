@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-05'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Beacon
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-04-08 — Status update on agenda
+<!-- source_hash: c7c640cf1cc84a216d5c70b925d9a89986fc521d77ec90640df61e8887f5c0ef -->
+Fraser planned to discuss the current status of Beacon and other data center platforms with [[Aiden Kyo]] during their April 8, 2026 meeting in Rye, NY. No specific details about Beacon's condition were recorded in this diary entry.
+↳ source: [[2026-04-08-audio-diary-fraser-prep-notes-for-aiden-kyo-meeting-rye-ny]]
 
 ### 2026-05-05 — Data center land acquisition platform
 <!-- source_hash: c0abe254a8733a693be1d35d6f7635ab10995a0a170a826d57b933f75b9dd432 -->

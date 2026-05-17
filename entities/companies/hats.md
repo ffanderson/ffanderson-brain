@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-07'
+last_mention: '2026-05-17'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 9
 name: Hats
 sector: ''
 stage: ''
@@ -25,6 +25,36 @@ website: ''
 
 
 
+
+
+
+
+
+
+### 2026-05-17 — Rapid growth trajectory
+<!-- source_hash: d07e0830ae31c09680dd678bf9cdd92c2d4a03e8ca7299124072e612dc24a4d1 -->
+HATS, described as an AI platform for MSPs filling a gap in that market, was growing rapidly at the time of the meeting. Fraser reported bookings were on track to go from 5 to around 80 by quarter-end and to reach approximately 250 on a run-rate basis by year-end.
+↳ source: [[2026-05-17-catch-up-call-fraser-anderson-parenting-business-mentor-hats-ai-update-and-bridge-opportunity]]
+
+### 2026-05-15 — ARR trajectory and growth
+<!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->
+HATS was tracking toward $40M ARR by end of Q2 2026 and targeting $100M by year-end. Engineering hiring was described as ahead of plan, with inbound lead velocity identified as the primary operational pressure point — fully qualified leads arriving faster than the org could route them.
+↳ source: [[2026-05-15-board-prep-hats-hots-spv-round-exec-hiring-audit-risk]]
+
+### 2026-05-12 — SPV allocation and growth thesis
+<!-- source_hash: 386ffc390818c4e442a90f35580b6f89bb0eb078d4d719c8f15277ec5b823e9d -->
+Fraser described HATS as the primary asset in Aiden's founder-led SPV, receiving roughly two-thirds of total capital. He framed the investment as essentially buying into HATS with a call option on the three other Aiden-founded companies. Fraser drew comparisons to other fast-scaling AI companies (Ambience, Windsurf, Cursor, Cognition) that reached $100–200M ARR within eighteen months, arguing that HATS is replicating that pattern in the MSP segment.
+↳ source: [[2026-05-12-reference-call-aiden-s-spv-hats-investment-opportunity]]
+
+### 2026-05-11 — President hire: Jim Fanning
+<!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->
+Aiden and Jimmy had spent three to four months evaluating Jim Fanning as President candidate. Fanning has an engineering background, ran go-to-market at Amazon focused on financial services, and was strongly endorsed by Brad Porter of [[Cobalt]]. A dinner was scheduled that evening to drive commitment, with a fallback plan to move Fanning to CRO if the President fit proved wrong.
+↳ source: [[2026-05-11-hats-portfolio-update-hiring-plan-fundraising-allocation-and-career-strategy]]
+
+### 2026-05-09 — Investment tranches and ownership
+<!-- source_hash: 072d3ba9b18f69c6455d1ab44280c53424f0a2ab472aa3b274ab8ea83536f84a -->
+Fraser invested in Hats across three rounds from his second fund: $1.5M at an $8M pre-money valuation, $1.5M at $30M pre-money, and $1.5M at $55M pre-money. He owns approximately 17–18% of the company. Joe noted that the second tranche's price per share was likely closer to the first than the third on a risk-adjusted basis, suggesting the second check should have been $3M rather than $1.5M.
+↳ source: [[2026-05-09-fund-philosophy-deep-dive-joe-gazzell-haven-ventures-fraser-anderson]]
 
 ### 2026-05-04 — Cross-functional scaling priorities
 <!-- source_hash: bc3ad5200dc83aff74f91739c24249503775e93e6cdba1a92562d75729f45d48 -->

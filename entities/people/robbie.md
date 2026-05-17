@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-07'
+last_mention: '2026-05-09'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Robbie
 relationship: ''
 relationship_strength: cold
@@ -28,6 +28,12 @@ type: person
 
 
 
+
+
+### 2026-05-09 — MIT co-founder of Tech Trek
+<!-- source_hash: 6ec529ae3e7cbccb65dc24aa206d4d1ee4b9af896864c7299027976f8d6725f4 -->
+Robbie was identified as the sole student co-founder of Tech Trek and the only MIT representative among the founding organizers, a distinction the program deliberately highlighted as a statement about MIT's centrality to the cohort. He handled attendee check-in and was the primary relationship holder for many of the MIT and Harvard students who attended.
+↳ source: [[2026-05-09-tech-trek-sf-cohort-info-session-founder-interviews-harvard-mit-princeton]]
 
 ### 2026-05-07 — TechTrack program vision
 <!-- source_hash: 9a252e403e85936b46a60ede576b1f7336d0bd66d8def524b7ae61d47b5b3c6f -->

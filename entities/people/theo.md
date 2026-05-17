@@ -10,7 +10,7 @@ last_mention: '2026-05-07'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Theo
 relationship: ''
 relationship_strength: cold
@@ -28,6 +28,12 @@ type: person
 
 
 
+
+
+### 2025-05-14 — Operations lead, Tech Trek Pi
+<!-- source_hash: c6f43efef8a1a63c492ba9aa07c43e027cfa664a624d3976c8ad691bbf4135c9 -->
+Theo originated the 'Pi' concept for the program, themed around MIT's Pi Day (March 14) acceptance tradition. He was handling operations, had reviewed all intake forms, and was managing active conversations with [[Anthropic]], AWS, and Nvidia to secure API tokens and compute resources for cohort members. He advised participants to review the program FAQ and submit flight receipts.
+↳ source: [[2025-05-14-tech-trek-pi-summer-2025-cohort-kickoff-zoom]]
 
 ### 2026-05-07 — Tech Track operational team
 <!-- source_hash: c1cbf444f00990cabbd78769085e004dcb463b48400c2320903980ec92011096 -->

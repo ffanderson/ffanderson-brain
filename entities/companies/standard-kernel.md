@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-13'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 4
 name: Standard Kernel
 sector: ''
 stage: ''
@@ -23,6 +23,18 @@ website: ''
 
 ## Mentions
 
+
+
+
+### 2026-05-13 — Potential intro to Bosch; fundraising
+<!-- source_hash: 296d37bb803b3317800e304ab4dd2df5f2912d2ee39f9153c3ae716a32ccef87 -->
+Standard Kernel was discussed as a potential connection to surface to [[Bosch]]'s venture arm, with the value proposition being a corporate introduction. Standard Kernel was noted to be currently raising a round. The participants agreed not to over-commit on the introduction and to keep it as an option to prompt if convenient.
+↳ source: [[2026-05-13-coordination-call-bosch-meeting-logistics-with-femis-and-standard-kernel]]
+
+### 2026-05-07 — Core technology: GPU kernel optimization
+<!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->
+Standard Kernel's engine converts GPU assembly from across the fragmented GPU programming language landscape into a unified, LLM-readable representation, then uses that representation to recombine techniques from disparate kernels into optimized outputs. The system can observe live executing kernels, retrieve their code, and generate one-to-one replacements with zero runtime overhead; many-to-one replacements are possible but introduce overhead requiring careful management. End-to-end edits combining high- and low-level changes yield the largest gains, with reported 2x–4x improvements on RNN and LSTM workloads produced in collaboration with [[Jump Trading]].
+↳ source: [[2026-05-07-intro-call-chris-standard-kernel-and-josh-beacon-nadia]]
 
 ### 2026-05-05 — AI-written GPU kernels; vertical AI play
 <!-- source_hash: 902897b92a06bbcb154ca2bcb1924e22a82117abdef0bf371813ae9d12fa2855 -->

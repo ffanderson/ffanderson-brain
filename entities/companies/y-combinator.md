@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-07'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Y Combinator
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2025-05-14 — Mentor sold company to YC
+<!-- source_hash: c6f43efef8a1a63c492ba9aa07c43e027cfa664a624d3976c8ad691bbf4135c9 -->
+Lauren, a program mentor, was described as an MIT graduate and former YC founder who recently sold her AI company to [[Y Combinator]]. She was set to play a mentorship role for the cohort, with her technical background in AI noted as relevant to the program's focus.
+↳ source: [[2025-05-14-tech-trek-pi-summer-2025-cohort-kickoff-zoom]]
 
 ### 2026-05-07 — Referenced as high-failure accelerator model
 <!-- source_hash: 974b4ac289d5d2ace9d857a653640b4c1355c28416cce724f24efd962c93a7b9 -->

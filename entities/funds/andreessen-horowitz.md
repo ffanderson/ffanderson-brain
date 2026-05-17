@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-06'
+last_mention: '2026-05-12'
 last_touch: ''
 location: ''
-mention_count: 7
+mention_count: 8
 name: Andreessen Horowitz
 relationship: ''
 status: active
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-05-12 — MSP roll-up bet, Fraser's critique
+<!-- source_hash: 386ffc390818c4e442a90f35580b6f89bb0eb078d4d719c8f15277ec5b823e9d -->
+Andreessen Horowitz was cited by Fraser as one of several large multi-stage funds backing MSP roll-up plays with hundreds of millions of capital. Fraser's view was that these firms lack the market understanding that gives [[HATS]] its competitive advantage.
+↳ source: [[2026-05-12-reference-call-aiden-s-spv-hats-investment-opportunity]]
 
 ### 2026-05-06 — Backed an AI insurance competitor
 <!-- source_hash: c3f9b51478c160fe932c654fe64f7c92c8650a315d9b56052fcbb927ce424183 -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-11'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Meta
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-11 — Badri's ad system and RL work
+<!-- source_hash: 2fc5582f5f47bf0eead34169433e7cf5741c3defeb2847122ca1a1abfd647524 -->
+Badri was a founding member of Meta's Ads and Reinforcement Learning group and built the ad ranking and personalization systems behind Reels and Feed, which he described as generating billions of dollars of impact. He also noted that he had advised Meta teams on correct RL implementation, lending credibility to [[Vigil]]'s core technical claim.
+↳ source: [[2026-05-11-pitch-call-vigil-ai-commerce-ad-platform-founders-v-badri]]
 
 ### 2026-04-27 — Hyperion deal as sale-leaseback template
 <!-- source_hash: 2643ca469ba129ddca9ed87bf3dc9be478f1eaaf1088b98999fe155d32fd910a -->

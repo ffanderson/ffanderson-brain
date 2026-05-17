@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-12'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 11
 name: Anthropic
 sector: ''
 stage: ''
@@ -27,6 +27,36 @@ website: ''
 
 
 
+
+
+
+
+
+
+### 2025-05-14 — API access and founder outreach
+<!-- source_hash: c6f43efef8a1a63c492ba9aa07c43e027cfa664a624d3976c8ad691bbf4135c9 -->
+Theo noted that the program was in active conversations with Anthropic to secure API token access for cohort members. Separately, the program organizer mentioned having emailed Dario at Anthropic, who expressed awareness of and excitement about the program; scheduling time with him was described as a goal for the summer.
+↳ source: [[2025-05-14-tech-trek-pi-summer-2025-cohort-kickoff-zoom]]
+
+### 2026-05-12 — Potential customer; outreach on hold
+<!-- source_hash: ce6831273c4f1c7d2de50b8236ab3622afa9b009f524a28bfa21da9ecc806def -->
+Brian had a call scheduled with an Anthropic contact described as a startup gatekeeper rather than a direct research or data procurement buyer. Alex advised pausing this engagement until the advisory board is in place so that introductions can route directly to the right decision-makers. Brian noted that Anthropic's research into sycophancy made him uncertain whether time-locked biosignal reward signals would be valued given the lab's access to millions of users providing preference feedback at scale.
+↳ source: [[2026-05-12-rlbf-neuro-annotation-strategy-advisory-discussion-brian-alex]]
+
+### 2026-05-11 — Referenced as talent source and TEK TRECK visit
+<!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->
+Anthropic was mentioned in two contexts: as an organization where members of Jim Fanning's former Amazon network had landed, and as one of the Silicon Valley companies that TEK TRECK cohort students would visit during the program's first two weeks.
+↳ source: [[2026-05-11-hats-portfolio-update-hiring-plan-fundraising-allocation-and-career-strategy]]
+
+### 2026-05-07 — AI-native inference optimisation pressure
+<!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->
+Chris cited Anthropic as an example of an AI-native organisation already experiencing urgent pressure to optimise inference costs, in contrast to legacy enterprises that were expected to reach that inflection point six to eight months later. He noted that AI-native firms of this type are unlikely to adopt [[Standard Kernel]]'s stack given their own deep kernel expertise, but used them to illustrate the immediacy of the market problem.
+↳ source: [[2026-05-07-intro-call-chris-standard-kernel-and-josh-beacon-nadia]]
+
+### 2026-05-09 — Founder writing on AI kernels
+<!-- source_hash: 43ef329822653aa56778b42f5fffb0185a99c8d2b0f1a23902e340d3ab53fd44 -->
+Fraser noted that an [[Anthropic]] founder had written about AI-written kernels in a newsletter earlier that week, signaling that the category was gaining mainstream visibility and becoming, in Fraser's words, 'sexy enough' to attract broader attention and resources.
+↳ source: [[2026-05-09-gtm-strategy-pilot-prioritisation-chris-ai-kernel-optimisation-startup]]
 
 ### 2026-04-23 — Platform API integration
 <!-- source_hash: df3eb62b26d2e13a6210f948b5efccf68d61d3637b6aec91568977031890b507 -->

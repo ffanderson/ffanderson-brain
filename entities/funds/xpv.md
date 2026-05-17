@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-05'
+last_mention: '2026-05-14'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: XPV
 relationship: ''
 status: active
@@ -22,6 +22,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-14 — Fund focus: AI in financial services
+<!-- source_hash: b52b502d461a13378e9970ca687b51ca4aa6f70235cfc58348625f478068060f -->
+XPV is [[Vestigo]]'s current fund with a dedicated AI focus. Fraser described its investment lens as companies where AI is wrapped in a financial product (e.g., futures contracts for compute, put options on GPU residual value) or where AI is being sold as a solution into large financial services firms. Fraser noted AI companies were commanding 10x to 30x revenue multiples depending on margin profile, contrasting sharply with enterprise software at roughly 3x today.
+↳ source: [[2026-05-14-intro-call-ben-ira-compliance-content-company-ai-strategy-poc-scoping]]
 
 ### 2026-04-21 — Current fund Fraser invests from
 <!-- source_hash: 792c8fee85fbe6c2dc36471e01a7d2540f319d7064e43aad8119f1494f6f0ffb -->

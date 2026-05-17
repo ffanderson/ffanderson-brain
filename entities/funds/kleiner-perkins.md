@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-04-23'
+last_mention: '2026-05-09'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Kleiner Perkins
 relationship: ''
 status: active
@@ -21,6 +21,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-09 — Bing Gordon board member
+<!-- source_hash: 6ec529ae3e7cbccb65dc24aa206d4d1ee4b9af896864c7299027976f8d6725f4 -->
+Bing Gordon was described as a longtime board member of [[Kleiner Perkins]], cited as part of his credentials as a Tech Trek advisor on product and storytelling alongside his roles at [[Electronic Arts]] and Amazon.
+↳ source: [[2026-05-09-tech-trek-sf-cohort-info-session-founder-interviews-harvard-mit-princeton]]
 
 ### 2026-04-23 — Partner involved as Tech Trek mentor
 <!-- source_hash: 12ec1a65d405a18eb8810a9e8da673587198866f28318f068590e4c821b73fff -->

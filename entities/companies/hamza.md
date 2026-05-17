@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-09'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Hamza
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-09 — Investment history and tranches
+<!-- source_hash: 072d3ba9b18f69c6455d1ab44280c53424f0a2ab472aa3b274ab8ea83536f84a -->
+Joe invested in Hamza across four tranches: $1.5M at $0.12/share (seed), $500k at $0.36/share (Series A), approximately $1M in common stock at $0.18/share, and $2.44M at $0.88/share (Series B, $250M post). He also transferred $500k of his seed position to co-investor Dana to dollar-cost average her into the round, enabling her to lead the Series A at $85M post.
+↳ source: [[2026-05-09-fund-philosophy-deep-dive-joe-gazzell-haven-ventures-fraser-anderson]]
 
 ### 2026-04-03 — J.P. Morgan pilot and reserve deployment
 <!-- source_hash: 76c734c2f449569288213890e83822fc20cb11432f7ee7ee3506023fdd438b6d -->
