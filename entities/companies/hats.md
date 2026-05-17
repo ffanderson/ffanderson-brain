@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-15'
+last_mention: '2026-05-17'
 last_touch: ''
 location: ''
-mention_count: 8
+mention_count: 9
 name: Hats
 sector: ''
 stage: ''
@@ -29,6 +29,12 @@ website: ''
 
 
 
+
+
+### 2026-05-17 — Rapid growth trajectory
+<!-- source_hash: d07e0830ae31c09680dd678bf9cdd92c2d4a03e8ca7299124072e612dc24a4d1 -->
+HATS, described as an AI platform for MSPs filling a gap in that market, was growing rapidly at the time of the meeting. Fraser reported bookings were on track to go from 5 to around 80 by quarter-end and to reach approximately 250 on a run-rate basis by year-end.
+↳ source: [[2026-05-17-catch-up-call-fraser-anderson-parenting-business-mentor-hats-ai-update-and-bridge-opportunity]]
 
 ### 2026-05-15 — ARR trajectory and growth
 <!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->

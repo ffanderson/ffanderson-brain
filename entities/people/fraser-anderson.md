@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-15'
+last_mention: '2026-05-17'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 96
+mention_count: 98
 name: Fraser Anderson
 relationship: ''
 relationship_strength: cold
@@ -118,6 +118,18 @@ type: person
 
 
 
+
+
+
+### 2026-05-17 — Decision to stay focused on HATS
+<!-- source_hash: d07e0830ae31c09680dd678bf9cdd92c2d4a03e8ca7299124072e612dc24a4d1 -->
+Fraser decided against launching his own fund in the near term, concluding that leaving before [[HATS]] is fully recognised by the market would be premature and unnecessarily painful. He noted he stands to make more from his ownership position in HATS than he had intended to raise for a fund, and committed to keeping his head down on that opportunity instead.
+↳ source: [[2026-05-17-catch-up-call-fraser-anderson-parenting-business-mentor-hats-ai-update-and-bridge-opportunity]]
+
+### 2026-05-15 — Frustration over Justin's speaker outreach
+<!-- source_hash: 969901e4cccee231a4b3d35a7eb97586a8a9fa094ae6cdcc9df62e115ee68fff -->
+Fraser expressed strong frustration that Justin was presenting himself to Sandy Pentland and Rameen Asani as though he had originated the TechTrak opportunity, when Fraser had pre-existing relationships with both — including having previously worked with Rameen. Fraser viewed the behavior as Justin implicitly claiming co-ownership of the program.
+↳ source: [[2026-05-15-techtrak-program-governance-team-eligibility-and-speaker-pipeline-review]]
 
 ### 2026-05-15 — Board role and asks
 <!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->

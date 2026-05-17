@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-09'
+last_mention: '2026-05-15'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Blackstone
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-05-15 — Niels's PE background
+<!-- source_hash: 0fd280b8c7b191a504f46a68624e20e853396d0909d7f618c8c6dba303bcdb0a -->
+[[Niels]], co-founder of [[Polaris]], spent four years at Blackstone following his time at [[JPMorgan]], giving him direct private equity experience that the team considered relevant to their eventual acquisition and roll-up strategy.
+↳ source: [[2026-05-15-startup-pitch-strategy-discussion-polaris-ai-native-medical-imaging-services]]
 
 ### 2026-05-09 — Network access to financial firms
 <!-- source_hash: 43ef329822653aa56778b42f5fffb0185a99c8d2b0f1a23902e340d3ab53fd44 -->

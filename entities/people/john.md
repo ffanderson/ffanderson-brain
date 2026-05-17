@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-05'
+last_mention: '2026-05-15'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 8
+mention_count: 9
 name: John
 relationship: ''
 relationship_strength: cold
@@ -30,6 +30,12 @@ type: person
 
 
 
+
+
+### 2026-05-15 — Team Nine Kiro: acceptance decision pending
+<!-- source_hash: 969901e4cccee231a4b3d35a7eb97586a8a9fa094ae6cdcc9df62e115ee68fff -->
+John acknowledged the Team Nine Kiro applicant's LinkedIn misrepresentation and non-MIT co-founder situation were serious red flags, but indicated the candidate may still have genuine merit. He planned to call Robbie to verify the candidate's quality before deciding whether to issue a warning and demand the LinkedIn title be removed, or to proceed differently.
+↳ source: [[2026-05-15-techtrak-program-governance-team-eligibility-and-speaker-pipeline-review]]
 
 ### 2026-04-26 — Hackathon judge; prize co-presenter
 <!-- source_hash: a12c9b0b0570a82c4263efeb61f86a0edda9e9cfd6c5c688123331b182c8f529 -->

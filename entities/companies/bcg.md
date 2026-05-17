@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-07'
 founded: ''
 founders: []
-last_mention: '2026-05-07'
+last_mention: '2026-05-15'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: BCG
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-15 — Co-founder's consulting background
+<!-- source_hash: 0fd280b8c7b191a504f46a68624e20e853396d0909d7f618c8c6dba303bcdb0a -->
+The Polaris co-founder spent three and a half years at BCG after completing his engineering degrees at Oxford, working across global health, biopharma, and medtech. He described the experience as deliberately broadening — giving him a system-level understanding of healthcare that he wanted to apply in a founding context. Fraser used the BCG background as an example of the optionality the co-founder would be giving up by pursuing a capital-intensive roll-up that failed.
+↳ source: [[2026-05-15-startup-pitch-strategy-discussion-polaris-ai-native-medical-imaging-services]]
 
 ### 2026-05-07 — Chief AI Officer blogging on Glider-adjacent tools
 <!-- source_hash: 974b4ac289d5d2ace9d857a653640b4c1355c28416cce724f24efd962c93a7b9 -->
