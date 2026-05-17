@@ -17,6 +17,8 @@ status: processed
 
 # Intro Call - John Smith, Acme AI
 
+> [!todo] **Decision pending — surfaced 2026-05-17 by stale.py + Warwick.** The five follow-ups below have been open since 2026-05-05. Sequoia's seed round was described as closing in 3 weeks; that window has passed. Either (a) re-engage John Smith and commit/pass with reasoning written here, or (b) strike the follow-ups as "not pursued" and note why. This callout is system-generated; the decision is the owner's.
+
 ## Summary
 
 First call with [[John Smith]], founder of [[Acme AI]]. They're building AI agents

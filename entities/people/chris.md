@@ -12,8 +12,8 @@ linkedin: ''
 location: ''
 mention_count: 5
 name: Chris
-relationship: ''
-relationship_strength: cold
+relationship: founder
+relationship_strength: strong
 role: ''
 status: active
 tags: []

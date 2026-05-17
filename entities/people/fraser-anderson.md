@@ -12,8 +12,8 @@ linkedin: ''
 location: ''
 mention_count: 98
 name: Fraser Anderson
-relationship: ''
-relationship_strength: cold
+relationship: personal
+relationship_strength: core
 role: ''
 status: active
 tags: []

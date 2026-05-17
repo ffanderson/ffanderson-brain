@@ -12,8 +12,8 @@ linkedin: ''
 location: ''
 mention_count: 7
 name: Theo
-relationship: ''
-relationship_strength: cold
+relationship: operator
+relationship_strength: strong
 role: ''
 status: active
 tags: []

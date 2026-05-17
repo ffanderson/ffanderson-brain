@@ -12,8 +12,8 @@ linkedin: ''
 location: ''
 mention_count: 3
 name: Aiden
-relationship: ''
-relationship_strength: cold
+relationship: operator
+relationship_strength: strong
 role: ''
 status: active
 tags: []
