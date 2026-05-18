@@ -98,3 +98,13 @@ conversations happen to be going. Decide.
   require a hold period that exceeds fund life?
 - Who is the lead operator if this becomes a real deployment, and is
   it Brian, Mark, or someone new?
+
+## Mentions
+
+### 2026-05-18 — Owner thought: power-infrastructure downstream
+Owner flagged that the AI-economy insurance frame extends beyond the
+data centre itself into the upstream supply — substations, transformer
+stations, grid-edge security — that nobody else is currently
+underwriting. Surfaces as a downstream/upstream extension to this
+pillar rather than a separate thesis.
+↳ source: [[seedlings]] (2026-05-18)
