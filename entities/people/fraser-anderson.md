@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-17'
+last_mention: '2026-05-18'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 98
+mention_count: 103
 name: Fraser Anderson
 relationship: personal
 relationship_strength: core
@@ -120,6 +120,36 @@ type: person
 
 
 
+
+
+
+
+
+
+### 2026-05-18 — Insurtech MGA: pacing and role
+<!-- source_hash: 2944946141a17e45a8842a5a10aff93d451fb5580087a5e780ebad710cd77e3f -->
+Fraser was driving operational groundwork for the insurtech MGA venture but consciously decided to throttle his pace to align with [[Mark]]'s VC playbook rather than pursue his own PE-style approach. He framed his role as waiting for Mark and [[Mark]]'s partner to gain conviction and push the process forward, rather than pulling them along.
+↳ source: [[2026-05-18-insurtech-mga-venture-check-in-fraser-anderson-mark]]
+
+### 2026-05-18 — Advice: relocate to SF immediately
+<!-- source_hash: 77130796721d95522a5f4ae5bc838bb2fc8238f1591449fac9529e2ac88067ec -->
+Fraser gave direct advice to the Wayvest founder that remaining in Chicago was an active penalty—not merely a disadvantage—for a technology company seeking venture capital. He recommended an immediate move to San Francisco, arguing the city's engineering talent density and investor ecosystem were unambiguously superior, and that New York offered no compelling advantage for a business whose customers and advisors are distributed nationally.
+↳ source: [[2026-05-18-seed-fundraising-update-strategy-discussion-wayvest-founder]]
+
+### 2026-05-18 — Investment thesis: AI infrastructure and atoms
+<!-- source_hash: e237fef29434d50959ea3747eb152ba2848cb50b9c10b74f8a31c2b3e1528d67 -->
+Fraser described his current focus as AI-driven investments where removing AI from the thesis would cause the business to collapse. He noted that pure software AI is increasingly difficult to back due to the AI kill zone, and said he is spending more time on businesses that combine AI with physical or financial complexity — including energy infrastructure, insurance risk capital, and material science. His relationships with [[Markley Group]] and [[Volta Grid]] anchor his data center and energy ecosystem.
+↳ source: [[2026-05-18-intro-call-tyler-superconducting-energy-storage-startup-smes-for-ai-data-centers]]
+
+### 2026-05-18 — Data center program: product scope
+<!-- source_hash: e98356f4b7cc963d9e6d4871b4cd1ad8cffef4250c501787b2a9f4ffcd449e58 -->
+Fraser and Mark reviewed the intended coverage scope for the data center insurance program, which extended beyond property catastrophe and fire to include power outage and business interruption, cyber risk, uptime and SLA performance, and potentially GPU and compute availability. Fraser noted cyber risk explicitly and was open to parametric structures as a differentiator, though he flagged uncertainty about whether parametric triggers would drive buyer adoption given the value of a robust claims process.
+↳ source: [[2026-05-18-data-center-insurance-mga-build-out-strategy-session-with-mark]]
+
+### 2026-05-18 — Co-founder density thesis
+<!-- source_hash: 3ac22e87a795846229b127bd9ea3c720e6607850b9005af293b4104d752a4804 -->
+Fraser articulated a conviction that founding teams of at least three close friends solving a hard technical problem together — ideally college classmates — are a strong signal of a founder's ability to recruit top talent and correlate with outsized outcomes. He pushed Tom on whether Tyler's team met this bar.
+↳ source: [[2026-05-18-investment-discussion-tyler-superconducting-power-systems-for-data-centers]]
 
 ### 2026-05-17 — Decision to stay focused on HATS
 <!-- source_hash: d07e0830ae31c09680dd678bf9cdd92c2d4a03e8ca7299124072e612dc24a4d1 -->

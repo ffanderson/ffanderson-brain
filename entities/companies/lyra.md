@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-12'
+last_mention: '2026-05-19'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Lyra
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-05-19 — Potential Boston event audience
+<!-- source_hash: 8842b834b931b10bc5a63be205b1e1391f226817cb3d49dc9a032399a82bad10 -->
+Lyra was cited alongside [[Thrive]] as a possible organising body for the June Boston AI presentation, representing the model where a larger MSP umbrella group convenes member MSPs to hear vendor pitches and new ideas.
+↳ source: [[2026-05-19-check-in-call-mike-keating-hats-ai]]
 
 ### 2026-05-12 — Contribution to HATS bookings
 <!-- source_hash: 386ffc390818c4e442a90f35580b6f89bb0eb078d4d719c8f15277ec5b823e9d -->

@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-05'
+last_mention: '2026-05-18'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 8
+mention_count: 10
 name: Mark
 relationship: ''
 relationship_strength: cold
@@ -30,6 +30,18 @@ type: person
 
 
 
+
+
+
+### 2026-05-18 — Capital commitment gated on Aiden Keough
+<!-- source_hash: 2944946141a17e45a8842a5a10aff93d451fb5580087a5e780ebad710cd77e3f -->
+Mark would not commit capital or go fully all-in on the insurtech MGA until he had a dedicated conversation with his business partner Aiden Keough, who was occupied with other work and whose bandwidth was limited until approximately the end of the month. Mark was clear this was a hard prerequisite, though he remained willing to meet underwriter candidates in the interim to assess the team component.
+↳ source: [[2026-05-18-insurtech-mga-venture-check-in-fraser-anderson-mark]]
+
+### 2026-05-18 — MGA structure: build vs. buy
+<!-- source_hash: e98356f4b7cc963d9e6d4871b4cd1ad8cffef4250c501787b2a9f4ffcd449e58 -->
+Mark outlined the regulated entity requirement for the data center insurance program, noting that a Managing General Agency structure was the likely vehicle. His presumption was to build (i.e., obtain a new license) rather than acquire an existing MGA, and he expected the licensing timeline to run roughly parallel to the tech stack build. He flagged that the decision on buying versus building was something he wanted to discuss further with Aiden.
+↳ source: [[2026-05-18-data-center-insurance-mga-build-out-strategy-session-with-mark]]
 
 ### 2026-05-01 — Insurance background: built Argo over 20 years
 <!-- source_hash: 0a037bbb6299cd10cd2b7cf993afd6b0fdc4d04586b4a4dca6db903f35463ad4 -->

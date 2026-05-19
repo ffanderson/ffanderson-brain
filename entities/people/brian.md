@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-13'
-last_mention: '2026-05-12'
+last_mention: '2026-05-18'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Brian
 relationship: ''
 relationship_strength: cold
@@ -23,6 +23,12 @@ type: person
 # Brian
 
 ## Mentions
+
+
+### 2026-05-18 — Background: Cal Poly, SpaceX, Lockheed
+<!-- source_hash: e237fef29434d50959ea3747eb152ba2848cb50b9c10b74f8a31c2b3e1528d67 -->
+Brian co-founded the SMES venture with [[Tyler]] after working on the same SpaceX Redmond team, where he designed deployable solar array structures — described as the most reliable large-scale electromechanical mechanisms ever deployed at volume. He also has experience from Cal Poly EV and solar racing teams and a stint at Lockheed Martin in aerospace, giving the pair complementary and largely non-overlapping networks.
+↳ source: [[2026-05-18-intro-call-tyler-superconducting-energy-storage-startup-smes-for-ai-data-centers]]
 
 ### 2026-05-12 — Strategic pivot to neuro-annotation/RLBF
 <!-- source_hash: ce6831273c4f1c7d2de50b8236ab3622afa9b009f524a28bfa21da9ecc806def -->

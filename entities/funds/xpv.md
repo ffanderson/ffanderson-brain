@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-14'
+last_mention: '2026-05-18'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: XPV
 relationship: ''
 status: active
@@ -23,6 +23,12 @@ website: ''
 
 
 
+
+
+### 2026-05-18 — Fund strategy: AI-native, Cambridge focus
+<!-- source_hash: 77130796721d95522a5f4ae5bc838bb2fc8238f1591449fac9529e2ac88067ec -->
+XPV was described as a combination of the prior [[Vestigo]] and Leng fund strategies and teams, with a shared location and partners. The fund's emphasis is on businesses originating from the Cambridge ecosystem where AI is core to the thesis—not a feature added on top. Mark is no longer an investing partner and is focused on the legacy Vestigo funds and running [[FMG Suite]].
+↳ source: [[2026-05-18-seed-fundraising-update-strategy-discussion-wayvest-founder]]
 
 ### 2026-05-14 — Fund focus: AI in financial services
 <!-- source_hash: b52b502d461a13378e9970ca687b51ca4aa6f70235cfc58348625f478068060f -->

@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-14'
+last_mention: '2026-05-18'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Vestigo
 relationship: ''
 status: active
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-05-18 — Predecessor fund; investor network context
+<!-- source_hash: 77130796721d95522a5f4ae5bc838bb2fc8238f1591449fac9529e2ac88067ec -->
+Vestigo was a fintech-focused predecessor fund whose strategy and team were folded into the new [[XPV]] fund. Fraser noted that Vestigo's investor relationships had largely been directed toward [[Savvy]], limiting available warm introductions for [[Wayvest]] given competitive overlap in the wealth-tech space.
+↳ source: [[2026-05-18-seed-fundraising-update-strategy-discussion-wayvest-founder]]
 
 ### 2026-05-14 — Fund history and AI investment lens
 <!-- source_hash: b52b502d461a13378e9970ca687b51ca4aa6f70235cfc58348625f478068060f -->

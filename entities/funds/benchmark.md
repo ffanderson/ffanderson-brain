@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-05'
+last_mention: '2026-05-18'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Benchmark
 relationship: ''
 status: active
@@ -23,6 +23,12 @@ website: ''
 
 
 
+
+
+### 2026-05-18 — Co-investor relationship with Fraser
+<!-- source_hash: e237fef29434d50959ea3747eb152ba2848cb50b9c10b74f8a31c2b3e1528d67 -->
+Fraser mentioned that Benchmark co-invested with him on a core portfolio investment and that the relationship influenced his decision to participate in the [[Star Cloud]] round. He described the involvement as a trust signal rather than deep independent conviction.
+↳ source: [[2026-05-18-intro-call-tyler-superconducting-energy-storage-startup-smes-for-ai-data-centers]]
 
 ### 2026-05-05 — Co-investor in Gigya
 <!-- source_hash: 8babc80f28a557479e9cbf046a11c8c24fc82c354769f29c9660c62873267de1 -->

@@ -1,16 +1,16 @@
 ---
 aliases: []
-created: '2026-05-05'
+created: '2026-05-19'
 crm_id: ''
 crm_system: ''
-first_seen: '2026-05-05'
+first_seen: '2026-05-19'
 founded: ''
 founders: []
 last_mention: '2026-05-18'
 last_touch: ''
 location: ''
 mention_count: 1
-name: Farther
+name: FMG Suite
 sector: ''
 stage: ''
 status: tracking
@@ -19,11 +19,11 @@ type: company
 website: ''
 ---
 
-# Farther
+# FMG Suite
 
 ## Mentions
 
-### 2026-05-18 — Third-party dependency contrast
+### 2026-05-18 — Mark's operating role post-Vestigo
 <!-- source_hash: 77130796721d95522a5f4ae5bc838bb2fc8238f1591449fac9529e2ac88067ec -->
-Farther was mentioned as an example of an RIA-model company that relies heavily on third-party infrastructure, notably [[Black Diamond]], raising the founder's question of whether it would be possible to build effective AI agents on top of systems the company does not own.
+FMG Suite, owned by [[GTCR]], was identified as the business that Mark is currently running after stepping back from an investing role at [[Vestigo]]. Mark remains focused on the first two Vestigo funds alongside this operating role.
 ↳ source: [[2026-05-18-seed-fundraising-update-strategy-discussion-wayvest-founder]]

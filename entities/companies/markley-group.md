@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-04-24'
+last_mention: '2026-05-18'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Markley Group
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # Markley Group
 
 ## Mentions
+
+
+### 2026-05-18 — Fraser's data center ecosystem anchor
+<!-- source_hash: e237fef29434d50959ea3747eb152ba2848cb50b9c10b74f8a31c2b3e1528d67 -->
+Fraser described [[Markley Group]], the largest data center operator in Massachusetts, as a close relationship in his network and a central node in the ecosystem through which he plans to do more atom-based energy investments. He cited this relationship as part of the reason he is actively seeking infrastructure and energy plays tied to AI data centers.
+↳ source: [[2026-05-18-intro-call-tyler-superconducting-energy-storage-startup-smes-for-ai-data-centers]]
 
 ### 2026-04-24 — Data center operator; warm intro opportunity
 <!-- source_hash: fe182c655de62fb007b93a7fea9ea2813ee78c8e07d640b8a9f0185d11dff9b5 -->
