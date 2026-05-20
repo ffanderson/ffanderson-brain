@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-07'
+last_mention: '2026-05-19'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Blackstone
 relationship: ''
 status: active
@@ -21,6 +21,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-19 — Josh's tenure: CTO and strategic investing
+<!-- source_hash: 0f4df8abe742ab54e6e2309160b7c1986e927e5969a5360932d296a134d20d81 -->
+During [[Josh Hertzter]]'s eighteen-year tenure at Blackstone he served as global CTO and led Blackstone Innovations, the firm's balance-sheet-funded early-stage strategic investing arm, completing over twenty-five investments mostly at above three-times returns. He also oversaw technology across Blackstone's private wealth business and its credit business, and launched Blackstone's Miami office in 2020. Josh noted that Blackstone operates the world's largest private equity secondaries business, a detail he raised as a potential opportunity for [[Hamsa]].
+↳ source: [[2026-05-19-intro-call-josh-hertzter-nadia-partners-blackstone-adam-hamsa-capital-markets-infrastructure]]
 
 ### 2026-05-07 — QTS deal and CoreWeave credit facility
 <!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->

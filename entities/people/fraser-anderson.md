@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-18'
+last_mention: '2026-05-20'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 103
+mention_count: 105
 name: Fraser Anderson
 relationship: personal
 relationship_strength: core
@@ -125,6 +125,18 @@ type: person
 
 
 
+
+
+
+### 2026-05-19 — Facilitated Hamsa–Josh introduction
+<!-- source_hash: 0f4df8abe742ab54e6e2309160b7c1986e927e5969a5360932d296a134d20d81 -->
+Fraser organized the meeting to connect [[Adam]] and [[Matt Mistl]] at [[Hamsa]] with [[Josh Hertzter]] of [[Nadia Partners]], citing Josh's background building large-scale infrastructure at [[Blackstone]] as directly relevant to Hamsa's roadmap into alternatives and institutional capital markets. Fraser noted that his partner Mark Cassidy had gotten involved in Hamsa earlier in the year after the firm missed the earlier fundraising phase, and framed the introduction as exploration of collaboration rather than a structured deal process.
+↳ source: [[2026-05-19-intro-call-josh-hertzter-nadia-partners-blackstone-adam-hamsa-capital-markets-infrastructure]]
+
+### 2026-05-20 — Considering move to San Francisco
+<!-- source_hash: 7022aa3eb38699a7adacc120e35ea97a97ea8e3a058baf8158393e2fc457c7a1 -->
+Fraser indicated he was planning to relocate to San Francisco, likely renting in the city first before committing to a neighbourhood. He expressed interest in staying in more urban areas such as Pacific Heights or the Marina district, and noted that if things went well professionally he might eventually consider Marin County.
+↳ source: [[2026-05-20-personal-catch-up-parenting-advice-sf-vs-dc-relocation]]
 
 ### 2026-05-18 — Insurtech MGA: pacing and role
 <!-- source_hash: 2944946141a17e45a8842a5a10aff93d451fb5580087a5e780ebad710cd77e3f -->

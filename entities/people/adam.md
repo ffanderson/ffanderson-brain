@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-04-29'
+last_mention: '2026-05-19'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Adam
 relationship: ''
 relationship_strength: cold
@@ -25,6 +25,12 @@ type: person
 ## Mentions
 
 
+
+
+### 2026-05-19 — Background and Hamsa founding
+<!-- source_hash: 0f4df8abe742ab54e6e2309160b7c1986e927e5969a5360932d296a134d20d81 -->
+Adam is a serial entrepreneur who previously built an e-commerce business to around $300 million in revenue and sold it for around $550 million. He then founded [[Hamsa]] with a vision of building an intelligent data backbone for capital markets, combining a privacy-native blockchain with an AI normalization layer.
+↳ source: [[2026-05-19-intro-call-josh-hertzter-nadia-partners-blackstone-adam-hamsa-capital-markets-infrastructure]]
 
 ### 2025-05-14 — Arrival date and flight logistics
 <!-- source_hash: c6f43efef8a1a63c492ba9aa07c43e027cfa664a624d3976c8ad691bbf4135c9 -->

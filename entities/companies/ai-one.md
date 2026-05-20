@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-12'
+last_mention: '2026-05-19'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: AI One
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-05-19 — Data fabric product, JPMorgan pilot
+<!-- source_hash: 0f4df8abe742ab54e6e2309160b7c1986e927e5969a5360932d296a134d20d81 -->
+Josh described AI One as a portfolio company of [[Nadia Partners]] that addresses the data prerequisite for AI without requiring a multi-year data transformation. The product creates a virtual fabric layer over data in place — avoiding the need to build data lakes or warehouses — enabling organizations to go from zero to an AI-ready data layer in six to nine weeks rather than six to nine months. [[JPMorgan]] is currently piloting the product, and the solution is designed to be model-agnostic so integrations do not break as frontier models evolve.
+↳ source: [[2026-05-19-intro-call-josh-hertzter-nadia-partners-blackstone-adam-hamsa-capital-markets-infrastructure]]
 
 ### 2026-05-12 — SPV inclusion and Fraser's view
 <!-- source_hash: 386ffc390818c4e442a90f35580b6f89bb0eb078d4d719c8f15277ec5b823e9d -->

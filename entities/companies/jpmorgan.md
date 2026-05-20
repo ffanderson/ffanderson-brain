@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-09'
 founded: ''
 founders: []
-last_mention: '2026-05-15'
+last_mention: '2026-05-19'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: JPMorgan
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-19 — Sub-accounting modernization, SS&C replacement
+<!-- source_hash: 0f4df8abe742ab54e6e2309160b7c1986e927e5969a5360932d296a134d20d81 -->
+JPMorgan is migrating its wealth sub-accounting infrastructure from mainframe to cloud and selected [[Hamsa]] to replace [[SS&C]] in the sub-accounting layer sitting between brokerage and transfer agent. The engagement covers mutual funds and money market funds across 19 million positions and approximately 100 million share lots, with commercial go-live targeted in Q4 2026. JPMorgan is also piloting [[AI One]]'s data fabric product concurrently.
+↳ source: [[2026-05-19-intro-call-josh-hertzter-nadia-partners-blackstone-adam-hamsa-capital-markets-infrastructure]]
 
 ### 2026-05-15 — Niels's finance background
 <!-- source_hash: 0fd280b8c7b191a504f46a68624e20e853396d0909d7f618c8c6dba303bcdb0a -->

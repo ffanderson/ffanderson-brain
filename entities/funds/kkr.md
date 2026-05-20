@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-05'
+last_mention: '2026-05-19'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: KKR
 relationship: ''
 status: active
@@ -22,6 +22,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-19 — Acquired Aiden's prior security business
+<!-- source_hash: 0f4df8abe742ab54e6e2309160b7c1986e927e5969a5360932d296a134d20d81 -->
+Josh mentioned that his Nadia Partners co-founder Aiden previously sold his security business to Talent Bravo and subsequently to [[KKR]], after which Aiden spent several years persuading Josh to leave [[Blackstone]] and partner with him before Josh ultimately joined to launch the Nadia data center business.
+↳ source: [[2026-05-19-intro-call-josh-hertzter-nadia-partners-blackstone-adam-hamsa-capital-markets-infrastructure]]
 
 ### 2026-04-24 — Liquid cooling M&A validation
 <!-- source_hash: fe182c655de62fb007b93a7fea9ea2813ee78c8e07d640b8a9f0185d11dff9b5 -->
