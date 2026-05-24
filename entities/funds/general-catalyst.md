@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-12'
+last_mention: '2026-05-20'
 last_touch: ''
 location: ''
-mention_count: 8
+mention_count: 9
 name: General Catalyst
 relationship: ''
 status: active
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-05-20 — Nominal Boston presence only
+<!-- source_hash: b0be61af6dcd6936a10198c65b3a7a998da96d93755a0ef4740cf6a63e806a5d -->
+John characterized General Catalyst's current Boston footprint as minimal—describing it as essentially having accountants in Harvard Square—contrasting it with his fund's deep physical and community presence near MIT.
+↳ source: [[2026-05-20-intro-call-fraser-anderson-john-xpv-vestigo-link-ventures]]
 
 ### 2026-05-12 — MSP roll-up bet, Fraser's critique
 <!-- source_hash: 386ffc390818c4e442a90f35580b6f89bb0eb078d4d719c8f15277ec5b823e9d -->

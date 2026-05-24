@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-12'
 last_touch: ''
 location: ''
-mention_count: 11
+mention_count: 12
 name: Anthropic
 sector: ''
 stage: ''
@@ -32,6 +32,12 @@ website: ''
 
 
 
+
+
+### 2026-04-29 — Fellowship with MIT Bike Shop lab
+<!-- source_hash: 383030be4bfa3a009e350bb37fa67117e06dc4a8cf37af02038bd632fd64cf3f -->
+Anthropic's Applied AI team is co-organizing a fellowship with MIT's 'Bike Shop' research lab focused on enabling or augmenting human capacity with AI models, explicitly oriented toward problems that AI makes newly solvable rather than efficiency gains. [[Funny An]] holds an offer to join this fellowship as its only Harvard undergrad participant.
+↳ source: [[2026-04-29-program-admissions-interview-funny-an]]
 
 ### 2025-05-14 — API access and founder outreach
 <!-- source_hash: c6f43efef8a1a63c492ba9aa07c43e027cfa664a624d3976c8ad691bbf4135c9 -->

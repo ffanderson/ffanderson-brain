@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-06'
+last_mention: '2026-05-20'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Blitzy
 sector: ''
 stage: ''
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-05-20 — Strong traction in new fund
+<!-- source_hash: b0be61af6dcd6936a10198c65b3a7a998da96d93755a0ef4740cf6a63e806a5d -->
+John identified Blitzy as one of the portfolio companies with the clearest enterprise traction in his new $240M fund, naming it alongside [[Ro]] as the most relevant candidates for someone like Fraser seeking a post–product-market-fit operating role.
+↳ source: [[2026-05-20-intro-call-fraser-anderson-john-xpv-vestigo-link-ventures]]
 
 ### 2026-05-06 — ARR trajectory; Fraser's bandwidth
 <!-- source_hash: 9f30ebb0ecc2a11006151286c3848d3fce39c7e25d10228ee09cf71c00128cc8 -->

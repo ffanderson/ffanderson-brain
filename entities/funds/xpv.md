@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-18'
+last_mention: '2026-05-20'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: XPV
 relationship: ''
 status: active
@@ -24,6 +24,12 @@ website: ''
 
 
 
+
+
+### 2026-05-20 — Fund overview and strategy
+<!-- source_hash: b0be61af6dcd6936a10198c65b3a7a998da96d93755a0ef4740cf6a63e806a5d -->
+John described XPV as the current brand under which he and his partner Dave Blunden have consolidated their investing activity, managing roughly one billion dollars across five active funds including a new $240M vehicle. The fund is focused on being the first institutional check into AI-oriented startups, with a particular emphasis on undergraduate founders from Harvard, MIT, and Stanford, operating out of forty thousand square feet of office space two blocks from MIT in Boston.
+↳ source: [[2026-05-20-intro-call-fraser-anderson-john-xpv-vestigo-link-ventures]]
 
 ### 2026-05-18 — Fund strategy: AI-native, Cambridge focus
 <!-- source_hash: 77130796721d95522a5f4ae5bc838bb2fc8238f1591449fac9529e2ac88067ec -->

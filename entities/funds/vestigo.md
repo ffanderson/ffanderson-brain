@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-18'
+last_mention: '2026-05-20'
 last_touch: ''
 location: ''
-mention_count: 7
+mention_count: 8
 name: Vestigo
 relationship: ''
 status: active
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-05-20 — Prior brand, applied AI in fintech
+<!-- source_hash: b0be61af6dcd6936a10198c65b3a7a998da96d93755a0ef4740cf6a63e806a5d -->
+John described Vestigo as an earlier fund brand focused on applied AI primarily in financial services, which predated the consolidation into the current [[XPV]] structure.
+↳ source: [[2026-05-20-intro-call-fraser-anderson-john-xpv-vestigo-link-ventures]]
 
 ### 2026-05-18 — Predecessor fund; investor network context
 <!-- source_hash: 77130796721d95522a5f4ae5bc838bb2fc8238f1591449fac9529e2ac88067ec -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-15'
+last_mention: '2026-05-24'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Deloitte
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-05-24 — Neighbor connection, property context
+<!-- source_hash: 424c82cc42d172ebcab4d4d93dca6166207e27a328a7b0cb22dacaf3f456756c -->
+Fraser mentioned in passing that a neighbor near his new house works at Deloitte and is selling a property off-market at around $17.1 million, offered as color on the neighborhood rather than a business matter.
+↳ source: [[2026-05-24-catch-up-call-candidate-screening-networking-updates-insurance-startup-co-invest]]
 
 ### 2026-05-15 — HATS audit scheduling slip
 <!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->

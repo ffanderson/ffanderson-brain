@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-15'
+last_mention: '2026-05-24'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 9
+mention_count: 10
 name: John
 relationship: ''
 relationship_strength: cold
@@ -31,6 +31,12 @@ type: person
 
 
 
+
+
+### 2026-05-24 — Incubating AI/data center insurance startup
+<!-- source_hash: 424c82cc42d172ebcab4d4d93dca6166207e27a328a7b0cb22dacaf3f456756c -->
+John described a startup concept he is incubating: an insurance product tailored to the AI and data center industry. He had previously sent Fraser a note requesting an introduction to [[Jim Stone]], believing Stone—as a successful figure with proximity to the space—would be receptive to discussing the idea.
+↳ source: [[2026-05-24-catch-up-call-candidate-screening-networking-updates-insurance-startup-co-invest]]
 
 ### 2026-05-15 — Team Nine Kiro: acceptance decision pending
 <!-- source_hash: 969901e4cccee231a4b3d35a7eb97586a8a9fa094ae6cdcc9df62e115ee68fff -->

@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-20'
+last_mention: '2026-05-24'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 105
+mention_count: 108
 name: Fraser Anderson
 relationship: personal
 relationship_strength: core
@@ -127,6 +127,24 @@ type: person
 
 
 
+
+
+
+
+### 2026-05-24 — Networking: Benioff, Hurley, insurance founder
+<!-- source_hash: 424c82cc42d172ebcab4d4d93dca6166207e27a328a7b0cb22dacaf3f456756c -->
+Fraser reported a busy stretch of meetings, including an outreach to [[Mark Benioff]] to solicit funding and a meeting with [[Chad Hurley]], who agreed to visit and spend time with Fraser's family. Fraser also bumped into a neighbor running an insurance startup and flagged the connection as a potential co-investment opportunity for himself and John.
+↳ source: [[2026-05-24-catch-up-call-candidate-screening-networking-updates-insurance-startup-co-invest]]
+
+### 2026-05-20 — Career background and job search
+<!-- source_hash: b0be61af6dcd6936a10198c65b3a7a998da96d93755a0ef4740cf6a63e806a5d -->
+Fraser spent roughly six years at [[True Ventures]], where he built the crypto portfolio from one or two investments to fifty-three, representing about a quarter of the portfolio by count, and developed a founder-referral flywheel that drove four to five new investments near his departure. He subsequently co-founded [[Explore Labs]] (shut down after six months) and then joined [[Proof Group]] to build a bare metal compute business, racking five hundred CPU servers and signing the first customer before transitioning out about a month prior to this meeting. At the time of the call he was actively searching for his next operating role, targeting Chief of Staff or Agent Strategist positions at post–product-market-fit AI or enterprise companies, with a five-to-ten year commitment horizon in mind.
+↳ source: [[2026-05-20-intro-call-fraser-anderson-john-xpv-vestigo-link-ventures]]
+
+### 2026-05-24 — Investing thesis, AI-adjacent focus
+<!-- source_hash: cc02254e9ac4893e1442c0270184a22686a77f56fd49406c260865b3eb5213ba -->
+Fraser described his investing themes as businesses where AI is a genuine driver — if you remove AI, the business no longer makes sense. Specific areas of interest included fintech securitizing AI-related assets and insurance products for AI assets. He noted he tends toward software and things that play on the second-order impact of AI rather than pure AI companies.
+↳ source: [[2026-05-24-networking-event-fraser-anderson-meets-nextree-private-ai-deployment-and-agentic-readiness-startups]]
 
 ### 2026-05-19 — Facilitated Hamsa–Josh introduction
 <!-- source_hash: 0f4df8abe742ab54e6e2309160b7c1986e927e5969a5360932d296a134d20d81 -->
