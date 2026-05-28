@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-04-26'
+last_mention: '2026-05-22'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Kevin
 relationship: ''
 relationship_strength: cold
@@ -23,6 +23,12 @@ type: person
 # Kevin
 
 ## Mentions
+
+
+### 2026-05-22 — Engaged question re: space design
+<!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->
+Kevin offered substantive feedback during the orientation after Peng and Carson's introductions, asking Carson specifically about how physical spaces can be designed to foster creativity, and posing a parallel question to Peng about building residential environments that are conducive to learning. John acknowledged Kevin by name and described the response as well put.
+↳ source: [[2026-05-22-tech-trek-summer-program-cohort-kickoff-orientation]]
 
 ### 2026-04-26 — Presenter of research marketplace platform
 <!-- source_hash: dff89411b86d95696a760b2341513ae71c1279ce4d158f02104e1f636a1da7ec -->

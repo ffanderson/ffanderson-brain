@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-19'
+last_mention: '2026-05-27'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: AI One
 sector: ''
 stage: ''
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-05-27 — Related-party relationship with HATS
+<!-- source_hash: bdf0eaecf1ca9c22a005cbd892c13d57448791e747198b7fab07591b79533fa8 -->
+Fraser flagged [[AI One]] as a company he is involved in that has an informal relationship with [[HATS]]: one of HATS's founders also sits on AI One's board, and the two companies have historically compared notes on product, though this has become less frequent as HATS's engineering organization has matured. AI One services a different part of the market than HATS. Fraser confirmed no commercial agreements or financial transactions between the two entities to his knowledge.
+↳ source: [[2026-05-27-audit-planning-interview-fraser-anderson-board-member-hats]]
 
 ### 2026-05-19 — Data fabric product, JPMorgan pilot
 <!-- source_hash: 0f4df8abe742ab54e6e2309160b7c1986e927e5969a5360932d296a134d20d81 -->

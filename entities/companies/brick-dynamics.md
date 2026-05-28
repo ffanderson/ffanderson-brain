@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-09'
+last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Brick Dynamics
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-28 — Round delayed by partner interference
+<!-- source_hash: 63da34cce967024a9d1145dd2238725df9fcda996c8156e17dff3a0e8dc1f1e7 -->
+Brick Dynamics, where TJ is the relevant founder contact, had its financing disrupted alongside other Haven portfolio companies during Q4. Joe described himself as a board member, approximately 20% owner, and co-inventor of the business.
+↳ source: [[2026-05-28-haven-fund-dissolution-debrief-joe-recounts-mclean-partnership-conflict]]
 
 ### 2026-05-09 — Upcoming raise and Joe's position
 <!-- source_hash: 072d3ba9b18f69c6455d1ab44280c53424f0a2ab472aa3b274ab8ea83536f84a -->

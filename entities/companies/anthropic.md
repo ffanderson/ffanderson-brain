@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-12'
+last_mention: '2026-05-22'
 last_touch: ''
 location: ''
-mention_count: 12
+mention_count: 13
 name: Anthropic
 sector: ''
 stage: ''
@@ -33,6 +33,12 @@ website: ''
 
 
 
+
+
+### 2026-05-22 — API tokens and CEO engagement
+<!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->
+Theo mentioned that the program was in conversations with Anthropic about API tokens for the cohort. John confirmed he had exchanged around six emails with Dario (Amodei, Anthropic CEO) requesting both a meeting with the cohort and token access; Dario indicated he would follow up on meetings but confirmed that substantial token access could be provided.
+↳ source: [[2026-05-22-tech-trek-summer-program-cohort-kickoff-orientation]]
 
 ### 2026-04-29 — Fellowship with MIT Bike Shop lab
 <!-- source_hash: 383030be4bfa3a009e350bb37fa67117e06dc4a8cf37af02038bd632fd64cf3f -->

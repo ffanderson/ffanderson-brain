@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-07'
 founded: ''
 founders: []
-last_mention: '2026-05-07'
+last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Marsh
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-28 — New data center capacity vehicles, mismatched values
+<!-- source_hash: 41d9d3cfc94e35bb2a6bb0ba8e2f72b2408409e031351af6ae8d0e72c39f0c7d -->
+Marsh and Aon were noted to have recently created specific capacity vehicles for data center insurance, but the insurable values in these products were described as 'totally out of whack' relative to the actual exposure being underwritten.
+↳ source: [[2026-05-28-informal-strategy-session-hacker-house-portfolio-ai-company-new-investment-theses]]
 
 ### 2026-05-04 — Leading data center broker
 <!-- source_hash: 514ea3ef2bfe17c6ab2447dae3f04c69a5fffa534e66326f61296a19b46ee759 -->

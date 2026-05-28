@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-24'
+last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Deloitte
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-05-28 — Engaged to audit MSP AI company pre-IPO
+<!-- source_hash: 41d9d3cfc94e35bb2a6bb0ba8e2f72b2408409e031351af6ae8d0e72c39f0c7d -->
+Deloitte is being brought in to audit a vertical AI company in the MSP market that Fraser sits on the board of, in preparation for an S-1 filing targeted for early next year. The engagement is part of a deliberate sequencing: a $25 million signal round now, a larger priced round at year-end to set a negotiating floor, then a public filing.
+↳ source: [[2026-05-28-informal-strategy-session-hacker-house-portfolio-ai-company-new-investment-theses]]
 
 ### 2026-05-24 — Neighbor connection, property context
 <!-- source_hash: 424c82cc42d172ebcab4d4d93dca6166207e27a328a7b0cb22dacaf3f456756c -->

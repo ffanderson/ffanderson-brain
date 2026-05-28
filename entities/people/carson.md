@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-09'
+last_mention: '2026-05-22'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Carson
 relationship: ''
 relationship_strength: cold
@@ -25,6 +25,12 @@ type: person
 ## Mentions
 
 
+
+
+### 2026-05-22 — Design sprint lead; July program
+<!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->
+Carson, a designer and creative director based in San Francisco for fifteen years, was confirmed as running a design sprint in mid-July aimed at helping cohort teams prototype and accelerate their builds. He also planned to lead field trips to expand participants' understanding of San Francisco's history and the current AI moment. Carson was noted as having been helpful in Boston during the program's formation phase.
+↳ source: [[2026-05-22-tech-trek-summer-program-cohort-kickoff-orientation]]
 
 ### 2026-05-09 — Program co-organizer, design studio
 <!-- source_hash: 6ec529ae3e7cbccb65dc24aa206d4d1ee4b9af896864c7299027976f8d6725f4 -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-07'
+last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Aon
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-05-28 — Data center insurance capacity gap
+<!-- source_hash: 41d9d3cfc94e35bb2a6bb0ba8e2f72b2408409e031351af6ae8d0e72c39f0c7d -->
+Fraser spoke with Aon as part of research into data center insurance, prompted by his cousin who runs the data center group there. The conversation surfaced a significant market gap: insurers including Aon currently have no capacity for the scale of property value being created by data centers and are not yet considering catastrophic scenarios such as transformer destruction causing multi-year supply chain delays.
+↳ source: [[2026-05-28-informal-strategy-session-hacker-house-portfolio-ai-company-new-investment-theses]]
 
 ### 2026-05-04 — Leading data center broker
 <!-- source_hash: 514ea3ef2bfe17c6ab2447dae3f04c69a5fffa534e66326f61296a19b46ee759 -->

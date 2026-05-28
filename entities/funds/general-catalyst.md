@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-20'
+last_mention: '2026-05-26'
 last_touch: ''
 location: ''
-mention_count: 9
+mention_count: 11
 name: General Catalyst
 relationship: ''
 status: active
@@ -28,6 +28,18 @@ website: ''
 
 
 
+
+
+
+### 2026-05-26 — Preferred co-lead for YC follow-ons
+<!-- source_hash: 488c28d6390f65f37c9609806d768b14990ff7f6ceec36937eb8b3579d7995e4 -->
+General Catalyst was cited as the ideal lead to follow into YC deals. The strategy discussed was to maintain early relationships with promising YC companies and position to participate in [[General Catalyst]]-led rounds, rather than attempting to lead those deals independently.
+↳ source: [[2026-05-26-internal-team-meeting-fund-strategy-deal-flow-and-sf-programming]]
+
+### 2026-05-22 — Founder David Fialko as mentor
+<!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->
+David Fialko, described as a co-founder of [[General Catalyst]] and characterized as a legend in the venture community, was confirmed as a mentor for the Tech Trek cohort. He was scheduled to spend time with participants at the Martha's Vineyard programming toward the end of the summer.
+↳ source: [[2026-05-22-tech-trek-summer-program-cohort-kickoff-orientation]]
 
 ### 2026-05-20 — Nominal Boston presence only
 <!-- source_hash: b0be61af6dcd6936a10198c65b3a7a998da96d93755a0ef4740cf6a63e806a5d -->

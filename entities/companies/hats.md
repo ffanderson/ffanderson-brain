@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-17'
+last_mention: '2026-05-27'
 last_touch: ''
 location: ''
-mention_count: 9
+mention_count: 10
 name: Hats
 sector: ''
 stage: ''
@@ -30,6 +30,12 @@ website: ''
 
 
 
+
+
+### 2026-05-27 — 2025 first-year audit underway
+<!-- source_hash: bdf0eaecf1ca9c22a005cbd892c13d57448791e747198b7fab07591b79533fa8 -->
+HATS is undergoing its first-year audit covering the full 2025 fiscal year, including opening balance sheet testing, with a target completion date of June 30, 2026. Courtney is the primary company contact for the audit, with Nancy also involved. The auditors noted the process is going smoothly despite growing pains on the company side.
+↳ source: [[2026-05-27-audit-planning-interview-fraser-anderson-board-member-hats]]
 
 ### 2026-05-17 — Rapid growth trajectory
 <!-- source_hash: d07e0830ae31c09680dd678bf9cdd92c2d4a03e8ca7299124072e612dc24a4d1 -->

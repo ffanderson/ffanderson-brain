@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-07'
 founded: ''
 founders: []
-last_mention: '2026-05-04'
+last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Cooley
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # Cooley
 
 ## Mentions
+
+
+### 2026-05-28 — Conflicts during partnership dispute
+<!-- source_hash: 63da34cce967024a9d1145dd2238725df9fcda996c8156e17dff3a0e8dc1f1e7 -->
+Cooley became conflicted during the Haven partnership dispute, with two different partners providing contradictory guidance on Joe's authority. McLean allegedly pressured Cooley contacts to extract information about Joe's activities and interfere with fund formation counsel. Joe was switched between partners twice and reflected that he was effectively without proper legal representation throughout much of the conflict. Dave Young at Cooley, described as a close personal contact, urged Joe early on to engage aggressive trial lawyers.
+↳ source: [[2026-05-28-haven-fund-dissolution-debrief-joe-recounts-mclean-partnership-conflict]]
 
 ### 2026-05-04 — Relationship review and routing
 <!-- source_hash: bc3ad5200dc83aff74f91739c24249503775e93e6cdba1a92562d75729f45d48 -->

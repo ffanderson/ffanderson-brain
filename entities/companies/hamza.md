@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-09'
+last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Hamza
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-28 — Series B maturation; McLean interference
+<!-- source_hash: 63da34cce967024a9d1145dd2238725df9fcda996c8156e17dff3a0e8dc1f1e7 -->
+Hamza was cited by Joe as one of his core Haven One portfolio positions approaching what he described as the fund's graduation point — a Series B financing. McLean allegedly met with Hamza in February or March of the prior year while Joe was in Whistler, which Joe framed as part of the broader effort to orchestrate chaos around companies coming to maturation.
+↳ source: [[2026-05-28-haven-fund-dissolution-debrief-joe-recounts-mclean-partnership-conflict]]
 
 ### 2026-05-09 — Investment history and tranches
 <!-- source_hash: 072d3ba9b18f69c6455d1ab44280c53424f0a2ab472aa3b274ab8ea83536f84a -->

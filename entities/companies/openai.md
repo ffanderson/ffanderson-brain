@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-12'
+last_mention: '2026-05-26'
 last_touch: ''
 location: ''
-mention_count: 10
+mention_count: 12
 name: OpenAI
 sector: ''
 stage: ''
@@ -31,6 +31,18 @@ website: ''
 
 
 
+
+
+
+### 2026-05-26 — Compute credits for equity offer
+<!-- source_hash: 488c28d6390f65f37c9609806d768b14990ff7f6ceec36937eb8b3579d7995e4 -->
+OpenAI was noted to be offering portfolio-stage companies two million dollars in compute credits in exchange for equity. Fraser expressed uncertainty about how much equity that should represent and questioned the practical utility of that credit volume, suggesting it could be consumed within the first six months.
+↳ source: [[2026-05-26-internal-team-meeting-fund-strategy-deal-flow-and-sf-programming]]
+
+### 2026-05-18 — Real-world data demand via McKenna
+<!-- source_hash: a6ab8f47a2609b73e1262154c71c0231a1d19523552a25567be89f7e34ad64d6 -->
+OpenAI had a contracted relationship with [[McKenna]] for digital data and was requesting an expansion into real-world data supply. McKenna was treating fulfilment of this demand as an urgent near-term revenue opportunity.
+↳ source: [[2026-05-18-partner-meeting-myra-labs-mckenna-tech-track-studio-summer-update]]
 
 ### 2026-05-12 — Target customer for RLBF datasets
 <!-- source_hash: ce6831273c4f1c7d2de50b8236ab3622afa9b009f524a28bfa21da9ecc806def -->

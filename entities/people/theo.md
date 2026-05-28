@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-07'
+last_mention: '2026-05-22'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 7
+mention_count: 8
 name: Theo
 relationship: operator
 relationship_strength: strong
@@ -29,6 +29,12 @@ type: person
 
 
 
+
+
+### 2026-05-22 — Operations lead; logistics owner
+<!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->
+Theo was described as a key organizational partner for the program and was responsible for housing logistics, waiver distribution, arrival coordination, and token procurement conversations with [[Anthropic]] and [[DeepMind]]. He asked participants needing early San Francisco housing to contact him immediately and indicated he would distribute waiver forms with an arrival form shortly after the meeting.
+↳ source: [[2026-05-22-tech-trek-summer-program-cohort-kickoff-orientation]]
 
 ### 2025-05-14 — Operations lead, Tech Trek Pi
 <!-- source_hash: c6f43efef8a1a63c492ba9aa07c43e027cfa664a624d3976c8ad691bbf4135c9 -->

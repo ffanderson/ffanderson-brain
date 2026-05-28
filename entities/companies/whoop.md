@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-09'
+last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 5
 name: Whoop
 sector: ''
 stage: ''
@@ -24,6 +24,18 @@ website: ''
 ## Mentions
 
 
+
+
+
+### 2026-05-22 — Ed Baker heads product and growth
+<!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->
+Ed Baker, formerly head of international growth at Uber and head of growth at Facebook when it reached one billion users, was described as currently serving as head of product and growth at Whoop. Baker's renovated Forbes Mansion in Boston was confirmed as a venue for East Coast Tech Trek programming, including a science dinner on August 11.
+↳ source: [[2026-05-22-tech-trek-summer-program-cohort-kickoff-orientation]]
+
+### 2026-05-28 — Supplying devices to hacker house cohort
+<!-- source_hash: 41d9d3cfc94e35bb2a6bb0ba8e2f72b2408409e031351af6ae8d0e72c39f0c7d -->
+Fraser's team is planning to supply Whoop fitness trackers to the San Francisco hacker house participants through a connection with the head of data science at Whoop. The gesture was framed as a way to encourage participants to remain physically active over the summer.
+↳ source: [[2026-05-28-informal-strategy-session-hacker-house-portfolio-ai-company-new-investment-theses]]
 
 ### 2025-05-14 — Potential device access for cohort
 <!-- source_hash: c6f43efef8a1a63c492ba9aa07c43e027cfa664a624d3976c8ad691bbf4135c9 -->

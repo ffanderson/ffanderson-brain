@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-09'
+last_mention: '2026-05-26'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: AMD
 sector: ''
 stage: ''
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-05-26 — SF program dinner at Teague's house
+<!-- source_hash: 488c28d6390f65f37c9609806d768b14990ff7f6ceec36937eb8b3579d7995e4 -->
+A dinner at the home of Teague, described as the president of AMD, was scheduled for June 26 as part of the SF program's field trip series. The event was invite-only with limited capacity, distinct from the talks being held at the Presidio office.
+↳ source: [[2026-05-26-internal-team-meeting-fund-strategy-deal-flow-and-sf-programming]]
 
 ### 2026-05-09 — Hardware partner via senior intro
 <!-- source_hash: 43ef329822653aa56778b42f5fffb0185a99c8d2b0f1a23902e340d3ab53fd44 -->

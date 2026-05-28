@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-24'
+last_mention: '2026-05-28'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 108
+mention_count: 116
 name: Fraser Anderson
 relationship: personal
 relationship_strength: core
@@ -130,6 +130,54 @@ type: person
 
 
 
+
+
+
+
+
+
+
+
+
+### 2026-05-27 — Board governance audit inquiry
+<!-- source_hash: bdf0eaecf1ca9c22a005cbd892c13d57448791e747198b7fab07591b79533fa8 -->
+Fraser participated in a governance inquiry with auditors in his capacity as a board member of [[HATS]], as part of the company's first-year 2025 audit targeting completion by June 30, 2026. He confirmed no known instances of fraud, full regulatory compliance to his knowledge, and no significant unusual transactions during the period. He noted strong governance discipline at HATS, including well-maintained board minutes, which he attributed in part to the influence of his business partner [[Mark Cassidy]].
+↳ source: [[2026-05-27-audit-planning-interview-fraser-anderson-board-member-hats]]
+
+### 2026-05-26 — Fund pacing and next raise timeline
+<!-- source_hash: 488c28d6390f65f37c9609806d768b14990ff7f6ceec36937eb8b3579d7995e4 -->
+Fraser noted the fund currently holds around 30 investments with a target of approximately 55 total, implying roughly 25 remaining at the current pace to be deployed within about one year. Increased selectivity is expected as capacity is approached. Fraser outlined a plan to begin LP pre-raise conversations in summer 2027 and go on the road in early 2028, with the next fund expected to be larger and weighted more heavily toward physical AI and robotics. Vertical SaaS in non-AI sectors was flagged for de-emphasis unless team quality is exceptional.
+↳ source: [[2026-05-26-internal-team-meeting-fund-strategy-deal-flow-and-sf-programming]]
+
+### 2026-05-28 — IC memo prep: Tyler deal
+<!-- source_hash: 820a1055338d431c7e505b52c4b5e9a116d2bb06a99f1beb3f590e2f5f6fb3f6 -->
+Fraser planned to access the Linkbox account and use the IC memo drafter tool to compile all available context on the [[Tyler]] deal, drawing on information from [[AWG]] and conversations with Will Bain. He intended to request investment committee authorization for a four-on-forty deal structure, with a target of thirty-five to go.
+↳ source: [[2026-05-28-ic-memo-prep-tyler-deal-four-on-forty-authorization]]
+
+### 2026-05-26 — Intent to lead $4M check at $40M post
+<!-- source_hash: 13eb80b6f6adccf0c63de5d59dbe84bfd33391b3e8901f1a4e46421958692674 -->
+Fraser expressed a desire to write a $4M check into Tyler's round at a ~$40M post-money valuation. After Alex dropped off, Fraser confirmed with Tyler that this allocation could be accommodated within the upsized round. Fraser committed to circling with his partners promptly given the deal's tight timeline, and agreed to provide personal references to Tyler as part of mutual due diligence.
+↳ source: [[2026-05-26-intro-pitch-tyler-superconducting-energy-storage-startup]]
+
+### 2026-05-28 — Evaluating superconducting magnet deal
+<!-- source_hash: 80e4ec00d6c64f4d8445c98827294d847b8955cbd3e82ef4e5a9bfa496482886 -->
+Fraser was assessing whether to pursue an investment in a hard-tech founder building superconducting magnets, expressing concern that the competitive dynamic was being driven by the founder's profile rather than the business fundamentals. He wanted to confirm the opportunity was worth his time given the valuation pressure, and was open to participating at a sensible price but not willing to chase the round into the thirties or above.
+↳ source: [[2026-05-28-deal-discussion-hard-tech-supermagnets-founder-ex-spacex-caltech]]
+
+### 2026-05-22 — Selection committee role; introduction
+<!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->
+Fraser was introduced to the inaugural Tech Trek cohort as a member of the selection committee who reviewed all three hundred applicants and made admissions recommendations. John described Fraser as having extensive experience working with founders and noted that he would be present at the June 11 kickoff dinner at Stanford.
+↳ source: [[2026-05-22-tech-trek-summer-program-cohort-kickoff-orientation]]
+
+### 2026-05-18 — Lead on Myra Labs; summer availability
+<!-- source_hash: a6ab8f47a2609b73e1262154c71c0231a1d19523552a25567be89f7e34ad64d6 -->
+Fraser was designated to lead the firm's relationship with [[Myra Labs]] and was planning to arrange an introductory meeting with the founder, with Boston flagged as the likely location. Fraser noted he would be attending the TechCrunch SF kickoff in the coming weeks. He also flagged limited availability over the summer — most of July and the first three weeks of August as PTO — with intermittent attendance at partner meetings during that period.
+↳ source: [[2026-05-18-partner-meeting-myra-labs-mckenna-tech-track-studio-summer-update]]
+
+### 2026-05-28 — Board seat and carry in MSP AI company
+<!-- source_hash: 41d9d3cfc94e35bb2a6bb0ba8e2f72b2408409e031351af6ae8d0e72c39f0c7d -->
+Fraser sits on the board of and holds a significant ownership stake in a vertical AI company targeting the MSP market, led by a CEO named Jimmy. The company is projecting $200 million in bookings by year-end and $500 million in ARR the following year, and is pursuing an S-1 filing early next year. Fraser is helping the founder raise a founder-led SPV and will receive carry from the vehicle in addition to his equity stake, with the explicit goal of indexing his personal economics to the outcome as much as possible.
+↳ source: [[2026-05-28-informal-strategy-session-hacker-house-portfolio-ai-company-new-investment-theses]]
 
 ### 2026-05-24 — Networking: Benioff, Hurley, insurance founder
 <!-- source_hash: 424c82cc42d172ebcab4d4d93dca6166207e27a328a7b0cb22dacaf3f456756c -->

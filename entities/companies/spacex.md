@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-18'
+last_mention: '2026-05-26'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: SpaceX
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-26 — Manufacturing methodology as template
+<!-- source_hash: 13eb80b6f6adccf0c63de5d59dbe84bfd33391b3e8901f1a4e46421958692674 -->
+Tyler repeatedly cited SpaceX's approach to vertical integration and the 'idiot index' framework as a template for his company's cost strategy. He noted that the thin-film solar cell and array work he did at SpaceX translates directly to designing and manufacturing HTS tape systems, and that the same first-principles cost analysis suggests in-house tape production could eventually close the gap between the ~$25/meter negotiated market price and the ~$2–3/meter raw-material cost floor.
+↳ source: [[2026-05-26-intro-pitch-tyler-superconducting-energy-storage-startup]]
 
 ### 2026-05-18 — Source of founders' expertise and strategic model
 <!-- source_hash: e237fef29434d50959ea3747eb152ba2848cb50b9c10b74f8a31c2b3e1528d67 -->

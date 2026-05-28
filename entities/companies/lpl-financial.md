@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-27'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: LPL Financial
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-27 — Fraser's partner Mark Cassidy as former CEO
+<!-- source_hash: bdf0eaecf1ca9c22a005cbd892c13d57448791e747198b7fab07591b79533fa8 -->
+Fraser mentioned that his business partner Mark Cassidy previously served as CEO of [[LPL Financial]] and has taken three companies public. Fraser credited Cassidy's public-company discipline as a meaningful influence on HATS's governance practices, including its rigorous approach to board documentation.
+↳ source: [[2026-05-27-audit-planning-interview-fraser-anderson-board-member-hats]]
 
 ### 2026-05-05 — Mark's board connection to Target
 <!-- source_hash: a15a1ee4c78fcb78e142908175d1f52201bffc9f29888575531d8433c7605586 -->

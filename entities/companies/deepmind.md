@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-11'
+last_mention: '2026-05-22'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: DeepMind
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-05-22 — Staff mentor; early Bard team
+<!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->
+A mentor named Peter was identified as one of the first five members of the Bard team and a current DeepMind employee. He was confirmed to be present at the program house during the first few weeks of the summer.
+↳ source: [[2026-05-22-tech-trek-summer-program-cohort-kickoff-orientation]]
 
 ### 2026-05-11 — TEK TRECK Silicon Valley visit
 <!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->

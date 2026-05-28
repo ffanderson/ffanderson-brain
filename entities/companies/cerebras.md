@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-09'
+last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 5
 name: Cerebras
 sector: ''
 stage: ''
@@ -24,6 +24,18 @@ website: ''
 ## Mentions
 
 
+
+
+
+### 2026-05-22 — Founder Andrew Feldman as mentor
+<!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->
+Andrew Feldman, co-founder of Cerebras, was confirmed as a mentor for the cohort and described as excited to meet with participants. John noted that Cerebras had recently completed its IPO, and that he had interviewed Feldman and his MIT co-founder at a major Cerebras event roughly a year prior to the meeting.
+↳ source: [[2026-05-22-tech-trek-summer-program-cohort-kickoff-orientation]]
+
+### 2026-05-28 — GTC 2024 office visit; no staff present
+<!-- source_hash: 41d9d3cfc94e35bb2a6bb0ba8e2f72b2408409e031351af6ae8d0e72c39f0c7d -->
+Fraser visited the Cerebras office during GTC 2024 alongside Gavin Baker to discuss what became their approximately $2 billion round. The office was entirely empty — every desk was unoccupied — and the only person present was the CFO, who Fraser noted had a felony conviction for revenue fraud. Fraser described sitting silently thinking 'this doesn't seem like a real company.'
+↳ source: [[2026-05-28-informal-strategy-session-hacker-house-portfolio-ai-company-new-investment-theses]]
 
 ### 2026-05-09 — Cited as hardware example
 <!-- source_hash: 6ec529ae3e7cbccb65dc24aa206d4d1ee4b9af896864c7299027976f8d6725f4 -->

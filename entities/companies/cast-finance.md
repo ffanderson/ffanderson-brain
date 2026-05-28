@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Cast Finance
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-28 — Financing jeopardized by partner conflict
+<!-- source_hash: 63da34cce967024a9d1145dd2238725df9fcda996c8156e17dff3a0e8dc1f1e7 -->
+Cast Finance, a Denver-based accounting roll-up incubated by Joe, was at risk of breaching debt covenants on $25M underwritten by [[Ron Suber]]'s firm absent a priced equity round Joe was arranging. McLean allegedly repeatedly thwarted the financing while making Joe appear to be the obstacle, then briefed Cast's board — including a director described as the daughter of a PDG heiress — with defamatory allegations. The board's confidence in McLean ultimately collapsed when he directed them back to Joe to get the round done.
+↳ source: [[2026-05-28-haven-fund-dissolution-debrief-joe-recounts-mclean-partnership-conflict]]
 
 ### 2026-04-03 — Separation risk: exit control
 <!-- source_hash: 76c734c2f449569288213890e83822fc20cb11432f7ee7ee3506023fdd438b6d -->

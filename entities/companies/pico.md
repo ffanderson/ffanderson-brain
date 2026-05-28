@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Pico
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-28 — Round delayed by partner interference
+<!-- source_hash: 63da34cce967024a9d1145dd2238725df9fcda996c8156e17dff3a0e8dc1f1e7 -->
+Pico's financing, described as fully arranged by September–October, was disrupted during the Haven partnership conflict. Joe identified the founder as Christina and noted McLean's interference derailed the closing timeline. Joe holds a board seat and approximately 20% ownership in the company.
+↳ source: [[2026-05-28-haven-fund-dissolution-debrief-joe-recounts-mclean-partnership-conflict]]
 
 ### 2026-04-03 — Incubation and preference stack entry
 <!-- source_hash: 76c734c2f449569288213890e83822fc20cb11432f7ee7ee3506023fdd438b6d -->

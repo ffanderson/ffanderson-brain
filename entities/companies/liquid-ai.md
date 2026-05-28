@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-11'
+last_mention: '2026-05-22'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Liquid AI
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-22 — East Coast programming venue
+<!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->
+The Tech Trek program signed out Liquid AI's office at 314 Main Street in Cambridge for the week of August as a closing programming venue. Liquid AI was described as having around eighty employees with offices in San Francisco and Cambridge, situated between Google and MIT. The CEO, Rameen, was noted as having built the company to a roughly $2.5 billion valuation and was listed as a mentor for the cohort.
+↳ source: [[2026-05-22-tech-trek-summer-program-cohort-kickoff-orientation]]
 
 ### 2026-05-11 — Link Ventures portfolio unicorn
 <!-- source_hash: 2fc5582f5f47bf0eead34169433e7cf5741c3defeb2847122ca1a1abfd647524 -->

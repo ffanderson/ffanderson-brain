@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-09'
+last_mention: '2026-05-22'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Kleiner Perkins
 relationship: ''
 status: active
@@ -22,6 +22,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-05-22 — Partner Bing as mentor; Shidon portfolio
+<!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->
+A mentor identified as Bing was described as a longtime Kleiner Perkins partner, a founding board member at Amazon, and a co-founder of Electronic Arts. He was highlighted as a strong company-building coach for the cohort. Separately, a founder named Shidon Chu, who had recently raised $7 million from [[Kleiner Perkins]], was also listed as a mentor.
+↳ source: [[2026-05-22-tech-trek-summer-program-cohort-kickoff-orientation]]
 
 ### 2026-05-09 — Bing Gordon board member
 <!-- source_hash: 6ec529ae3e7cbccb65dc24aa206d4d1ee4b9af896864c7299027976f8d6725f4 -->

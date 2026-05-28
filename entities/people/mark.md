@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-18'
+last_mention: '2026-05-22'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 10
+mention_count: 11
 name: Mark
 relationship: ''
 relationship_strength: cold
@@ -32,6 +32,12 @@ type: person
 
 
 
+
+
+### 2026-05-22 — New cohort member; accessibility needs
+<!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->
+Mark was welcomed as one of the final additions to the Tech Trek cohort. He is a math and CS student at Harvard who completed his sophomore year and is originally from Washington D.C. Mark disclosed that he has cerebral palsy and uses a wheelchair and walker full time. John committed to following up with Mark individually to ensure the program could best support his needs, and the question of whether the Bill Russell Way house would be accessible for him remained open at the end of the meeting.
+↳ source: [[2026-05-22-tech-trek-summer-program-cohort-kickoff-orientation]]
 
 ### 2026-05-18 — Capital commitment gated on Aiden Keough
 <!-- source_hash: 2944946141a17e45a8842a5a10aff93d451fb5580087a5e780ebad710cd77e3f -->
