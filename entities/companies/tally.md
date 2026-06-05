@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Tally
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # Tally
 
 ## Mentions
+
+
+### 2026-06-04 — Business model: class action disbursements
+<!-- source_hash: 73f492b998fc327e534811fcb95579d6a8681e1f00f58150ffc356d43a2c1c75 -->
+Tally was described as operating in the class-action settlement payments space, handling KYC, distribution, and acting as a CRM for claims administrators. Revenue comes from deposit interest sharing, ACH processing fees, and primarily from low-dollar-value payouts via gift cards or digital debit cards. Fraser noted Tally had recently signed a significant contract with a bank, and described the sector as previously rife with kickbacks that are now being cleaned up.
+↳ source: [[2026-06-04-lunch-meeting-investment-strategy-ai-fintech-opportunities-and-career-transition-discussion]]
 
 ### 2026-05-05 — Closing structure: rescue-lead round
 <!-- source_hash: 00a541c609aaa062084e430055fa3bccc5360c8848a17d6393190c665884edd7 -->

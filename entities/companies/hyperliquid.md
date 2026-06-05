@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-20'
 founded: ''
 founders: []
-last_mention: '2026-05-19'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Hyperliquid
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # Hyperliquid
 
 ## Mentions
+
+
+### 2026-06-04 — Licensee of compute indices
+<!-- source_hash: f9f1840385300ec1d0e60cd444accfe55fd4fb184b12d6e074c651f6b76e9f4c -->
+Hyperliquid was named as one of several exchanges licensing the portfolio company's compute indices, alongside ICE, Binance, and OKX. Fraser noted this distribution layer was performing well.
+↳ source: [[2026-06-04-portfolio-check-in-compute-supply-fundraising-and-team-building]]
 
 ### 2026-05-19 — Usage-driven token value model
 <!-- source_hash: 0f4df8abe742ab54e6e2309160b7c1986e927e5969a5360932d296a134d20d81 -->

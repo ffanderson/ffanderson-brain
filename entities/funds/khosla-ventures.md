@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-09'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Khosla Ventures
 relationship: ''
 status: active
@@ -23,6 +23,12 @@ website: ''
 
 
 
+
+
+### 2026-06-04 — Geographic anchor for June 26 event
+<!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->
+An all-day Tech Trek event on June twenty-sixth is planned at the home of Teague—the former president of AMD—whose fifteen-acre property is described as adjacent to Khosla Ventures' offices. The proximity to Khosla was noted as a contextual detail underscoring the concentration of venture capital infrastructure around the event venue.
+↳ source: [[2026-06-04-tech-trek-program-update-and-ecosystem-investment-strategy-review]]
 
 ### 2026-05-09 — Backed a program mentor
 <!-- source_hash: 6ec529ae3e7cbccb65dc24aa206d4d1ee4b9af896864c7299027976f8d6725f4 -->

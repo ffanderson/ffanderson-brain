@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-05'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Link
 relationship: ''
 status: active
@@ -22,6 +22,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-06-04 — Founding partner of Tech Trek; non-official branding
+<!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->
+Link is the founding partner of Tech Trek but the program is deliberately structured as a nonprofit initiative rather than an official Link event, enabling Eric Schmidt's $750,000 contribution (which could not flow to a for-profit venture) and broadening the program's appeal to students from across institutions. The organizing participant emphasized that Link's first-look advantage on any resulting companies is preserved informally rather than through official program branding.
+↳ source: [[2026-06-04-tech-trek-program-update-and-ecosystem-investment-strategy-review]]
 
 ### 2026-05-05 — Blitzy portfolio milestone
 <!-- source_hash: a15a1ee4c78fcb78e142908175d1f52201bffc9f29888575531d8433c7605586 -->

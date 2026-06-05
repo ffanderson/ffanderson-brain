@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-09'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 5
 name: Jump
 sector: ''
 stage: ''
@@ -24,6 +24,18 @@ website: ''
 ## Mentions
 
 
+
+
+
+### 2026-06-04 — Investing at $250M cap SAFE
+<!-- source_hash: f9f1840385300ec1d0e60cd444accfe55fd4fb184b12d6e074c651f6b76e9f4c -->
+Jump was confirmed as investing in the portfolio company via a SAFE at a $250M valuation cap. The connection came through Melton from [[Crucible]] dating Jump's CEO. Fraser also noted that a contact named Malcolm had previously sold large GPU clusters to Jump during his time running financial services sales at Nvidia.
+↳ source: [[2026-06-04-portfolio-check-in-compute-supply-fundraising-and-team-building]]
+
+### 2026-05-29 — Key customer; re-engagement noted
+<!-- source_hash: 755ab151bf477f17e6431c9c07cd91d4dfa3511757267f5349f8b23713d7f3c1 -->
+Fraser described Jump as having come back on side, crediting a recent in-person visit as having made a significant positive difference. The team identified Jump as a priority target for making AMD adoption as frictionless as possible, and Fraser indicated they needed to show up in person more regularly to maintain momentum.
+↳ source: [[2026-05-29-strategy-call-managing-gc-and-cowboy-relationships-go-to-market-alignment]]
 
 ### 2026-05-09 — Identified as strong ICP
 <!-- source_hash: 43ef329822653aa56778b42f5fffb0185a99c8d2b0f1a23902e340d3ab53fd44 -->

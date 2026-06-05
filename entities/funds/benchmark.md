@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-18'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Benchmark
 relationship: ''
 status: active
@@ -24,6 +24,12 @@ website: ''
 
 
 
+
+
+### 2026-06-04 — Early backer of Starcloud
+<!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->
+Benchmark was cited as an early backer of [[Starcloud]], helping validate and accelerate the company's trajectory from a small GPU-cooling startup to a valuation of roughly $2.2 billion. The group used Benchmark's involvement alongside Elon Musk's public endorsements as an illustration of how thought leadership and social capital can lock up valuation well ahead of technical maturity.
+↳ source: [[2026-06-04-tech-trek-program-update-and-ecosystem-investment-strategy-review]]
 
 ### 2026-05-18 — Co-investor relationship with Fraser
 <!-- source_hash: e237fef29434d50959ea3747eb152ba2848cb50b9c10b74f8a31c2b3e1528d67 -->

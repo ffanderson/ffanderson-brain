@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-13'
+last_mention: '2026-06-04'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Dave
 relationship: ''
 relationship_strength: cold
@@ -28,6 +28,12 @@ type: person
 
 
 
+
+
+### 2026-06-04 — Tech Trek kickoff attendance and NDA
+<!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->
+Dave was confirmed as attending the Tech Trek kickoff on the eighth and was noted as having previously used the [[Link]] office space when meeting UBS contacts at [[Liquid]]. He is also signing an NDA related to the confidential aspects of the program's funding and property arrangements.
+↳ source: [[2026-06-04-tech-trek-program-update-and-ecosystem-investment-strategy-review]]
 
 ### 2026-05-13 — OpenAI introductions planned
 <!-- source_hash: 08ce5a1648c9ea5a98f96c4f7253a8ce6719c6faade5335e84fa3e6ca1b85586 -->

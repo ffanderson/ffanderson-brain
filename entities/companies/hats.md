@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-27'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 10
+mention_count: 13
 name: Hats
 sector: ''
 stage: ''
@@ -31,6 +31,24 @@ website: ''
 
 
 
+
+
+
+
+### 2026-06-04 — Strong momentum; new CRO hired
+<!-- source_hash: ebf1fe5beb1290628e0fe808cae8eb1183b28c8fd805d63cdaaef8d962ca3e41 -->
+Fraser described Hats as going 'absolute gangbusters' and shared that the company had just hired Jim Fanning as CRO and President. Fanning previously ran financial services at [[Oracle]] and has an engineering background combined with sales experience, a combination Fraser noted is rare and valuable. Fraser was meeting Fanning for coffee the following day.
+↳ source: [[2026-06-04-strategy-call-standard-kernel-go-to-market-and-portfolio-opportunities]]
+
+### 2026-06-01 — MSP channel as distribution model
+<!-- source_hash: 71329700d7b10af2e6b0c9a57c617480bd04240f23388445df2b843cb2924aa6 -->
+Fraser cited HATS as a portfolio company that is performing well by distributing through managed service providers — a network of roughly thirty thousand MSPs, each serving tens to thousands of end customers who need products to resell. Fraser raised it as a concrete example of finding an existing, non-saturated distribution channel with built-in demand, contrasting it with the overcrowded developer forum approach.
+↳ source: [[2026-06-01-product-strategy-gtm-advisory-cookielist-student-founder]]
+
+### 2026-05-28 — GC offer extended, July start likely
+<!-- source_hash: c971127716305c26fb067c3c5ab64fc1db4b3840b7f1d0852ad6e4095ea29a0e -->
+An offer for General Counsel had been made to a candidate named John, with Aiden managing the process. The candidate was believed to have a retention bonus tied to June, making a July start the likely scenario. Mark interviewed him and gave strong feedback.
+↳ source: [[2026-05-28-hats-nadia-board-ops-sync-hiring-fundraising-infrastructure]]
 
 ### 2026-05-27 — 2025 first-year audit underway
 <!-- source_hash: bdf0eaecf1ca9c22a005cbd892c13d57448791e747198b7fab07591b79533fa8 -->

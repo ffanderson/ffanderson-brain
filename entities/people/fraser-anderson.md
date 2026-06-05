@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-28'
+last_mention: '2026-06-05'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 116
+mention_count: 131
 name: Fraser Anderson
 relationship: personal
 relationship_strength: core
@@ -138,6 +138,96 @@ type: person
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 2026-06-05 — Market froth as fundraising opportunity
+<!-- source_hash: 36e3fb0d019b76df25f434ff58484ccc773615a998dcb797026e2072985738b3 -->
+Fraser pushed back on the idea of designing a team around what external investors want to fund, arguing that any team he and his counterpart assembled would get funded on the strength of their own capital and momentum. He viewed the current environment of inflated valuations for insubstantial companies as noise to be aware of rather than a signal to chase, and cautioned against the 'greater fools' dynamic driving deals like Corgi.
+↳ source: [[2026-06-05-strategy-discussion-founding-team-structure-and-market-froth]]
+
+### 2026-06-04 — San Francisco relocation, joint venture deferred
+<!-- source_hash: 73f492b998fc327e534811fcb95579d6a8681e1f00f58150ffc356d43a2c1c75 -->
+Fraser shared plans to relocate to San Francisco for approximately two years, motivated by the conviction that being embedded in the AI ecosystem is strategically important given the compounding pace of outcomes. A previously discussed joint venture with his lunch counterpart was deferred as a result, though Fraser emphasized the delay would be short.
+↳ source: [[2026-06-04-lunch-meeting-investment-strategy-ai-fintech-opportunities-and-career-transition-discussion]]
+
+### 2026-06-02 — Owns Werner forwardable and HRT/Jane outreach
+<!-- source_hash: 3ed881d96750034c5151e9fb5eb39354c392aa1672012a23162a83c9cf00918b -->
+Fraser was assigned to follow up with Ann to obtain a forwardable email for a Werner contact, attaching the two-page branded collateral once ready. He was also responsible for sending timed outreach emails to [[Jane Street]] and [[HRT]], and for pursuing the [[AMD]] board member engagement via Aiden.
+↳ source: [[2026-06-02-skc-strategy-session-capital-markets-focus-amd-coreweave-priorities]]
+
+### 2026-06-04 — Fund background and current investment thesis
+<!-- source_hash: 1de503530ab408e64c8b9aa1a229221e6ff96fe133033740a372ef04b5c53d66 -->
+Fraser described his background as public-markets investing from around 2014, followed by a master's in data science prompted by proximity to Montreal's AI scene and [[Element AI]]. He joined his current partnership eight years ago, recently closed a third fund, and invests primarily in B2B software with an AI angle. He noted he is actively exploring 'second derivative' AI plays — including a superconducting tape company, a compute derivatives firm, and FPGA insurance for hyperscale data centres — as he anticipates a more software-saturated market.
+↳ source: [[2026-06-04-strategic-planning-discussion-new-cro-onboarding-pass-hatch-msp-ai-business]]
+
+### 2026-06-04 — Ecosystem scoring: data centers & robotics
+<!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->
+Fraser's deal was described by one participant as better suited from the outset to an ecosystem-oriented thesis, since the firm is joining an established network rather than building one from scratch. The group agreed to develop a formal scoring attribute—informally dubbed 'Riz'—to quantify how likely a given deal is to generate lasting connections with key operators in data centers and robotics over the next decade.
+↳ source: [[2026-06-04-tech-trek-program-update-and-ecosystem-investment-strategy-review]]
+
+### 2026-06-04 — Potential San Francisco relocation
+<!-- source_hash: 6b08c0da53017509b8cb8fb70515292dcbf1883df71351ed71ac50ce1ced7753 -->
+Fraser raised the idea of relocating to San Francisco with someone named Dave, who responded positively. Fraser described the possibility of being set up there on Dave's arrangements as ideal.
+↳ source: [[2026-06-04-catch-up-call-reconnecting-malcolm-demaio-and-standard-kernel-intro]]
+
+### 2026-05-29 — Concern over accelerator idea quality
+<!-- source_hash: 5c78a41737d42ab6386b01ce581016c0063cdfa071901e151253dac6f4dd53c4 -->
+Fraser expressed concern that the roughly 45 students and 20-plus teams in the summer accelerator may not have strong enough ideas, framing the risk as 'garbage in, garbage out.' He emphasised that the program needs two or three standout winners to justify future iterations and attract continued investor support.
+↳ source: [[2026-05-29-student-accelerator-program-check-in-quality-of-teams-mentor-matching-and-summer-logistics]]
+
+### 2026-05-29 — Investor relationship strategy agreed
+<!-- source_hash: 755ab151bf477f17e6431c9c07cd91d4dfa3511757267f5349f8b23713d7f3c1 -->
+Fraser agreed with his advisor to adopt a two-track approach: appear coachable to [[Cowboy Ventures]]' [[Aileen Lee]] by following her recommendation to re-engage [[General Catalyst]] and [[Felicis Ventures]], while using those relationships exclusively for introductions rather than strategic counsel. Fraser expressed strong disagreement with Quentin Clark's suggestion to return cash and voted against any near-term pivot or wind-down, believing the company could reach breakeven by year-end.
+↳ source: [[2026-05-29-strategy-call-managing-gc-and-cowboy-relationships-go-to-market-alignment]]
+
+### 2026-06-01 — Advisory role: scope and lane
+<!-- source_hash: 681913e7b9ed5bcd482a9b051bce47fbb56a43af0596dec1de4a5a46d7752a4e -->
+Fraser clarified he was not asking to be more involved at [[Social Atlas]] but sought explicit founder permission to lean in proactively, rather than waiting to be called reactively. He framed his value as a fundraising intermediary, Howard relationship manager, and fintech market intelligence provider, describing the role as broadly board-member-like. Both founders affirmed they wanted him to lean in within that lane.
+↳ source: [[2026-06-01-fraser-s-advisory-role-discussion-social-atlas-founders-call]]
+
+### 2026-05-28 — Debrief on prospective acquirer call
+<!-- source_hash: 5be11e0d421ff4f2b61299e131458e984cbdbd9590ab37634e6c7dbcf2cbdb77 -->
+Fraser debriefed a colleague following a call with a prospective acquirer, conveying that the buyer seemed positively inclined to engage but was expected to offer only 5–7x revenue — likely below the seller's target and the banker FT's objectives. Fraser noted the buyer expressed skepticism about FT's headline numbers, questioning whether growth was driven by a single large contract rather than durable expansion.
+↳ source: [[2026-05-28-post-buyer-call-debrief-m-a-process-update-with-fraser]]
+
+### 2026-05-28 — CISO network: HubSpot former CISO contact
+<!-- source_hash: c971127716305c26fb067c3c5ab64fc1db4b3840b7f1d0852ad6e4095ea29a0e -->
+Fraser volunteered to reach out to the former CISO of HubSpot, with whom he had a close relationship, to request referrals for a suitable product-focused CISO for [[Hats]]. He offered to CC Josh on that outreach so the two could speak directly about the profile needed.
+↳ source: [[2026-05-28-hats-nadia-board-ops-sync-hiring-fundraising-infrastructure]]
+
+### 2026-05-28 — Role in Motive sale process
+<!-- source_hash: 9f714de5a17c81b53c874d3286790fc856ea64284bb021f9839a4b60a3122b83 -->
+Fraser was aligned by [[Bill]] and [[Ian]] on talking points for an outreach to a prospective acquirer named Juliana, acting as a relationship bridge given his personal connection to her. He was briefed to stay vague on financials unless directly pressed, invoke his partner's board seat as a credibility signal, and communicate that Motive is running an organized, competitive process at an inflection point.
+↳ source: [[2026-05-28-m-a-process-alignment-motive-messaging-for-juliana-outreach]]
+
+### 2026-05-28 — Potential operational involvement
+<!-- source_hash: 6b1302016e835b1ba985871d4b1778f5709bcdca4593999926f7134249ccc75b -->
+Chris floated the idea of Fraser taking on a more formal role — framed as founding product or a chief-of-staff equivalent — given the trust and working rapport between them. Fraser expressed genuine interest but noted competing priorities, including paternity leave through late August and the performance of another investment. He offered to begin taking on commercial development tasks informally in the near term, such as drafting intro emails, while the parties assessed whether a deeper arrangement made sense.
+↳ source: [[2026-05-28-strategy-session-chris-fraser-kernel-optimization-gpu-inference-startup-go-to-market]]
+
+### 2026-06-01 — Conditions for re-engagement
+<!-- source_hash: 5092e56493ccdf151eb809edfcd50ae2d26fbbb0d129e621d1a1a9a9ec988671 -->
+Fraser told the two founders he would not consider investing until they recruited at least one more co-founder, framing it as an acid test of their ability to lead and attract strong talent in a competitive space. He also noted that their productization plan was still too sketchy and that a more complete team would be needed to define and communicate the enterprise value proposition.
+↳ source: [[2026-06-01-seed-pitch-ai-agent-startup-fast-cheap-agentic-workflows-boston]]
+
+### 2026-06-01 — Link Ventures thesis on-camera
+<!-- source_hash: 1d89317baa1013b109c4b12815021b538f5cd35686aa9214e31e7813a8532dca -->
+Fraser gave a short on-camera interview at the Boston Tech Week showcase describing [[Link Ventures]] as an early-stage fund investing seed through Series A out of a $250M fund. He summarised the thesis as backing teams of best friends — ideally from MIT or Harvard — building businesses that would not make sense if AI were removed, spanning AI agents, AI infrastructure, and financial securities tied to the AI economy.
+↳ source: [[2026-06-01-boston-tech-week-ai-showcase-panel-fraser-anderson-link-ventures]]
 
 ### 2026-05-27 — Board governance audit inquiry
 <!-- source_hash: bdf0eaecf1ca9c22a005cbd892c13d57448791e747198b7fab07591b79533fa8 -->

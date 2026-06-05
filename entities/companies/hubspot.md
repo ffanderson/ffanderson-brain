@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-07'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 7
 name: HubSpot
 sector: ''
 stage: ''
@@ -26,6 +26,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-04 — Seen as structurally challenged by AI
+<!-- source_hash: 99bbf78897b7905d4ff1e921d76edcaab0274d01255a5f5c60554b97668b80fa -->
+Fraser and Vibhav both expressed skepticism about HubSpot's prospects, with Fraser questioning who would pay a premium for its product going forward. Vibhav noted that his own company was likely to churn off HubSpot by December, and pointed to the broader CRM category as vulnerable to displacement by hyper-vertical AI-native alternatives.
+↳ source: [[2026-06-04-catch-up-call-vibhav-ai-services-company-update-market-dynamics]]
+
+### 2026-05-28 — Former CISO a potential mentor/referral source
+<!-- source_hash: c971127716305c26fb067c3c5ab64fc1db4b3840b7f1d0852ad6e4095ea29a0e -->
+Fraser noted a close relationship with the former CISO of HubSpot, who now serves as a CTO at another company. The plan was for Fraser to reach out and ask for referrals toward a suitable CISO candidate for [[Hats]], and to CC Josh so the two could connect directly. HubSpot was also referenced as expensive and not an ideal CRM fit for [[Nadia]]'s needs at its current scale.
+↳ source: [[2026-05-28-hats-nadia-board-ops-sync-hiring-fundraising-infrastructure]]
 
 ### 2026-05-07 — Kenzer CFO mentorship connection
 <!-- source_hash: 34bd6e1fe35a044442a4d0b3acf5d410a7f121beb204fb74a3e4355f306d94ba -->

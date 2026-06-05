@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-07'
+last_mention: '2026-05-28'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Ian
 relationship: ''
 relationship_strength: cold
@@ -24,6 +24,12 @@ type: person
 
 ## Mentions
 
+
+
+### 2026-05-28 — Board credibility as outreach asset
+<!-- source_hash: 9f714de5a17c81b53c874d3286790fc856ea64284bb021f9839a4b60a3122b83 -->
+Ian suggested Fraser lean on his board-member relationship as a signal of informed confidence rather than deflecting Juliana to him directly. He recommended Fraser frame the message as operating from a position of knowledge — having recently spoken with [[Bill]] — and invite excitement about the process rather than dwelling on specifics.
+↳ source: [[2026-05-28-m-a-process-alignment-motive-messaging-for-juliana-outreach]]
 
 ### 2026-05-07 — Closed-door governor meeting on millionaire tax
 <!-- source_hash: 33447a39537a0c984c9df187f8542766c0c043a8733b8537d447529db2e6cc26 -->

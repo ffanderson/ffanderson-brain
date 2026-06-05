@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-15'
+last_mention: '2026-06-04'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Aiden
 relationship: operator
 relationship_strength: strong
@@ -25,6 +25,12 @@ type: person
 ## Mentions
 
 
+
+
+### 2026-06-04 — Founder: commercial instincts and network
+<!-- source_hash: 1de503530ab408e64c8b9aa1a229221e6ff96fe133033740a372ef04b5c53d66 -->
+Fraser described Aiden as having the best commercial instincts of anyone he has met and a remarkable network, noting that when Aiden decides he wants to work with someone it is 'just a matter of time.' Fraser gauges his own level of excitement about a new hire partly by how hard it was for Aiden to recruit them away from firms like Blackstone, Oracle, or Databricks.
+↳ source: [[2026-06-04-strategic-planning-discussion-new-cro-onboarding-pass-hatch-msp-ai-business]]
 
 ### 2026-05-15 — President hire process and bar
 <!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->

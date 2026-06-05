@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-22'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Kleiner Perkins
 relationship: ''
 status: active
@@ -23,6 +23,12 @@ website: ''
 
 
 
+
+
+### 2026-06-04 — Inbound office visit
+<!-- source_hash: f9f1840385300ec1d0e60cd444accfe55fd4fb184b12d6e074c651f6b76e9f4c -->
+Kleiner Perkins visited the portfolio company's office, indicating inbound investor interest as the company's fundraising momentum became more visible in the market.
+↳ source: [[2026-06-04-portfolio-check-in-compute-supply-fundraising-and-team-building]]
 
 ### 2026-05-22 — Partner Bing as mentor; Shidon portfolio
 <!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->

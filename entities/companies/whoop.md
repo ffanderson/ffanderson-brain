@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-28'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 7
 name: Whoop
 sector: ''
 stage: ''
@@ -26,6 +26,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-04 — Tech Trek August event venue connection
+<!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->
+Ed Baker, described as the former head of growth at Facebook and Uber and currently head of product and growth at Whoop, recently purchased a 20,000-square-foot house reportedly acquired and renovated for around $30 million combined. He agreed to host a science dinner on August eleventh where Tech Trek students will present, making it one of the program's signature late-summer events.
+↳ source: [[2026-06-04-tech-trek-program-update-and-ecosystem-investment-strategy-review]]
+
+### 2026-06-01 — AI-native operations and hiring stance
+<!-- source_hash: 1d89317baa1013b109c4b12815021b538f5cd35686aa9214e31e7813a8532dca -->
+[[Emily Kaplan Lupo]] described [[Whoop]] as deeply AI-native, running all UX research via agents rather than humans and aggressively prototyping and discarding internal tools. Despite this AI adoption, Whoop is targeting 600 new hires in the current year, with Emily arguing that the ROI on human contributors has never been higher and will continue to rise.
+↳ source: [[2026-06-01-boston-tech-week-ai-showcase-panel-fraser-anderson-link-ventures]]
 
 ### 2026-05-22 — Ed Baker heads product and growth
 <!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->

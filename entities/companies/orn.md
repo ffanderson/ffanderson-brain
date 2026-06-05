@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-13'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Orn
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-06-04 — Growing momentum; potential engagement timing
+<!-- source_hash: ebf1fe5beb1290628e0fe808cae8eb1183b28c8fd805d63cdaaef8d962ca3e41 -->
+Fraser indicated Orn is gaining significant market momentum and suggested it could be a good time for the unnamed contact to engage, as there is now something concrete to work on rather than a cold-start dynamic. Fraser flagged a concern that Orn may be shifting toward a pure data play as market tailwinds reduce the pressure to solve deep financial problems for compute owners, and said he would discuss this positioning with the founders.
+↳ source: [[2026-06-04-strategy-call-standard-kernel-go-to-market-and-portfolio-opportunities]]
 
 ### 2026-05-13 — Founder-driven traction, modest tech
 <!-- source_hash: 94afc1dbccebfb79d1a5a599925fdf7a94967d2f17a13db772d56cb87dfd8686 -->

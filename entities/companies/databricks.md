@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-15'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Databricks
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-06-04 — Brief tenure; moral concerns with leadership
+<!-- source_hash: 1de503530ab408e64c8b9aa1a229221e6ff96fe133033740a372ef04b5c53d66 -->
+The executive spent less than two years at Databricks leading services before departing, citing an inability to reconcile working under a particular leader despite the company's technical excellence. He gave Fraser a brief explanation of Databricks' product — the 'lakehouse' architecture built on the Spark framework, supporting structured, unstructured, and semi-structured data — and noted Databricks' Trojan horse is landing customers via data governance before expanding.
+↳ source: [[2026-06-04-strategic-planning-discussion-new-cro-onboarding-pass-hatch-msp-ai-business]]
 
 ### 2026-05-15 — Jim Fanning prior role
 <!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->

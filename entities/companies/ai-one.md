@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-27'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 7
+mention_count: 10
 name: AI One
 sector: ''
 stage: ''
@@ -28,6 +28,24 @@ website: ''
 
 
 
+
+
+
+
+### 2026-06-02 — Enterprise AI deployment business
+<!-- source_hash: 9bb2f884525a0047aaf47fd451171554a8f5b12fa98545021174e3599a826dda -->
+AI One is an enterprise AI company co-founded by two people who previously ran a similar bespoke technology deployment business, building custom trading systems for firms like Citadel using KX. When they saw the emergence of large language models, they chose to rebuild that business model AI-natively rather than start fresh. [[Josh Schertz]] is supporting the venture. Fraser described the business as going quite well.
+↳ source: [[2026-06-02-informal-catch-up-venture-deals-pearl-ai-crypto-standard-kernel-relocation-plans]]
+
+### 2026-06-04 — Shift Four board demo: Connor
+<!-- source_hash: 9378f48937621cd3368eeab07fa4065ed2971a14166003b62332095860a1a970 -->
+One participant recounted having AI One present to the [[Shift Four]] board, where Connor delivered what was described as an incredible performance that 'blew them away.' The demo included a comparison with the person running AI for Cox Communications, and Connor's presentation was seen as clearly superior. Both speakers confirmed they are investors in AI One.
+↳ source: [[2026-06-04-in-person-strategy-discussion-aiden-s-portfolio-companies-fundraising-and-personnel]]
+
+### 2026-06-01 — Enterprise data context layer, portfolio co
+<!-- source_hash: 71329700d7b10af2e6b0c9a57c617480bd04240f23388445df2b843cb2924aa6 -->
+Fraser cited AI One as a portfolio company doing well by building a context layer that integrates across disparate enterprise data sources and allows agents to kick off workflows on top of that unified context. He used it to illustrate why the data-unification problem is genuinely hard and valuable — but also why it is better suited to experienced founders and agentic infrastructure than to an early-stage analytics wedge product like [[CookieList]].
+↳ source: [[2026-06-01-product-strategy-gtm-advisory-cookielist-student-founder]]
 
 ### 2026-05-27 — Related-party relationship with HATS
 <!-- source_hash: bdf0eaecf1ca9c22a005cbd892c13d57448791e747198b7fab07591b79533fa8 -->

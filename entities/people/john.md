@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-24'
+last_mention: '2026-06-04'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 10
+mention_count: 12
 name: John
 relationship: ''
 relationship_strength: cold
@@ -32,6 +32,18 @@ type: person
 
 
 
+
+
+
+### 2026-06-04 — Tech Trek program organizer: comprehensive briefing
+<!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->
+John delivered a detailed operational update on the Tech Trek student venture program, covering admissions (45 students accepted from over 200 applicants across MIT, Harvard, Princeton, UChicago, Penn, Georgetown, and Northeastern), housing logistics, the Presidio workspace, mentor roster of 70, weekly accountability forms modeled on YC practices, and a full summer event calendar. He emphasized that the program is optimizing for builders and intimate mentorship over fundraising polish, contrasting it explicitly with Y Combinator's approach.
+↳ source: [[2026-06-04-tech-trek-program-update-and-ecosystem-investment-strategy-review]]
+
+### 2026-05-29 — Program co-organiser role and contributions
+<!-- source_hash: 5c78a41737d42ab6386b01ce581016c0063cdfa071901e151253dac6f4dd53c4 -->
+John was identified as a co-organiser of the summer accelerator who had contributed substantial work, including drafting foundational documents and participating in key Zoom sessions with students. Fraser positioned John as well-placed to develop investment relationships with emerging teams from the cohort.
+↳ source: [[2026-05-29-student-accelerator-program-check-in-quality-of-teams-mentor-matching-and-summer-logistics]]
 
 ### 2026-05-24 — Incubating AI/data center insurance startup
 <!-- source_hash: 424c82cc42d172ebcab4d4d93dca6166207e27a328a7b0cb22dacaf3f456756c -->

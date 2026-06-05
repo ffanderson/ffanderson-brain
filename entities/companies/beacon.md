@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 7
 name: Beacon
 sector: ''
 stage: ''
@@ -26,6 +26,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-04 — Complexity and investor frustration
+<!-- source_hash: 9378f48937621cd3368eeab07fa4065ed2971a14166003b62332095860a1a970 -->
+Both speakers agreed Beacon is 'super complicated,' with banking contacts confirming the same. One participant expressed frustration that a prior fundraising round took roughly four months to close after capital was submitted, which she learned only by reviewing paperwork retroactively. She characterised this as illustrating immaturity of practice, and noted she had significant personal capital and emotional investment across two rounds.
+↳ source: [[2026-06-04-in-person-strategy-discussion-aiden-s-portfolio-companies-fundraising-and-personnel]]
+
+### 2026-05-28 — Admin issues escalating; Alex Weiss intervening
+<!-- source_hash: c971127716305c26fb067c3c5ab64fc1db4b3840b7f1d0852ad6e4095ea29a0e -->
+Beacon was described as having significant operational and communication problems, particularly around investor fee disclosures and fund administration. Alex Weiss of [[Clear Sky]], who had co-invested alongside Aiden on multiple boards, was said to be personally stepping in to help fix Beacon — potentially taking a board seat or equivalent role. Josh acknowledged the issues had become publicly known among the investor network and were no longer containable without structural action.
+↳ source: [[2026-05-28-hats-nadia-board-ops-sync-hiring-fundraising-infrastructure]]
 
 ### 2026-04-08 — Status update on agenda
 <!-- source_hash: c7c640cf1cc84a216d5c70b925d9a89986fc521d77ec90640df61e8887f5c0ef -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-06-01'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Social Atlas
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-01 — Progress gap and capital dependency
+<!-- source_hash: 681913e7b9ed5bcd482a9b051bce47fbb56a43af0596dec1de4a5a46d7752a4e -->
+Fraser observed more potential than progress since the founding team assembled, estimating the company was roughly three months behind where it should be. The founders attributed the stall primarily to dependence on Howard for both engineering leads and capital deployment, describing the dynamic as 'golden handcuffs.'
+↳ source: [[2026-06-01-fraser-s-advisory-role-discussion-social-atlas-founders-call]]
 
 ### 2026-04-29 — Product vision and positioning
 <!-- source_hash: 95a2aa34ed5dc7a9c66d78dfb7dae80e38aa13f7309b05e0ff302c69f749d07a -->

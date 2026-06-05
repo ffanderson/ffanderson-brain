@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-07'
 founded: ''
 founders: []
-last_mention: '2026-05-07'
+last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Point72
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # Point72
 
 ## Mentions
+
+
+### 2026-05-28 — HFT network contact
+<!-- source_hash: 6b1302016e835b1ba985871d4b1778f5709bcdca4593999926f7134249ccc75b -->
+Fraser noted that a contact named Scott retains connections to high-frequency trading people at [[Point72]] and likely has other HFT fund relationships. He recommended Chris have coffee with Scott as part of building the quant trading firm pipeline.
+↳ source: [[2026-05-28-strategy-session-chris-fraser-kernel-optimization-gpu-inference-startup-go-to-market]]
 
 ### 2026-05-07 — Scott's tenure and potential intro target
 <!-- source_hash: 669e7705888fd01bf63af37146bc6af74e0eadf5eadd36564b049af95ade73dc -->

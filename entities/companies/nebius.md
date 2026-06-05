@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-07'
 founded: ''
 founders: []
-last_mention: '2026-05-07'
+last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Nebius
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-28 — Comparable acquisition reference
+<!-- source_hash: 6b1302016e835b1ba985871d4b1778f5709bcdca4593999926f7134249ccc75b -->
+Chris referenced a company with roughly 30 engineers (around 15 full-time equivalents) and approximately $10M ARR that was acquired by [[Nebius]] for around $640M. He used this as a benchmark for what the company could aim for, and noted with some amusement that Nebius was marketing the acquisition as a software moat, which he disputed based on having examined those systems.
+↳ source: [[2026-05-28-strategy-session-chris-fraser-kernel-optimization-gpu-inference-startup-go-to-market]]
 
 ### 2026-05-07 — Comparable inference cooperation planned
 <!-- source_hash: 669e7705888fd01bf63af37146bc6af74e0eadf5eadd36564b049af95ade73dc -->

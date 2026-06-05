@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-11'
+last_mention: '2026-06-04'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 2
+mention_count: 4
 name: Nancy
 relationship: ''
 relationship_strength: cold
@@ -24,6 +24,18 @@ type: person
 
 ## Mentions
 
+
+
+
+### 2026-06-04 — Advisory relationship with Aiden
+<!-- source_hash: 9378f48937621cd3368eeab07fa4065ed2971a14166003b62332095860a1a970 -->
+Nancy told Aiden directly that he had pulled her into too many disparate initiatives across their handful of in-person meetings, each time asking her to do something entirely different. She made clear she would not work full-time or even half-time, but characterised her part-time contribution as roughly equivalent to someone's full-time effort. She is currently helping with Aiden's foundation work, including a one-percent pledge with Thrive, but is seeking a more defined and focused role.
+↳ source: [[2026-06-04-in-person-strategy-discussion-aiden-s-portfolio-companies-fundraising-and-personnel]]
+
+### 2026-05-28 — Offered operational support to Nadia
+<!-- source_hash: c971127716305c26fb067c3c5ab64fc1db4b3840b7f1d0852ad6e4095ea29a0e -->
+Nancy offered to assist Josh with [[Nadia]]'s operational and administrative buildout, noting she had capacity and had been waiting for actionable tasks. She also mentioned a connection to an accounting firm that could potentially support fund administration, and offered to bring Josh into that relationship. She flagged that prior requests from Aiden had often not resulted in clear follow-through, and asked for well-defined tasks she could actually action.
+↳ source: [[2026-05-28-hats-nadia-board-ops-sync-hiring-fundraising-infrastructure]]
 
 ### 2026-05-11 — CFO candidate referral and audit flag
 <!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->

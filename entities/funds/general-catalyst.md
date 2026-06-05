@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-26'
+last_mention: '2026-06-05'
 last_touch: ''
 location: ''
-mention_count: 11
+mention_count: 13
 name: General Catalyst
 relationship: ''
 status: active
@@ -30,6 +30,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-05 — Funded Lual at $30M
+<!-- source_hash: 503fd7153b1e21e89bb7c333bfcc354e9795cacff5368a1eb1611b2b4f061d0e -->
+General Catalyst was noted to have funded Lual at approximately $30M, a company the founders described as closely resembling a competitor called Cled. The funding was mentioned in the context of a controversy involving the founders' family connections.
+↳ source: [[2026-06-05-catch-up-and-strategic-pivot-discussion-speaker-3-biosignal-ai-to-new-ventures]]
+
+### 2026-05-28 — Prior diligence conversation
+<!-- source_hash: 6b1302016e835b1ba985871d4b1778f5709bcdca4593999926f7134249ccc75b -->
+Chris noted that [[General Catalyst]] had reached a similar strategic conclusion to the founders — that the kernel optimization space was highly competitive and required a land-and-expand approach — though GC had initially assessed the company's situation as more dire than it was. Upon learning the company had spent only around $2M and still had $21M in the bank, GC's tone shifted. Fraser cautioned Chris to project aggressive confidence in future GC conversations rather than sharing internal concerns.
+↳ source: [[2026-05-28-strategy-session-chris-fraser-kernel-optimization-gpu-inference-startup-go-to-market]]
 
 ### 2026-05-26 — Preferred co-lead for YC follow-ons
 <!-- source_hash: 488c28d6390f65f37c9609806d768b14990ff7f6ceec36937eb8b3579d7995e4 -->

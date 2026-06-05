@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-26'
+last_mention: '2026-06-02'
 last_touch: ''
 location: ''
-mention_count: 7
+mention_count: 8
 name: AMD
 sector: ''
 stage: ''
@@ -28,6 +28,12 @@ website: ''
 
 
 
+
+
+### 2026-06-02 — Whale opportunity, not company bet
+<!-- source_hash: 3ed881d96750034c5151e9fb5eb39354c392aa1672012a23162a83c9cf00918b -->
+Chris characterised AMD as a unique 'whale' opportunity worth pursuing with maximum effort, but cautioned against indexing the company's trajectory to AMD's corporate pace. The team agreed to throw their best punch and see what AMD returns, while keeping capital markets as the stable foundation.
+↳ source: [[2026-06-02-skc-strategy-session-capital-markets-focus-amd-coreweave-priorities]]
 
 ### 2026-05-26 — SF program dinner at Teague's house
 <!-- source_hash: 488c28d6390f65f37c9609806d768b14990ff7f6ceec36937eb8b3579d7995e4 -->

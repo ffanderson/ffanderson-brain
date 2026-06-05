@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-07'
+last_mention: '2026-06-05'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: OnlyFans
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-05 — Acquisition in progress, automation opportunity
+<!-- source_hash: 503fd7153b1e21e89bb7c333bfcc354e9795cacff5368a1eb1611b2b4f061d0e -->
+Fraser disclosed that his friend Rohan, through a vehicle called [[Valhalla]] (now merged into [[Anchorage]]), is in the process of acquiring OnlyFans — a deal that had been announced in the Wall Street Journal. Fraser noted the company operates with approximately five employees and around 1,200 contractors performing manual KYC review of all content. He suggested this could be a significant automation opportunity, particularly given that larger consultancies like Accenture may be reluctant to work with the company.
+↳ source: [[2026-06-05-catch-up-and-strategic-pivot-discussion-speaker-3-biosignal-ai-to-new-ventures]]
 
 ### 2026-05-07 — Founder death and sale context
 <!-- source_hash: 781be2a5e97347bc35c36ac55252b378cf6df50771edb1c71cedcfcf30f6da82 -->

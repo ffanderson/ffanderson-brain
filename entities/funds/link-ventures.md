@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-15'
+last_mention: '2026-06-01'
 last_touch: ''
 location: ''
-mention_count: 10
+mention_count: 11
 name: Link Ventures
 relationship: ''
 status: active
@@ -29,6 +29,12 @@ website: ''
 
 
 
+
+
+### 2026-06-01 — Fund size and mandate described
+<!-- source_hash: 1d89317baa1013b109c4b12815021b538f5cd35686aa9214e31e7813a8532dca -->
+Fraser described [[Link Ventures]] as an early-stage VC fund based in Kendall Square, Cambridge, investing seed through Series A out of a $250M fund. The mandate requires that AI be indispensable to the business — not an add-on — and the fund concentrates on MIT and Harvard founder teams.
+↳ source: [[2026-06-01-boston-tech-week-ai-showcase-panel-fraser-anderson-link-ventures]]
 
 ### 2026-05-15 — HATS SPV allocation
 <!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->

@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Cooley
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-05-28 — Relied on for investor cap table data
+<!-- source_hash: c971127716305c26fb067c3c5ab64fc1db4b3840b7f1d0852ad6e4095ea29a0e -->
+Josh noted that fragmented investor and cap table records were forcing the Nadia team to go to Cooley repeatedly to answer basic questions about which investors were in which companies, round participation, and pro-rata rights. This was flagged as an expensive and unsustainable dependency that a proper CRM or fund administration tool would need to replace.
+↳ source: [[2026-05-28-hats-nadia-board-ops-sync-hiring-fundraising-infrastructure]]
 
 ### 2026-05-28 — Conflicts during partnership dispute
 <!-- source_hash: 63da34cce967024a9d1145dd2238725df9fcda996c8156e17dff3a0e8dc1f1e7 -->

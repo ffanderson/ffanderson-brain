@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-28'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Cerebras
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-06-04 — Upcoming meeting; space chip limitations
+<!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->
+One participant noted plans to meet with Cerebras the following week, though acknowledged lacking a strong pretext for the meeting after the expected Princeton student team fell apart. The group also discussed a technical limitation: Cerebras's wafer-scale chip architecture, while highly redundant around dead transistors in terrestrial applications, faces significant challenges in space due to alpha-particle bombardment, making it poorly suited for space-based GPU deployments despite the patented redundancy technology being theoretically valuable in that context.
+↳ source: [[2026-06-04-tech-trek-program-update-and-ecosystem-investment-strategy-review]]
 
 ### 2026-05-22 — Founder Andrew Feldman as mentor
 <!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->

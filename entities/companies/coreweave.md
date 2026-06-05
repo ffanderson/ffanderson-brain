@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-09'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 9
+mention_count: 13
 name: CoreWeave
 sector: ''
 stage: ''
@@ -30,6 +30,30 @@ website: ''
 
 
 
+
+
+
+
+
+### 2026-06-02 — Pilot and partnership framework needed
+<!-- source_hash: 3ed881d96750034c5151e9fb5eb39354c392aa1672012a23162a83c9cf00918b -->
+Chris flagged an upcoming bi-monthly meeting with CoreWeave's senior biz dev contact and wanted a draft strategic partnership framework ready in advance to begin shaping the conversation. The team discussed CoreWeave as the highest-upside commercialisation path given their inference revenue and competitive position, while acknowledging it is also the most competitive segment to crack.
+↳ source: [[2026-06-02-skc-strategy-session-capital-markets-focus-amd-coreweave-priorities]]
+
+### 2026-06-04 — Standard Kernel's first customer
+<!-- source_hash: 1de503530ab408e64c8b9aa1a229221e6ff96fe133033740a372ef04b5c53d66 -->
+CoreWeave was identified as [[Standard Kernel]]'s first customer, used as the illustrative case for the scale at which a 20% GPU performance improvement becomes financially significant. Fraser mentioned CoreWeave in the context of explaining why focused customer selection matters for early-stage companies.
+↳ source: [[2026-06-04-strategic-planning-discussion-new-cro-onboarding-pass-hatch-msp-ai-business]]
+
+### 2026-06-04 — Partner in inference workloads
+<!-- source_hash: 99bbf78897b7905d4ff1e921d76edcaab0274d01255a5f5c60554b97668b80fa -->
+Fraser mentioned [[CoreWeave]] as one of the firms [[Standard Kernel]] works with in the inference market, where competition to squeeze every additional FLOP for LLM token production is described as a knife fight.
+↳ source: [[2026-06-04-catch-up-call-vibhav-ai-services-company-update-market-dynamics]]
+
+### 2026-05-28 — Pilot results and case study target
+<!-- source_hash: 6b1302016e835b1ba985871d4b1778f5709bcdca4593999926f7134249ccc75b -->
+Chris reported that work with [[CoreWeave]] was delivering roughly 2x to 4x performance gains, though current results were around 40% — enough to push workloads over the threshold from multi-node to single-node configurations. Fraser and Chris agreed that publishing a joint post with CoreWeave showing a 2x or 4x gain within roughly three weeks should be a near-term priority to build commercial credibility.
+↳ source: [[2026-05-28-strategy-session-chris-fraser-kernel-optimization-gpu-inference-startup-go-to-market]]
 
 ### 2026-05-07 — Active pilot with Standard Kernel
 <!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->

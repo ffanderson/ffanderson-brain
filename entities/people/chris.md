@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-09'
+last_mention: '2026-06-02'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 5
+mention_count: 7
 name: Chris
 relationship: founder
 relationship_strength: strong
@@ -27,6 +27,18 @@ type: person
 
 
 
+
+
+
+### 2026-06-02 — CoreWeave biz dev meeting imminent
+<!-- source_hash: 3ed881d96750034c5151e9fb5eb39354c392aa1672012a23162a83c9cf00918b -->
+Chris noted he has a bi-monthly meeting with CoreWeave's senior biz dev contact the following day and wanted a strategic partnership and pilot framework drafted in advance so he could begin laying groundwork. He also flagged that he is in contact with an AMD-connected figure named Aiden, who may be able to unlock the AMD board member relationship.
+↳ source: [[2026-06-02-skc-strategy-session-capital-markets-focus-amd-coreweave-priorities]]
+
+### 2026-05-28 — Go-to-market self-assessment
+<!-- source_hash: 6b1302016e835b1ba985871d4b1778f5709bcdca4593999926f7134249ccc75b -->
+Chris acknowledged that he and his co-founder Ann had their heads too deep in technical work and needed to urgently build sales skills in a compressed period. He was candid that they had no idea how pricing works and had not yet developed a repeatable sales motion, particularly for quant trading firm targets.
+↳ source: [[2026-05-28-strategy-session-chris-fraser-kernel-optimization-gpu-inference-startup-go-to-market]]
 
 ### 2026-05-07 — Background: MIT, MosaicML, Standard Kernel founding
 <!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->

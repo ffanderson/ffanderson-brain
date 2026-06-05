@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Palantir
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-06-04 — Validating AI services market
+<!-- source_hash: 99bbf78897b7905d4ff1e921d76edcaab0274d01255a5f5c60554b97668b80fa -->
+Vibhav credited [[Palantir]] with doing the AI-enabled services category a significant favour by proving out that market at scale, lowering scepticism and increasing appetite among enterprise buyers for services-led AI engagements.
+↳ source: [[2026-06-04-catch-up-call-vibhav-ai-services-company-update-market-dynamics]]
 
 ### 2026-04-27 — Potential tech vendor or talent source
 <!-- source_hash: e7c05c80935887a5eff8cf4a4ff2e1e09ebc1065bdc5aa85614075290511ec12 -->

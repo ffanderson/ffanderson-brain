@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-07'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Cursor
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-06-04 — Declined founding engineer offer from network contact
+<!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->
+A contact in the firm's extended network—Chris Renard's co-founder girlfriend—was offered a 2% founding engineer stake at Cursor and declined on the grounds that the technology was not good enough. Her rejection was described as illustrative of her unusually high standards and competitive drive, and she was identified as a key relationship to develop in person in SF.
+↳ source: [[2026-06-04-tech-trek-program-update-and-ecosystem-investment-strategy-review]]
 
 ### 2026-05-07 — Connection to Standard Kernel co-founder
 <!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->

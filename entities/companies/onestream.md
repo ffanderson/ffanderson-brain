@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: OneStream
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-04 — Acquired by HG Capital at $6.4B
+<!-- source_hash: 99bbf78897b7905d4ff1e921d76edcaab0274d01255a5f5c60554b97668b80fa -->
+Vibhav noted that [[HG Capital]] had acquired OneStream for $6.4 billion, a deal that closed before what he described as back-to-back SaaS market downturns. He argued that OneStream, as a large CFO-software platform, would now need to acquire meaningful AI capabilities and growth, positioning Oren as a potential acquisition target or strategic partner in that context.
+↳ source: [[2026-06-04-catch-up-call-vibhav-ai-services-company-update-market-dynamics]]
 
 ### 2026-05-05 — Take-private with HG; AI product suite
 <!-- source_hash: d483c00c8901115e48d22940ac624d3385e3e49301dd63235e7cc7495e9e988e -->

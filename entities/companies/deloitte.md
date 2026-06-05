@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Deloitte
 sector: ''
 stage: ''
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-05-28 — Audit in progress, June 30 deadline
+<!-- source_hash: c971127716305c26fb067c3c5ab64fc1db4b3840b7f1d0852ad6e4095ea29a0e -->
+A Deloitte audit was underway with a June 30 completion target. Nancy and Courtney were primarily focused on driving toward that deadline, and the audit was cited as the reason a full-time CFO was not considered an immediate necessity.
+↳ source: [[2026-05-28-hats-nadia-board-ops-sync-hiring-fundraising-infrastructure]]
 
 ### 2026-05-28 — Engaged to audit MSP AI company pre-IPO
 <!-- source_hash: 41d9d3cfc94e35bb2a6bb0ba8e2f72b2408409e031351af6ae8d0e72c39f0c7d -->

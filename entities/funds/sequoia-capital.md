@@ -5,10 +5,10 @@ created: 2026-05-05
 crm_id: null
 crm_system: null
 fund_type: vc
-last_mention: '2026-05-09'
+last_mention: '2026-06-04'
 last_touch: 2026-05-05
 location: Menlo Park, CA
-mention_count: 9
+mention_count: 12
 name: Sequoia Capital
 relationship: co-investor
 status: active
@@ -65,6 +65,24 @@ relationship.
 
 
 
+
+
+
+
+### 2026-06-04 — Potential lead investor; Alfred Lin engaged
+<!-- source_hash: f9f1840385300ec1d0e60cd444accfe55fd4fb184b12d6e074c651f6b76e9f4c -->
+Fraser and the founder discussed Sequoia as a highly desirable next investor, particularly Alfred Lin. The founder believed Alfred would invest at a $400–500M valuation cap and that a Sequoia brand would meaningfully elevate the company's profile beyond what [[Andreessen Horowitz]] alone would provide. The Calshi investment at $200M was described as a positive signal Fraser expected would accelerate Sequoia's interest.
+↳ source: [[2026-06-04-portfolio-check-in-compute-supply-fundraising-and-team-building]]
+
+### 2026-06-04 — Named as tier-one target for strategic round
+<!-- source_hash: 1de503530ab408e64c8b9aa1a229221e6ff96fe133033740a372ef04b5c53d66 -->
+Sequoia was referenced in passing as an example of a tier-one fund whose backing of a Series C startup gives that startup sufficient credibility for an MSP customer to adopt it as a core operating system. Fraser also noted he had previously introduced [[Aiden]] and [[Jimmy Haslam]] to tier-one funds including firms of Sequoia's calibre, but that follow-through was limited without other investors actively chasing the deal.
+↳ source: [[2026-06-04-strategic-planning-discussion-new-cro-onboarding-pass-hatch-msp-ai-business]]
+
+### 2026-06-04 — Expected to lead Oren next round
+<!-- source_hash: 99bbf78897b7905d4ff1e921d76edcaab0274d01255a5f5c60554b97668b80fa -->
+Fraser indicated that [[Sequoia]] would likely lead [[Oren]]'s next funding round. He also referenced a Sequoia thesis that the next trillion-dollar business will be a software company masquerading as a services company, which Vibhav cited as directly validating Oren's positioning.
+↳ source: [[2026-06-04-catch-up-call-vibhav-ai-services-company-update-market-dynamics]]
 
 ### 2026-05-09 — Fund XII benchmarking analysis
 <!-- source_hash: 072d3ba9b18f69c6455d1ab44280c53424f0a2ab472aa3b274ab8ea83536f84a -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-15'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 7
 name: Oracle
 sector: ''
 stage: ''
@@ -26,6 +26,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-04 — Joined for multi-cloud financial services play
+<!-- source_hash: 1de503530ab408e64c8b9aa1a229221e6ff96fe133033740a372ef04b5c53d66 -->
+The executive moved to Oracle to lead financial services sales after Oracle announced its multi-cloud strategy, which he interpreted as Oracle finally listening to customers. He had tracked Oracle for years but only saw a coherent strategy once they entered public finance. His primary customer base there was banks, insurance companies, and capital markets businesses.
+↳ source: [[2026-06-04-strategic-planning-discussion-new-cro-onboarding-pass-hatch-msp-ai-business]]
+
+### 2026-06-04 — Executive communication style noted
+<!-- source_hash: ebf1fe5beb1290628e0fe808cae8eb1183b28c8fd805d63cdaaef8d962ca3e41 -->
+The contact observed that one of Oracle's co-CEOs had appeared on financial news and commented that Oracle executives—like Sam Altman—are not consistently strong public communicators and can make unforced errors, contrasting them unfavourably with Jensen Huang and Dario Amodei.
+↳ source: [[2026-06-04-strategy-call-standard-kernel-go-to-market-and-portfolio-opportunities]]
 
 ### 2026-05-15 — Jim Fanning current employer
 <!-- source_hash: 7fc2df8a02c286db236800f3909a932b8f3231e23560884609deb39c49fd1de5 -->

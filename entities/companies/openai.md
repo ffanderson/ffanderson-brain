@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-26'
+last_mention: '2026-06-05'
 last_touch: ''
 location: ''
-mention_count: 12
+mention_count: 14
 name: OpenAI
 sector: ''
 stage: ''
@@ -33,6 +33,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-05 — Potential buyer of portfolio company RL data
+<!-- source_hash: e44e419d117b59e3843d1ca3163e5278a77adb5081ddccc09ae75cccb3f95158 -->
+Fraser's colleague described OpenAI as a prospective buyer for a large proprietary RL dataset and data-labeling operation held by an insurance company in the portfolio. The portfolio company operates a data-labeling workforce potentially scalable to around 2,000 full-time labelers in Greece. Fraser's colleague framed selling the data as likely more profitable for the insurance company than building a full-stack insurance agent, and wanted to understand the form factor of data OpenAI is actively purchasing. [[Ethan Camp]] was identified as the access point for this conversation.
+↳ source: [[2026-06-05-strategy-sync-rohan-fintech-pilot-openai-data-deal-ethan-camp-intro]]
+
+### 2026-06-04 — Leadership concerns; talent bleed
+<!-- source_hash: ebf1fe5beb1290628e0fe808cae8eb1183b28c8fd805d63cdaaef8d962ca3e41 -->
+Both Fraser and the contact were sharply critical of OpenAI's direction, citing significant talent bleed and strategic setbacks including being outmaneuvered by [[Anthropic]] on IPO timing and losses in court attributed to Elon Musk. The contact stated Sam Altman is 'the wrong guy' for the role. Fraser agreed Altman does not present as someone he would want to do business with, though he acknowledged the difficulty of replacing a high-profile CEO close to an IPO.
+↳ source: [[2026-06-04-strategy-call-standard-kernel-go-to-market-and-portfolio-opportunities]]
 
 ### 2026-05-26 — Compute credits for equity offer
 <!-- source_hash: 488c28d6390f65f37c9609806d768b14990ff7f6ceec36937eb8b3579d7995e4 -->

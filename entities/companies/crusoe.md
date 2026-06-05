@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-04-24'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Crusoe
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-04 — Ecosystem connectivity test case
+<!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->
+Crusoe and its founder Chase Lockmiller were used as a benchmark for evaluating the ecosystem value of deals in the data center space. One participant proposed that a key question when writing an investment memo should be whether the target company's founders will still be in active dialogue with Chase Lockmiller a year from the investment date, treating that predicted connection as a measurable proxy for ecosystem benefit.
+↳ source: [[2026-06-04-tech-trek-program-update-and-ecosystem-investment-strategy-review]]
 
 ### 2026-04-24 — Ideal pilot customer; economics framing
 <!-- source_hash: fe182c655de62fb007b93a7fea9ea2813ee78c8e07d640b8a9f0185d11dff9b5 -->

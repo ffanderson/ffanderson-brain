@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-24'
 founded: ''
 founders: []
-last_mention: '2026-05-28'
+last_mention: '2026-06-01'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Lyra Labs
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-01 — Used as live demo task
+<!-- source_hash: 5092e56493ccdf151eb809edfcd50ae2d26fbbb0d129e621d1a1a9a9ec988671 -->
+During the meeting demo, Fraser asked the agent to produce a tight, formatted two-to-six-page briefing memo so he would not appear uninformed when meeting the Lyra Labs founder — identified as Krithik — on the topic of biology foundation models. The task was used to showcase the agent's speed and document-generation capability.
+↳ source: [[2026-06-01-seed-pitch-ai-agent-startup-fast-cheap-agentic-workflows-boston]]
 
 ### 2026-05-28 — Fraser leading investment, MIT founders
 <!-- source_hash: 41d9d3cfc94e35bb2a6bb0ba8e2f72b2408409e031351af6ae8d0e72c39f0c7d -->

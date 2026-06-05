@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-07'
+last_mention: '2026-05-28'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Courtney
 relationship: ''
 relationship_strength: cold
@@ -25,6 +25,12 @@ type: person
 ## Mentions
 
 
+
+
+### 2026-05-28 — Holding down finance pending CFO hire
+<!-- source_hash: c971127716305c26fb067c3c5ab64fc1db4b3840b7f1d0852ad6e4095ea29a0e -->
+Courtney was described as currently managing finance responsibilities for [[Hats]] while the CFO search remained exploratory. The group acknowledged this was a temporary arrangement and that Courtney was expected to transition to other responsibilities once a proper finance hire was made. She was also focused on supporting the [[Deloitte]] audit completion by June 30.
+↳ source: [[2026-05-28-hats-nadia-board-ops-sync-hiring-fundraising-infrastructure]]
 
 ### 2026-05-07 — Auto-provisioning model walkthrough
 <!-- source_hash: 34bd6e1fe35a044442a4d0b3acf5d410a7f121beb204fb74a3e4355f306d94ba -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-06'
+last_mention: '2026-05-28'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: FinCore
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-05-28 — AI CFO suite, potential fit for Hats
+<!-- source_hash: c971127716305c26fb067c3c5ab64fc1db4b3840b7f1d0852ad6e4095ea29a0e -->
+Fraser described FinCore as an AI agent suite for the office of the CFO, built around the revenue recognition and billing technology that underpinned [[HubSpot]]'s growth to billion-dollar ARR. It was noted that [[Hats]] could potentially run on FinCore given its complex and evolving billing models. Fraser planned to introduce Jim O'Neill to Josh and Nancy to explore both the relationship and the product fit.
+↳ source: [[2026-05-28-hats-nadia-board-ops-sync-hiring-fundraising-infrastructure]]
 
 ### 2026-05-06 — CFO stack automation; 50% headcount reduction
 <!-- source_hash: 9f30ebb0ecc2a11006151286c3848d3fce39c7e25d10228ee09cf71c00128cc8 -->

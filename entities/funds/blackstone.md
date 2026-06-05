@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-19'
+last_mention: '2026-06-02'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Blackstone
 relationship: ''
 status: active
@@ -22,6 +22,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-06-02 — Data center physical security interest
+<!-- source_hash: 9bb2f884525a0047aaf47fd451171554a8f5b12fa98545021174e3599a826dda -->
+One participant noted that Blackstone's data center investment team was a potential stakeholder for a physical security venture protecting utility and transmission infrastructure. The argument was that Blackstone, given its concern for uptime, might subsidize or push utilities to adopt physical security measures if doing so improved their insurance rates and reduced interruption risk.
+↳ source: [[2026-06-02-informal-catch-up-venture-deals-pearl-ai-crypto-standard-kernel-relocation-plans]]
 
 ### 2026-05-19 — Josh's tenure: CTO and strategic investing
 <!-- source_hash: 0f4df8abe742ab54e6e2309160b7c1986e927e5969a5360932d296a134d20d81 -->

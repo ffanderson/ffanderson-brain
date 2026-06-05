@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-12'
+last_mention: '2026-06-05'
 last_touch: ''
 location: ''
-mention_count: 8
+mention_count: 13
 name: Andreessen Horowitz
 relationship: ''
 status: active
@@ -27,6 +27,36 @@ website: ''
 
 
 
+
+
+
+
+
+
+### 2026-06-05 — Led Kush Series A
+<!-- source_hash: 503fd7153b1e21e89bb7c333bfcc354e9795cacff5368a1eb1611b2b4f061d0e -->
+Andreessen Horowitz's crypto fund led [[Kush]]'s Series A of around $20–25M, with Chris Dixon involved in the deal. Fraser also noted that Andreessen Horowitz was the main sponsor of New York Tech Week.
+↳ source: [[2026-06-05-catch-up-and-strategic-pivot-discussion-speaker-3-biosignal-ai-to-new-ventures]]
+
+### 2026-06-04 — Existing investor; brand seen as sufficient
+<!-- source_hash: f9f1840385300ec1d0e60cd444accfe55fd4fb184b12d6e074c651f6b76e9f4c -->
+Andreessen Horowitz was referenced as an existing investor in the portfolio company, with the founder noting their brand alone was strong enough to confer credibility. However, Fraser and the founder agreed that a [[Sequoia]] investment would represent a meaningful step up. Andreessen Horowitz was also noted to be producing a promotional video for the company at no cost.
+↳ source: [[2026-06-04-portfolio-check-in-compute-supply-fundraising-and-team-building]]
+
+### 2026-06-04 — Led Orne Series A
+<!-- source_hash: 73f492b998fc327e534811fcb95579d6a8681e1f00f58150ffc356d43a2c1c75 -->
+Andreessen Horowitz, specifically through the Chris Dixon fund, led the Series A round for [[Orne]]. Fraser flagged this as a signal of institutional validation for the company's exchange and data business.
+↳ source: [[2026-06-04-lunch-meeting-investment-strategy-ai-fintech-opportunities-and-career-transition-discussion]]
+
+### 2026-06-04 — Competitive: AI-enabled services rollup
+<!-- source_hash: 1de503530ab408e64c8b9aa1a229221e6ff96fe133033740a372ef04b5c53d66 -->
+Andreessen Horowitz was mentioned as one of several large funds operating AI-enabled services rollups that represent one flavour of competitive threat to [[Pass]]. These businesses are described as overcapitalized and marginally profitable, competing for the same MSP customers but viewed as unlikely to outmanoeuvre a team with deep MSP market knowledge.
+↳ source: [[2026-06-04-strategic-planning-discussion-new-cro-onboarding-pass-hatch-msp-ai-business]]
+
+### 2026-06-04 — Led Oren Series A
+<!-- source_hash: 99bbf78897b7905d4ff1e921d76edcaab0274d01255a5f5c60554b97668b80fa -->
+Fraser confirmed that [[Andreessen Horowitz]] led the Series A for [[Oren]], a company building financial products for the GPU compute ecosystem.
+↳ source: [[2026-06-04-catch-up-call-vibhav-ai-services-company-update-market-dynamics]]
 
 ### 2026-05-12 — MSP roll-up bet, Fraser's critique
 <!-- source_hash: 386ffc390818c4e442a90f35580b6f89bb0eb078d4d719c8f15277ec5b823e9d -->

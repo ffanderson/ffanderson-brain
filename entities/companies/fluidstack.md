@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-04-11'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: FluidStack
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # FluidStack
 
 ## Mentions
+
+
+### 2026-06-04 — Founders invested personally
+<!-- source_hash: f9f1840385300ec1d0e60cd444accfe55fd4fb184b12d6e074c651f6b76e9f4c -->
+The founders of Fluidstack made a personal investment in the portfolio company. This was mentioned in the context of a broader list of angel investors including the Hyra founders.
+↳ source: [[2026-06-04-portfolio-check-in-compute-supply-fundraising-and-team-building]]
 
 ### 2026-04-11 — First stage of deal pipeline
 <!-- source_hash: 65d6ee1ffd87b7001da1945b7ad59d828df50778ad9d0acfdd9568befea3311f -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-22'
+last_mention: '2026-06-01'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Liquid AI
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-06-01 — Edge AI and liquid neural networks
+<!-- source_hash: 1d89317baa1013b109c4b12815021b538f5cd35686aa9214e31e7813a8532dca -->
+[[Alexander Amini]], co-founder and Chief Science Officer, described Liquid AI's core thesis: AI should run on every device without requiring cloud connectivity. The company builds models using liquid neural networks — not transformer-based — which are efficient enough to deploy on phones and on hardware weaker than phones. A notable deployment is a small language model running on five-year-old computing units inside all Mercedes cars, providing on-device AI infotainment without internet access.
+↳ source: [[2026-06-01-boston-tech-week-ai-showcase-panel-fraser-anderson-link-ventures]]
 
 ### 2026-05-22 — East Coast programming venue
 <!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->

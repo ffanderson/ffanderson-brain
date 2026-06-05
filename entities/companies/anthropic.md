@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-22'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 13
+mention_count: 16
 name: Anthropic
 sector: ''
 stage: ''
@@ -34,6 +34,24 @@ website: ''
 
 
 
+
+
+
+
+### 2026-06-04 — Token/API access for Tech Trek students
+<!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->
+John mentioned that he has been in email contact with Dario at [[Anthropic]] and is arranging for Tech Trek students to receive 'infinite packages or tokens'—effectively unrestricted API access—for use during the program. One other participant noted they are also in active back-and-forth with Anthropic on this arrangement.
+↳ source: [[2026-06-04-tech-trek-program-update-and-ecosystem-investment-strategy-review]]
+
+### 2026-06-04 — IPO timing and competitive positioning
+<!-- source_hash: ebf1fe5beb1290628e0fe808cae8eb1183b28c8fd805d63cdaaef8d962ca3e41 -->
+The contact noted that Anthropic is pursuing an IPO ahead of [[OpenAI]], which he characterized as another instance of Anthropic outmaneuvering its rival. Dario Amodei was cited by the contact as a 'darling of the industry' and held up as a contrasting example of strong, credible leadership relative to OpenAI's CEO.
+↳ source: [[2026-06-04-strategy-call-standard-kernel-go-to-market-and-portfolio-opportunities]]
+
+### 2026-05-29 — Tobin joining as program support
+<!-- source_hash: 5c78a41737d42ab6386b01ce581016c0063cdfa071901e151253dac6f4dd53c4 -->
+A person named Tobin, who lives across the street from the accelerator house and works at Anthropic, was confirmed as a supporting resource for the summer program. He was positioned as available to help fill gaps left by Carson, who was only available for two or three days and not arriving until July.
+↳ source: [[2026-05-29-student-accelerator-program-check-in-quality-of-teams-mentor-matching-and-summer-logistics]]
 
 ### 2026-05-22 — API tokens and CEO engagement
 <!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 7
+mention_count: 9
 name: Nvidia
 sector: ''
 stage: ''
@@ -28,6 +28,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-02 — Potential acquirer to protect cloud ecosystem
+<!-- source_hash: 3ed881d96750034c5151e9fb5eb39354c392aa1672012a23162a83c9cf00918b -->
+Chris raised the possibility that Nvidia itself could seek to acquire [[Standard Kernel]] as a way to prevent SKC's technology from becoming a cost or competitive threat to Nvidia's cloud ecosystem partners. This was discussed as one of several potential exit paths alongside acquisition by [[AMD]] or [[CoreWeave]].
+↳ source: [[2026-06-02-skc-strategy-session-capital-markets-focus-amd-coreweave-priorities]]
+
+### 2026-06-04 — Jensen's shift to more aggressive public stance
+<!-- source_hash: ebf1fe5beb1290628e0fe808cae8eb1183b28c8fd805d63cdaaef8d962ca3e41 -->
+Fraser and the contact discussed Jensen Huang's recent departure from his long-held 'lovers, not fighters' public philosophy, viewing it as a necessary response to competitive pressure and market scepticism. The contact noted that sophisticated but non-technical investors have historically not appreciated the depth of Nvidia's moat, making a more assertive narrative important. The contact also mentioned he had turned down Nvidia four times when recruited, as he preferred to remain in software and application-layer work.
+↳ source: [[2026-06-04-strategy-call-standard-kernel-go-to-market-and-portfolio-opportunities]]
 
 ### 2026-05-05 — Scott's CFO-level access
 <!-- source_hash: 881d8e26541adf9fb1972f4bc4d55e0f79e00ec5f16e70a381fbbf993c5520f7 -->

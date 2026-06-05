@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-04-27'
+last_mention: '2026-06-05'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Dominic
 relationship: ''
 relationship_strength: cold
@@ -24,6 +24,12 @@ type: person
 
 ## Mentions
 
+
+
+### 2026-06-05 — Document review, in-office
+<!-- source_hash: 503fd7153b1e21e89bb7c333bfcc354e9795cacff5368a1eb1611b2b4f061d0e -->
+Dominic was noted to be in the office during the week of the meeting and was designated as the point of contact for reviewing and finalizing document language with Sebastian.
+↳ source: [[2026-06-05-catch-up-and-strategic-pivot-discussion-speaker-3-biosignal-ai-to-new-ventures]]
 
 ### 2026-04-27 — Pipeline outreach and insurance placement
 <!-- source_hash: e3b23879b186b228edf12f031ec8dde8dd02c4ad9a3ea83bf487722e66d4d2ef -->

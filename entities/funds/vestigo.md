@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-20'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 8
+mention_count: 9
 name: Vestigo
 relationship: ''
 status: active
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-06-04 — Fund status and AI focus
+<!-- source_hash: 9378f48937621cd3368eeab07fa4065ed2971a14166003b62332095860a1a970 -->
+Fraser explained that Vestigo is not deploying new funds but still has a second fund with LPs available to call capital from. The fund currently being deployed is focused on AI, with no crossover investments between funds. The overall structure operates under one management company.
+↳ source: [[2026-06-04-in-person-strategy-discussion-aiden-s-portfolio-companies-fundraising-and-personnel]]
 
 ### 2026-05-20 — Prior brand, applied AI in fintech
 <!-- source_hash: b0be61af6dcd6936a10198c65b3a7a998da96d93755a0ef4740cf6a63e806a5d -->

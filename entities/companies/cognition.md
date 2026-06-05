@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-07'
+last_mention: '2026-06-04'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Cognition
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-06-04 — Founder in Chris Renard's peer network
+<!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->
+The founder of Cognition was mentioned as part of the same competitive coding peer group as the founders of [[Windsurf]] and [[Cursor]], all connected through Chris Renard's co-founder girlfriend. This network was highlighted as a high-value but as-yet-unpenetrated cluster of relationships for the firm.
+↳ source: [[2026-06-04-tech-trek-program-update-and-ecosystem-investment-strategy-review]]
 
 ### 2026-05-07 — Connection to Standard Kernel co-founder
 <!-- source_hash: dced6a7a7fb7e7a1dfd861c88845d48d723078feee2653bd858416b6274687f4 -->
