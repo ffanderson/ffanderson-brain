@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-09'
 last_touch: ''
 location: ''
-mention_count: 7
+mention_count: 8
 name: Beacon
 sector: ''
 stage: ''
@@ -28,6 +28,12 @@ website: ''
 
 
 
+
+
+### 2026-06-09 — SPV governance dispute escalating
+<!-- source_hash: ee0a317f68e4bb6ddb41eea59cacbdc9814bed1d864a157ad1b013cf59e83fb0 -->
+A governance dispute over control of the Beacon round SPV escalated when co-founders John and Jack, realizing that [[Adam]]'s new capital from [[Adam|Alex Weiss]] would dilute their board control, sent a legalistic email from the Caymans attempting to pressure Adam. Adam responded by outlining two paths: maintain the status quo, or appoint Alex Weiss as co-manager of the SPV post-closing to introduce independent governance. The counter-proposal was met with silence.
+↳ source: [[2026-06-09-catch-up-adam-fraser-beacon-spv-conflict-guardian-life-nancy]]
 
 ### 2026-06-04 — Complexity and investor frustration
 <!-- source_hash: 9378f48937621cd3368eeab07fa4065ed2971a14166003b62332095860a1a970 -->

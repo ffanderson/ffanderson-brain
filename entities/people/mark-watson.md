@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-07'
+last_mention: '2026-06-09'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Mark Watson
 relationship: operator
 relationship_strength: warm
@@ -24,6 +24,12 @@ type: person
 
 ## Mentions
 
+
+
+### 2026-06-09 — Vision: risk transfer business
+<!-- source_hash: e9c3582994d635150614c5be11b5c5fc72911b1b8d3a938991f7508a4a894b5e -->
+Mark argued that the venture should be built as a risk transfer business, not merely another underwriting organization. His core thesis was that the ultimate goal is to route risk to the capital markets rather than traditional reinsurers, in order to serve capital-constrained data center buyers who currently lack adequate insurance limits.
+↳ source: [[2026-06-09-insurtech-venture-strategy-session-mark-watson-fraser-anderson]]
 
 ### 2026-05-07 — AI business plan frustration
 <!-- source_hash: 735b34501a67269ee00c67c0314cc98e9d8a9604cfe54d78d70c47f2680c5876 -->

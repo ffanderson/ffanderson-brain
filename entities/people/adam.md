@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-19'
+last_mention: '2026-06-09'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Adam
 relationship: ''
 relationship_strength: cold
@@ -26,6 +26,12 @@ type: person
 
 
 
+
+
+### 2026-06-09 — SPV co-manager proposal, Beacon
+<!-- source_hash: ee0a317f68e4bb6ddb41eea59cacbdc9814bed1d864a157ad1b013cf59e83fb0 -->
+Adam proposed appointing Alex Weiss as co-manager of the Beacon round SPV alongside himself after the current capital closes, framing it as independent governance in response to pressure from co-founders John and Jack. He assessed that John and Jack have no real leverage, as Adam controls the key banking relationships and they are operationally overwhelmed without his support. Adam characterised John as a narcissist who responds only to strength and process, not compromise, and revised his view of Jack downward, describing him as weak and lacking integrity.
+↳ source: [[2026-06-09-catch-up-adam-fraser-beacon-spv-conflict-guardian-life-nancy]]
 
 ### 2026-05-19 — Background and Hamsa founding
 <!-- source_hash: 0f4df8abe742ab54e6e2309160b7c1986e927e5969a5360932d296a134d20d81 -->

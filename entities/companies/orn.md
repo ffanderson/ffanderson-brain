@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-09'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Orn
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-06-09 — Compute economy financial products
+<!-- source_hash: 88290f6e9f0cabf04439223909e1da1c648a01314d3d13307724c2b87122c2f8 -->
+Fraser described Orn as a portfolio company building financial products for the compute economy, including cash-settled compute derivatives and derivatives on the residual value of GPUs. He noted it was performing very well as an example of AI intersecting with an adjacent, non-software domain.
+↳ source: [[2026-06-09-intro-call-ethan-openai-startup-ideation-in-ai-abuse-prevention-cybersecurity]]
 
 ### 2026-06-04 — Growing momentum; potential engagement timing
 <!-- source_hash: ebf1fe5beb1290628e0fe808cae8eb1183b28c8fd805d63cdaaef8d962ca3e41 -->

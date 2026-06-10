@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-06-05'
+last_mention: '2026-06-08'
 last_touch: ''
 location: ''
-mention_count: 13
+mention_count: 14
 name: General Catalyst
 relationship: ''
 status: active
@@ -32,6 +32,12 @@ website: ''
 
 
 
+
+
+### 2026-06-08 — Historical precedent for bi-coastal expansion
+<!-- source_hash: 17b4882a3d62ed217ed53045a7a7c11b8376c26f50b1da9f91658570fe9ad229 -->
+General Catalyst was cited as part of a cohort of East Coast-origin venture firms—alongside [[Bessemer Venture Partners]], [[Y Combinator]], and [[Greylock]]—that expanded to the West Coast, offered as precedent for [[Link Ventures]]' proposed SF presence.
+↳ source: [[2026-06-08-internal-discussion-fraser-anderson-sf-relocation-proposal-for-link-ventures]]
 
 ### 2026-06-05 — Funded Lual at $30M
 <!-- source_hash: 503fd7153b1e21e89bb7c333bfcc354e9795cacff5368a1eb1611b2b4f061d0e -->

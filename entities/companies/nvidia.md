@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-08'
 last_touch: ''
 location: ''
-mention_count: 9
+mention_count: 10
 name: Nvidia
 sector: ''
 stage: ''
@@ -30,6 +30,12 @@ website: ''
 
 
 
+
+
+### 2026-06-08 — Senior sales exec placed at Standard Kernel
+<!-- source_hash: 17b4882a3d62ed217ed53045a7a7c11b8376c26f50b1da9f91658570fe9ad229 -->
+Fraser recruited the head of financial services sales at Nvidia—described as a roughly $5 million-per-year earner and a high-impact sales operator—to serve as an advisor to [[Standard Kernel]], with the possibility of the executive joining the company for a period. The placement was motivated by the view that Standard Kernel's founding team had no business development capability and needed a commercial counterpart.
+↳ source: [[2026-06-08-internal-discussion-fraser-anderson-sf-relocation-proposal-for-link-ventures]]
 
 ### 2026-06-02 — Potential acquirer to protect cloud ecosystem
 <!-- source_hash: 3ed881d96750034c5151e9fb5eb39354c392aa1672012a23162a83c9cf00918b -->

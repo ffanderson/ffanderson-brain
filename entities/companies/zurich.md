@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-06-09'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Zurich
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-06-09 — Benchmark for operator profile
+<!-- source_hash: e9c3582994d635150614c5be11b5c5fc72911b1b8d3a938991f7508a4a894b5e -->
+Zurich was mentioned alongside [[FM Global]] as an example of the institutional background a Path 2 operating lead would need to have. Fraser indicated he had not yet spoken to the relevant type of person from either firm, which was limiting his confidence in the expertise-led approach.
+↳ source: [[2026-06-09-insurtech-venture-strategy-session-mark-watson-fraser-anderson]]
 
 ### 2026-05-04 — Top data center carrier
 <!-- source_hash: 514ea3ef2bfe17c6ab2447dae3f04c69a5fffa534e66326f61296a19b46ee759 -->

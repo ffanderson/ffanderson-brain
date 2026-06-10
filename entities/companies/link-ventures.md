@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-13'
+last_mention: '2026-06-08'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Link Ventures
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-06-08 — Strategic case for SF office presence
+<!-- source_hash: 17b4882a3d62ed217ed53045a7a7c11b8376c26f50b1da9f91658570fe9ad229 -->
+The conversation identified four strategic gaps a San Francisco presence would address for Link Ventures: access to the large pool of liquid wealth being created in California over the next 18 months; repairing friction with West Coast funds that push back on Link's seed-stage terms and ownership; native ecosystem intelligence to accelerate portfolio company growth post-investment; and sustained activation of momentum built through Tech Track and senior SF relationships. A parallel was drawn to firms like [[Bessemer Venture Partners]], [[General Catalyst]], [[Y Combinator]], and [[Greylock]], all of which eventually established a West Coast presence after originating on the East Coast.
+↳ source: [[2026-06-08-internal-discussion-fraser-anderson-sf-relocation-proposal-for-link-ventures]]
 
 ### 2026-05-13 — Portfolio focus and scale
 <!-- source_hash: c14652fd4f73c98a947c17459201ad78129184a43eea440cd5f440394a4f1318 -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-05'
+last_mention: '2026-06-09'
 last_touch: ''
 location: ''
-mention_count: 12
+mention_count: 15
 name: Standard Kernel
 sector: ''
 stage: ''
@@ -33,6 +33,24 @@ website: ''
 
 
 
+
+
+
+
+### 2026-06-09 — Potential network connection for Ethan
+<!-- source_hash: 88290f6e9f0cabf04439223909e1da1c648a01314d3d13307724c2b87122c2f8 -->
+Fraser recommended that Ethan speak with Chris Renard and his co-founder Anne at Standard Kernel, a portfolio company using AI to write better GPU kernels. Fraser described both founders as exceptionally technically capable — Anne had done competitive coding alongside the founders of [[Cognition]] and [[Cursor]], and Chris's father is a prominent computation professor at MIT — and suggested their network and domain perspective could help Ethan identify a compelling direction for a startup.
+↳ source: [[2026-06-09-intro-call-ethan-openai-startup-ideation-in-ai-abuse-prevention-cybersecurity]]
+
+### 2026-06-08 — Network mining thesis; BD advisor added
+<!-- source_hash: 17b4882a3d62ed217ed53045a7a7c11b8376c26f50b1da9f91658570fe9ad229 -->
+Following the Standard Kernel investment, Dave had advised Fraser to sit close to Chris Renard and actively mine his network. Fraser described bringing in the head of financial services sales at [[Nvidia]] as an advisor to Standard Kernel, noting that Chris and his team lacked business development capability despite strong technical talent. Standard Kernel's network—including competitive programmers with connections to founders of companies like [[Cognition]] and the Cursor team—was cited as an under-utilised asset that a SF presence would help activate.
+↳ source: [[2026-06-08-internal-discussion-fraser-anderson-sf-relocation-proposal-for-link-ventures]]
+
+### 2026-06-09 — Meeting scheduling pending
+<!-- source_hash: ee0a317f68e4bb6ddb41eea59cacbdc9814bed1d864a157ad1b013cf59e83fb0 -->
+A meeting with the Standard Kernel principals had not yet been scheduled as of this call; the team is based in California and had sent over proposed times. Adam noted he needed to confirm dates and get something on the calendar.
+↳ source: [[2026-06-09-catch-up-adam-fraser-beacon-spv-conflict-guardian-life-nancy]]
 
 ### 2026-06-05 — GPU kernel optimization, talent and BD
 <!-- source_hash: 503fd7153b1e21e89bb7c333bfcc354e9795cacff5368a1eb1611b2b4f061d0e -->

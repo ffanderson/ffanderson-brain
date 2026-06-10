@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-05'
+last_mention: '2026-06-09'
 last_touch: ''
 location: ''
-mention_count: 14
+mention_count: 15
 name: OpenAI
 sector: ''
 stage: ''
@@ -35,6 +35,12 @@ website: ''
 
 
 
+
+
+### 2026-06-09 — Compute abuse costs and detection methods
+<!-- source_hash: 88290f6e9f0cabf04439223909e1da1c648a01314d3d13307724c2b87122c2f8 -->
+Ethan described OpenAI's compute-abuse problem as costing hundreds of millions of dollars a year. A common attack involved programmatically creating large numbers of free accounts to act as a compute pool for a paid third-party reselling service. Detection relied heavily on non-prompt signals such as IP patterns, email domains, and account behaviour, with detected bad actors served degraded models rather than outright banned, to avoid signalling detection.
+↳ source: [[2026-06-09-intro-call-ethan-openai-startup-ideation-in-ai-abuse-prevention-cybersecurity]]
 
 ### 2026-06-05 — Potential buyer of portfolio company RL data
 <!-- source_hash: e44e419d117b59e3843d1ca3163e5278a77adb5081ddccc09ae75cccb3f95158 -->

@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-05'
+last_mention: '2026-06-09'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 131
+mention_count: 138
 name: Fraser Anderson
 relationship: personal
 relationship_strength: core
@@ -153,6 +153,48 @@ type: person
 
 
 
+
+
+
+
+
+
+
+
+### 2026-06-09 — Tech Track hacker house program
+<!-- source_hash: 88290f6e9f0cabf04439223909e1da1c648a01314d3d13307724c2b87122c2f8 -->
+Fraser described a summer program called Tech Track, run in partnership with Eric Schmidt's family office, which placed thirty undergraduate AI builders in a house in Pacific Heights, San Francisco. The program included dinners with Stanford HAI faculty, a hosted dinner with AMD leadership, and visits to AI labs, with the goal of identifying startup investments and providing formative entrepreneurial experiences for technically exceptional students.
+↳ source: [[2026-06-09-intro-call-ethan-openai-startup-ideation-in-ai-abuse-prevention-cybersecurity]]
+
+### 2026-06-09 — SAFE signed, wire committed
+<!-- source_hash: 593d2600937cd7554495872958deecc052ecf0f0c823dc42b61ca1c87237c09c -->
+Fraser signed the SAFE during the call and committed to wiring funds the following day. He noted he had been slightly slow on the paperwork but confirmed everything was in order.
+↳ source: [[2026-06-09-safe-closing-confirmation-and-palo-alto-meeting-scheduling]]
+
+### 2026-06-09 — Advisor role in Tech Trek
+<!-- source_hash: cc1dc912329d3f9add97d435614c155dbb63a48cd10db288898469cabbb4dc50 -->
+Fraser was brought in to evaluate cohort quality and advise on talent allocation for [[Tech Trek]]. John asked him to review the Notion workspace weekly, assess which teams have technical credibility and realistic ambitions, and identify where John's social capital could be most effectively deployed to support strong teams.
+↳ source: [[2026-06-09-tech-trek-summer-program-cohort-planning-funding-updates-and-logistics]]
+
+### 2026-06-08 — Advised walk-away on routing client
+<!-- source_hash: 320e4264f2f90b4ed800cb548298aa5226822504399590da07ea08ac11b8b71a -->
+Fraser advised the founder to require per-region upfront payment from the routing optimisation client or walk away entirely, drawing on a prior non-payment experience with Summit as evidence that pursuing monthly AR from a cash-poor counterparty is economically irrational. He suggested framing any final message around the client's own stated cash flow concerns rather than questioning their integrity.
+↳ source: [[2026-06-08-advisor-call-routing-client-negotiation-debrief-and-engineer-stability]]
+
+### 2026-06-09 — Dual-path formation strategy
+<!-- source_hash: e9c3582994d635150614c5be11b5c5fc72911b1b8d3a938991f7508a4a894b5e -->
+Fraser framed the venture formation decision as two distinct paths: Path 1, a fast venture-backed model built around young tech founders with Mark as a minority founding advisor, and Path 2, a more controlled expertise-led approach where Fraser and Mark would hold a much larger combined stake, potentially around 40%, in exchange for doing significant upfront work. He advocated for pursuing both in parallel and explicitly labelling which path was being pursued as momentum developed.
+↳ source: [[2026-06-09-insurtech-venture-strategy-session-mark-watson-fraser-anderson]]
+
+### 2026-06-08 — SF presence proposal, 2027–2028
+<!-- source_hash: 17b4882a3d62ed217ed53045a7a7c11b8376c26f50b1da9f91658570fe9ad229 -->
+Fraser proposed a two-year, timeboxed plan to establish a personal and operational base in San Francisco covering 2027 and 2028, with an apartment lease and family relocation. The annual cadence would have him in SF from February 1 through mid-June, returning to Cambridge and New Hampshire for IAP in January and through the summer. He plans to avoid California residency for tax reasons, with New Hampshire residency floated as the workable alternative.
+↳ source: [[2026-06-08-internal-discussion-fraser-anderson-sf-relocation-proposal-for-link-ventures]]
+
+### 2026-06-09 — Guardian Life follow-up role
+<!-- source_hash: ee0a317f68e4bb6ddb41eea59cacbdc9814bed1d864a157ad1b013cf59e83fb0 -->
+Fraser was asked to follow up with Mark on the Guardian Life development, but only after Adam had first texted Mark directly with the news, as Mark prefers to hear updates from Adam first and then receive additional context from Fraser.
+↳ source: [[2026-06-09-catch-up-adam-fraser-beacon-spv-conflict-guardian-life-nancy]]
 
 ### 2026-06-05 — Market froth as fundraising opportunity
 <!-- source_hash: 36e3fb0d019b76df25f434ff58484ccc773615a998dcb797026e2072985738b3 -->

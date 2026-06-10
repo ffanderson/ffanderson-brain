@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-09'
 last_touch: ''
 location: ''
-mention_count: 13
+mention_count: 14
 name: CoreWeave
 sector: ''
 stage: ''
@@ -34,6 +34,12 @@ website: ''
 
 
 
+
+
+### 2026-06-09 — Potential customer for abuse prevention
+<!-- source_hash: 88290f6e9f0cabf04439223909e1da1c648a01314d3d13307724c2b87122c2f8 -->
+Fraser identified CoreWeave as a more promising near-term customer for compute-abuse prevention than the major foundation labs, reasoning that AI cloud and inference providers operate on narrower margins, use significant financing, and therefore have a genuine commercial incentive to protect cash flow and bottom-line profitability.
+↳ source: [[2026-06-09-intro-call-ethan-openai-startup-ideation-in-ai-abuse-prevention-cybersecurity]]
 
 ### 2026-06-02 — Pilot and partnership framework needed
 <!-- source_hash: 3ed881d96750034c5151e9fb5eb39354c392aa1672012a23162a83c9cf00918b -->

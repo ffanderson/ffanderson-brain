@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-07'
 founded: ''
 founders: []
-last_mention: '2026-05-28'
+last_mention: '2026-06-09'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Marsh
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-06-09 — Required distribution relationship
+<!-- source_hash: e9c3582994d635150614c5be11b5c5fc72911b1b8d3a938991f7508a4a894b5e -->
+Alongside [[AON]], Marsh was cited by Mark as a critical broker relationship that the venture's founding insurance hire must already possess. Without demonstrated access to both firms, the back-end reinsurance capacity would be insufficient to support the business.
+↳ source: [[2026-06-09-insurtech-venture-strategy-session-mark-watson-fraser-anderson]]
 
 ### 2026-05-28 — New data center capacity vehicles, mismatched values
 <!-- source_hash: 41d9d3cfc94e35bb2a6bb0ba8e2f72b2408409e031351af6ae8d0e72c39f0c7d -->

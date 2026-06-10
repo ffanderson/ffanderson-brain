@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-09'
 fund_type: ''
-last_mention: '2026-05-26'
+last_mention: '2026-06-08'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Y Combinator
 relationship: ''
 status: active
@@ -23,6 +23,12 @@ website: ''
 
 
 
+
+
+### 2026-06-08 — Historical precedent for bi-coastal expansion
+<!-- source_hash: 17b4882a3d62ed217ed53045a7a7c11b8376c26f50b1da9f91658570fe9ad229 -->
+Y Combinator was referenced as one of several successful venture firms whose bi-coastal evolution Fraser used to argue that establishing a San Francisco presence is a natural and validated step for [[Link Ventures]].
+↳ source: [[2026-06-08-internal-discussion-fraser-anderson-sf-relocation-proposal-for-link-ventures]]
 
 ### 2026-05-26 — Strategy for competing and co-investing
 <!-- source_hash: 488c28d6390f65f37c9609806d768b14990ff7f6ceec36937eb8b3579d7995e4 -->

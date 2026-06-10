@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-11'
 founded: ''
 founders: []
-last_mention: '2026-05-11'
+last_mention: '2026-06-09'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Mercor
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # Mercor
 
 ## Mentions
+
+
+### 2026-06-09 — Pivot example cited for team-first thesis
+<!-- source_hash: 88290f6e9f0cabf04439223909e1da1c648a01314d3d13307724c2b87122c2f8 -->
+Fraser cited Mercor as a canonical example of why team quality matters more than the initial idea at the seed stage, noting that Mercor originally planned to be a jobs-placement board when Fraser invested in the seed round and had since pivoted to become a much larger company. He used it to argue that backing the right people, not the right idea, is what generates outsized outcomes.
+↳ source: [[2026-06-09-intro-call-ethan-openai-startup-ideation-in-ai-abuse-prevention-cybersecurity]]
 
 ### 2026-05-11 — Lisa's notable investment reference
 <!-- source_hash: 372114e1f2aed19d6734b288a8e658f4defffe0c7cda856e871d6079998f6ded -->

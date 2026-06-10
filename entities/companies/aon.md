@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-28'
+last_mention: '2026-06-09'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Aon
 sector: ''
 stage: ''
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-06-09 — Required distribution relationship
+<!-- source_hash: e9c3582994d635150614c5be11b5c5fc72911b1b8d3a938991f7508a4a894b5e -->
+Mark identified [[AON]] and [[Marsh]] as the two brokers whose willingness to send business to the venture's initial insurance hire would be a prerequisite for the business to function. Securing that front-market following was described as non-negotiable for the first insurance professional brought on board.
+↳ source: [[2026-06-09-insurtech-venture-strategy-session-mark-watson-fraser-anderson]]
 
 ### 2026-05-28 — Data center insurance capacity gap
 <!-- source_hash: 41d9d3cfc94e35bb2a6bb0ba8e2f72b2408409e031351af6ae8d0e72c39f0c7d -->

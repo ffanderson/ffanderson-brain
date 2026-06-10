@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-09'
 last_touch: ''
 location: ''
-mention_count: 16
+mention_count: 17
 name: Anthropic
 sector: ''
 stage: ''
@@ -37,6 +37,12 @@ website: ''
 
 
 
+
+
+### 2026-06-09 — Parallel compute-abuse problem
+<!-- source_hash: 88290f6e9f0cabf04439223909e1da1c648a01314d3d13307724c2b87122c2f8 -->
+Ethan noted that Anthropic faces the same compute-abuse and platform-integrity challenges as [[OpenAI]], and cited both labs as the clearest examples of organisations that would need to keep this competency in-house rather than purchasing it from a third-party vendor.
+↳ source: [[2026-06-09-intro-call-ethan-openai-startup-ideation-in-ai-abuse-prevention-cybersecurity]]
 
 ### 2026-06-04 — Token/API access for Tech Trek students
 <!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->

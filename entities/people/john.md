@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-04'
+last_mention: '2026-06-09'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 12
+mention_count: 13
 name: John
 relationship: ''
 relationship_strength: cold
@@ -34,6 +34,12 @@ type: person
 
 
 
+
+
+### 2026-06-09 — Role and fundraising activity
+<!-- source_hash: cc1dc912329d3f9add97d435614c155dbb63a48cd10db288898469cabbb4dc50 -->
+John is the primary organizer of [[Tech Trek]] and has been actively fundraising, securing $100,000 from Jeremy Wertheimer and $1,000,000 from David Siegel within two days. He was meeting with Marc Benioff the day of the call to continue those efforts.
+↳ source: [[2026-06-09-tech-trek-summer-program-cohort-planning-funding-updates-and-logistics]]
 
 ### 2026-06-04 — Tech Trek program organizer: comprehensive briefing
 <!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->

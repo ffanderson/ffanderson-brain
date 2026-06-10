@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-06-09'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Tech Trek
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-06-09 — Recent fundraising from key investors
+<!-- source_hash: cc1dc912329d3f9add97d435614c155dbb63a48cd10db288898469cabbb4dc50 -->
+Tech Trek received $100,000 from Jeremy Wertheimer and $1,000,000 from David Siegel in quick succession. A meeting with Marc Benioff was scheduled the following day to continue fundraising momentum.
+↳ source: [[2026-06-09-tech-trek-summer-program-cohort-planning-funding-updates-and-logistics]]
 
 ### 2026-05-01 — Program origin and structure
 <!-- source_hash: 821ae8ecad3702afb1d1e8aeebc187344b151c410c8dd9fe98e3b71d575e8bae -->

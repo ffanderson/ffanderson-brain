@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-27'
+last_mention: '2026-06-09'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: LPL Financial
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-06-09 — Fraser's network context
+<!-- source_hash: 4c3222c28dea3e47697a3c15dcd4a3a447b25daf26bb525bb90efd04991e0948 -->
+Fraser noted that one of his business partners previously ran [[LPL Financial]] and through that relationship Fraser has developed a strong network within the multifamily office community, which he offered to leverage on behalf of the introducing investor.
+↳ source: [[2026-06-09-intro-call-legal-quants-jamie-tso-referral-investor-deal-flow-discussion]]
 
 ### 2026-05-27 — Fraser's partner Mark Cassidy as former CEO
 <!-- source_hash: bdf0eaecf1ca9c22a005cbd892c13d57448791e747198b7fab07591b79533fa8 -->
