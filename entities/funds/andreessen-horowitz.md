@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-06-05'
+last_mention: '2026-06-09'
 last_touch: ''
 location: ''
-mention_count: 13
+mention_count: 14
 name: Andreessen Horowitz
 relationship: ''
 status: active
@@ -32,6 +32,12 @@ website: ''
 
 
 
+
+
+### 2026-06-09 — Led Orn recent round
+<!-- source_hash: 1bd49a5028280a3e2b17ea0a22888d6f6e331842446cc2d847eaa6e181a2caad -->
+Andreessen Horowitz led [[Orn]]'s most recent funding round, which closed at a $120M post-money valuation. Fraser cited this as a signal of the company's momentum and institutional validation.
+↳ source: [[2026-06-09-career-advice-call-sarah-s-job-search-orn-opportunity]]
 
 ### 2026-06-05 — Led Kush Series A
 <!-- source_hash: 503fd7153b1e21e89bb7c333bfcc354e9795cacff5368a1eb1611b2b4f061d0e -->

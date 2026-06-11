@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-04-21'
+last_mention: '2026-06-10'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: GTCR
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # GTCR
 
 ## Mentions
+
+
+### 2026-06-10 — Mentioned as buyer and portfolio source
+<!-- source_hash: 7fc5171d2d895ad87edd97a8e87024a71f3ead7cd7e54385778d882570039849 -->
+GTCR was mentioned in two contexts: as a potential acquirer of [[CueStudio]], and as a large PE firm whose portfolio — estimated at around 60 companies, roughly half of which may be software — could represent a repeatable pipeline for the Mark partnership model. Fraser suggested Mark could survey GTCR portfolio companies for unbuilt product needs and structure build-and-sell deals across them.
+↳ source: [[2026-06-10-career-strategy-session-vig-career-options-across-spv-pe-cto-mark-partnership-and-nyla]]
 
 ### 2026-04-21 — Pilot for AI acquisition play
 <!-- source_hash: fc2260c03740da7adcd2fce63d09bed8971b488aa3361c2e7b5a7bdac11c4d3c -->

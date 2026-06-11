@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-09'
+last_mention: '2026-06-10'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 138
+mention_count: 140
 name: Fraser Anderson
 relationship: personal
 relationship_strength: core
@@ -160,6 +160,18 @@ type: person
 
 
 
+
+
+
+### 2026-06-10 — Personal plans: paternity leave and SF move
+<!-- source_hash: 7fc5171d2d895ad87edd97a8e87024a71f3ead7cd7e54385778d882570039849 -->
+Fraser shared that he plans to take paternity leave and is considering relocating to San Francisco, with a test run planned — including bringing family members to gauge fit — before committing. He mentioned opening an SF office as a potential vehicle for the move. On the investing side, he indicated he has a current pool of capital for technology investing and intends ultimately to raise his own fund, potentially starting with SPVs as a bridge.
+↳ source: [[2026-06-10-career-strategy-session-vig-career-options-across-spv-pe-cto-mark-partnership-and-nyla]]
+
+### 2026-06-08 — Fund close timing briefing
+<!-- source_hash: d6107af15aa7f2b2742a8672d18fd21fb839bc46d1c3a34cb2cc4e1a64724bff -->
+Fraser expected a call from Ben later that week and wanted an updated picture of the round's status and timing in order to brief him. Fraser was satisfied with the progress toward closing and affirmed the June timeline for remaining commitments.
+↳ source: [[2026-06-08-fund-close-update-texas-lp-intro-discussion]]
 
 ### 2026-06-09 — Tech Track hacker house program
 <!-- source_hash: 88290f6e9f0cabf04439223909e1da1c648a01314d3d13307724c2b87122c2f8 -->

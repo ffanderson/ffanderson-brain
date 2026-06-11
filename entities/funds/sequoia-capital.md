@@ -5,10 +5,10 @@ created: 2026-05-05
 crm_id: null
 crm_system: null
 fund_type: vc
-last_mention: '2026-06-04'
+last_mention: '2026-06-09'
 last_touch: 2026-05-05
 location: Menlo Park, CA
-mention_count: 12
+mention_count: 13
 name: Sequoia Capital
 relationship: co-investor
 status: active
@@ -68,6 +68,12 @@ relationship.
 
 
 
+
+
+### 2026-06-09 — Circling for Orn next round
+<!-- source_hash: 1bd49a5028280a3e2b17ea0a22888d6f6e331842446cc2d847eaa6e181a2caad -->
+Sequoia was described as potentially coming in to lead [[Orn]]'s next round, following [[Andreessen Horowitz]]'s participation in the prior round at $120M post-money.
+↳ source: [[2026-06-09-career-advice-call-sarah-s-job-search-orn-opportunity]]
 
 ### 2026-06-04 — Potential lead investor; Alfred Lin engaged
 <!-- source_hash: f9f1840385300ec1d0e60cd444accfe55fd4fb184b12d6e074c651f6b76e9f4c -->

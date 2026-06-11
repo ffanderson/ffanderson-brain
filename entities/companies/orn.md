@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-06-09'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Orn
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-06-09 — Momentum, valuation, and founders
+<!-- source_hash: 1bd49a5028280a3e2b17ea0a22888d6f6e331842446cc2d847eaa6e181a2caad -->
+Fraser described Orn as highly capital-efficient and noted the company reached profitability around the time of the conversation. It had recently raised a significant round from [[Andreessen Horowitz]] at a $120M post-money valuation, with [[Sequoia]] in early discussions for the following round. Fraser's view was that founders Kush and Wayne are better-regarded than the Aru leadership and are operating in the right market with real upside from the current valuation floor.
+↳ source: [[2026-06-09-career-advice-call-sarah-s-job-search-orn-opportunity]]
 
 ### 2026-06-09 — Compute economy financial products
 <!-- source_hash: 88290f6e9f0cabf04439223909e1da1c648a01314d3d13307724c2b87122c2f8 -->
