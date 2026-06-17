@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-06-04'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 9
+mention_count: 11
 name: Vestigo
 relationship: ''
 status: active
@@ -28,6 +28,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-17 — Standalone venture funds, no fintech
+<!-- source_hash: d5117ad016b7c9a60e9cd07027477f2eb72d8b0894c5d383b6ad1d758cf1d91b -->
+Vestigo was identified as the standalone venture capital fund vehicle. A decision was made to avoid fintech on the basis that a key partner viewed it as effectively fifteen-year-plus money for a sixty-five-year-old investor — i.e., too long-dated for the current strategy.
+↳ source: [[2026-06-17-catch-up-lunch-venture-fund-structure-dtc-bio-thesis-and-acquisition-update]]
+
+### 2026-06-17 — Transition to XTB, team split
+<!-- source_hash: 18d2f0d20c97d4f482cf08ebd1d8a177be79c3ae4c82ff74ad70aaa5a4251768 -->
+Vestigo's legacy funds are being managed by Ian and Mark, while [[Fraser Anderson]] and Dave have shifted focus to the new [[XTB]] vehicle. The two organizations have been brought together under the XTB umbrella.
+↳ source: [[2026-06-17-catch-up-fraser-anderson-and-founder-in-sf-pre-sabbatical]]
 
 ### 2026-06-04 — Fund status and AI focus
 <!-- source_hash: 9378f48937621cd3368eeab07fa4065ed2971a14166003b62332095860a1a970 -->

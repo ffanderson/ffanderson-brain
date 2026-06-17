@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-09'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Stripe
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-17 — Named as go-to-market network; origin analogy
+<!-- source_hash: 2d14f79e1f0d5d4f6b20a3ec9ce0f445345fa3ade42e7d4e8ac8b0727b657ce8 -->
+Fraser named Stripe as an example of a go-to-market network for fintech fraud products, and separately used Stripe as an analogy for how the best startups solve an emerging problem for an emerging market — in Stripe's case, payments for the emerging e-commerce market — to illustrate the kind of "why now" framing he would want to see from the Spectre founder.
+↳ source: [[2026-06-17-startup-advisory-sessions-spectre-govtech-payment-integrity-and-disability-workflow-automation-platform]]
 
 ### 2026-05-09 — Structural role in venture market
 <!-- source_hash: 072d3ba9b18f69c6455d1ab44280c53424f0a2ab472aa3b274ab8ea83536f84a -->

@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-06-04'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Link
 relationship: ''
 status: active
@@ -23,6 +23,12 @@ website: ''
 
 
 
+
+
+### 2026-06-17 — Optics of mid-summer investing
+<!-- source_hash: 86fa052beb45fef17f3e88d817d43fd5eb1ae6de9a11cee4f6e54cb7ad7cfe2e -->
+The group debated whether [[Fraser Anderson]]'s fund Link investing in a program team mid-summer would create problematic optics. Concerns centered on perceptions of favoritism, conflict of interest, and adverse selection for teams receiving a term sheet from an insider fund. The group agreed discretion was essential and that the situation was manageable if handled carefully.
+↳ source: [[2026-06-17-summer-founder-incubation-program-operational-planning-mentor-coordination]]
 
 ### 2026-06-04 — Founding partner of Tech Trek; non-official branding
 <!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->

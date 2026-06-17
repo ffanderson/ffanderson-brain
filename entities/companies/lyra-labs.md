@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-24'
 founded: ''
 founders: []
-last_mention: '2026-06-01'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 5
 name: Lyra Labs
 sector: ''
 stage: ''
@@ -24,6 +24,18 @@ website: ''
 ## Mentions
 
 
+
+
+
+### 2026-06-17 — Prospective investment; Cambridge-based
+<!-- source_hash: 556ff0b7a402e51e27f2d977009eab651546582776ab1922b1b520c3922ea5e1 -->
+Fraser mentioned that his firm is expecting to invest in Lyra Labs, described as Cambridge-based. No further details on the business model or stage were confirmed in this conversation, though Fraser distinguished it from [[Boltz]] and other Cambridge-origin bio/AI companies.
+↳ source: [[2026-06-17-casual-meetup-biotech-entrepreneurship-techtrack-accelerator-and-potential-co-founding-discussion]]
+
+### 2026-06-17 — Potential co-lead, founder going quiet
+<!-- source_hash: d5117ad016b7c9a60e9cd07027477f2eb72d8b0894c5d383b6ad1d758cf1d91b -->
+Lyra Labs is a foundation model bio company based in Menlo Park where one participant was supposed to be co-leading a round. The founder had gone somewhat silent at the time of the meeting, which was taken as a signal the deal may not close. A biology textbook had been purchased in anticipation of going deeper on the space.
+↳ source: [[2026-06-17-catch-up-lunch-venture-fund-structure-dtc-bio-thesis-and-acquisition-update]]
 
 ### 2026-06-01 — Used as live demo task
 <!-- source_hash: 5092e56493ccdf151eb809edfcd50ae2d26fbbb0d129e621d1a1a9a9ec988671 -->

@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-09'
+last_mention: '2026-06-17'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 13
+mention_count: 14
 name: John
 relationship: ''
 relationship_strength: cold
@@ -35,6 +35,12 @@ type: person
 
 
 
+
+
+### 2026-06-17 — Program founder and operator
+<!-- source_hash: 86fa052beb45fef17f3e88d817d43fd5eb1ae6de9a11cee4f6e54cb7ad7cfe2e -->
+John is the driving force behind the summer incubation program, having rapidly stood up a renovated San Francisco house as the primary venue. He described the program as a nonprofit taking no equity, with 44 participants across 12 teams and 26 total projects drawn from three partner universities. He referenced three unicorns from his prior fund as context for his credibility with the cohort.
+↳ source: [[2026-06-17-summer-founder-incubation-program-operational-planning-mentor-coordination]]
 
 ### 2026-06-09 — Role and fundraising activity
 <!-- source_hash: cc1dc912329d3f9add97d435614c155dbb63a48cd10db288898469cabbb4dc50 -->

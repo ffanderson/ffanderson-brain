@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-12'
+last_mention: '2026-06-17'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 146
+mention_count: 161
 name: Fraser Anderson
 relationship: personal
 relationship_strength: core
@@ -168,6 +168,96 @@ type: person
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 2026-06-17 — Advisory: Spectre pivot recommendation
+<!-- source_hash: 2d14f79e1f0d5d4f6b20a3ec9ce0f445345fa3ade42e7d4e8ac8b0727b657ce8 -->
+Fraser advised the Spectre founder to abandon a bottoms-up municipal sales motion and instead pursue either a top-down private-sector angle (particularly insurance claims fraud) or stablecoin ecosystem fraud detection, where a new market and genuine "why now" exist. He offered to potentially connect the founder to insurance company LPs if the value proposition aligned, and mentioned a Boston-based KYC-focused contact as another possible introduction.
+↳ source: [[2026-06-17-startup-advisory-sessions-spectre-govtech-payment-integrity-and-disability-workflow-automation-platform]]
+
+### 2026-06-17 — Advised founder on vertical focus
+<!-- source_hash: 0636750dd88d31cfdb2a16fe5f24ab550cb0fb7cd9fa775932f14121d36e971d -->
+Fraser advised a Harvard student founder to abandon broad B2B vs. B2C thinking and instead focus on the D2C biotech and peptides vertical, citing fast growth, high margins, and an imminent FDA deregulation tailwind. He emphasized that startup founders should target markets that barely existed two years ago and where the value feedback loop is tight enough to say 'I made you more money today.'
+↳ source: [[2026-06-17-startup-strategy-session-go-to-market-vertical-focus-d2c-biotech]]
+
+### 2026-06-17 — TechTrack program structure and vision
+<!-- source_hash: 556ff0b7a402e51e27f2d977009eab651546582776ab1922b1b520c3922ea5e1 -->
+Fraser described TechTrack as a first-year, equity-free accelerator funded by an anonymous donor who purchased a large house in Pacific Heights. The program covers housing, meals, and mentorship for roughly 44 participants across 12-ish teams and 10 solo founders, with mentors drawn from institutions like DeepMind. Fraser framed the equity-free model as a trust-building exercise, with investment in standout companies as a hoped-for downstream outcome rather than a guaranteed right.
+↳ source: [[2026-06-17-casual-meetup-biotech-entrepreneurship-techtrack-accelerator-and-potential-co-founding-discussion]]
+
+### 2026-06-17 — TechTrek program and Neo overlap
+<!-- source_hash: baf1719e1d252f857bf066b3a18c980ff5b8361facf4fbe0fec40b05a1de8a56 -->
+Fraser is running TechTrek, a non-profit first-cohort programme housing around 44 student builders in San Francisco for the summer, with a living stipend but no equity taken upfront. He flagged a complication: at least one participant, Kevin Yang, is simultaneously enrolled in the [[Neo]] residency, which carries an automatic equity option on commercialisation — creating potential friction between TechTrek's no-strings positioning and Neo's terms.
+↳ source: [[2026-06-17-catch-up-with-neo-fellow-robotics-tactile-dataset-project-sf]]
+
+### 2026-06-17 — Link Fellows Program and team vetting plans
+<!-- source_hash: 50255f5c22e8845a73a7e783ab0f7fbb35fd77506c2df0684477ae1d9b91882e -->
+Fraser identified a gap in the current team vetting process, noting that engagement with underqualified teams had occurred. He proposed two parallel initiatives to address this: building coding challenges modelled on [[Neo]] to map and assess teams in real time, and launching a Link Fellows Program focused on MIT and Harvard companies, tentatively scheduled for January. No owners or detailed staging plan were assigned during the meeting.
+↳ source: [[2026-06-17-internal-strategy-link-fellows-program-and-team-vetting-process]]
+
+### 2026-06-17 — Intro to Adam Braun for Amadeus access
+<!-- source_hash: 3f9a8d70f406b19762bb6e98c570b9a2dedc1c350289cf85fa746ab1102669e4 -->
+Fraser committed to reaching out to Adam Braun, a contact building a company in enterprise travel, to explore whether he could facilitate [[BidUp]]'s access to [[Amadeus]] or Sabre. Fraser also noted his background in venture capital, enterprise software, and fintech with some prior exposure to airline loyalty and points reward systems.
+↳ source: [[2026-06-17-tech-trek-office-hours-matthew-app-monkey-bidup]]
+
+### 2026-06-17 — Tech Track execution lead
+<!-- source_hash: 274cc2fb4c3838d76e948808aee0f38b289099bd7632232db66e2813adf7eaab -->
+Fraser was credited by another participant as the person who executed the [[Tech Track]] program, translating a concept that originated from conversations among friends in Switzerland into a functioning inaugural accelerator cohort in San Francisco. He was identified as the organizer of the evening's event and facilitated introductions between students and investors throughout the session.
+↳ source: [[2026-06-17-tech-track-link-ventures-student-founder-program-strategy-portfolio-discussion]]
+
+### 2026-06-17 — Paternity leave and availability
+<!-- source_hash: 7c761cb1283fc3e850de7398e63f879d49f88167e3e8c729e4e10e3438f74085 -->
+Fraser shared that his paternity leave was scheduled to begin July 1st, with a pattern of one week off, one week on, then off for the remainder of the summer. He noted a tendency to get pulled deeply into founders' work and flagged that he was consciously managing how involved he lets himself become.
+↳ source: [[2026-06-17-startup-strategy-session-adam-student-to-startup-recruiting-platform]]
+
+### 2026-06-17 — DTC bio thesis, founder profile interest
+<!-- source_hash: d5117ad016b7c9a60e9cd07027477f2eb72d8b0894c5d383b6ad1d758cf1d91b -->
+Fraser expressed strong interest in the DTC bio space, framing it as the next major disintermediation wave in pharma — analogous to what happened in big tech — driven by looser FDA regulation and the breakdown of big pharma's R&D dominance. He was uncertain whether the winning company would be a distribution platform or an AI-driven bio marketer, but flagged it as a high-conviction area. He noted Fifty Years as a potential deal pipeline and asked to be sent relevant bio opportunities, particularly out of MIT.
+↳ source: [[2026-06-17-catch-up-lunch-venture-fund-structure-dtc-bio-thesis-and-acquisition-update]]
+
+### 2026-06-15 — Berkeley property offer strategy
+<!-- source_hash: 5ed8885c1794560a1ce12e755e9f17d25cc2f0c8bb041607d26a5e591b6438a5 -->
+Fraser was structuring a non-contingent offer at $1.6M for a vacant Berkeley-area property in Alameda County, working with buyer's agent [[Steve]]. He expressed a preference for avoiding a bidding war and was willing to walk away if the dynamic became competitive. He favored making the offer the same day once documentation was uploaded.
+↳ source: [[2026-06-15-home-purchase-offer-mortgage-strategy-call-fraser-anderson-emma-berkeley-property]]
+
+### 2026-06-17 — XTB fund close and structure
+<!-- source_hash: 18d2f0d20c97d4f482cf08ebd1d8a177be79c3ae4c82ff74ad70aaa5a4251768 -->
+Fraser shared that [[XTB]] had just closed at $240M. He described the fund as a combination of the Vestigo and XTB organizations, with him and Dave focused on the new fund while Ian and Mark are working on the earlier [[Vestigo]] funds. Mark, at 65, opted out of managing 15-year capital.
+↳ source: [[2026-06-17-catch-up-fraser-anderson-and-founder-in-sf-pre-sabbatical]]
+
+### 2026-06-14 — Home purchase financing structure
+<!-- source_hash: 425048d73603866f591b8a7650cc9994cfb888b12682669d7fd51adb75d65b19 -->
+Fraser was walked through a 2-1 buydown structure for a home purchase, in which the seller would contribute roughly 2.5% of the sales price (estimated at $45,000–$50,000) to cover the lender's flat fee and closing costs, while prepaying approximately $20,000 in interest to reduce Fraser's mortgage rate to 4% in year one, 5% in year two, and 6% fixed from year three onward. Fraser was also considering an alternative where he pays the flat fee directly and negotiates a lower purchase price instead of asking for seller concessions, though the selling agent had already resisted that approach. Fraser indicated he would likely put down around $800,000–$875,000 (targeting roughly 50%) on a property around the $1.75M mark.
+↳ source: [[2026-06-14-mortgage-consultation-fraser-anderson-emma-bambrick-home-purchase-financing]]
+
+### 2026-06-14 — Property tour: 1920s listed home
+<!-- source_hash: 27e9f58780e83462468aaca8e2abcf9853eff256cf587935dd20dcdfc0cac544 -->
+Fraser toured a 1920s listed property and discussed its condition with the seller's agent. The home had undergone a seismic retrofit with shear panels and metal bracket clamp-downs, had a solid roof, and showed level floors — the agent and prior inspectors considered it in good shape relative to comparable properties in the area. The kitchen and bathroom were last remodeled around 2008, functional but not current.
+↳ source: [[2026-06-14-property-walkthrough-prospective-buyer-tour-and-offer-discussion]]
+
+### 2026-06-17 — Role in summer incubation program
+<!-- source_hash: 86fa052beb45fef17f3e88d817d43fd5eb1ae6de9a11cee4f6e54cb7ad7cfe2e -->
+Fraser was introduced as a core member of the program's central team, described as a business partner to John and a venture capitalist by day. He was being set up with a unique door code for the house and was expected to take on 2–3 teams for YC-style mentorship check-ins alongside another mentor named Peter.
+↳ source: [[2026-06-17-summer-founder-incubation-program-operational-planning-mentor-coordination]]
+
+### 2026-06-17 — Investment thesis shift to second-derivative AI
+<!-- source_hash: 1e40c72186e72bbabc2a631a9449b147eef95bdfe42a1e9fbdb7a0fc850c3d8e -->
+Fraser described his fund's historical focus as backing teams of three to four close founders building companies where AI is integral to the model, often vertical AI applications. He noted the fund is now doing less of that and shifting toward second-derivative AI economy plays — infrastructure, security, insurance, and energy companies benefiting from the AI buildout rather than direct AI application software. Spinor Energy and Horn were cited as examples of this evolving direction.
+↳ source: [[2026-06-17-investor-networking-discussion-ai-adjacent-hard-tech-opportunities]]
 
 ### 2026-06-12 — Tech Track mentor and coach role
 <!-- source_hash: 5345db668b870e5bf59869b2bd7510dde2c89221c7ad9cc35f0dcbd782ba3274 -->

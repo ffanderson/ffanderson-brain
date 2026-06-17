@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-07'
 fund_type: ''
-last_mention: '2026-06-11'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Bessemer
 relationship: ''
 status: active
@@ -21,6 +21,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-17 — Prior affiliation of XPB partner
+<!-- source_hash: 86fa052beb45fef17f3e88d817d43fd5eb1ae6de9a11cee4f6e54cb7ad7cfe2e -->
+Fraser mentioned that his partner Mark had prior professional ties to Bessemer before co-founding [[XPB]] with him. No further detail on the nature or duration of that affiliation was provided.
+↳ source: [[2026-06-17-summer-founder-incubation-program-operational-planning-mentor-coordination]]
 
 ### 2026-06-11 — Historical presence, 'anti-portfolio' culture
 <!-- source_hash: cf0845bf0de5c5d7db765d333b41a09f1d70b2693cbb2aba141dec0f88fce50f -->

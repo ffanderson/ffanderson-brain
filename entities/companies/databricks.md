@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Databricks
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-06-17 — John's son as co-founder
+<!-- source_hash: 86fa052beb45fef17f3e88d817d43fd5eb1ae6de9a11cee4f6e54cb7ad7cfe2e -->
+John mentioned in passing that his son is a co-founder of Databricks, citing this as part of his family's broader entrepreneurial and technology background.
+↳ source: [[2026-06-17-summer-founder-incubation-program-operational-planning-mentor-coordination]]
 
 ### 2026-06-04 — Brief tenure; moral concerns with leadership
 <!-- source_hash: 1de503530ab408e64c8b9aa1a229221e6ff96fe133033740a372ef04b5c53d66 -->

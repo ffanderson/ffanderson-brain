@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-06-01'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 11
+mention_count: 12
 name: Link Ventures
 relationship: ''
 status: active
@@ -30,6 +30,12 @@ website: ''
 
 
 
+
+
+### 2026-06-17 — Student accelerator strategy
+<!-- source_hash: 274cc2fb4c3838d76e948808aee0f38b289099bd7632232db66e2813adf7eaab -->
+Boaz outlined a plan for [[Link Ventures]] to compete directly with [[Neo]] and [[Y Combinator]] by launching an early-stage student founder accelerator program. The core advantage would be starting the application process in October — ahead of YC and Neo — to secure first-look access to the best teams. The program would admit students regardless of whether they also apply to YC or Neo, with Link having already picked its preferred candidates first.
+↳ source: [[2026-06-17-tech-track-link-ventures-student-founder-program-strategy-portfolio-discussion]]
 
 ### 2026-06-01 — Fund size and mandate described
 <!-- source_hash: 1d89317baa1013b109c4b12815021b538f5cd35686aa9214e31e7813a8532dca -->

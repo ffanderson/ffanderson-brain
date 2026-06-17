@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-09'
 fund_type: ''
-last_mention: '2026-06-08'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Y Combinator
 relationship: ''
 status: active
@@ -24,6 +24,12 @@ website: ''
 
 
 
+
+
+### 2026-06-17 — Still a strong brand, but distracted
+<!-- source_hash: 274cc2fb4c3838d76e948808aee0f38b289099bd7632232db66e2813adf7eaab -->
+Boaz acknowledged YC remains a strong brand with meaningful attention for founders going through its program. However, he argued that YC's leadership — referencing that Allie had made around $500M in an all-equity deal in the prior 24 hours — would likely be distracted from the program in the coming year, creating an opening for competitors. He also noted that good founders he meets frequently express reluctance about YC's format.
+↳ source: [[2026-06-17-tech-track-link-ventures-student-founder-program-strategy-portfolio-discussion]]
 
 ### 2026-06-08 — Historical precedent for bi-coastal expansion
 <!-- source_hash: 17b4882a3d62ed217ed53045a7a7c11b8376c26f50b1da9f91658570fe9ad229 -->

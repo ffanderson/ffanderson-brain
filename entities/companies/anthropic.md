@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-12'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 19
+mention_count: 20
 name: Anthropic
 sector: ''
 stage: ''
@@ -40,6 +40,12 @@ website: ''
 
 
 
+
+
+### 2026-06-17 — Referenced as talent underwriting signal
+<!-- source_hash: 18d2f0d20c97d4f482cf08ebd1d8a177be79c3ae4c82ff74ad70aaa5a4251768 -->
+During a discussion about a proposed bank targeting employees with locked-up stock options, Anthropic was cited as an example of a company whose alumni are straightforward to underwrite for credit — the reasoning being that someone who worked there is likely to land at another strong company next.
+↳ source: [[2026-06-17-catch-up-fraser-anderson-and-founder-in-sf-pre-sabbatical]]
 
 ### 2026-06-12 — IPO as real estate rationale
 <!-- source_hash: ec4fdaf2efe5b3cd3fa10bc7f334586c5be1b58735b184b077521751063d08a0 -->

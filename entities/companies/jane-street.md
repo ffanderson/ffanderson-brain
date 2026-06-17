@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-11'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Jane Street
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-06-12 — Named as objecting firm archetype
+<!-- source_hash: 69e260090249d0217874fa1f7156fb8147dab604d3c6f1a83612b4aef5913110 -->
+Jane Street was cited alongside [[Citadel]], [[XTX]], and [[HRT]] as a firm that might refuse to work with the company precisely because of its disruptive potential to their core trading operations.
+↳ source: [[2026-06-12-internal-strategy-sync-cerebras-meeting-prep-market-positioning-base-ten-partnership]]
 
 ### 2026-06-11 — Target: exclusivity and anchor revenue
 <!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->

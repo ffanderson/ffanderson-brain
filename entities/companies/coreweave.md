@@ -9,7 +9,7 @@ founders: []
 last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 16
+mention_count: 17
 name: CoreWeave
 sector: ''
 stage: ''
@@ -37,6 +37,12 @@ website: ''
 
 
 
+
+
+### 2026-06-12 — Cited as benchmark PR partnership
+<!-- source_hash: 69e260090249d0217874fa1f7156fb8147dab604d3c6f1a83612b4aef5913110 -->
+CoreWeave was named as an example of the kind of first-class strategic partner whose announcement would warrant a substantive PR piece, consistent with the team's plan to reserve public communications for significant partnerships rather than routine updates.
+↳ source: [[2026-06-12-internal-strategy-sync-cerebras-meeting-prep-market-positioning-base-ten-partnership]]
 
 ### 2026-06-11 — Standard Kernel's primary cloud customer
 <!-- source_hash: cf0845bf0de5c5d7db765d333b41a09f1d70b2693cbb2aba141dec0f88fce50f -->

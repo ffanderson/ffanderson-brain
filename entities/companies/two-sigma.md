@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-06-01'
 founded: ''
 founders: []
-last_mention: '2026-06-11'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Two Sigma
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-06-17 — David Siegel investing in fellowship
+<!-- source_hash: d5117ad016b7c9a60e9cd07027477f2eb72d8b0894c5d383b6ad1d758cf1d91b -->
+David Siegel of Two Sigma was mentioned as one of several prominent figures — alongside Eric Schmidt and Pack Levinson — putting significant capital into a fellowship or community-building initiative that one participant is involved with. The program was described as gaining meaningful attention, including from a journalist currently embedded with the group.
+↳ source: [[2026-06-17-catch-up-lunch-venture-fund-structure-dtc-bio-thesis-and-acquisition-update]]
 
 ### 2026-06-11 — Potential high-value enterprise sale
 <!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->

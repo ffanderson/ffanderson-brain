@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Tally
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-17 — Limited scale potential
+<!-- source_hash: d5117ad016b7c9a60e9cd07027477f2eb72d8b0894c5d383b6ad1d758cf1d91b -->
+Tally was characterized as an idiosyncratic business — likely to generate returns but not expected to reach significant scale. One participant noted they do not want much more of it.
+↳ source: [[2026-06-17-catch-up-lunch-venture-fund-structure-dtc-bio-thesis-and-acquisition-update]]
 
 ### 2026-06-04 — Business model: class action disbursements
 <!-- source_hash: 73f492b998fc327e534811fcb95579d6a8681e1f00f58150ffc356d43a2c1c75 -->

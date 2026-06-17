@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 7
+mention_count: 8
 name: HubSpot
 sector: ''
 stage: ''
@@ -28,6 +28,12 @@ website: ''
 
 
 
+
+
+### 2026-06-17 — Prior employer of AI engineer Ignacio
+<!-- source_hash: 1e40c72186e72bbabc2a631a9449b147eef95bdfe42a1e9fbdb7a0fc850c3d8e -->
+Fraser mentioned a freelance AI engineer named Ignacio who previously worked at HubSpot before building Trips and developing an independent practice serving private equity-backed firms. Fraser described him as a staff-engineer-level talent and floated him as a potential resource for companies needing to build an AI capability around specific workloads.
+↳ source: [[2026-06-17-investor-networking-discussion-ai-adjacent-hard-tech-opportunities]]
 
 ### 2026-06-04 — Seen as structurally challenged by AI
 <!-- source_hash: 99bbf78897b7905d4ff1e921d76edcaab0274d01255a5f5c60554b97668b80fa -->

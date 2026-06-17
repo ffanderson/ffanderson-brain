@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 10
+mention_count: 11
 name: AI One
 sector: ''
 stage: ''
@@ -31,6 +31,12 @@ website: ''
 
 
 
+
+
+### 2026-06-17 — Enterprise traction, slow upsell cycle
+<!-- source_hash: d5117ad016b7c9a60e9cd07027477f2eb72d8b0894c5d383b6ad1d758cf1d91b -->
+AI One was described as performing well but following a classic enterprise motion — upselling large clients like BlackRock from one workflow to another is slow, reminiscent of a 1990s venture-style build. The business is working, but pace of expansion is the main constraint.
+↳ source: [[2026-06-17-catch-up-lunch-venture-fund-structure-dtc-bio-thesis-and-acquisition-update]]
 
 ### 2026-06-02 — Enterprise AI deployment business
 <!-- source_hash: 9bb2f884525a0047aaf47fd451171554a8f5b12fa98545021174e3599a826dda -->

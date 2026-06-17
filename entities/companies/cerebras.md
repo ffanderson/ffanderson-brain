@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-11'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 7
+mention_count: 8
 name: Cerebras
 sector: ''
 stage: ''
@@ -28,6 +28,12 @@ website: ''
 
 
 
+
+
+### 2026-06-12 — Tuesday in-person meeting scheduled
+<!-- source_hash: 69e260090249d0217874fa1f7156fb8147dab604d3c6f1a83612b4aef5913110 -->
+A meeting with the Cerebras team was confirmed for Tuesday, described as an early meeting with the relevant team. Fraser discussed having Malcolm present in the room for it, with video conference as a fallback option.
+↳ source: [[2026-06-12-internal-strategy-sync-cerebras-meeting-prep-market-positioning-base-ten-partnership]]
 
 ### 2026-06-11 — Alternative chip partnership angle
 <!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->

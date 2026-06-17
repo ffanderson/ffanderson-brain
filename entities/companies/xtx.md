@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-06-04'
 founded: ''
 founders: []
-last_mention: '2026-06-11'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: XTX
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-12 — Named as objecting firm archetype
+<!-- source_hash: 69e260090249d0217874fa1f7156fb8147dab604d3c6f1a83612b4aef5913110 -->
+XTX was grouped alongside [[Citadel]], [[Jane Street]], and [[HRT]] as representative of large trading firms whose primary objection to engagement might be that the company's technology is capable of disrupting their business model, making partnership a non-starter for them.
+↳ source: [[2026-06-12-internal-strategy-sync-cerebras-meeting-prep-market-positioning-base-ten-partnership]]
 
 ### 2026-06-11 — Re-engagement strategy post initial pass
 <!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->

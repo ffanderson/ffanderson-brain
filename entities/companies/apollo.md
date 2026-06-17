@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Apollo
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-06-17 — Compared to Talented AI on UX simplicity
+<!-- source_hash: 0636750dd88d31cfdb2a16fe5f24ab550cb0fb7cd9fa775932f14121d36e971d -->
+Apollo was cited by the founder as an example of an established sales platform that [[Talented AI]] is disrupting by making its functionality significantly simpler and easier to use. The founder used this as evidence that better UI alone can drive substantial early-stage valuation.
+↳ source: [[2026-06-17-startup-strategy-session-go-to-market-vertical-focus-d2c-biotech]]
 
 ### 2026-05-04 — Source of CISO advisory talent
 <!-- source_hash: bc3ad5200dc83aff74f91739c24249503775e93e6cdba1a92562d75729f45d48 -->

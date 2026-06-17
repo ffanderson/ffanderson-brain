@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-09'
+last_mention: '2026-06-17'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Adam
 relationship: ''
 relationship_strength: cold
@@ -27,6 +27,12 @@ type: person
 
 
 
+
+
+### 2026-06-17 — Platform overview and pivot
+<!-- source_hash: 7c761cb1283fc3e850de7398e63f879d49f88167e3e8c729e4e10e3438f74085 -->
+Adam described his platform as a two-sided marketplace connecting students with startups, initially built around coordinating career fairs. He noted a directional shift toward two priorities: scaling the career fair model to more universities, and running a year-round matching service that surfaces the most relevant students to startups actively hiring.
+↳ source: [[2026-06-17-startup-strategy-session-adam-student-to-startup-recruiting-platform]]
 
 ### 2026-06-09 — SPV co-manager proposal, Beacon
 <!-- source_hash: ee0a317f68e4bb6ddb41eea59cacbdc9814bed1d864a157ad1b013cf59e83fb0 -->

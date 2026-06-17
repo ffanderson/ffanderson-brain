@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-12'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 12
+mention_count: 13
 name: Nvidia
 sector: ''
 stage: ''
@@ -33,6 +33,12 @@ website: ''
 
 
 
+
+
+### 2026-06-17 — Interest in tactile robotics data
+<!-- source_hash: baf1719e1d252f857bf066b3a18c980ff5b8361facf4fbe0fec40b05a1de8a56 -->
+The student mentioned that Nvidia has published research on tactile sensing for robotics and suggested the company would be a plausible buyer for a high-quality tactile dataset if the project produces enough demonstrations.
+↳ source: [[2026-06-17-catch-up-with-neo-fellow-robotics-tactile-dataset-project-sf]]
 
 ### 2026-06-11 — Under-optimised rendering cards: opportunity
 <!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->

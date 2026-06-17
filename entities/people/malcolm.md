@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-06-01'
-last_mention: '2026-06-11'
+last_mention: '2026-06-12'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Malcolm
 relationship: ''
 relationship_strength: cold
@@ -25,6 +25,12 @@ type: person
 ## Mentions
 
 
+
+
+### 2026-06-12 — Requested in room for Cerebras
+<!-- source_hash: 69e260090249d0217874fa1f7156fb8147dab604d3c6f1a83612b4aef5913110 -->
+Fraser asked whether Malcolm's presence at the upcoming [[Cerebras]] meeting would be advantageous. The other participant recommended having Malcolm in the room in person rather than dialling in remotely.
+↳ source: [[2026-06-12-internal-strategy-sync-cerebras-meeting-prep-market-positioning-base-ten-partnership]]
 
 ### 2026-06-11 — CRM and pipeline organisation role
 <!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->

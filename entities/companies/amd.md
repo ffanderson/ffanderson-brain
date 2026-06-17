@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-11'
+last_mention: '2026-06-17'
 last_touch: ''
 location: ''
-mention_count: 9
+mention_count: 10
 name: AMD
 sector: ''
 stage: ''
@@ -30,6 +30,12 @@ website: ''
 
 
 
+
+
+### 2026-06-17 — Successful AI-driven stock trade
+<!-- source_hash: 18d2f0d20c97d4f482cf08ebd1d8a177be79c3ae4c82ff74ad70aaa5a4251768 -->
+The founder described buying AMD after his agentic deep-research stock tool flagged it as a company one to two steps from taking off. He noted that at the time he bought, it was being shorted heavily on Robinhood at around $23, and characterized the trade as a strong winner.
+↳ source: [[2026-06-17-catch-up-fraser-anderson-and-founder-in-sf-pre-sabbatical]]
 
 ### 2026-06-11 — Senior relationships and strategic investor interest
 <!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->
