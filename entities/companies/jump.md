@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-11'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Jump
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-06-11 — Live deployment and strategic value
+<!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->
+An upcoming deployment with Jump was expected to cement the company's story around scaling across large GPU clusters and secure earlier access to partner hardware roadmaps. Fraser expressed concern that quant trading revenue, while good for cash flow, would not command high enterprise-value multiples. There was also discussion of eventually buying Jump off the cap table — giving them a three-to-five times return — to remove conflicts between their roles as investor and client.
+↳ source: [[2026-06-11-team-strategy-session-gpu-optimization-go-to-market-and-fundraising]]
 
 ### 2026-06-04 — Investing at $250M cap SAFE
 <!-- source_hash: f9f1840385300ec1d0e60cd444accfe55fd4fb184b12d6e074c651f6b76e9f4c -->

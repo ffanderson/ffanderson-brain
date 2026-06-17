@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-09'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 8
 name: Cognition
 sector: ''
 stage: ''
@@ -27,6 +27,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-11 — Competitor momentum vs. product reality
+<!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->
+Cognition was referenced as an example of a company that secured large enterprise deals through financial momentum, fancy personnel, and extensive handholding rather than through product-led sales. Fraser estimated the actual production value of such deals would not be known for eighteen months or more, and noted the early equity may not be profitable.
+↳ source: [[2026-06-11-team-strategy-session-gpu-optimization-go-to-market-and-fundraising]]
+
+### 2026-06-12 — Network connectivity, unknown to Dave
+<!-- source_hash: cda45b518e0ba7ff93a7af6932610bb87661b3c54ad45167f450d5a7750edeba -->
+Fraser noted that Dave likely had no idea about the team's network connectivity to [[Cognition]] and [[Cursor]], and recommended Chris make sure this was surfaced in the conversation with Dave as part of the broader influence narrative.
+↳ source: [[2026-06-12-strategy-session-openai-access-and-fraser-time-allocation-with-chris]]
 
 ### 2026-06-09 — Low priority for abuse prevention
 <!-- source_hash: 88290f6e9f0cabf04439223909e1da1c648a01314d3d13307724c2b87122c2f8 -->

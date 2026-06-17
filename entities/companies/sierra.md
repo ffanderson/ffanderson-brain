@@ -1,0 +1,29 @@
+---
+aliases: []
+created: '2026-06-12'
+crm_id: ''
+crm_system: ''
+first_seen: '2026-06-12'
+founded: ''
+founders: []
+last_mention: '2026-06-12'
+last_touch: ''
+location: ''
+mention_count: 1
+name: Sierra
+sector: ''
+stage: ''
+status: tracking
+tags: []
+type: company
+website: ''
+---
+
+# Sierra
+
+## Mentions
+
+### 2026-06-12 — Evidence of regulated-vertical chatbot market
+<!-- source_hash: ec4fdaf2efe5b3cd3fa10bc7f334586c5be1b58735b184b077521751063d08a0 -->
+Fraser cited Sierra as evidence that the market for customer-facing chatbots in regulated verticals is already open, not purely theoretical. He used Sierra's active deployments as a counterweight to the concern that compliance requirements make this space effectively locked.
+↳ source: [[2026-06-12-catch-up-meeting-ai-investment-strategy-tech-trek-hacker-house-and-startup-pipeline]]

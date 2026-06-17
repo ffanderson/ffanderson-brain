@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-09'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 15
+mention_count: 16
 name: OpenAI
 sector: ''
 stage: ''
@@ -36,6 +36,12 @@ website: ''
 
 
 
+
+
+### 2026-06-12 — Perceived competitive weakness vs Anthropic
+<!-- source_hash: cda45b518e0ba7ff93a7af6932610bb87661b3c54ad45167f450d5a7750edeba -->
+Fraser and Chris agreed that OpenAI appeared to be losing ground to [[Anthropic]], with Fraser saying he would not be bullish on OpenAI based on a recent phone call. The internal contact Ethan was described as 'loose in the seat' on the integrity team, suggesting some organisational instability.
+↳ source: [[2026-06-12-strategy-session-openai-access-and-fraser-time-allocation-with-chris]]
 
 ### 2026-06-09 — Compute abuse costs and detection methods
 <!-- source_hash: 88290f6e9f0cabf04439223909e1da1c648a01314d3d13307724c2b87122c2f8 -->

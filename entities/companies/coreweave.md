@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-09'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 14
+mention_count: 16
 name: CoreWeave
 sector: ''
 stage: ''
@@ -35,6 +35,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-11 — Standard Kernel's primary cloud customer
+<!-- source_hash: cf0845bf0de5c5d7db765d333b41a09f1d70b2693cbb2aba141dec0f88fce50f -->
+CoreWeave was identified as the cloud provider [[Standard Kernel]] is actively serving. The host noted that CoreWeave's founders are alumni and expressed strong regard for the firm.
+↳ source: [[2026-06-11-in-person-intro-fraser-anderson-visits-silicon-valley-office]]
+
+### 2026-06-12 — Commercial traction cited to Dave
+<!-- source_hash: cda45b518e0ba7ff93a7af6932610bb87661b3c54ad45167f450d5a7750edeba -->
+Fraser referenced commercial traction involving CoreWeave and a person named John, as well as interest from David Siegel, as positive signals Fraser suggested Chris could use to build excitement with Dave during their conversation.
+↳ source: [[2026-06-12-strategy-session-openai-access-and-fraser-time-allocation-with-chris]]
 
 ### 2026-06-09 — Potential customer for abuse prevention
 <!-- source_hash: 88290f6e9f0cabf04439223909e1da1c648a01314d3d13307724c2b87122c2f8 -->

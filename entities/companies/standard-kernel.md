@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-09'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 15
+mention_count: 18
 name: Standard Kernel
 sector: ''
 stage: ''
@@ -36,6 +36,24 @@ website: ''
 
 
 
+
+
+
+
+### 2026-06-12 — Positioning as HPC consultancy
+<!-- source_hash: ec4fdaf2efe5b3cd3fa10bc7f334586c5be1b58735b184b077521751063d08a0 -->
+Fraser described Standard Kernel as having settled on a strategy of becoming an AI-native high-performance computing consulting firm. The thesis is that while the major AI clouds will always be the most optimised, there is significant margin available in the broader real economy where compute-intensive workloads are growing and kernel expertise is scarce. Fraser noted the firm would also serve trading companies and CoreWeave-type customers to stay sharp.
+↳ source: [[2026-06-12-catch-up-meeting-ai-investment-strategy-tech-trek-hacker-house-and-startup-pipeline]]
+
+### 2026-06-11 — AI-written GPU kernels, cloud and quant
+<!-- source_hash: cf0845bf0de5c5d7db765d333b41a09f1d70b2693cbb2aba141dec0f88fce50f -->
+Standard Kernel was founded by two MIT Course 6 alumni (known to Fraser since they were eighteen) who went on to Stanford PhDs in computation and AI. The company uses AI to write faster GPU kernels, serving AI cloud providers and quantitative trading firms. Their primary cloud customer at the time of the meeting was [[CoreWeave]].
+↳ source: [[2026-06-11-in-person-intro-fraser-anderson-visits-silicon-valley-office]]
+
+### 2026-06-12 — Intro to Ethan; GPU kernel work
+<!-- source_hash: 9825898ffffc7419bcbdf0366ba7d03108becd0ed0dc14e388658cfa7eabc271 -->
+Fraser introduced Ethan to Standard Kernel founder Chris Renard, describing him and his business partner Ann as two of the smartest people he knows in computation. Standard Kernel is building speed-of-light GPU kernels using AI, and both founders have research backgrounds at Stanford, Nvidia, and various AI labs. Fraser suggested Ethan visit them in Palo Alto and noted Renard could also be a channel for identifying enterprise software sales targets.
+↳ source: [[2026-06-12-advisory-engagement-discussion-insurance-ai-ventures-voice-memo-intros]]
 
 ### 2026-06-09 — Potential network connection for Ethan
 <!-- source_hash: 88290f6e9f0cabf04439223909e1da1c648a01314d3d13307724c2b87122c2f8 -->

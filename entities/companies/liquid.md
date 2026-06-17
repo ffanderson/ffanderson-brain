@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-11'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Liquid
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-06-11 — Cautionary example: AI lab as customer
+<!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->
+Liquid was cited as a cautionary example of an AI lab customer: despite raising around three hundred million dollars over four years, its burn rate is high and it may need to raise again soon. Fraser warned that AI labs tend to be poor payers who will nickel-and-dime vendors, and that their large enterprise deals (such as the Mercedes deal, which took three years) are momentum-driven rather than product-led.
+↳ source: [[2026-06-11-team-strategy-session-gpu-optimization-go-to-market-and-fundraising]]
 
 ### 2026-06-04 — Bicostal showcase for Tech Trek students
 <!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->

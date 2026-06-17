@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-02'
+last_mention: '2026-06-11'
 last_touch: ''
 location: ''
-mention_count: 8
+mention_count: 9
 name: AMD
 sector: ''
 stage: ''
@@ -29,6 +29,12 @@ website: ''
 
 
 
+
+
+### 2026-06-11 — Senior relationships and strategic investor interest
+<!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->
+Fraser's contact Aiden has relationships with both a board member and the head of corporate development at AMD. The team was also preparing for a meeting that evening with a former president of AMD. AMD was listed as a priority strategic corporate investor the team would like to bring onto the cap table in a future round alongside [[Nvidia]], [[Qualcomm]], Samsung, and Broadcom.
+↳ source: [[2026-06-11-team-strategy-session-gpu-optimization-go-to-market-and-fundraising]]
 
 ### 2026-06-02 — Whale opportunity, not company bet
 <!-- source_hash: 3ed881d96750034c5151e9fb5eb39354c392aa1672012a23162a83c9cf00918b -->

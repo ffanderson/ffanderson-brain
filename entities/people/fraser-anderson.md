@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-10'
+last_mention: '2026-06-12'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 140
+mention_count: 146
 name: Fraser Anderson
 relationship: personal
 relationship_strength: core
@@ -162,6 +162,42 @@ type: person
 
 
 
+
+
+
+
+
+
+
+### 2026-06-12 — Tech Track mentor and coach role
+<!-- source_hash: 5345db668b870e5bf59869b2bd7510dde2c89221c7ad9cc35f0dcbd782ba3274 -->
+Fraser attended the Tech Track bi-coastal founder program launch dinner in the Bay Area and was introduced from the stage as someone who would help coach student teams in a role analogous to a Y Combinator advisor. He described himself as a venture capital investor whose LP base skews heavily toward insurance companies, which informed his pointed warnings to AI teams about the length and difficulty of enterprise insurance sales cycles. Fraser indicated he would be available at the Tech Track house throughout the following week and encouraged founders to reach him at email@earlyadventures.com.
+↳ source: [[2026-06-12-tech-track-launch-party-mit-stanford-bi-coastal-founder-program]]
+
+### 2026-06-11 — Fund size, AI-centric thesis
+<!-- source_hash: cf0845bf0de5c5d7db765d333b41a09f1d70b2693cbb2aba141dec0f88fce50f -->
+Fraser described his recently closed fund at $240M, focused on teams where AI is structurally essential to the business — removing it should make the plan nonsensical. The ideal founding team is three close friends with a Cambridge (MIT or Harvard) origin story, though this is a strong preference rather than a hard requirement. He frames the strategy as deploying 'max multiple capital' at either the very earliest pre-company stage or at a point of demonstrable early traction.
+↳ source: [[2026-06-11-in-person-intro-fraser-anderson-visits-silicon-valley-office]]
+
+### 2026-06-12 — Voicemail left for John
+<!-- source_hash: cc568c4cf6867c5e3032f39127aefa136ff5ce4993f25ddce5e16698fa9f50b6 -->
+Fraser left a voicemail for John confirming he had reached out to John's unnamed friend and scheduled a conversation for the following week.
+↳ source: [[2026-06-12-voicemail-fraser-leaves-update-for-john]]
+
+### 2026-06-12 — Commercial venture: Jack, Big, Spanx
+<!-- source_hash: 509cdb83cf3d18cbde6ab7f340aa1c6a5618ac289074d3bd9ac200546e54f03a -->
+Fraser was part of a conversation assessing a nascent commercial venture built around three described assets: a commercial asset linked to Spanx, Jack's charisma, and Big's power. The group's collective view was that the combination had a very high probability of monetization, with one participant remarking that the team would have to try hard not to make money.
+↳ source: [[2026-06-12-informal-group-catch-up-business-development-and-partnership-discussion]]
+
+### 2026-06-12 — Advisory recruitment: two AI insurance ventures
+<!-- source_hash: 9825898ffffc7419bcbdf0366ba7d03108becd0ed0dc14e388658cfa7eabc271 -->
+Fraser met with a retiring insurance executive to explore a part-time advisory arrangement across two AI-native insurance ventures. He confirmed the executive's preferred engagement model — expenses covered, modest cash, and equity upside — and informally agreed to bring him across both the life insurance JV and the physical AI infrastructure MGA. Fraser indicated he would follow up on timing once both opportunities matured.
+↳ source: [[2026-06-12-advisory-engagement-discussion-insurance-ai-ventures-voice-memo-intros]]
+
+### 2026-06-12 — Kiev trip: strategic rationale
+<!-- source_hash: 6f81225943c652bb37f7aa6e3e9553292695d5adefd7bf4c255cef53260555bd -->
+Fraser was planning a roughly nine-day trip to Kiev, framing it primarily as a credibility signal in the defense tech space — a way to demonstrate to potential partners and founders that his interest in counter-drone technology was serious and not passing, particularly given his lack of a military background. He described counter-UAS as the sub-sector he found most compelling on both professional and moral grounds, citing the rapid proliferation of lethal drones in conflicts like Sudan.
+↳ source: [[2026-06-12-catch-up-call-kiev-trip-planning-defense-tech-networking]]
 
 ### 2026-06-10 — Personal plans: paternity leave and SF move
 <!-- source_hash: 7fc5171d2d895ad87edd97a8e87024a71f3ead7cd7e54385778d882570039849 -->

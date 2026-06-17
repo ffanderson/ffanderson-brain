@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-08'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Link Ventures
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-06-12 — Fund focus: MIT dropout founders
+<!-- source_hash: 5345db668b870e5bf59869b2bd7510dde2c89221c7ad9cc35f0dcbd782ba3274 -->
+Link Ventures was described as a fund that invests primarily in students dropping out of MIT. Fraser noted that the fund's office had been visited a couple of times by at least one Tech Track participant, suggesting some prior proximity to the program's network.
+↳ source: [[2026-06-12-tech-track-launch-party-mit-stanford-bi-coastal-founder-program]]
 
 ### 2026-06-08 — Strategic case for SF office presence
 <!-- source_hash: 17b4882a3d62ed217ed53045a7a7c11b8376c26f50b1da9f91658570fe9ad229 -->

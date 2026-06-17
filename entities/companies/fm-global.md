@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-09'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: FM Global
 sector: ''
 stage: ''
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-06-12 — MGA anchor: data center book
+<!-- source_hash: 9825898ffffc7419bcbdf0366ba7d03108becd0ed0dc14e388658cfa7eabc271 -->
+Fraser described an MGA concept that would initially follow FM Global's data center business as its anchor book of business, before expanding into new products covering specialized equipment, cyber, and other protections relevant to physical AI infrastructure. The retired executive confirmed meaningful experience in the reinsurance and supercat market, making him a credible potential advisor for this venture.
+↳ source: [[2026-06-12-advisory-engagement-discussion-insurance-ai-ventures-voice-memo-intros]]
 
 ### 2026-06-09 — Benchmark for operator profile
 <!-- source_hash: e9c3582994d635150614c5be11b5c5fc72911b1b8d3a938991f7508a4a894b5e -->

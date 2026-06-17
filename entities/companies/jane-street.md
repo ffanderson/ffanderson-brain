@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-11'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Jane Street
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-06-11 — Target: exclusivity and anchor revenue
+<!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->
+Jane Street was identified as a high-priority quant trading target accessible via Fraser's contact Aiden, who already has Jane Street as a client through his crypto-security business. Fraser floated the idea of offering Jane Street exclusivity on capital markets work in exchange for an anchor contract of around ten to twenty million dollars annually, providing nondilutive revenue and a negotiating floor before any exit.
+↳ source: [[2026-06-11-team-strategy-session-gpu-optimization-go-to-market-and-fundraising]]
 
 ### 2026-06-02 — Priority outreach target, large GPU buyer
 <!-- source_hash: 3ed881d96750034c5151e9fb5eb39354c392aa1672012a23162a83c9cf00918b -->

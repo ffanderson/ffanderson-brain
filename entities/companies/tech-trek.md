@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-09'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Tech Trek
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-06-12 — Program structure and goals
+<!-- source_hash: ec4fdaf2efe5b3cd3fa10bc7f334586c5be1b58735b184b077521751063d08a0 -->
+Tech Trek is a student hacker house in Pacific Heights, San Francisco, hosting forty-four students from MIT, Harvard, and Princeton. The program is modeled loosely on early Y Combinator — no equity taken — with the goal of building a cohort that recruits across teams, sends three or four groups full-time, and returns to Boston to spread entrepreneurial culture. Fraser organised the program and handled admissions, describing that role as extremely time-consuming.
+↳ source: [[2026-06-12-catch-up-meeting-ai-investment-strategy-tech-trek-hacker-house-and-startup-pipeline]]
 
 ### 2026-06-09 — Recent fundraising from key investors
 <!-- source_hash: cc1dc912329d3f9add97d435614c155dbb63a48cd10db288898469cabbb4dc50 -->

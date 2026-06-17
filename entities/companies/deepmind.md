@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-22'
+last_mention: '2026-06-11'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: DeepMind
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-06-11 — Partnership opportunity flagged
+<!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->
+Fraser suggested the team should pursue a partnership with [[DeepMind]], noting that DeepMind likely buys significant GPU capacity for work outside its core transformer and TPU programmes. Fraser recommended the team spend time with a senior DeepMind researcher who would be present at an upcoming social event that evening.
+↳ source: [[2026-06-11-team-strategy-session-gpu-optimization-go-to-market-and-fundraising]]
 
 ### 2026-05-22 — Staff mentor; early Bard team
 <!-- source_hash: 6bfa02608e0b225ebfac28ec9b40f4dd295917c5826436fe9b9cbb0c0eef5ae3 -->

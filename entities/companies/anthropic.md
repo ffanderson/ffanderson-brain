@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-09'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 17
+mention_count: 19
 name: Anthropic
 sector: ''
 stage: ''
@@ -38,6 +38,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-12 — IPO as real estate rationale
+<!-- source_hash: ec4fdaf2efe5b3cd3fa10bc7f334586c5be1b58735b184b077521751063d08a0 -->
+Fraser recounted that Eric Schmidt's real estate advisers justified purchasing the Pacific Heights property partly on the expectation that an [[Anthropic]] IPO — alongside a SpaceX IPO — would make the asset appreciate, framing it as a strategic rather than purely philanthropic acquisition.
+↳ source: [[2026-06-12-catch-up-meeting-ai-investment-strategy-tech-trek-hacker-house-and-startup-pipeline]]
+
+### 2026-06-12 — Outcompeting OpenAI, per Fraser and Chris
+<!-- source_hash: cda45b518e0ba7ff93a7af6932610bb87661b3c54ad45167f450d5a7750edeba -->
+Both Fraser and Chris expressed the view that Anthropic was decisively outperforming [[OpenAI]], which was part of the rationale for wanting to establish connectivity with OpenAI's compute teams while the organisation was seen as vulnerable.
+↳ source: [[2026-06-12-strategy-session-openai-access-and-fraser-time-allocation-with-chris]]
 
 ### 2026-06-09 — Parallel compute-abuse problem
 <!-- source_hash: 88290f6e9f0cabf04439223909e1da1c648a01314d3d13307724c2b87122c2f8 -->

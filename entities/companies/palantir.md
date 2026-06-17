@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Palantir
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-06-12 — Talent source for Talvy
+<!-- source_hash: ec4fdaf2efe5b3cd3fa10bc7f334586c5be1b58735b184b077521751063d08a0 -->
+Fraser noted that Talvy's network of deployable part-time talent included people currently working at [[Palantir]], whose day-to-day workload had been compressed by coding agents, freeing capacity they were willing to monetise through [[Talvy]]'s model.
+↳ source: [[2026-06-12-catch-up-meeting-ai-investment-strategy-tech-trek-hacker-house-and-startup-pipeline]]
 
 ### 2026-06-04 — Validating AI services market
 <!-- source_hash: 99bbf78897b7905d4ff1e921d76edcaab0274d01255a5f5c60554b97668b80fa -->

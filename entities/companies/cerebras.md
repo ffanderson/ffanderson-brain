@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-11'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Cerebras
 sector: ''
 stage: ''
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-06-11 — Alternative chip partnership angle
+<!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->
+Cerebras was discussed as a potential alternative chip partner with the pitch being: optimise inference workloads currently running on GPUs to run on Cerebras chips, making the chip more useful to customers. The team noted that improving chip utility should be extremely valuable to Cerebras, though questions remained about how to extract commercial value from the arrangement. Some scepticism was expressed about Cerebras's customer base and seriousness of its CMO.
+↳ source: [[2026-06-11-team-strategy-session-gpu-optimization-go-to-market-and-fundraising]]
 
 ### 2026-06-04 — Upcoming meeting; space chip limitations
 <!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->

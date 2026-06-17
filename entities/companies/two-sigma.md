@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-06-01'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-11'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Two Sigma
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-11 — Potential high-value enterprise sale
+<!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->
+Two Sigma was characterised as representing a genuine enterprise sale rather than a favour-based engagement, given the seniority and compensation levels of the people involved. Fraser noted that Two Sigma would only engage if convinced the technology could make them more money, making it a meaningful validation target.
+↳ source: [[2026-06-11-team-strategy-session-gpu-optimization-go-to-market-and-fundraising]]
 
 ### 2026-06-04 — Phase-two target; CTO relationship noted
 <!-- source_hash: ebf1fe5beb1290628e0fe808cae8eb1183b28c8fd805d63cdaaef8d962ca3e41 -->

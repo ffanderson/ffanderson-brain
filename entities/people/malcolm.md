@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-06-01'
-last_mention: '2026-06-02'
+last_mention: '2026-06-11'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Malcolm
 relationship: ''
 relationship_strength: cold
@@ -24,6 +24,12 @@ type: person
 
 ## Mentions
 
+
+
+### 2026-06-11 — CRM and pipeline organisation role
+<!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->
+Malcolm was described as the key person to help organise the team's CRM and pipeline across the three target markets. Fraser planned to work with Malcolm to line up high-value meetings and ride herd on materials delivery. Malcolm's view was that the relationship between discrete sales activities and outcomes was not yet stable enough to optimise for activity volume.
+↳ source: [[2026-06-11-team-strategy-session-gpu-optimization-go-to-market-and-fundraising]]
 
 ### 2026-06-02 — Strategic advisor role and focus mandate
 <!-- source_hash: 3ed881d96750034c5151e9fb5eb39354c392aa1672012a23162a83c9cf00918b -->

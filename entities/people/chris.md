@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-02'
+last_mention: '2026-06-12'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 7
+mention_count: 9
 name: Chris
 relationship: founder
 relationship_strength: strong
@@ -29,6 +29,18 @@ type: person
 
 
 
+
+
+
+### 2026-06-11 — Customer-facing and scrappy operator role
+<!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->
+Chris was identified as the team member best suited to customer-facing work — direct calls, emails, and commercial engagement. Fraser suggested Chris could consider doing podcasts for three months to generate meeting pipeline, though the group was cautious about premature public exposure. Chris also appeared to be managing at least one compute resource (H100 nodes) and fielded inbound interest from at least one external party during the meeting.
+↳ source: [[2026-06-11-team-strategy-session-gpu-optimization-go-to-market-and-fundraising]]
+
+### 2026-06-12 — Influence campaign on Dave re Fraser's time
+<!-- source_hash: cda45b518e0ba7ff93a7af6932610bb87661b3c54ad45167f450d5a7750edeba -->
+Chris planned to have a conversation with Dave to secure more of Fraser's time for their project. Fraser strongly advised against a direct transactional ask and instead outlined a multi-step influence strategy: build excitement about the project, highlight Fraser's contributions, showcase network connectivity to [[Cognition]] and [[Cursor]], and allow the narrative of past missed opportunity to create urgency.
+↳ source: [[2026-06-12-strategy-session-openai-access-and-fraser-time-allocation-with-chris]]
 
 ### 2026-06-02 — CoreWeave biz dev meeting imminent
 <!-- source_hash: 3ed881d96750034c5151e9fb5eb39354c392aa1672012a23162a83c9cf00918b -->

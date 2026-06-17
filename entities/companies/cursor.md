@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Cursor
 sector: ''
 stage: ''
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-06-12 — Network connectivity, unknown to Dave
+<!-- source_hash: cda45b518e0ba7ff93a7af6932610bb87661b3c54ad45167f450d5a7750edeba -->
+Cursor was cited alongside [[Cognition]] as a key network connection that Dave was reportedly unaware of. Fraser recommended highlighting this connectivity to strengthen the case for Dave allocating more of Fraser's time to the project.
+↳ source: [[2026-06-12-strategy-session-openai-access-and-fraser-time-allocation-with-chris]]
 
 ### 2026-06-04 — Declined founding engineer offer from network contact
 <!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-12'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Scale
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-12 — Co-founder background
+<!-- source_hash: ec4fdaf2efe5b3cd3fa10bc7f334586c5be1b58735b184b077521751063d08a0 -->
+The CEO co-founder of the unnamed formal-methods compliance startup (whose CTO Claudio is an MIT researcher) had previously worked at Scale before joining the Biden administration to work on AI policy. Fraser flagged her background at Scale as part of what made the team compelling.
+↳ source: [[2026-06-12-catch-up-meeting-ai-investment-strategy-tech-trek-hacker-house-and-startup-pipeline]]
 
 ### 2026-05-12 — Competitive reference and growth model
 <!-- source_hash: ce6831273c4f1c7d2de50b8236ab3622afa9b009f524a28bfa21da9ecc806def -->

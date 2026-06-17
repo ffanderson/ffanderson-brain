@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-07'
 fund_type: ''
-last_mention: '2026-05-05'
+last_mention: '2026-06-11'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Bessemer
 relationship: ''
 status: active
@@ -20,6 +20,12 @@ website: ''
 # Bessemer
 
 ## Mentions
+
+
+### 2026-06-11 — Historical presence, 'anti-portfolio' culture
+<!-- source_hash: cf0845bf0de5c5d7db765d333b41a09f1d70b2693cbb2aba141dec0f88fce50f -->
+The meeting took place in a building that the host noted was formerly Bessemer's office. He recounted the apocryphal story of a Bessemer VP who left the building, attended a nearby house party, encountered entrepreneurs in a garage who turned out to be founding a major company, and chose to leave rather than engage — used as a parable about the ever-present 'next bus' mentality of the Valley.
+↳ source: [[2026-06-11-in-person-intro-fraser-anderson-visits-silicon-valley-office]]
 
 ### 2026-05-05 — Mentioned as Fraser's brand umbrella
 <!-- source_hash: a15a1ee4c78fcb78e142908175d1f52201bffc9f29888575531d8433c7605586 -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-08'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 10
+mention_count: 12
 name: Nvidia
 sector: ''
 stage: ''
@@ -31,6 +31,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-11 — Under-optimised rendering cards: opportunity
+<!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->
+Nvidia was noted as not optimising its software for rendering cards in the current Blackwell generation (Black, Bolt, Coli variants), which are largely unused. The team saw an opportunity to optimise these cards for inference workloads using CoreML, delivering meaningful performance gains for customers running on non-data-centre Nvidia hardware.
+↳ source: [[2026-06-11-team-strategy-session-gpu-optimization-go-to-market-and-fundraising]]
+
+### 2026-06-12 — Advisor recruited from Nvidia
+<!-- source_hash: cda45b518e0ba7ff93a7af6932610bb87661b3c54ad45167f450d5a7750edeba -->
+Fraser suggested Chris reference, when speaking to Dave, that the head of financial services sales from Nvidia — described as a roughly five-million-dollar-a-year executive — had been brought on as an advisor and was effectively working with the team full time. This was framed as evidence of Fraser's value-add to the project.
+↳ source: [[2026-06-12-strategy-session-openai-access-and-fraser-time-allocation-with-chris]]
 
 ### 2026-06-08 — Senior sales exec placed at Standard Kernel
 <!-- source_hash: 17b4882a3d62ed217ed53045a7a7c11b8376c26f50b1da9f91658570fe9ad229 -->

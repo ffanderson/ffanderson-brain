@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-05-05'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Mayfield Fund
 relationship: ''
 status: active
@@ -21,6 +21,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-12 — Intro: Patrick Salinger, fintech
+<!-- source_hash: 5345db668b870e5bf59869b2bd7510dde2c89221c7ad9cc35f0dcbd782ba3274 -->
+Fraser offered to introduce a Tech Track participant to Patrick Salinger, described as an investor at Mayfield Fund who is focused on fintech and commerce and attended Oxford. Fraser indicated he had already mentioned the participant to Salinger earlier that day and framed the intro as imminent.
+↳ source: [[2026-06-12-tech-track-launch-party-mit-stanford-bi-coastal-founder-program]]
 
 ### 2026-05-05 — Firm overview and recent raise
 <!-- source_hash: 8babc80f28a557479e9cbf046a11c8c24fc82c354769f29c9660c62873267de1 -->

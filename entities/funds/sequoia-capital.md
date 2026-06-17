@@ -5,10 +5,10 @@ created: 2026-05-05
 crm_id: null
 crm_system: null
 fund_type: vc
-last_mention: '2026-06-09'
+last_mention: '2026-06-12'
 last_touch: 2026-05-05
 location: Menlo Park, CA
-mention_count: 13
+mention_count: 15
 name: Sequoia Capital
 relationship: co-investor
 status: active
@@ -69,6 +69,18 @@ relationship.
 
 
 
+
+
+
+### 2026-06-11 — Expected to follow Andreessen into compute brokerage
+<!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->
+Sequoia was expected to invest in the compute brokerage run by Fraser's contact Kush following the [[Andreessen Horowitz]] Series A. Fraser cited both firms' involvement as evidence that Kush's network would be a useful channel for introductions to neolab customers.
+↳ source: [[2026-06-11-team-strategy-session-gpu-optimization-go-to-market-and-fundraising]]
+
+### 2026-06-12 — Backed compliance CX company
+<!-- source_hash: ec4fdaf2efe5b3cd3fa10bc7f334586c5be1b58735b184b077521751063d08a0 -->
+Fraser referenced an unnamed Sequoia-backed company that had built compliance tooling for the customer-experience space, reaching around one hundred million in ARR through a slow slog. He used it as a data point to understand the compliance-tech landscape while evaluating the formal-methods startup; the founders of that Sequoia-backed company had since sold and moved on to a new venture that Fraser backed separately.
+↳ source: [[2026-06-12-catch-up-meeting-ai-investment-strategy-tech-trek-hacker-house-and-startup-pipeline]]
 
 ### 2026-06-09 — Circling for Orn next round
 <!-- source_hash: 1bd49a5028280a3e2b17ea0a22888d6f6e331842446cc2d847eaa6e181a2caad -->

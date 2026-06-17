@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-06-02'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Blackstone
 relationship: ''
 status: active
@@ -23,6 +23,12 @@ website: ''
 
 
 
+
+
+### 2026-06-12 — Suggested partner for real estate data play
+<!-- source_hash: 5345db668b870e5bf59869b2bd7510dde2c89221c7ad9cc35f0dcbd782ba3274 -->
+Fraser suggested that a student team pursuing an off-market real estate data and fast-cash-offer strategy would be better served partnering with a large real estate balance-sheet operator — naming Blackstone as an example alongside [[Apollo]] — rather than trying to own the capital markets piece themselves. His view was that the alpha lay in identifying the opportunity, not in holding property.
+↳ source: [[2026-06-12-tech-track-launch-party-mit-stanford-bi-coastal-founder-program]]
 
 ### 2026-06-02 — Data center physical security interest
 <!-- source_hash: 9bb2f884525a0047aaf47fd451171554a8f5b12fa98545021174e3599a826dda -->

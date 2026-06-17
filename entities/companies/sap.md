@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-06-12'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: SAP
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-12 — Deepak Krishnamurthy connection
+<!-- source_hash: ec4fdaf2efe5b3cd3fa10bc7f334586c5be1b58735b184b077521751063d08a0 -->
+Fraser mentioned Deepak Krishnamurthy, a former Chief Strategy Officer at SAP who now runs a roughly thirty-million-dollar pre-seed fund. Fraser recommended the other participant connect with Krishnamurthy for his strong gut on enterprise sales and his ability to reference-check whether companies can actually sell into large organisations, a skill built over his long tenure at SAP.
+↳ source: [[2026-06-12-catch-up-meeting-ai-investment-strategy-tech-trek-hacker-house-and-startup-pipeline]]
 
 ### 2026-05-05 — Acquired Gigya for $350M
 <!-- source_hash: 8babc80f28a557479e9cbf046a11c8c24fc82c354769f29c9660c62873267de1 -->

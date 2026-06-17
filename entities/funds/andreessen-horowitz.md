@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-06-09'
+last_mention: '2026-06-11'
 last_touch: ''
 location: ''
-mention_count: 14
+mention_count: 15
 name: Andreessen Horowitz
 relationship: ''
 status: active
@@ -33,6 +33,12 @@ website: ''
 
 
 
+
+
+### 2026-06-11 — Invested in Kush's compute brokerage
+<!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->
+Andreessen Horowitz had recently led the Series A for the compute brokerage run by Fraser's contact Kush. Fraser noted that [[Sequoia]] was likely to follow. The firm was mentioned as context for why staying close to Kush's network gives access to well-capitalised neolabs and other relevant counterparties.
+↳ source: [[2026-06-11-team-strategy-session-gpu-optimization-go-to-market-and-fundraising]]
 
 ### 2026-06-09 — Led Orn recent round
 <!-- source_hash: 1bd49a5028280a3e2b17ea0a22888d6f6e331842446cc2d847eaa6e181a2caad -->
