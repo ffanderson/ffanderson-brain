@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-06-17'
+last_mention: '2026-06-19'
 last_touch: ''
 location: ''
-mention_count: 12
+mention_count: 13
 name: Link Ventures
 relationship: ''
 status: active
@@ -31,6 +31,12 @@ website: ''
 
 
 
+
+
+### 2026-06-19 — Team-bond investment thesis
+<!-- source_hash: c2acd43e84849f9aa8cead00dd3dd53877321e735063eb1213b03c1f18bff521 -->
+Fraser described Link Ventures' core thesis as backing tight-knit teams of technically strong co-founders — ideally close friends from MIT — on the basis that shared loyalty and a willingness to endure hardship together creates a long-dated option on a good idea eventually emerging. The fund has made approximately one hundred and twenty investments and treats the founder's ability to recruit trusted friends as a leadership acid test. The Boston base and MIT network are deliberate features of the strategy.
+↳ source: [[2026-06-19-casual-catch-up-ai-market-outlook-startup-cohort-update-and-fellowship-check-in]]
 
 ### 2026-06-17 — Student accelerator strategy
 <!-- source_hash: 274cc2fb4c3838d76e948808aee0f38b289099bd7632232db66e2813adf7eaab -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-17'
+last_mention: '2026-06-19'
 last_touch: ''
 location: ''
-mention_count: 20
+mention_count: 21
 name: Anthropic
 sector: ''
 stage: ''
@@ -41,6 +41,12 @@ website: ''
 
 
 
+
+
+### 2026-06-19 — MIT fellowship kickoff visit
+<!-- source_hash: c2acd43e84849f9aa8cead00dd3dd53877321e735063eb1213b03c1f18bff521 -->
+The AI for Social Impact Fellowship kicked off at the Anthropic office, where the eight fellows met the applied AI team and the beneficial problems team. Fraser's contact described the visit as a positive experience and noted that Anthropic's beneficial deployments team is focused on building for domains not incentivized by the market, such as nonprofits.
+↳ source: [[2026-06-19-casual-catch-up-ai-market-outlook-startup-cohort-update-and-fellowship-check-in]]
 
 ### 2026-06-17 — Referenced as talent underwriting signal
 <!-- source_hash: 18d2f0d20c97d4f482cf08ebd1d8a177be79c3ae4c82ff74ad70aaa5a4251768 -->

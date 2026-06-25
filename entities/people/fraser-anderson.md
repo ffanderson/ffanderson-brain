@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-17'
+last_mention: '2026-06-19'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 161
+mention_count: 163
 name: Fraser Anderson
 relationship: personal
 relationship_strength: core
@@ -183,6 +183,18 @@ type: person
 
 
 
+
+
+
+### 2026-06-19 — Advice: build before intros
+<!-- source_hash: 506f8ef5760b183abb8b79623274c0a9a69713bbaf27f43eb4b3ece939db6fe1 -->
+Fraser declined to make portfolio company introductions until the team had a working product, telling them to build and deploy the system for themselves and their partner research lab first, then return with something demonstrable. He stressed that the team's biggest zero-to-one problem was awareness and that the goal should be a product so painless to adopt that early users would never want to be without it.
+↳ source: [[2026-06-19-intro-meeting-self-hosted-ai-agent-management-system-mit-harvard-founding-team]]
+
+### 2026-06-17 — Advised Princeton founders on GTM
+<!-- source_hash: 1ed579899846d95d68cbbf6163535f57e22d69eb0f69ec27a2c56f5f48d8a251 -->
+Fraser met with two Princeton students building a local on-device inference engine and advised them to prioritize a B2C-first go-to-market strategy before pursuing slower-moving enterprise or private equity channels. He recommended targeting privacy-conscious consumers and meeting-assist use cases similar to [[Clue]], and suggested keeping the product free until reaching a meaningful user base — on the order of tens of thousands of active installs — before introducing monetization friction. He also flagged that security credibility was a prerequisite before he could make meaningful business introductions on their behalf.
+↳ source: [[2026-06-17-startup-advisory-local-inference-engine-go-to-market-monetization-strategy]]
 
 ### 2026-06-17 — Advisory: Spectre pivot recommendation
 <!-- source_hash: 2d14f79e1f0d5d4f6b20a3ec9ce0f445345fa3ade42e7d4e8ac8b0727b657ce8 -->

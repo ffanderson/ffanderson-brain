@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-12'
+last_mention: '2026-06-19'
 last_touch: ''
 location: ''
-mention_count: 16
+mention_count: 17
 name: OpenAI
 sector: ''
 stage: ''
@@ -37,6 +37,12 @@ website: ''
 
 
 
+
+
+### 2026-06-19 — Valuation scepticism at IPO
+<!-- source_hash: c2acd43e84849f9aa8cead00dd3dd53877321e735063eb1213b03c1f18bff521 -->
+Fraser expressed a strong hunch that once OpenAI's full financials become public and employees are able to sell stock on a liquid market, the company will not be perceived as particularly good. He views the current illiquidity of its shares as artificially supporting the price.
+↳ source: [[2026-06-19-casual-catch-up-ai-market-outlook-startup-cohort-update-and-fellowship-check-in]]
 
 ### 2026-06-12 — Perceived competitive weakness vs Anthropic
 <!-- source_hash: cda45b518e0ba7ff93a7af6932610bb87661b3c54ad45167f450d5a7750edeba -->

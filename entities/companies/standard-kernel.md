@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-12'
+last_mention: '2026-06-19'
 last_touch: ''
 location: ''
-mention_count: 18
+mention_count: 19
 name: Standard Kernel
 sector: ''
 stage: ''
@@ -39,6 +39,12 @@ website: ''
 
 
 
+
+
+### 2026-06-19 — GPU kernel optimisation investment
+<!-- source_hash: c2acd43e84849f9aa8cead00dd3dd53877321e735063eb1213b03c1f18bff521 -->
+Fraser is an investor in Standard Kernel, which uses AI systems to generate more efficient GPU kernels and is working on kernel development for other chip architectures. He described the team as founders he has known since they were around eighteen years old and expressed confidence in both the team and the importance of the markets they are targeting.
+↳ source: [[2026-06-19-casual-catch-up-ai-market-outlook-startup-cohort-update-and-fellowship-check-in]]
 
 ### 2026-06-12 — Positioning as HPC consultancy
 <!-- source_hash: ec4fdaf2efe5b3cd3fa10bc7f334586c5be1b58735b184b077521751063d08a0 -->

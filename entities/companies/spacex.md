@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-26'
+last_mention: '2026-06-19'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: SpaceX
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-06-19 — Cited as overvaluation example
+<!-- source_hash: c2acd43e84849f9aa8cead00dd3dd53877321e735063eb1213b03c1f18bff521 -->
+Fraser cited SpaceX's valuation of up to two trillion dollars as emblematic of the current market's irrationality, arguing the company should be worth no more than around two hundred fifty billion dollars. He used it as a prominent example of venture capital subsidising inflated paper valuations.
+↳ source: [[2026-06-19-casual-catch-up-ai-market-outlook-startup-cohort-update-and-fellowship-check-in]]
 
 ### 2026-05-26 — Manufacturing methodology as template
 <!-- source_hash: 13eb80b6f6adccf0c63de5d59dbe84bfd33391b3e8901f1a4e46421958692674 -->
