@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-09'
 fund_type: ''
-last_mention: '2026-06-17'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Y Combinator
 relationship: ''
 status: active
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-06-25 — Terms matched for incubation, being eclipsed by Neo
+<!-- source_hash: b1388045b46b71b8eaab00e7af72e504131faafa2d7f7ab6b3a3b4896664be7c -->
+Fraser noted that his firm matches YC terms when backing teams with a defined idea and strong team dynamic, removing the incentive for those teams to apply to YC separately. He observed that Neo appears to be offering better economics than YC and may be eclipsing it as the default destination for the most aggressive university founders.
+↳ source: [[2026-06-25-coffee-meeting-svb-veteran-jp-morgan-tech-banking-early-stage-vc-strategy]]
 
 ### 2026-06-17 — Still a strong brand, but distracted
 <!-- source_hash: 274cc2fb4c3838d76e948808aee0f38b289099bd7632232db66e2813adf7eaab -->

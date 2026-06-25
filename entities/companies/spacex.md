@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-19'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: SpaceX
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-06-25 — Early SVB Capital investment, pending distribution
+<!-- source_hash: b1388045b46b71b8eaab00e7af72e504131faafa2d7f7ab6b3a3b4896664be7c -->
+SVB Capital held an early investment in SpaceX that was transferred into the [[Pine Grove]] vehicle. A former SVB Capital partner noted he received a capital call from Pine Grove and expects a distribution from the SpaceX position in the near term.
+↳ source: [[2026-06-25-coffee-meeting-svb-veteran-jp-morgan-tech-banking-early-stage-vc-strategy]]
 
 ### 2026-06-19 — Cited as overvaluation example
 <!-- source_hash: c2acd43e84849f9aa8cead00dd3dd53877321e735063eb1213b03c1f18bff521 -->

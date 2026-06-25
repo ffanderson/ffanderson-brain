@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-17'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Apollo
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-06-25 — Target PE relationship via multiple channels
+<!-- source_hash: 67f6f4d4c8c3f29d8f28d0a87e84777326fcb5a1fdbfa6003d897cdaed033678 -->
+Apollo was identified as a high-priority target PE firm, with several independent relationship threads converging on them: Ryan Crump of [[Clear Sky]] is a former Apollo head of cybersecurity and chief investment officer, [[Nancy]] had previously sold a company to Apollo, and Aiden noted a personal neighbor works there. [[AI One]] was also said to be signing with Apollo through these relationships.
+↳ source: [[2026-06-25-post-conference-debrief-and-hooper-product-strategy-session-aiden-nancy-andrew]]
 
 ### 2026-06-17 — Compared to Talented AI on UX simplicity
 <!-- source_hash: 0636750dd88d31cfdb2a16fe5f24ab550cb0fb7cd9fa775932f14121d36e971d -->

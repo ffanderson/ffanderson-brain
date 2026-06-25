@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-07'
 founded: ''
 founders: []
-last_mention: '2026-05-28'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 5
 name: Nebius
 sector: ''
 stage: ''
@@ -24,6 +24,18 @@ website: ''
 ## Mentions
 
 
+
+
+
+### 2026-06-25 — Named as target customer
+<!-- source_hash: c46371fce53158eed59ac067649d0c92752321561b5093cd984518c5cef59c13 -->
+Nebius was cited by Fraser as one of eight illustrative high-value target customers whose signature on a multi-year contract — even at zero initial revenue — would, in his view, make Standard Kernel's founders wealthy by 2028.
+↳ source: [[2026-06-25-strategy-session-chris-anne-standard-kernel-go-to-market-and-nvidia-dinner-prep]]
+
+### 2026-06-23 — Target anchor customer, free POC
+<!-- source_hash: d65ef28150982fe3fbfdba5924d2dfc9dd306643f42b516a3f257b4b8c2c0c43 -->
+Nebius was included in Fraser's illustrative list of eight target customers — alongside [[Nvidia]], [[Intel]], [[AMD]], [[CoreWeave]], [[Two Sigma]], [[Jump]], and [[Point72]] — whose combined logo value and multi-year contract potential would, in Fraser's view, make the company's commercial prospects clear even if year-one revenue was zero.
+↳ source: [[2026-06-23-internal-strategy-discussion-sf-office-proposal-fund-sizing-and-startup-customer-acquisition]]
 
 ### 2026-05-28 — Comparable acquisition reference
 <!-- source_hash: 6b1302016e835b1ba985871d4b1778f5709bcdca4593999926f7134249ccc75b -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-09'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: LPL Financial
 sector: ''
 stage: ''
@@ -26,6 +26,12 @@ website: ''
 
 
 
+
+
+### 2026-06-25 — Fraser's partner's background there
+<!-- source_hash: 28cc43c307909a9fe0ca121d36b45ca7eecd36d52022960aa4a036e2a0b4acd3 -->
+Fraser noted that his business partner ran LPL Financial for ten years, describing it as the backbone of wealth management for independent RIAs, and is now chairman of a private equity-backed wealth tech company. Fraser offered this connection as a potential employment resource for Nick.
+↳ source: [[2026-06-25-multi-party-business-and-strategy-catch-up-josh-aiden-kelly-damien-nick-shalhoub]]
 
 ### 2026-06-09 — Fraser's network context
 <!-- source_hash: 4c3222c28dea3e47697a3c15dcd4a3a447b25daf26bb525bb90efd04991e0948 -->

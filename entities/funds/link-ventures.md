@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-06-19'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 13
+mention_count: 14
 name: Link Ventures
 relationship: ''
 status: active
@@ -32,6 +32,12 @@ website: ''
 
 
 
+
+
+### 2026-06-25 — Investment thesis explained to founders
+<!-- source_hash: 70f959e6ef849a861de6c4a79e382a6e9dee2268a01514f0acc68ee37e534639 -->
+Fraser outlined Link Ventures' investment criteria to Anthony and Tian: the firm does not back solo founders, preferring teams of three to five with strong surrounding networks; the core thesis requires that AI be indispensable to the business model rather than incidental; and the firm looks for businesses operating in markets with a clear tailwind. The firm invests beyond vertical AI into the broader data center ecosystem, including material sciences and financial products, with a recent example being a superconducting tape company building a novel battery architecture for data centers.
+↳ source: [[2026-06-25-intro-meeting-anthony-tian-alluvium-princeton-founders-chemical-ai-software]]
 
 ### 2026-06-19 — Team-bond investment thesis
 <!-- source_hash: c2acd43e84849f9aa8cead00dd3dd53877321e735063eb1213b03c1f18bff521 -->

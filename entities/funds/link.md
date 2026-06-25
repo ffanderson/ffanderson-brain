@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-06-17'
+last_mention: '2026-06-23'
 last_touch: ''
 location: ''
-mention_count: 5
+mention_count: 6
 name: Link
 relationship: ''
 status: active
@@ -24,6 +24,12 @@ website: ''
 
 
 
+
+
+### 2026-06-23 — SF presence debate
+<!-- source_hash: d65ef28150982fe3fbfdba5924d2dfc9dd306643f42b516a3f257b4b8c2c0c43 -->
+The partnership debated whether establishing a physical San Francisco presence would materially improve Link's win rate with West Coast founders or its relationships with firms like [[Sequoia]] and [[Andreessen Horowitz]]. One partner was skeptical, emphasizing the firm's strength in the Boston ecosystem and citing an earlier situation where a team member relocating to New York created operational friction. The debate was tabled pending a formal two-page memo from Fraser, with a final decision requiring sign-off from both Dave and Jason.
+↳ source: [[2026-06-23-internal-strategy-discussion-sf-office-proposal-fund-sizing-and-startup-customer-acquisition]]
 
 ### 2026-06-17 — Optics of mid-summer investing
 <!-- source_hash: 86fa052beb45fef17f3e88d817d43fd5eb1ae6de9a11cee4f6e54cb7ad7cfe2e -->

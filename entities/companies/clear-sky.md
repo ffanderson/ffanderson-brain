@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-06-01'
 founded: ''
 founders: []
-last_mention: '2026-05-28'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Clear Sky
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # Clear Sky
 
 ## Mentions
+
+
+### 2026-06-25 — Apollo connection via Ryan Crump
+<!-- source_hash: 67f6f4d4c8c3f29d8f28d0a87e84777326fcb5a1fdbfa6003d897cdaed033678 -->
+Ryan Crump at Clear Sky was identified as a former head of cybersecurity and chief investment officer at [[Apollo]], making him a key relationship for Hooper's PE go-to-market push. Aiden cited Crump as one of several converging pathways into Apollo.
+↳ source: [[2026-06-25-post-conference-debrief-and-hooper-product-strategy-session-aiden-nancy-andrew]]
 
 ### 2026-05-28 — CISO sourcing and interim fund infrastructure
 <!-- source_hash: c971127716305c26fb067c3c5ab64fc1db4b3840b7f1d0852ad6e4095ea29a0e -->

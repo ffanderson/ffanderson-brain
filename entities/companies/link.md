@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Link
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-06-25 — Nick exit: bonus and severance dispute
+<!-- source_hash: 847323e348df65f6611d6303fdd7acd130aeb189301b353e83ec6d920c87bcc3 -->
+Nick's last day at Link was the day of the call, and he was contesting both the absence of a bonus and the lack of severance. Fraser noted the bonus was never in writing for Link, weakening that claim, but the failure to run a formal performance improvement process before termination likely gave Nick a legitimate wrongful termination case. The tacit understanding during Nick's final four months had been that he should find his next role without being formally let go.
+↳ source: [[2026-06-25-advice-call-nick-s-exit-dispute-and-bill-s-retention-risk]]
 
 ### 2026-04-02 — Venue and investment vehicle
 <!-- source_hash: cfa6250a746d684b5c1bb078fb684e0e5a5d65488be60869ac7e34ea57e39253 -->

@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-28'
+last_mention: '2026-06-25'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Josh
 relationship: ''
 relationship_strength: cold
@@ -24,6 +24,12 @@ type: person
 
 ## Mentions
 
+
+
+### 2026-06-25 — Taking primary operational role going forward
+<!-- source_hash: 28cc43c307909a9fe0ca121d36b45ca7eecd36d52022960aa4a036e2a0b4acd3 -->
+Damien indicated that the expectation going forward is for Josh to take on the primary operational role for the fund and portfolio companies, as Aiden will be relocating to Hawaii and is not expected to run fundraising alone from there. Fraser affirmed that Josh's one prior venture deal at the firm was a home run and expressed high confidence in his capabilities.
+↳ source: [[2026-06-25-multi-party-business-and-strategy-catch-up-josh-aiden-kelly-damien-nick-shalhoub]]
 
 ### 2026-05-28 — Carrying Nadia operational load alone
 <!-- source_hash: c971127716305c26fb067c3c5ab64fc1db4b3840b7f1d0852ad6e4095ea29a0e -->

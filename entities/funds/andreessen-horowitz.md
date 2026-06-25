@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-06-11'
+last_mention: '2026-06-23'
 last_touch: ''
 location: ''
-mention_count: 15
+mention_count: 16
 name: Andreessen Horowitz
 relationship: ''
 status: active
@@ -34,6 +34,12 @@ website: ''
 
 
 
+
+
+### 2026-06-23 — Target relationship, SF rationale
+<!-- source_hash: d65ef28150982fe3fbfdba5924d2dfc9dd306643f42b516a3f257b4b8c2c0c43 -->
+Andreessen Horowitz was mentioned alongside [[Sequoia]] as one of the firms Link would want to develop direct, meaningful relationships with as part of any West Coast strategy, with one partner noting that genuine co-investment relationships with such firms would need to be a first-order outcome to justify the investment.
+↳ source: [[2026-06-23-internal-strategy-discussion-sf-office-proposal-fund-sizing-and-startup-customer-acquisition]]
 
 ### 2026-06-11 — Invested in Kush's compute brokerage
 <!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->

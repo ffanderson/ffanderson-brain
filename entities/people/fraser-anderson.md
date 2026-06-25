@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-19'
+last_mention: '2026-06-25'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 163
+mention_count: 176
 name: Fraser Anderson
 relationship: personal
 relationship_strength: core
@@ -185,6 +185,84 @@ type: person
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 2026-06-25 — Intro support for Eric's raise
+<!-- source_hash: d3352e67f6f2ddc11b3f6570a8e2d40fc6301d44d9bc5e3637422f988ff7dea1 -->
+Fraser offered to compile a list of potential investors for [[Eric]]'s $10 million raise and coordinate outreach to hit the market simultaneously. He advised Eric to make an NDA-free version of his pitch deck widely available, noting that requiring NDAs early can create friction and skepticism among VCs. Fraser was clear he is not a broker-dealer and was helping as a favor through their mutual contact.
+↳ source: [[2026-06-25-intro-pitch-eric-digital-license-plate-frame-venture]]
+
+### 2026-06-25 — Intro request: license plate startup
+<!-- source_hash: 32236060e53875719a35f7880efe1e02dd897d3151a2edd639ebdc8a98cfe1b8 -->
+Fraser asked John to help connect a friend who is building a dynamic 'Kindleized' license plate product — capable of displaying customizable content such as sports team colors or advertising — and is looking to raise around $10M. Fraser noted the founder had done significant supply chain work in Taiwan and China and had a track record of building successful businesses, but that consumer hardware is outside Fraser's investor network.
+↳ source: [[2026-06-25-catch-up-call-fraser-anderson-john-lp-advisor-relationship-cyrus-labs-license-plate-startup]]
+
+### 2026-06-25 — Considering California relocation
+<!-- source_hash: 28cc43c307909a9fe0ca121d36b45ca7eecd36d52022960aa4a036e2a0b4acd3 -->
+Fraser discussed seriously considering a move to San Francisco for the next five years to be closer to the center of gravity of the AI industry, noting he and his partner had been approved to purchase a house in Berkeley before pulling back to consult their business partners. He expressed fatigue working in proximity to his current employer and noted that Boston's technology network, while comfortable, feels increasingly peripheral to where momentum is building.
+↳ source: [[2026-06-25-multi-party-business-and-strategy-catch-up-josh-aiden-kelly-damien-nick-shalhoub]]
+
+### 2026-06-25 — Strategic role and coaching stance
+<!-- source_hash: c46371fce53158eed59ac067649d0c92752321561b5093cd984518c5cef59c13 -->
+Fraser played an active mentorship role in this session, pushing Chris toward a more aggressive commercial posture on POC pricing, coaching on competitive positioning against Gimlet, and devising the networking and acquisition-seeding strategy around the Friday dinner. He committed to spending dedicated time with Anne separately to help her adopt the same strategic framing.
+↳ source: [[2026-06-25-strategy-session-chris-anne-standard-kernel-go-to-market-and-nvidia-dinner-prep]]
+
+### 2026-06-25 — Company A / Company B restructuring plan
+<!-- source_hash: 753ffa44b3dcd0ec8f4541e1882c01e2edbe7f9ddb2ff7937b6b8be11feec688 -->
+Fraser is rolling his nascent side-project [[Company A]] into [[Company B]], a Saudi AI consulting venture where he holds 30% equity and will serve as Chief Product Officer. He sought advice on how to compensate his Company A partner without granting that partner equity in Company B, settling on a clean cash transaction instead.
+↳ source: [[2026-06-25-advisory-call-company-structure-ip-licensing-and-saudi-ai-venture]]
+
+### 2026-06-23 — SF relocation proposal
+<!-- source_hash: d65ef28150982fe3fbfdba5924d2dfc9dd306643f42b516a3f257b4b8c2c0c43 -->
+Fraser proposed spending six to seven months per year in San Francisco, with the firm securing a couple of desks there, to maintain continuity with Boston-nurtured talent moving West and to build proximity with tier-one VC firms concentrated around South Park. He framed the personal window as finite: his wife's consulting work at [[Carpedia]] allows her to be based anywhere for the next few years, and their daughter won't start school for another four to five years. He acknowledged the awkwardness of proposing greater physical distance from the firm and committed to sharing a memo already drafted for review by the broader partnership.
+↳ source: [[2026-06-23-internal-strategy-discussion-sf-office-proposal-fund-sizing-and-startup-customer-acquisition]]
+
+### 2026-06-25 — E Ink intro: compliance posture
+<!-- source_hash: 7a9305725b5dfa36b9c4d7881a33702f800f66e5be848cd21db362ddad6b404d -->
+Fraser agreed to meet [[Eric Doelle]] and offer introductions to relevant consumer hardware investors on a non-contingent, non-retainer basis, noting that B2C consumer products are outside his core mandate but that he knows investors who could be relevant. He acknowledged that any fee would need to be a voluntary post-fact consulting arrangement initiated by Eric, with no written contingency, to avoid broker-dealer compliance issues.
+↳ source: [[2026-06-25-intro-call-eric-doelle-e-ink-deal-mortgage-platform-update]]
+
+### 2026-06-23 — Introduced Crane to Montero
+<!-- source_hash: dab3b3eda0235988d00e41920ac330619d76865f7161f4bfd5b61525cbaf624b -->
+Fraser introduced [[Crane]] to [[Montero]], which became Crane's second data center customer. Fraser was on the call when the Montero demo took place and noted that despite the product being early, the contact at Montero was visibly engaged and could immediately articulate what was needed to take it further — a signal Fraser read as strong evidence of product-market fit.
+↳ source: [[2026-06-23-crane-investor-update-product-strategy-call-steve-fraser-kaida]]
+
+### 2026-06-25 — Family leave schedule finalised
+<!-- source_hash: e52fd0dccef003cfb7d89dca3ea467c0c20a3d99e52569e36af7c72eae35f3dc -->
+Fraser's family leave was finalised in two blocks: July 1–10 (returning July 13, covering eight weekdays including a Friday holiday) and July 20–August 20. August 21 and August 24 were designated as PTO days, with the FMLA period running concurrently through that period.
+↳ source: [[2026-06-25-family-leave-admin-coordination-fraser-tara-hr]]
+
+### 2026-06-17 — Role and investment focus
+<!-- source_hash: 46df11c7a62056b4ad545895142d97dbf46dd94d26a05d3b191c99dd4d57ab02 -->
+Fraser Anderson is Managing Director at [[Linked Ventures]], focused on early-stage companies in enterprise software, financial services, and energy as it maps to data centers and the compute economy. His day-to-day involves founder relationship-building, team references, and market mapping through his network.
+↳ source: [[2026-06-17-customer-research-interview-fraser-anderson-linked-ventures-personal-memory-ai-product-alpha]]
+
+### 2026-06-15 — Fire insurance coverage amount
+<!-- source_hash: 80c2cc8ef4f8148682d7a693e39b2be77fce5c0b4e0abd2af4d0118dfeecf8dd -->
+Fraser was exploring fire insurance for a house he was considering buying and suggested around $1.5M in coverage, acknowledging it was a rough guess. Rob indicated this was not dramatically underinsured but leaned toward recommending a higher figure given rising construction costs, noting contractors had been quoting around $1,000 per square foot with materials prices continuing to climb.
+↳ source: [[2026-06-15-home-insurance-consultation-rob-insurance-agent-fire-coverage-for-prospective-property]]
+
+### 2026-06-25 — Advising Nick on exit dispute
+<!-- source_hash: 847323e348df65f6611d6303fdd7acd130aeb189301b353e83ec6d920c87bcc3 -->
+Fraser had spoken with Nick multiple times in the forty-eight hours before the call and was actively figuring out what advice to give him regarding his contested exit from [[Link]]. Fraser acknowledged that Nick likely had a wrongful termination case given the absence of formal process, even while noting the bonus claim was on weak ground legally.
+↳ source: [[2026-06-25-advice-call-nick-s-exit-dispute-and-bill-s-retention-risk]]
+
+### 2026-06-25 — Bill McCarron: potential future hire
+<!-- source_hash: 9021ddb9c9467726897ab261708563c0a0080c77712d6ff931d58380dac53d81 -->
+Fraser flagged Bill McCarron, a colleague from his current firm, as someone with the specific skill set to build an AI-powered back office — which he described as exactly what Jim Brown wants. Fraser noted this would only be actionable after his own departure from the firm, as recruiting McCarron while still there would likely trigger a serious conflict with his employer.
+↳ source: [[2026-06-25-portfolio-operations-update-aiden-fraser-anderson]]
 
 ### 2026-06-19 — Advice: build before intros
 <!-- source_hash: 506f8ef5760b183abb8b79623274c0a9a69713bbaf27f43eb4b3ece939db6fe1 -->

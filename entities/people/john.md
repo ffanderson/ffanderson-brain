@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-17'
+last_mention: '2026-06-25'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 14
+mention_count: 15
 name: John
 relationship: ''
 relationship_strength: cold
@@ -36,6 +36,12 @@ type: person
 
 
 
+
+
+### 2026-06-25 — Cyrus Labs funding and CEO ask
+<!-- source_hash: 32236060e53875719a35f7880efe1e02dd897d3151a2edd639ebdc8a98cfe1b8 -->
+John asked Fraser to introduce him to cybersecurity-focused investors for [[Cyrus Labs]] and to help identify a CEO candidate. He indicated the company had begun gaining client traction and that advisors from [[Cap Gemini]] and [[PwC]] were actively opening doors. He committed to sending Fraser a forwardable summary of the opportunity.
+↳ source: [[2026-06-25-catch-up-call-fraser-anderson-john-lp-advisor-relationship-cyrus-labs-license-plate-startup]]
 
 ### 2026-06-17 — Program founder and operator
 <!-- source_hash: 86fa052beb45fef17f3e88d817d43fd5eb1ae6de9a11cee4f6e54cb7ad7cfe2e -->

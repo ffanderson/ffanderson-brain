@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-07'
 founded: ''
 founders: []
-last_mention: '2026-05-05'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 1
+mention_count: 2
 name: Together AI
 sector: ''
 stage: ''
@@ -22,6 +22,12 @@ website: ''
 # Together AI
 
 ## Mentions
+
+
+### 2026-06-25 — Alleged role in Cognition fundraise
+<!-- source_hash: c46371fce53158eed59ac067649d0c92752321561b5093cd984518c5cef59c13 -->
+Chris alleged that Together AI was part of an arrangement with Chris Ray and [[Cognition]] in which favorable terms were exchanged to facilitate Cognition's fundraising rounds. Fraser treated this as an example of aggressive but not necessarily illegal startup financing behavior.
+↳ source: [[2026-06-25-strategy-session-chris-anne-standard-kernel-go-to-market-and-nvidia-dinner-prep]]
 
 ### 2026-05-05 — Inference commodity concern
 <!-- source_hash: 881d8e26541adf9fb1972f4bc4d55e0f79e00ec5f16e70a381fbbf993c5520f7 -->

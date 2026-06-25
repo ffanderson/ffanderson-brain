@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-06-12'
 founded: ''
 founders: []
-last_mention: '2026-06-17'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Spinor Energy
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-25 — Superconducting tape for data center infrastructure
+<!-- source_hash: b1388045b46b71b8eaab00e7af72e504131faafa2d7f7ab6b3a3b4896664be7c -->
+Spinor Energy was described as Fraser's most recent deal, focused on superconducting tape to build non-chemistry-based batteries capable of managing power flux in data centers. Fraser noted an additional application: wrapping critical infrastructure in the material to protect against solar storms, framing it as a cyber-insurance-adjacent product where a single convincing sale could be highly lucrative.
+↳ source: [[2026-06-25-coffee-meeting-svb-veteran-jp-morgan-tech-banking-early-stage-vc-strategy]]
 
 ### 2026-06-17 — Seed round, superconducting tape
 <!-- source_hash: 1e40c72186e72bbabc2a631a9449b147eef95bdfe42a1e9fbdb7a0fc850c3d8e -->

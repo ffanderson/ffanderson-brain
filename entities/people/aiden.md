@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-04'
+last_mention: '2026-06-25'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 4
+mention_count: 6
 name: Aiden
 relationship: operator
 relationship_strength: strong
@@ -26,6 +26,18 @@ type: person
 
 
 
+
+
+
+### 2026-06-25 — Urgent Hooper onboarding request
+<!-- source_hash: 67f6f4d4c8c3f29d8f28d0a87e84777326fcb5a1fdbfa6003d897cdaed033678 -->
+Aiden watched a live Hooper demo during the call and insisted on being onboarded immediately, citing a time-sensitive business opportunity involving a potential $20–100 million investment in a life insurance underwriting venture. He had been waiting since March or April and told Fraser and Michael he could no longer wait for a polished rollout. The team committed to provisioning his account the same day.
+↳ source: [[2026-06-25-post-conference-debrief-and-hooper-product-strategy-session-aiden-nancy-andrew]]
+
+### 2026-06-25 — Stepping in on chaotic fundraise
+<!-- source_hash: 9021ddb9c9467726897ab261708563c0a0080c77712d6ff931d58380dac53d81 -->
+Aiden had stepped in two weeks prior to take control of a fundraising process that had descended into chaos under Jack's management. Jack had become distracted by a family health issue and unrelated technical work, and Aiden described him as never having been the right lead in the first place. Aiden had been spending significant time with Jimmy to nail down the exact capital requirement and avoid revisiting the plan again.
+↳ source: [[2026-06-25-portfolio-operations-update-aiden-fraser-anderson]]
 
 ### 2026-06-04 — Founder: commercial instincts and network
 <!-- source_hash: 1de503530ab408e64c8b9aa1a229221e6ff96fe133033740a372ef04b5c53d66 -->

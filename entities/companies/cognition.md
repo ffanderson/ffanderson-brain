@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-12'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 8
+mention_count: 10
 name: Cognition
 sector: ''
 stage: ''
@@ -29,6 +29,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-25 — Alleged demo fraud and fundraise concerns
+<!-- source_hash: c46371fce53158eed59ac067649d0c92752321561b5093cd984518c5cef59c13 -->
+Chris alleged that Cognition faked product demos, relied heavily on Twitter hype, and structured arrangements with Chris Ray and Together AI to facilitate successive fundraising rounds on minimal genuine traction. Fraser acknowledged the dynamic but noted that all parties involved — including the LPs — are sophisticated actors who understand the risks, and that such behavior often eventually catches up with the founders.
+↳ source: [[2026-06-25-strategy-session-chris-anne-standard-kernel-go-to-market-and-nvidia-dinner-prep]]
+
+### 2026-06-23 — Association with Chris Wright flagged
+<!-- source_hash: d65ef28150982fe3fbfdba5924d2dfc9dd306643f42b516a3f257b4b8c2c0c43 -->
+One participant flagged that a person at Cognition is associated with an individual named Chris Wright, whom the same participant described as having behaved exploitatively in past interactions — including attaching himself to a team member's research paper and conducting a hostile interview. The participant advised caution around any startups connected to Wright and suggested the firm had no established policy covering this type of situation.
+↳ source: [[2026-06-23-internal-strategy-discussion-sf-office-proposal-fund-sizing-and-startup-customer-acquisition]]
 
 ### 2026-06-11 — Competitor momentum vs. product reality
 <!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->

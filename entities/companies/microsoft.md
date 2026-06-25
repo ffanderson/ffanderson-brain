@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Microsoft
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-06-25 — Copilot: incompatible with chemical workflows
+<!-- source_hash: 70f959e6ef849a861de6c4a79e382a6e9dee2268a01514f0acc68ee37e534639 -->
+A chemical engineer at [[Dow]] described attempting to use Microsoft Copilot in his daily workflow and finding it entirely unable to communicate with any of the specialized enterprise software products he relied upon. This example was cited by Alluvium's founders as concrete evidence of the AI integration gap in the chemical industry.
+↳ source: [[2026-06-25-intro-meeting-anthony-tian-alluvium-princeton-founders-chemical-ai-software]]
 
 ### 2026-06-04 — Post-Tellme acquisition tenure
 <!-- source_hash: 1de503530ab408e64c8b9aa1a229221e6ff96fe133033740a372ef04b5c53d66 -->

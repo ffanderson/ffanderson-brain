@@ -5,10 +5,10 @@ created: 2026-05-05
 crm_id: null
 crm_system: null
 fund_type: vc
-last_mention: '2026-06-12'
+last_mention: '2026-06-25'
 last_touch: 2026-05-05
 location: Menlo Park, CA
-mention_count: 15
+mention_count: 17
 name: Sequoia Capital
 relationship: co-investor
 status: active
@@ -71,6 +71,18 @@ relationship.
 
 
 
+
+
+
+### 2026-06-23 — Target relationship, SF rationale
+<!-- source_hash: d65ef28150982fe3fbfdba5924d2dfc9dd306643f42b516a3f257b4b8c2c0c43 -->
+Sequoia was cited as one of the tier-one firms whose proximity to a potential South Park office space would make relationship-building with Link materially easier, given that the major firms are clustered within a very short distance of South Park.
+↳ source: [[2026-06-23-internal-strategy-discussion-sf-office-proposal-fund-sizing-and-startup-customer-acquisition]]
+
+### 2026-06-25 — Anchor LP relationship enabling Pine Grove
+<!-- source_hash: b1388045b46b71b8eaab00e7af72e504131faafa2d7f7ab6b3a3b4896664be7c -->
+Sequoia was described as the dominant LP anchor among SVB Capital's $13.8 billion AUM, and its relationship with a key intermediary was what enabled four former SVB Capital partners to assemble the capital needed to form the [[Pine Grove]] joint venture with [[Brookfield]] and Heritage after the bank's collapse.
+↳ source: [[2026-06-25-coffee-meeting-svb-veteran-jp-morgan-tech-banking-early-stage-vc-strategy]]
 
 ### 2026-06-11 — Expected to follow Andreessen into compute brokerage
 <!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->

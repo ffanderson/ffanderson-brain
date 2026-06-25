@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-07'
 founded: ''
 founders: []
-last_mention: '2026-05-28'
+last_mention: '2026-06-23'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Point72
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-23 — Target anchor customer, free POC
+<!-- source_hash: d65ef28150982fe3fbfdba5924d2dfc9dd306643f42b516a3f257b4b8c2c0c43 -->
+Point72 was included in Fraser's illustrative eight-customer scenario as a target anchor customer for the portfolio company, alongside infrastructure players and other capital markets firms.
+↳ source: [[2026-06-23-internal-strategy-discussion-sf-office-proposal-fund-sizing-and-startup-customer-acquisition]]
 
 ### 2026-05-28 — HFT network contact
 <!-- source_hash: 6b1302016e835b1ba985871d4b1778f5709bcdca4593999926f7134249ccc75b -->

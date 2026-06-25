@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-17'
+last_mention: '2026-06-23'
 last_touch: ''
 location: ''
-mention_count: 10
+mention_count: 11
 name: AMD
 sector: ''
 stage: ''
@@ -31,6 +31,12 @@ website: ''
 
 
 
+
+
+### 2026-06-23 — Target anchor customer, free POC
+<!-- source_hash: d65ef28150982fe3fbfdba5924d2dfc9dd306643f42b516a3f257b4b8c2c0c43 -->
+AMD was named as a priority target for the portfolio company's free POC strategy. Fraser argued that demonstrating a two-times or fifty-percent speed-up on existing AMD hardware could create tens to hundreds of millions of dollars of value, justifying a deferred-payment structure to get access and prove the technology.
+↳ source: [[2026-06-23-internal-strategy-discussion-sf-office-proposal-fund-sizing-and-startup-customer-acquisition]]
 
 ### 2026-06-17 — Successful AI-driven stock trade
 <!-- source_hash: 18d2f0d20c97d4f482cf08ebd1d8a177be79c3ae4c82ff74ad70aaa5a4251768 -->

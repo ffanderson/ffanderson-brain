@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-12'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 8
+mention_count: 9
 name: Cerebras
 sector: ''
 stage: ''
@@ -29,6 +29,12 @@ website: ''
 
 
 
+
+
+### 2026-06-25 — Named in Nvidia lock-in framing
+<!-- source_hash: c46371fce53158eed59ac067649d0c92752321561b5093cd984518c5cef59c13 -->
+Fraser referenced Cerebras as an alternative compute platform that an Nvidia co-selling partnership with Standard Kernel would help customers de-prioritize, framing Standard Kernel's optimization work on Nvidia hardware as a retention tool for Nvidia against competitors.
+↳ source: [[2026-06-25-strategy-session-chris-anne-standard-kernel-go-to-market-and-nvidia-dinner-prep]]
 
 ### 2026-06-12 — Tuesday in-person meeting scheduled
 <!-- source_hash: 69e260090249d0217874fa1f7156fb8147dab604d3c6f1a83612b4aef5913110 -->

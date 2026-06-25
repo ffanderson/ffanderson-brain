@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-06-04'
 founded: ''
 founders: []
-last_mention: '2026-06-12'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: XTX
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-06-25 — Named in Nvidia co-sell scenario
+<!-- source_hash: c46371fce53158eed59ac067649d0c92752321561b5093cd984518c5cef59c13 -->
+Fraser described a hypothetical Nvidia co-selling motion in which an Nvidia salesperson would recommend Standard Kernel to XTX as a software partner delivering around 30% speed-up on relevant workloads — locking XTX further into the Nvidia stack and away from alternatives like [[Cerebras]] or Intel.
+↳ source: [[2026-06-25-strategy-session-chris-anne-standard-kernel-go-to-market-and-nvidia-dinner-prep]]
 
 ### 2026-06-12 — Named as objecting firm archetype
 <!-- source_hash: 69e260090249d0217874fa1f7156fb8147dab604d3c6f1a83612b4aef5913110 -->

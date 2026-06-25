@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-12'
+last_mention: '2026-06-25'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 9
+mention_count: 10
 name: Chris
 relationship: founder
 relationship_strength: strong
@@ -31,6 +31,12 @@ type: person
 
 
 
+
+
+### 2026-06-25 — POC pricing stance and concerns
+<!-- source_hash: c46371fce53158eed59ac067649d0c92752321561b5093cd984518c5cef59c13 -->
+Chris expressed initial reluctance to offer unpaid proof-of-concept engagements, citing concern about eighteen months passing before any revenue hit the P&L. He ultimately aligned with Fraser's view that a zero-cost POC with a mutual understanding of future commercial economics was preferable to a paid pilot with uncertain outcomes, provided customers acknowledged the implied value exchange.
+↳ source: [[2026-06-25-strategy-session-chris-anne-standard-kernel-go-to-market-and-nvidia-dinner-prep]]
 
 ### 2026-06-11 — Customer-facing and scrappy operator role
 <!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->

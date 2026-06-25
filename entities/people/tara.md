@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-03-20'
+last_mention: '2026-06-25'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Tara
 relationship: ''
 relationship_strength: cold
@@ -24,6 +24,12 @@ type: person
 
 ## Mentions
 
+
+
+### 2026-06-25 — HR actions following leave check-in
+<!-- source_hash: e52fd0dccef003cfb7d89dca3ea467c0c20a3d99e52569e36af7c72eae35f3dc -->
+Tara confirmed she had already spoken with a Mutual of Omaha representative named Maria Torres, who indicated the claim would stay pending until [[Fraser Anderson]] confirmed his first day of leave. Tara committed to sending Fraser his claim manager's direct phone number and an updated consolidated leave schedule for his records.
+↳ source: [[2026-06-25-family-leave-admin-coordination-fraser-tara-hr]]
 
 ### 2026-03-20 — FSA admin walkthrough for Fraser
 <!-- source_hash: 67ea380d12854322c74cdde0f1d13dfb0ae737535df6b8c67bc803d753f5cc74 -->

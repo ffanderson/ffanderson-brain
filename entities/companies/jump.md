@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-11'
+last_mention: '2026-06-23'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Jump
 sector: ''
 stage: ''
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-06-23 — Target anchor customer, free POC
+<!-- source_hash: d65ef28150982fe3fbfdba5924d2dfc9dd306643f42b516a3f257b4b8c2c0c43 -->
+Jump was named as a target customer in Fraser's argument for a free POC strategy, grouped with other quantitative finance firms [[Two Sigma]] and [[Point72]] as part of the portfolio company's ideal early customer set.
+↳ source: [[2026-06-23-internal-strategy-discussion-sf-office-proposal-fund-sizing-and-startup-customer-acquisition]]
 
 ### 2026-06-11 — Live deployment and strategic value
 <!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->

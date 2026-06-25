@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-17'
+last_mention: '2026-06-23'
 last_touch: ''
 location: ''
-mention_count: 13
+mention_count: 14
 name: Nvidia
 sector: ''
 stage: ''
@@ -34,6 +34,12 @@ website: ''
 
 
 
+
+
+### 2026-06-23 — Target anchor customer, free POC
+<!-- source_hash: d65ef28150982fe3fbfdba5924d2dfc9dd306643f42b516a3f257b4b8c2c0c43 -->
+Fraser named Nvidia as one of the marquee infrastructure customers that the portfolio company on the call should prioritize landing via a free or deferred-payment POC, arguing that a signed multi-year contract with Nvidia — even if it generated no revenue in the first year — would create sufficient social proof and long-term economic value to justify the approach.
+↳ source: [[2026-06-23-internal-strategy-discussion-sf-office-proposal-fund-sizing-and-startup-customer-acquisition]]
 
 ### 2026-06-17 — Interest in tactile robotics data
 <!-- source_hash: baf1719e1d252f857bf066b3a18c980ff5b8361facf4fbe0fec40b05a1de8a56 -->

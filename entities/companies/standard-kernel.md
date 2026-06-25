@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-19'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 19
+mention_count: 20
 name: Standard Kernel
 sector: ''
 stage: ''
@@ -40,6 +40,12 @@ website: ''
 
 
 
+
+
+### 2026-06-25 — Free POC strategy to accelerate deployment
+<!-- source_hash: c46371fce53158eed59ac067649d0c92752321561b5093cd984518c5cef59c13 -->
+Fraser and Chris debated the merits of offering free proof-of-concept engagements to large customers rather than charging upfront. Fraser argued that time is the most expensive resource and that removing friction from deployment — even at zero initial revenue — was the correct trade-off given Standard Kernel's cash position. Chris initially had an emotional resistance to unpaid work but came around to the view that a free POC converting to a multi-million-dollar annual contract was clearly preferable to a paid pilot that goes nowhere.
+↳ source: [[2026-06-25-strategy-session-chris-anne-standard-kernel-go-to-market-and-nvidia-dinner-prep]]
 
 ### 2026-06-19 — GPU kernel optimisation investment
 <!-- source_hash: c2acd43e84849f9aa8cead00dd3dd53877321e735063eb1213b03c1f18bff521 -->

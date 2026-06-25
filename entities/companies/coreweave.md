@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-12'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 17
+mention_count: 19
 name: CoreWeave
 sector: ''
 stage: ''
@@ -38,6 +38,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-25 — Prior inference optimization result
+<!-- source_hash: c46371fce53158eed59ac067649d0c92752321561b5093cd984518c5cef59c13 -->
+Standard Kernel's work with CoreWeave produced a 2x reduction in the minimum GPU deployment unit required to sustain a given user throughput — effectively serving the same inference workload with half the GPUs. Fraser and Chris discussed a potential follow-on engagement where Standard Kernel would optimize for inference against a named competitor, with Fraser suggesting this be structured as a free POC with the fee deferred and recouped in a subsequent commercial contract.
+↳ source: [[2026-06-25-strategy-session-chris-anne-standard-kernel-go-to-market-and-nvidia-dinner-prep]]
+
+### 2026-06-23 — Target anchor customer, free POC
+<!-- source_hash: d65ef28150982fe3fbfdba5924d2dfc9dd306643f42b516a3f257b4b8c2c0c43 -->
+CoreWeave was listed among the anchor customers Fraser urged the portfolio founder to pursue with a zero-upfront POC structure, as part of a broader argument that signing and delivering for a small number of high-profile infrastructure players would unlock the credibility and learning needed to build the business.
+↳ source: [[2026-06-23-internal-strategy-discussion-sf-office-proposal-fund-sizing-and-startup-customer-acquisition]]
 
 ### 2026-06-12 — Cited as benchmark PR partnership
 <!-- source_hash: 69e260090249d0217874fa1f7156fb8147dab604d3c6f1a83612b4aef5913110 -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-17'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 11
+mention_count: 12
 name: AI One
 sector: ''
 stage: ''
@@ -32,6 +32,12 @@ website: ''
 
 
 
+
+
+### 2026-06-25 — Signing Apollo; complementary but limited
+<!-- source_hash: 67f6f4d4c8c3f29d8f28d0a87e84777326fcb5a1fdbfa6003d897cdaed033678 -->
+AI One was described as signing [[Apollo]] as a client through relationship channels shared with [[Aiden]]'s network, including a joint venture with [[Adapar]] aimed at rolling the product out to Morgan Stanley. Aiden noted that Hooper's value proposition is more immediate and personal to PE partners than AI One's offering, which requires pushing adoption down to portfolio companies.
+↳ source: [[2026-06-25-post-conference-debrief-and-hooper-product-strategy-session-aiden-nancy-andrew]]
 
 ### 2026-06-17 — Enterprise traction, slow upsell cycle
 <!-- source_hash: d5117ad016b7c9a60e9cd07027477f2eb72d8b0894c5d383b6ad1d758cf1d91b -->

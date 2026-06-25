@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-05-15'
+last_mention: '2026-06-25'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Andrew
 relationship: ''
 relationship_strength: cold
@@ -25,6 +25,12 @@ type: person
 ## Mentions
 
 
+
+
+### 2026-06-25 — Hooper multi-space usage model
+<!-- source_hash: 67f6f4d4c8c3f29d8f28d0a87e84777326fcb5a1fdbfa6003d897cdaed033678 -->
+Andrew described his own Hooper setup as a reference model for complex users, running separate spaces for Blockchain, Hooper, and Anoctra with different sharing permissions for each. He confirmed he had not yet connected his personal Gmail pending a security review by a trusted crypto engineer, but indicated he was close to doing so.
+↳ source: [[2026-06-25-post-conference-debrief-and-hooper-product-strategy-session-aiden-nancy-andrew]]
 
 ### 2026-05-15 — Security architecture lead
 <!-- source_hash: 21cd9c8663badad81b7ba2cd10dee211978e3921f06a2edba0deb88b3452fb83 -->

@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-07'
 founded: ''
 founders: []
-last_mention: '2026-05-28'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 3
+mention_count: 4
 name: Cooley
 sector: ''
 stage: ''
@@ -24,6 +24,12 @@ website: ''
 ## Mentions
 
 
+
+
+### 2026-06-25 — Hot stocks docs in progress
+<!-- source_hash: 28cc43c307909a9fe0ca121d36b45ca7eecd36d52022960aa4a036e2a0b4acd3 -->
+Fraser flagged that Cooley had already begun preparing 'hot stocks' legal documents, which still required review by the board and counsel before they could be finalized.
+↳ source: [[2026-06-25-multi-party-business-and-strategy-catch-up-josh-aiden-kelly-damien-nick-shalhoub]]
 
 ### 2026-05-28 — Relied on for investor cap table data
 <!-- source_hash: c971127716305c26fb067c3c5ab64fc1db4b3840b7f1d0852ad6e4095ea29a0e -->

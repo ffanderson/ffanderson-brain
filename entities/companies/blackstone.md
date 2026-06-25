@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-05-15'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Blackstone
 sector: ''
 stage: ''
@@ -27,6 +27,12 @@ website: ''
 
 
 
+
+
+### 2026-06-25 — Culture and AI tool adoption challenges
+<!-- source_hash: 28cc43c307909a9fe0ca121d36b45ca7eecd36d52022960aa4a036e2a0b4acd3 -->
+Damien described Blackstone's culture as highly white-glove, similar to big New York law firms, where everything is oriented around catering to partners. He noted this creates a difficult environment for security teams, as hyper-aggressive staff demand access to cutting-edge AI tools while the security function is habitually the 'no guys' absorbing the risk if something goes wrong.
+↳ source: [[2026-06-25-multi-party-business-and-strategy-catch-up-josh-aiden-kelly-damien-nick-shalhoub]]
 
 ### 2026-05-15 — Niels's PE background
 <!-- source_hash: 0fd280b8c7b191a504f46a68624e20e853396d0909d7f618c8c6dba303bcdb0a -->

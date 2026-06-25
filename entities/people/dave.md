@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-04'
+last_mention: '2026-06-25'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 7
+mention_count: 9
 name: Dave
 relationship: ''
 relationship_strength: cold
@@ -29,6 +29,18 @@ type: person
 
 
 
+
+
+
+### 2026-06-23 — Fund strategy appetite
+<!-- source_hash: d65ef28150982fe3fbfdba5924d2dfc9dd306643f42b516a3f257b4b8c2c0c43 -->
+Based on one partner's read, Dave does not appear to be measuring himself on fund size alone and is not pushing toward dramatically larger check sizes. His likely direction is to keep the early-stage thesis intact, potentially adding a robotics focus and a separate opportunity fund for follow-on investments, while scaling the team rather than the average check.
+↳ source: [[2026-06-23-internal-strategy-discussion-sf-office-proposal-fund-sizing-and-startup-customer-acquisition]]
+
+### 2026-06-25 — Conflict avoidance, Nick exit mishandled
+<!-- source_hash: 847323e348df65f6611d6303fdd7acd130aeb189301b353e83ec6d920c87bcc3 -->
+Fraser noted that Dave disliked conflict and avoided firing people, which led to Nick remaining on payroll for four months doing minimal remote work after his role had effectively ended. No formal performance improvement process was conducted, and no severance was offered, creating what Fraser acknowledged was likely a wrongful termination exposure.
+↳ source: [[2026-06-25-advice-call-nick-s-exit-dispute-and-bill-s-retention-risk]]
 
 ### 2026-06-04 — Tech Trek kickoff attendance and NDA
 <!-- source_hash: 4acf8238a8fd0e3229c53c5178891eeb7be504c5dae224e90c837551279d4e0a -->

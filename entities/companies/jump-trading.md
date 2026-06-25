@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-09'
 founded: ''
 founders: []
-last_mention: '2026-06-04'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Jump Trading
 sector: ''
 stage: ''
@@ -23,6 +23,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-25 — Named as target customer
+<!-- source_hash: c46371fce53158eed59ac067649d0c92752321561b5093cd984518c5cef59c13 -->
+Jump Trading was named alongside [[Two Sigma]] as a quant-market target where Standard Kernel could plausibly deliver value and begin generating revenue sooner than the longer enterprise cycles expected with Nvidia, AMD, or Intel. Fraser also noted that doing strong work for Jump would generate word-of-mouth credibility useful in conversations with Nvidia.
+↳ source: [[2026-06-25-strategy-session-chris-anne-standard-kernel-go-to-market-and-nvidia-dinner-prep]]
 
 ### 2026-06-04 — Quant client: speed as alpha
 <!-- source_hash: 99bbf78897b7905d4ff1e921d76edcaab0274d01255a5f5c60554b97668b80fa -->

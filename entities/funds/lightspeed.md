@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-06-05'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Lightspeed
 relationship: ''
 status: active
@@ -23,6 +23,12 @@ website: ''
 
 
 
+
+
+### 2026-06-25 — Increasing campus-level deal activity
+<!-- source_hash: b1388045b46b71b8eaab00e7af72e504131faafa2d7f7ab6b3a3b4896664be7c -->
+Lightspeed was mentioned alongside [[Sequoia]] as one of the major funds now paying close attention to university campuses, competing for very early-stage deals as founders skew younger. Fraser cited this as both a validation of his strategy and an indication that staying in Boston without an SF presence puts his fund at a structural disadvantage.
+↳ source: [[2026-06-25-coffee-meeting-svb-veteran-jp-morgan-tech-banking-early-stage-vc-strategy]]
 
 ### 2026-06-05 — Intro offered via Jonah, robotics focus
 <!-- source_hash: 503fd7153b1e21e89bb7c333bfcc354e9795cacff5368a1eb1611b2b4f061d0e -->

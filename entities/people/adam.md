@@ -6,11 +6,11 @@ crm_id: ''
 crm_system: ''
 email: ''
 first_seen: '2026-05-05'
-last_mention: '2026-06-17'
+last_mention: '2026-06-19'
 last_touch: ''
 linkedin: ''
 location: ''
-mention_count: 6
+mention_count: 7
 name: Adam
 relationship: ''
 relationship_strength: cold
@@ -28,6 +28,12 @@ type: person
 
 
 
+
+
+### 2026-06-19 — Graph RAG and memory architecture
+<!-- source_hash: 9996660222d1d46e28d1950b99d3918f45bc0e3a4fb69681ce944918fa8e92f9 -->
+Adam noted he had substantial experience with what the team was calling a 'company brain' and described plans to use a graph RAG architecture for efficient memory retrieval within the shared-context database. He also highlighted that terminals were actively communicating with each other across computers in real time, which he considered a core differentiator.
+↳ source: [[2026-06-19-techstars-founder-pitches-collaborative-ai-toolkit-enterprise-model-security]]
 
 ### 2026-06-17 — Platform overview and pivot
 <!-- source_hash: 7c761cb1283fc3e850de7398e63f879d49f88167e3e8c729e4e10e3438f74085 -->

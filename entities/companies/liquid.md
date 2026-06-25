@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-05-05'
 founded: ''
 founders: []
-last_mention: '2026-06-11'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 5
 name: Liquid
 sector: ''
 stage: ''
@@ -25,6 +25,12 @@ website: ''
 
 
 
+
+
+### 2026-06-25 — Immigrant-founder thesis, likely success
+<!-- source_hash: b1388045b46b71b8eaab00e7af72e504131faafa2d7f7ab6b3a3b4896664be7c -->
+Liquid was cited by Fraser as an example of the immigrant-researcher-founder dynamic: co-founders Ramin and Alexander used their PhDs as a path to emigrate from Iran, and the commercial drive that came with that necessity appears to be working, with Fraser describing Liquid as looking likely to succeed.
+↳ source: [[2026-06-25-coffee-meeting-svb-veteran-jp-morgan-tech-banking-early-stage-vc-strategy]]
 
 ### 2026-06-11 — Cautionary example: AI lab as customer
 <!-- source_hash: 349c05d7067934f45336c94f3e7109b908852f9cf12b4a1e93917af01dd668c0 -->

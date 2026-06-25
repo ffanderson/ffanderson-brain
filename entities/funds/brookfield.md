@@ -5,10 +5,10 @@ crm_id: ''
 crm_system: ''
 first_seen: '2026-05-05'
 fund_type: ''
-last_mention: '2026-04-03'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 2
+mention_count: 3
 name: Brookfield
 relationship: ''
 status: active
@@ -21,6 +21,12 @@ website: ''
 
 ## Mentions
 
+
+
+### 2026-06-25 — Pine Grove JV co-investor
+<!-- source_hash: b1388045b46b71b8eaab00e7af72e504131faafa2d7f7ab6b3a3b4896664be7c -->
+Brookfield participated as a co-investor alongside Heritage in the joint venture that formed [[Pine Grove]], which acquired the residual assets of [[SVB Capital]] after the 2023 bank failure. The deal was brokered partly through a relationship with a figure referred to as Leoni, who had strong existing ties to [[Sequoia]].
+↳ source: [[2026-06-25-coffee-meeting-svb-veteran-jp-morgan-tech-banking-early-stage-vc-strategy]]
 
 ### 2026-04-03 — Strong interest in Beacon
 <!-- source_hash: c6ca64c034e866e09b02ad82500a859075f9602885251ee5ddec0bbd9ca73fc0 -->

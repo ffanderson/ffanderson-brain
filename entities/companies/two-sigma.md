@@ -6,10 +6,10 @@ crm_system: ''
 first_seen: '2026-06-01'
 founded: ''
 founders: []
-last_mention: '2026-06-17'
+last_mention: '2026-06-25'
 last_touch: ''
 location: ''
-mention_count: 4
+mention_count: 6
 name: Two Sigma
 sector: ''
 stage: ''
@@ -25,6 +25,18 @@ website: ''
 
 
 
+
+
+
+### 2026-06-25 — Named as target customer
+<!-- source_hash: c46371fce53158eed59ac067649d0c92752321561b5093cd984518c5cef59c13 -->
+Two Sigma was cited as a priority target in both Fraser's illustrative customer list and Chris's discussion of which accounts might generate revenue sooner than eighteen months. Chris suggested Two Sigma was a case where Standard Kernel should be adding value — and ideally generating cash flow — faster than the timeline applicable to hyperscalers or chip manufacturers.
+↳ source: [[2026-06-25-strategy-session-chris-anne-standard-kernel-go-to-market-and-nvidia-dinner-prep]]
+
+### 2026-06-23 — Target anchor customer, free POC
+<!-- source_hash: d65ef28150982fe3fbfdba5924d2dfc9dd306643f42b516a3f257b4b8c2c0c43 -->
+Two Sigma was included in Fraser's list of ideal anchor customers for the portfolio company, representing the capital-markets-oriented segment of the target customer set alongside [[Jump]] and [[Point72]].
+↳ source: [[2026-06-23-internal-strategy-discussion-sf-office-proposal-fund-sizing-and-startup-customer-acquisition]]
 
 ### 2026-06-17 — David Siegel investing in fellowship
 <!-- source_hash: d5117ad016b7c9a60e9cd07027477f2eb72d8b0894c5d383b6ad1d758cf1d91b -->
