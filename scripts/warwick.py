@@ -8,7 +8,7 @@ distribution, and Warwick's own recent reflections, and writes a reflection to
 `thesis/reflections/<YYYY-Www>.md`.
 
 Design notes (2026-06-25 rebuild):
-- The owner (Fraser Anderson) is the AUTHOR of the corpus and appears in nearly
+- The owner (Frazer Anderson) is the AUTHOR of the corpus and appears in nearly
   every mention. He is excluded from all entity counts, stale lists, and the
   analytical prompt — he is the reader, not the data.
 - "Meetings" counts both `meetings/` (promoted) and `inbox/` (untriaged but
@@ -56,8 +56,12 @@ STRENGTHS_TO_TRACK = {"warm", "strong", "core"}
 # The repository's owner/author. He is in the room for almost every recorded
 # conversation, so counting him as a tracked entity drowns out real signal and
 # produces nonsensical "analyze your relationship with yourself" output.
-OWNER_NAME = "Fraser Anderson"
-OWNER_ALIASES = {"fraser anderson", "fraser", "fraser a", "ff anderson"}
+# Correct spelling is "Frazer" (with a z); the corpus historically used
+# "Fraser", so both are excluded to keep owner-filtering robust across the
+# pre-2026-06-25 backlog and all future writes.
+OWNER_NAME = "Frazer Anderson"
+OWNER_ALIASES = {"frazer anderson", "frazer", "frazer a",
+                 "fraser anderson", "fraser", "fraser a", "ff anderson"}
 
 ACTIVE_STATUSES = {"evaluating", "invested"}
 PIPELINE_ORDER = ["tracking", "evaluating", "invested", "passed", "exited"]

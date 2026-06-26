@@ -1,5 +1,8 @@
 ---
-aliases: []
+aliases:
+- Fraser Anderson
+- Fraser
+- Frazer
 company: ''
 created: '2026-05-05'
 crm_id: ''
@@ -11,16 +14,22 @@ last_touch: ''
 linkedin: ''
 location: ''
 mention_count: 176
-name: Fraser Anderson
+name: Frazer Anderson
 relationship: personal
 relationship_strength: core
-role: ''
+role: Managing Director, Link Ventures; Partner, Vestigo Ventures; angel investor
 status: active
 tags: []
 type: person
 ---
 
-# Fraser Anderson
+# Frazer Anderson
+
+> [!note] Owner of this repository. Managing Director at [[Link Ventures]],
+> Partner at [[Vestigo Ventures]], and an active angel investor. Intends to
+> launch his own fund, **Lachine Capital**. The repo spelled his name "Fraser"
+> until 2026-06-25; historical mentions and `[[Fraser Anderson]]` links resolve
+> via the `aliases` field.
 
 ## Mentions
 
